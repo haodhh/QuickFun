@@ -25,7 +25,8 @@
 
   --radius:      16px;
   --radius-sm:   10px;
-  --maxw:        720px;
+  --maxw:        1040px;   /* wide shell; focused views constrain themselves via .narrow */
+  --readw:       760px;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
           Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
 }
@@ -107,6 +108,14 @@ h1,h2,h3 { line-height: 1.25; margin: 0; }
 }
 .site-footer em { color: var(--text-soft); }
 
+/* Focused/reading views keep a comfortable centered column on wide screens */
+.narrow { max-width: var(--readw); margin-inline: auto; }
+.narrow-sm { max-width: 560px; margin-inline: auto; }
+.fc-wrap { max-width: 560px; margin-inline: auto; }
+.quiz-wrap, .quiz-result { max-width: 640px; margin-inline: auto; }
+.test-config { max-width: 520px; margin-inline: auto; }
+.breakdown { max-width: 640px; margin-inline: auto; }
+
 /* ---------- Loading ---------- */
 .loading { display: grid; place-items: center; gap: 14px; padding: 60px 0; color: var(--text-soft); }
 .spinner {
@@ -149,6 +158,8 @@ h1,h2,h3 { line-height: 1.25; margin: 0; }
 /* ---------- Unit grid ---------- */
 .unit-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
 @media (min-width: 560px) { .unit-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 820px) { .unit-grid { grid-template-columns: repeat(4, 1fr); } }
+@media (min-width: 1040px) { .unit-grid { grid-template-columns: repeat(5, 1fr); } }
 
 .unit-card {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);

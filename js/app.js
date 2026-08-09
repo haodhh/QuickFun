@@ -340,7 +340,7 @@
     tab = tab || "learn";
     recordVisit(u.id, tab);
 
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Tất cả chủ đề</button>'));
     wrap.appendChild(el(
       '<div class="unit-hero"><div class="big-emoji">' + (u.emoji || "📘") + '</div>' +
@@ -706,7 +706,7 @@
   function viewReview() {
     var q = reviewQueue();
     var queue = shuffle(q.due).concat(q.fresh); // due first-ish, then new
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow-sm"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
     render(wrap);
     wrap.querySelector("[data-home]").addEventListener("click", function () { location.hash = "#/"; });
@@ -804,7 +804,7 @@
    * COMPREHENSIVE TEST
    * ================================================================== */
   function viewTest() {
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
     wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">🎯</div><div><h1>Kiểm tra tổng hợp</h1><div class="sub">Đánh giá kiến thức trên cả ' + DATA.length + ' chủ đề</div></div></div>'));
     var cfg = el(
@@ -839,7 +839,7 @@
     });
 
     var idx = 0, score = 0, answered = false;
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Thoát</button>'));
     var pane = el('<div></div>'); wrap.appendChild(pane);
     wrap.querySelector("[data-home]").addEventListener("click", function () { if (confirm("Thoát bài kiểm tra? Kết quả chưa lưu.")) location.hash = "#/"; });
@@ -915,7 +915,7 @@
    * SEARCH
    * ================================================================== */
   function viewSearch() {
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
     wrap.appendChild(el('<h1 style="font-size:20px;margin-bottom:12px">Tìm kiếm từ vựng</h1>'));
     wrap.appendChild(el('<div class="list-tools"><label class="search-input">🔎<input type="search" id="global-search" placeholder="Nhập từ tiếng Anh hoặc nghĩa tiếng Việt…" /></label></div>'));
@@ -952,7 +952,7 @@
       '<span class="oc-main"><b>' + title + '</b><small>' + desc + '</small></span></button>');
   }
   function viewSettings() {
-    var wrap = el('<div class="fade-in"></div>');
+    var wrap = el('<div class="fade-in narrow-sm"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
     wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">⚙️</div><div><h1>Cài đặt</h1><div class="sub">Chọn chất giọng phát âm</div></div></div>'));
 
