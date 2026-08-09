@@ -1,0 +1,299 @@
+{
+  "id": 104,
+  "slug": "abc-time",
+  "title_en": "Days, Months & Time",
+  "title_vi": "Thứ, tháng & thời gian",
+  "emoji": "🕐",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "Monday",
+      "ipa": "/ˈmʌndeɪ/",
+      "pos": "n",
+      "vi": "thứ Hai",
+      "example_en": "I go to school on Monday.",
+      "example_vi": "Tôi đi học vào thứ Hai.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Tuesday",
+      "ipa": "/ˈtjuːzdeɪ/",
+      "pos": "n",
+      "vi": "thứ Ba",
+      "example_en": "We have a test on Tuesday.",
+      "example_vi": "Chúng tôi có bài kiểm tra vào thứ Ba.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Wednesday",
+      "ipa": "/ˈwenzdeɪ/",
+      "pos": "n",
+      "vi": "thứ Tư",
+      "example_en": "My mum is busy on Wednesday.",
+      "example_vi": "Mẹ tôi bận vào thứ Tư.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Thursday",
+      "ipa": "/ˈθɜːzdeɪ/",
+      "pos": "n",
+      "vi": "thứ Năm",
+      "example_en": "I play football on Thursday.",
+      "example_vi": "Tôi chơi bóng đá vào thứ Năm.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Friday",
+      "ipa": "/ˈfraɪdeɪ/",
+      "pos": "n",
+      "vi": "thứ Sáu",
+      "example_en": "We eat pizza on Friday.",
+      "example_vi": "Chúng tôi ăn pizza vào thứ Sáu.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Saturday",
+      "ipa": "/ˈsætədeɪ/",
+      "pos": "n",
+      "vi": "thứ Bảy",
+      "example_en": "I sleep late on Saturday.",
+      "example_vi": "Tôi ngủ dậy muộn vào thứ Bảy.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Sunday",
+      "ipa": "/ˈsʌndeɪ/",
+      "pos": "n",
+      "vi": "Chủ nhật",
+      "example_en": "We stay home on Sunday.",
+      "example_vi": "Chúng tôi ở nhà vào Chủ nhật.",
+      "emoji": "📅"
+    },
+    {
+      "word": "January",
+      "ipa": "/ˈdʒænjuəri/",
+      "pos": "n",
+      "vi": "tháng Một",
+      "example_en": "It is cold in January.",
+      "example_vi": "Trời lạnh vào tháng Một.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "February",
+      "ipa": "/ˈfebruəri/",
+      "pos": "n",
+      "vi": "tháng Hai",
+      "example_en": "My birthday is in February.",
+      "example_vi": "Sinh nhật tôi vào tháng Hai.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "March",
+      "ipa": "/mɑːtʃ/",
+      "pos": "n",
+      "vi": "tháng Ba",
+      "example_en": "Flowers grow in March.",
+      "example_vi": "Hoa nở vào tháng Ba.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "April",
+      "ipa": "/ˈeɪprəl/",
+      "pos": "n",
+      "vi": "tháng Tư",
+      "example_en": "It rains a lot in April.",
+      "example_vi": "Trời mưa nhiều vào tháng Tư.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "May",
+      "ipa": "/meɪ/",
+      "pos": "n",
+      "vi": "tháng Năm",
+      "example_en": "The weather is nice in May.",
+      "example_vi": "Thời tiết đẹp vào tháng Năm.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "June",
+      "ipa": "/dʒuːn/",
+      "pos": "n",
+      "vi": "tháng Sáu",
+      "example_en": "School ends in June.",
+      "example_vi": "Trường học kết thúc vào tháng Sáu.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "July",
+      "ipa": "/dʒuˈlaɪ/",
+      "pos": "n",
+      "vi": "tháng Bảy",
+      "example_en": "It is hot in July.",
+      "example_vi": "Trời nóng vào tháng Bảy.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "August",
+      "ipa": "/ˈɔːɡəst/",
+      "pos": "n",
+      "vi": "tháng Tám",
+      "example_en": "We go to the beach in August.",
+      "example_vi": "Chúng tôi đi biển vào tháng Tám.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "September",
+      "ipa": "/sepˈtembə/",
+      "pos": "n",
+      "vi": "tháng Chín",
+      "example_en": "School starts in September.",
+      "example_vi": "Trường học bắt đầu vào tháng Chín.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "October",
+      "ipa": "/ɒkˈtəʊbə/",
+      "pos": "n",
+      "vi": "tháng Mười",
+      "example_en": "The leaves fall in October.",
+      "example_vi": "Lá rụng vào tháng Mười.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "November",
+      "ipa": "/nəʊˈvembə/",
+      "pos": "n",
+      "vi": "tháng Mười Một",
+      "example_en": "It is windy in November.",
+      "example_vi": "Trời có gió vào tháng Mười Một.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "December",
+      "ipa": "/dɪˈsembə/",
+      "pos": "n",
+      "vi": "tháng Mười Hai",
+      "example_en": "We have a party in December.",
+      "example_vi": "Chúng tôi có tiệc vào tháng Mười Hai.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "morning",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "pos": "n",
+      "vi": "buổi sáng",
+      "example_en": "I drink milk in the morning.",
+      "example_vi": "Tôi uống sữa vào buổi sáng.",
+      "emoji": "🌅"
+    },
+    {
+      "word": "afternoon",
+      "ipa": "/ˌɑːftəˈnuːn/",
+      "pos": "n",
+      "vi": "buổi chiều",
+      "example_en": "We play in the afternoon.",
+      "example_vi": "Chúng tôi chơi vào buổi chiều.",
+      "emoji": "🌇"
+    },
+    {
+      "word": "evening",
+      "ipa": "/ˈiːvnɪŋ/",
+      "pos": "n",
+      "vi": "buổi tối",
+      "example_en": "I read a book in the evening.",
+      "example_vi": "Tôi đọc sách vào buổi tối.",
+      "emoji": "🌆"
+    },
+    {
+      "word": "night",
+      "ipa": "/naɪt/",
+      "pos": "n",
+      "vi": "ban đêm",
+      "example_en": "I sleep at night.",
+      "example_vi": "Tôi ngủ vào ban đêm.",
+      "emoji": "🌙"
+    },
+    {
+      "word": "day",
+      "ipa": "/deɪ/",
+      "pos": "n",
+      "vi": "ngày",
+      "example_en": "Today is a good day.",
+      "example_vi": "Hôm nay là một ngày đẹp.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "week",
+      "ipa": "/wiːk/",
+      "pos": "n",
+      "vi": "tuần",
+      "example_en": "There are seven days in a week.",
+      "example_vi": "Một tuần có bảy ngày.",
+      "emoji": "📆"
+    },
+    {
+      "word": "month",
+      "ipa": "/mʌnθ/",
+      "pos": "n",
+      "vi": "tháng",
+      "example_en": "A year has twelve months.",
+      "example_vi": "Một năm có mười hai tháng.",
+      "emoji": "🗓️"
+    },
+    {
+      "word": "year",
+      "ipa": "/jɪə/",
+      "pos": "n",
+      "vi": "năm",
+      "example_en": "I am seven years old.",
+      "example_vi": "Tôi bảy tuổi.",
+      "emoji": "📅"
+    },
+    {
+      "word": "today",
+      "ipa": "/təˈdeɪ/",
+      "pos": "n",
+      "vi": "hôm nay",
+      "example_en": "Today is Monday.",
+      "example_vi": "Hôm nay là thứ Hai.",
+      "emoji": "📍"
+    },
+    {
+      "word": "tomorrow",
+      "ipa": "/təˈmɒrəʊ/",
+      "pos": "n",
+      "vi": "ngày mai",
+      "example_en": "I will see you tomorrow.",
+      "example_vi": "Tôi sẽ gặp bạn vào ngày mai.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "yesterday",
+      "ipa": "/ˈjestədeɪ/",
+      "pos": "n",
+      "vi": "hôm qua",
+      "example_en": "It rained yesterday.",
+      "example_vi": "Trời mưa hôm qua.",
+      "emoji": "⬅️"
+    },
+    {
+      "word": "hour",
+      "ipa": "/ˈaʊə/",
+      "pos": "n",
+      "vi": "giờ (60 phút)",
+      "example_en": "I wait for one hour.",
+      "example_vi": "Tôi đợi một tiếng.",
+      "emoji": "⏰"
+    },
+    {
+      "word": "minute",
+      "ipa": "/ˈmɪnɪt/",
+      "pos": "n",
+      "vi": "phút",
+      "example_en": "Please wait one minute.",
+      "example_vi": "Xin đợi một phút.",
+      "emoji": "⏱️"
+    }
+  ]
+}

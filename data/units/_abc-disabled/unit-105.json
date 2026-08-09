@@ -1,0 +1,209 @@
+{
+  "id": 105,
+  "slug": "abc-colors-shapes",
+  "title_en": "Colours & Shapes",
+  "title_vi": "Màu sắc & hình dạng",
+  "emoji": "🎨",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "red",
+      "ipa": "/red/",
+      "pos": "adj",
+      "vi": "màu đỏ",
+      "example_en": "My bag is red.",
+      "example_vi": "Cái túi của tôi màu đỏ.",
+      "emoji": "🔴"
+    },
+    {
+      "word": "orange",
+      "ipa": "/ˈɒrɪndʒ/",
+      "pos": "adj",
+      "vi": "màu cam",
+      "example_en": "The ball is orange.",
+      "example_vi": "Quả bóng màu cam.",
+      "emoji": "🟠"
+    },
+    {
+      "word": "yellow",
+      "ipa": "/ˈjeləʊ/",
+      "pos": "adj",
+      "vi": "màu vàng",
+      "example_en": "The sun is yellow.",
+      "example_vi": "Mặt trời màu vàng.",
+      "emoji": "🟡"
+    },
+    {
+      "word": "green",
+      "ipa": "/ɡriːn/",
+      "pos": "adj",
+      "vi": "màu xanh lá",
+      "example_en": "The tree is green.",
+      "example_vi": "Cái cây màu xanh lá.",
+      "emoji": "🟢"
+    },
+    {
+      "word": "blue",
+      "ipa": "/bluː/",
+      "pos": "adj",
+      "vi": "màu xanh dương",
+      "example_en": "The sky is blue.",
+      "example_vi": "Bầu trời màu xanh dương.",
+      "emoji": "🔵"
+    },
+    {
+      "word": "purple",
+      "ipa": "/ˈpɜːpl/",
+      "pos": "adj",
+      "vi": "màu tím",
+      "example_en": "I like purple flowers.",
+      "example_vi": "Tôi thích hoa màu tím.",
+      "emoji": "🟣"
+    },
+    {
+      "word": "pink",
+      "ipa": "/pɪŋk/",
+      "pos": "adj",
+      "vi": "màu hồng",
+      "example_en": "Her dress is pink.",
+      "example_vi": "Váy của cô ấy màu hồng.",
+      "emoji": "🩷"
+    },
+    {
+      "word": "brown",
+      "ipa": "/braʊn/",
+      "pos": "adj",
+      "vi": "màu nâu",
+      "example_en": "The dog is brown.",
+      "example_vi": "Con chó màu nâu.",
+      "emoji": "🟤"
+    },
+    {
+      "word": "black",
+      "ipa": "/blæk/",
+      "pos": "adj",
+      "vi": "màu đen",
+      "example_en": "My cat is black.",
+      "example_vi": "Con mèo của tôi màu đen.",
+      "emoji": "⚫"
+    },
+    {
+      "word": "white",
+      "ipa": "/waɪt/",
+      "pos": "adj",
+      "vi": "màu trắng",
+      "example_en": "The milk is white.",
+      "example_vi": "Sữa màu trắng.",
+      "emoji": "⚪"
+    },
+    {
+      "word": "grey",
+      "ipa": "/ɡreɪ/",
+      "pos": "adj",
+      "vi": "màu xám",
+      "example_en": "The cloud is grey.",
+      "example_vi": "Đám mây màu xám.",
+      "emoji": "🩶"
+    },
+    {
+      "word": "colour",
+      "ipa": "/ˈkʌlə/",
+      "pos": "n",
+      "vi": "màu sắc",
+      "example_en": "What colour is it?",
+      "example_vi": "Nó màu gì?",
+      "emoji": "🎨"
+    },
+    {
+      "word": "circle",
+      "ipa": "/ˈsɜːkl/",
+      "pos": "n",
+      "vi": "hình tròn",
+      "example_en": "I draw a circle.",
+      "example_vi": "Tôi vẽ một hình tròn.",
+      "emoji": "⭕"
+    },
+    {
+      "word": "square",
+      "ipa": "/skweə/",
+      "pos": "n",
+      "vi": "hình vuông",
+      "example_en": "This is a square.",
+      "example_vi": "Đây là một hình vuông.",
+      "emoji": "⬜"
+    },
+    {
+      "word": "triangle",
+      "ipa": "/ˈtraɪæŋɡl/",
+      "pos": "n",
+      "vi": "hình tam giác",
+      "example_en": "This is a triangle.",
+      "example_vi": "Đây là một hình tam giác.",
+      "emoji": "🔺"
+    },
+    {
+      "word": "rectangle",
+      "ipa": "/ˈrektæŋɡl/",
+      "pos": "n",
+      "vi": "hình chữ nhật",
+      "example_en": "The door is a rectangle.",
+      "example_vi": "Cái cửa là hình chữ nhật.",
+      "emoji": "🟩"
+    },
+    {
+      "word": "star",
+      "ipa": "/stɑː/",
+      "pos": "n",
+      "vi": "hình ngôi sao",
+      "example_en": "I draw a star.",
+      "example_vi": "Tôi vẽ một ngôi sao.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "heart",
+      "ipa": "/hɑːt/",
+      "pos": "n",
+      "vi": "hình trái tim",
+      "example_en": "I draw a heart.",
+      "example_vi": "Tôi vẽ một trái tim.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "round",
+      "ipa": "/raʊnd/",
+      "pos": "adj",
+      "vi": "tròn",
+      "example_en": "The ball is round.",
+      "example_vi": "Quả bóng thì tròn.",
+      "emoji": "🔵"
+    },
+    {
+      "word": "line",
+      "ipa": "/laɪn/",
+      "pos": "n",
+      "vi": "đường thẳng, dòng",
+      "example_en": "I draw a line.",
+      "example_vi": "Tôi vẽ một đường thẳng.",
+      "emoji": "➖"
+    },
+    {
+      "word": "dot",
+      "ipa": "/dɒt/",
+      "pos": "n",
+      "vi": "dấu chấm",
+      "example_en": "There is a red dot.",
+      "example_vi": "Có một dấu chấm đỏ.",
+      "emoji": "⚫"
+    },
+    {
+      "word": "shape",
+      "ipa": "/ʃeɪp/",
+      "pos": "n",
+      "vi": "hình dạng",
+      "example_en": "What shape is it?",
+      "example_vi": "Nó có hình dạng gì?",
+      "emoji": "🔷"
+    }
+  ]
+}

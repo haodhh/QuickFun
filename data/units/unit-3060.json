@@ -1,0 +1,195 @@
+{
+  "id": 3060,
+  "slug": "awl-10",
+  "title_en": "Abstract Language",
+  "title_vi": "Ngôn ngữ trừu tượng",
+  "emoji": "🌀",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "abstract",
+      "ipa": "/ˈæbstrækt/",
+      "pos": "adj",
+      "vi": "trừu tượng",
+      "example_en": "Philosophy often deals with abstract concepts that are difficult to define precisely.",
+      "example_vi": "Triết học thường bàn về những khái niệm trừu tượng khó có thể định nghĩa một cách chính xác.",
+      "emoji": "💭"
+    },
+    {
+      "word": "aspect",
+      "ipa": "/ˈæspekt/",
+      "pos": "n",
+      "vi": "khía cạnh",
+      "example_en": "This aspect of the theory has received little attention from previous researchers.",
+      "example_vi": "Khía cạnh này của lý thuyết ít được các nhà nghiên cứu trước đây chú ý đến.",
+      "emoji": "🔷"
+    },
+    {
+      "word": "context",
+      "ipa": "/ˈkɒntekst/",
+      "pos": "n",
+      "vi": "bối cảnh, ngữ cảnh",
+      "example_en": "The meaning of a word often depends heavily on the context in which it appears.",
+      "example_vi": "Nghĩa của một từ thường phụ thuộc rất nhiều vào ngữ cảnh mà nó xuất hiện.",
+      "emoji": "🖼️"
+    },
+    {
+      "word": "phenomenon",
+      "ipa": "/fəˈnɒmɪnən/",
+      "pos": "n",
+      "vi": "hiện tượng",
+      "example_en": "Globalisation is a complex phenomenon that affects economies across the world.",
+      "example_vi": "Toàn cầu hóa là một hiện tượng phức tạp tác động đến các nền kinh tế trên khắp thế giới.",
+      "emoji": "🌈"
+    },
+    {
+      "word": "entity",
+      "ipa": "/ˈentɪti/",
+      "pos": "n",
+      "vi": "thực thể",
+      "example_en": "In law, a company is treated as a separate entity from its owners.",
+      "example_vi": "Về mặt pháp lý, một công ty được coi là một thực thể tách biệt với các chủ sở hữu của nó.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "essence",
+      "ipa": "/ˈesns/",
+      "pos": "n",
+      "vi": "bản chất, cốt lõi",
+      "example_en": "The essence of the argument lies in its assumptions about human behaviour.",
+      "example_vi": "Cốt lõi của lập luận nằm ở những giả định của nó về hành vi con người.",
+      "emoji": "⚗️"
+    },
+    {
+      "word": "tendency",
+      "ipa": "/ˈtendənsi/",
+      "pos": "n",
+      "vi": "xu hướng, khuynh hướng",
+      "example_en": "The data reveal a growing tendency to rely on digital sources for research.",
+      "example_vi": "Dữ liệu cho thấy một xu hướng ngày càng tăng trong việc dựa vào các nguồn số để nghiên cứu.",
+      "emoji": "📈"
+    },
+    {
+      "word": "characteristic",
+      "ipa": "/ˌkærəktəˈrɪstɪk/",
+      "pos": "n",
+      "vi": "đặc điểm, đặc trưng",
+      "example_en": "Adaptability is a key characteristic of organisations that survive rapid change.",
+      "example_vi": "Khả năng thích ứng là một đặc điểm then chốt của những tổ chức tồn tại qua sự thay đổi nhanh chóng.",
+      "emoji": "🔖"
+    },
+    {
+      "word": "feature",
+      "ipa": "/ˈfiːtʃə/",
+      "pos": "n",
+      "vi": "đặc trưng, nét nổi bật",
+      "example_en": "A defining feature of the language is its unusually complex tense system.",
+      "example_vi": "Một đặc trưng nổi bật của ngôn ngữ này là hệ thống thì phức tạp một cách khác thường.",
+      "emoji": "✨"
+    },
+    {
+      "word": "element",
+      "ipa": "/ˈelɪmənt/",
+      "pos": "n",
+      "vi": "yếu tố",
+      "example_en": "Mutual trust is an essential element of any effective collaboration.",
+      "example_vi": "Sự tin tưởng lẫn nhau là một yếu tố thiết yếu của bất kỳ sự hợp tác hiệu quả nào.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "component",
+      "ipa": "/kəmˈpəʊnənt/",
+      "pos": "n",
+      "vi": "thành phần, cấu phần",
+      "example_en": "Each component of the system must function correctly for it to work as intended.",
+      "example_vi": "Mỗi thành phần của hệ thống phải hoạt động chính xác thì nó mới vận hành đúng như dự kiến.",
+      "emoji": "⚙️"
+    },
+    {
+      "word": "structure",
+      "ipa": "/ˈstrʌktʃə/",
+      "pos": "n",
+      "vi": "cấu trúc",
+      "example_en": "A well-written essay follows a clear structure from introduction to conclusion.",
+      "example_vi": "Một bài luận được viết tốt tuân theo một cấu trúc rõ ràng từ mở bài đến kết luận.",
+      "emoji": "🏗️"
+    },
+    {
+      "word": "function",
+      "ipa": "/ˈfʌŋkʃn/",
+      "pos": "n",
+      "vi": "chức năng",
+      "example_en": "The primary function of language is to enable communication between people.",
+      "example_vi": "Chức năng chính của ngôn ngữ là cho phép sự giao tiếp giữa con người với nhau.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "property",
+      "ipa": "/ˈprɒpəti/",
+      "pos": "n",
+      "vi": "thuộc tính, đặc tính",
+      "example_en": "Each metal has distinct physical properties, such as its conductivity and density.",
+      "example_vi": "Mỗi kim loại có những thuộc tính vật lý riêng biệt, chẳng hạn như tính dẫn điện và mật độ của nó.",
+      "emoji": "🧪"
+    },
+    {
+      "word": "trait",
+      "ipa": "/treɪt/",
+      "pos": "n",
+      "vi": "nét, đặc tính (cá nhân)",
+      "example_en": "Curiosity is a common trait among learners who make rapid progress.",
+      "example_vi": "Sự tò mò là một đặc tính phổ biến ở những người học tiến bộ nhanh chóng.",
+      "emoji": "🧬"
+    },
+    {
+      "word": "nature",
+      "ipa": "/ˈneɪtʃə/",
+      "pos": "n",
+      "vi": "bản chất",
+      "example_en": "The nature of the problem requires an interdisciplinary approach.",
+      "example_vi": "Bản chất của vấn đề này đòi hỏi một cách tiếp cận liên ngành.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "scope",
+      "ipa": "/skəʊp/",
+      "pos": "n",
+      "vi": "phạm vi",
+      "example_en": "A detailed economic analysis lies beyond the scope of this study.",
+      "example_vi": "Một phân tích kinh tế chi tiết nằm ngoài phạm vi của nghiên cứu này.",
+      "emoji": "🔭"
+    },
+    {
+      "word": "domain",
+      "ipa": "/dəˈmeɪn/",
+      "pos": "n",
+      "vi": "lĩnh vực, phạm vi",
+      "example_en": "This finding has important implications across several domains of knowledge.",
+      "example_vi": "Phát hiện này có những hàm ý quan trọng đối với nhiều lĩnh vực tri thức khác nhau.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "extent",
+      "ipa": "/ɪkˈstent/",
+      "pos": "n",
+      "vi": "mức độ",
+      "example_en": "The study examines the extent to which social media shapes public opinion.",
+      "example_vi": "Nghiên cứu này xem xét mức độ mà mạng xã hội định hình dư luận.",
+      "emoji": "📏"
+    },
+    {
+      "word": "criterion",
+      "ipa": "/kraɪˈtɪəriən/",
+      "pos": "n",
+      "vi": "tiêu chí",
+      "example_en": "Accuracy is the main criterion used to evaluate the results of the experiment.",
+      "example_vi": "Độ chính xác là tiêu chí chính được dùng để đánh giá kết quả của thí nghiệm.",
+      "emoji": "✅"
+    }
+  ]
+}

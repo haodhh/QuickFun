@@ -1,0 +1,195 @@
+{
+  "id": 3058,
+  "slug": "awl-8",
+  "title_en": "Economy, Society & Law",
+  "title_vi": "Kinh tế – xã hội – pháp lý",
+  "emoji": "🏛️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "economic",
+      "ipa": "/ˌiːkəˈnɒmɪk/",
+      "pos": "adj",
+      "vi": "thuộc kinh tế",
+      "example_en": "The government introduced new measures to stimulate economic growth after the recession.",
+      "example_vi": "Chính phủ đưa ra các biện pháp mới để thúc đẩy tăng trưởng kinh tế sau suy thoái.",
+      "emoji": "📈"
+    },
+    {
+      "word": "policy",
+      "ipa": "/ˈpɒləsi/",
+      "pos": "n",
+      "vi": "chính sách",
+      "example_en": "Monetary policy plays a crucial role in controlling inflation and unemployment.",
+      "example_vi": "Chính sách tiền tệ đóng vai trò quan trọng trong việc kiểm soát lạm phát và thất nghiệp.",
+      "emoji": "📜"
+    },
+    {
+      "word": "legislation",
+      "ipa": "/ˌledʒɪsˈleɪʃn/",
+      "pos": "n",
+      "vi": "pháp luật, đạo luật",
+      "example_en": "New legislation was passed to protect consumers from unfair business practices.",
+      "example_vi": "Đạo luật mới được thông qua nhằm bảo vệ người tiêu dùng khỏi các hành vi kinh doanh không công bằng.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "regulation",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "pos": "n",
+      "vi": "quy định, quy chế",
+      "example_en": "Environmental regulations require factories to reduce their carbon emissions significantly.",
+      "example_vi": "Các quy định về môi trường yêu cầu nhà máy phải cắt giảm đáng kể lượng khí thải carbon.",
+      "emoji": "📋"
+    },
+    {
+      "word": "legal",
+      "ipa": "/ˈliːɡl/",
+      "pos": "adj",
+      "vi": "thuộc pháp lý, hợp pháp",
+      "example_en": "Companies must ensure their contracts comply with the current legal framework.",
+      "example_vi": "Các công ty phải đảm bảo hợp đồng của họ tuân thủ khung pháp lý hiện hành.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "institution",
+      "ipa": "/ˌɪnstɪˈtjuːʃn/",
+      "pos": "n",
+      "vi": "thể chế, tổ chức",
+      "example_en": "Financial institutions such as banks are strictly supervised by the central authority.",
+      "example_vi": "Các tổ chức tài chính như ngân hàng được cơ quan trung ương giám sát chặt chẽ.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "authority",
+      "ipa": "/ɔːˈθɒrəti/",
+      "pos": "n",
+      "vi": "chính quyền, cơ quan có thẩm quyền",
+      "example_en": "Local authorities are responsible for enforcing housing and safety standards.",
+      "example_vi": "Các cơ quan chính quyền địa phương chịu trách nhiệm thực thi tiêu chuẩn nhà ở và an toàn.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "welfare",
+      "ipa": "/ˈwelfeə/",
+      "pos": "n",
+      "vi": "phúc lợi, an sinh xã hội",
+      "example_en": "The state expanded its welfare programmes to support low-income families.",
+      "example_vi": "Nhà nước mở rộng các chương trình phúc lợi để hỗ trợ các gia đình có thu nhập thấp.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "inequality",
+      "ipa": "/ˌɪnɪˈkwɒləti/",
+      "pos": "n",
+      "vi": "sự bất bình đẳng",
+      "example_en": "Income inequality has widened considerably over the past few decades.",
+      "example_vi": "Sự bất bình đẳng về thu nhập đã gia tăng đáng kể trong vài thập kỷ qua.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "poverty",
+      "ipa": "/ˈpɒvəti/",
+      "pos": "n",
+      "vi": "sự nghèo đói",
+      "example_en": "Education is widely regarded as an effective way to reduce poverty.",
+      "example_vi": "Giáo dục được xem rộng rãi là một cách hữu hiệu để giảm nghèo.",
+      "emoji": "🥀"
+    },
+    {
+      "word": "reform",
+      "ipa": "/rɪˈfɔːm/",
+      "pos": "n",
+      "vi": "cuộc cải cách",
+      "example_en": "The proposed tax reform aims to make the system fairer and more transparent.",
+      "example_vi": "Cuộc cải cách thuế được đề xuất nhằm làm cho hệ thống công bằng và minh bạch hơn.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "governance",
+      "ipa": "/ˈɡʌvənəns/",
+      "pos": "n",
+      "vi": "sự quản trị, cai trị",
+      "example_en": "Good governance requires transparency, accountability and the rule of law.",
+      "example_vi": "Quản trị tốt đòi hỏi sự minh bạch, trách nhiệm giải trình và pháp quyền.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "jurisdiction",
+      "ipa": "/ˌdʒʊərɪsˈdɪkʃn/",
+      "pos": "n",
+      "vi": "thẩm quyền xét xử, quyền tài phán",
+      "example_en": "The court ruled that the case fell outside its jurisdiction.",
+      "example_vi": "Tòa án phán quyết rằng vụ việc nằm ngoài thẩm quyền xét xử của mình.",
+      "emoji": "👨‍⚖️"
+    },
+    {
+      "word": "sanction",
+      "ipa": "/ˈsæŋkʃn/",
+      "pos": "n",
+      "vi": "biện pháp trừng phạt",
+      "example_en": "The international community imposed economic sanctions on the regime.",
+      "example_vi": "Cộng đồng quốc tế đã áp đặt các biện pháp trừng phạt kinh tế đối với chế độ đó.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "taxation",
+      "ipa": "/tækˈseɪʃn/",
+      "pos": "n",
+      "vi": "sự đánh thuế, chế độ thuế",
+      "example_en": "Progressive taxation is designed to redistribute wealth more evenly.",
+      "example_vi": "Chế độ thuế lũy tiến được thiết kế để phân phối lại của cải một cách công bằng hơn.",
+      "emoji": "💰"
+    },
+    {
+      "word": "sector",
+      "ipa": "/ˈsektə/",
+      "pos": "n",
+      "vi": "khu vực, lĩnh vực (kinh tế)",
+      "example_en": "The private sector now employs the majority of the country's workforce.",
+      "example_vi": "Khu vực tư nhân hiện sử dụng phần lớn lực lượng lao động của đất nước.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "demographic",
+      "ipa": "/ˌdeməˈɡræfɪk/",
+      "pos": "adj",
+      "vi": "thuộc nhân khẩu học",
+      "example_en": "An ageing population is one of the most significant demographic challenges today.",
+      "example_vi": "Dân số già hóa là một trong những thách thức nhân khẩu học lớn nhất hiện nay.",
+      "emoji": "👥"
+    },
+    {
+      "word": "sustainability",
+      "ipa": "/səˌsteɪnəˈbɪləti/",
+      "pos": "n",
+      "vi": "tính bền vững",
+      "example_en": "Long-term economic sustainability depends on protecting natural resources.",
+      "example_vi": "Tính bền vững kinh tế dài hạn phụ thuộc vào việc bảo vệ tài nguyên thiên nhiên.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "infrastructure",
+      "ipa": "/ˈɪnfrəstrʌktʃə/",
+      "pos": "n",
+      "vi": "cơ sở hạ tầng",
+      "example_en": "Investment in transport infrastructure can boost regional development considerably.",
+      "example_vi": "Đầu tư vào cơ sở hạ tầng giao thông có thể thúc đẩy đáng kể sự phát triển vùng.",
+      "emoji": "🌉"
+    },
+    {
+      "word": "compliance",
+      "ipa": "/kəmˈplaɪəns/",
+      "pos": "n",
+      "vi": "sự tuân thủ",
+      "example_en": "Firms must demonstrate full compliance with data protection laws.",
+      "example_vi": "Các doanh nghiệp phải chứng minh sự tuân thủ đầy đủ các luật bảo vệ dữ liệu.",
+      "emoji": "✅"
+    }
+  ]
+}

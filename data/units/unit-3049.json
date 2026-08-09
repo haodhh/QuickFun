@@ -1,0 +1,195 @@
+{
+  "id": 3049,
+  "slug": "ielts-9",
+  "title_en": "Employment & Economy",
+  "title_vi": "Việc làm & kinh tế",
+  "emoji": "💼",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "unemployment rate",
+      "ipa": "/ˌʌnɪmˈplɔɪmənt reɪt/",
+      "pos": "n (phr)",
+      "vi": "tỷ lệ thất nghiệp",
+      "example_en": "The government introduced new training schemes after the unemployment rate rose sharply among young people.",
+      "example_vi": "Chính phủ đưa ra các chương trình đào tạo mới sau khi tỷ lệ thất nghiệp tăng mạnh ở người trẻ.",
+      "emoji": "📉"
+    },
+    {
+      "word": "job security",
+      "ipa": "/dʒɒb sɪˈkjʊərəti/",
+      "pos": "n (phr)",
+      "vi": "sự ổn định/bảo đảm việc làm",
+      "example_en": "Many workers value job security more highly than a slightly higher salary.",
+      "example_vi": "Nhiều người lao động coi trọng sự ổn định công việc hơn là mức lương cao hơn một chút.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "workforce",
+      "ipa": "/ˈwɜːkfɔːs/",
+      "pos": "n",
+      "vi": "lực lượng lao động",
+      "example_en": "The company is investing in technology to help its ageing workforce stay productive.",
+      "example_vi": "Công ty đang đầu tư vào công nghệ để giúp lực lượng lao động đang già hóa duy trì năng suất.",
+      "emoji": "👷"
+    },
+    {
+      "word": "minimum wage",
+      "ipa": "/ˌmɪnɪməm ˈweɪdʒ/",
+      "pos": "n (phr)",
+      "vi": "mức lương tối thiểu",
+      "example_en": "Raising the minimum wage could help low-income families cope with rising prices.",
+      "example_vi": "Việc tăng mức lương tối thiểu có thể giúp các gia đình thu nhập thấp đối phó với giá cả leo thang.",
+      "emoji": "💵"
+    },
+    {
+      "word": "work-life balance",
+      "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+      "pos": "n (phr)",
+      "vi": "cân bằng công việc và cuộc sống",
+      "example_en": "Flexible working hours allow employees to achieve a healthier work-life balance.",
+      "example_vi": "Giờ làm việc linh hoạt cho phép nhân viên đạt được sự cân bằng lành mạnh hơn giữa công việc và cuộc sống.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "recession",
+      "ipa": "/rɪˈseʃn/",
+      "pos": "n",
+      "vi": "suy thoái kinh tế",
+      "example_en": "During the recession, thousands of small businesses were forced to close down.",
+      "example_vi": "Trong thời kỳ suy thoái kinh tế, hàng nghìn doanh nghiệp nhỏ buộc phải đóng cửa.",
+      "emoji": "📉"
+    },
+    {
+      "word": "self-employment",
+      "ipa": "/ˌself ɪmˈplɔɪmənt/",
+      "pos": "n",
+      "vi": "tự kinh doanh, tự làm chủ",
+      "example_en": "Self-employment offers greater freedom, but it often comes with a less stable income.",
+      "example_vi": "Việc tự kinh doanh mang lại nhiều tự do hơn, nhưng thường đi kèm với thu nhập kém ổn định hơn.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "labour market",
+      "ipa": "/ˈleɪbə ˌmɑːkɪt/",
+      "pos": "n (phr)",
+      "vi": "thị trường lao động",
+      "example_en": "A university degree no longer guarantees success in today's competitive labour market.",
+      "example_vi": "Một tấm bằng đại học không còn đảm bảo thành công trong thị trường lao động cạnh tranh ngày nay.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "redundancy",
+      "ipa": "/rɪˈdʌndənsi/",
+      "pos": "n",
+      "vi": "việc bị cho thôi việc (do dư thừa nhân sự)",
+      "example_en": "Hundreds of staff faced redundancy when the factory decided to relocate abroad.",
+      "example_vi": "Hàng trăm nhân viên đối mặt với việc bị cho thôi việc khi nhà máy quyết định chuyển ra nước ngoài.",
+      "emoji": "📦"
+    },
+    {
+      "word": "skilled labour",
+      "ipa": "/ˌskɪld ˈleɪbə/",
+      "pos": "n (phr)",
+      "vi": "lao động có tay nghề",
+      "example_en": "The region is struggling to attract the skilled labour needed for its growing tech industry.",
+      "example_vi": "Khu vực này đang chật vật thu hút lao động có tay nghề cần thiết cho ngành công nghệ đang phát triển.",
+      "emoji": "🛠️"
+    },
+    {
+      "word": "career prospects",
+      "ipa": "/kəˈrɪə ˌprɒspekts/",
+      "pos": "n (phr)",
+      "vi": "triển vọng nghề nghiệp",
+      "example_en": "Learning a second language can significantly improve your career prospects abroad.",
+      "example_vi": "Học một ngôn ngữ thứ hai có thể cải thiện đáng kể triển vọng nghề nghiệp của bạn ở nước ngoài.",
+      "emoji": "📈"
+    },
+    {
+      "word": "economic growth",
+      "ipa": "/ˌiːkəˈnɒmɪk ˈɡrəʊθ/",
+      "pos": "n (phr)",
+      "vi": "tăng trưởng kinh tế",
+      "example_en": "Steady economic growth has gradually lifted millions of people out of poverty.",
+      "example_vi": "Tăng trưởng kinh tế ổn định đã dần đưa hàng triệu người thoát khỏi cảnh nghèo đói.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "income inequality",
+      "ipa": "/ˈɪnkʌm ˌɪnɪˈkwɒləti/",
+      "pos": "n (phr)",
+      "vi": "bất bình đẳng thu nhập",
+      "example_en": "Rising income inequality has become one of the most pressing issues in many developed countries.",
+      "example_vi": "Bất bình đẳng thu nhập ngày càng tăng đã trở thành một trong những vấn đề cấp bách nhất ở nhiều nước phát triển.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "gross domestic product",
+      "ipa": "/ˌɡrəʊs dəˌmestɪk ˈprɒdʌkt/",
+      "pos": "n (phr)",
+      "vi": "tổng sản phẩm quốc nội (GDP)",
+      "example_en": "The country's gross domestic product grew by nearly three percent last year.",
+      "example_vi": "Tổng sản phẩm quốc nội của quốc gia này tăng gần ba phần trăm trong năm ngoái.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "cost of living",
+      "ipa": "/ˌkɒst əv ˈlɪvɪŋ/",
+      "pos": "n (phr)",
+      "vi": "chi phí sinh hoạt",
+      "example_en": "The high cost of living in major cities forces many graduates to share accommodation.",
+      "example_vi": "Chi phí sinh hoạt cao ở các thành phố lớn buộc nhiều sinh viên mới ra trường phải ở ghép.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "entrepreneurship",
+      "ipa": "/ˌɒntrəprəˈnɜːʃɪp/",
+      "pos": "n",
+      "vi": "tinh thần khởi nghiệp",
+      "example_en": "The university runs several programmes designed to encourage entrepreneurship among students.",
+      "example_vi": "Trường đại học tổ chức nhiều chương trình nhằm khuyến khích tinh thần khởi nghiệp trong sinh viên.",
+      "emoji": "💡"
+    },
+    {
+      "word": "job satisfaction",
+      "ipa": "/dʒɒb ˌsætɪsˈfækʃn/",
+      "pos": "n (phr)",
+      "vi": "sự hài lòng trong công việc",
+      "example_en": "Employees who feel appreciated tend to report much higher levels of job satisfaction.",
+      "example_vi": "Những nhân viên cảm thấy được trân trọng thường có mức độ hài lòng trong công việc cao hơn nhiều.",
+      "emoji": "😊"
+    },
+    {
+      "word": "outsourcing",
+      "ipa": "/ˈaʊtsɔːsɪŋ/",
+      "pos": "n",
+      "vi": "thuê ngoài (dịch vụ/nhân lực)",
+      "example_en": "The outsourcing of customer service overseas helped the firm cut its operating costs.",
+      "example_vi": "Việc thuê ngoài dịch vụ chăm sóc khách hàng ra nước ngoài giúp công ty cắt giảm chi phí vận hành.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "wage gap",
+      "ipa": "/ˈweɪdʒ ɡæp/",
+      "pos": "n (phr)",
+      "vi": "khoảng cách tiền lương",
+      "example_en": "Despite recent progress, a significant wage gap between men and women still remains.",
+      "example_vi": "Bất chấp những tiến bộ gần đây, một khoảng cách tiền lương đáng kể giữa nam và nữ vẫn còn tồn tại.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "financial stability",
+      "ipa": "/faɪˌnænʃl stəˈbɪləti/",
+      "pos": "n (phr)",
+      "vi": "sự ổn định tài chính",
+      "example_en": "Saving a portion of your salary each month is essential for long-term financial stability.",
+      "example_vi": "Tiết kiệm một phần lương mỗi tháng là điều thiết yếu để có sự ổn định tài chính lâu dài.",
+      "emoji": "🏦"
+    }
+  ]
+}

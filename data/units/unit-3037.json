@@ -1,0 +1,195 @@
+{
+  "id": 3037,
+  "slug": "business-7",
+  "title_en": "Trade & Logistics",
+  "title_vi": "Xuất nhập khẩu & logistics",
+  "emoji": "🚢",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "import",
+      "ipa": "/ˈɪmpɔːt/",
+      "pos": "n",
+      "vi": "nhập khẩu",
+      "example_en": "The government raised taxes on imported cars to protect local manufacturers.",
+      "example_vi": "Chính phủ tăng thuế đối với ô tô nhập khẩu để bảo vệ các nhà sản xuất trong nước.",
+      "emoji": "📥"
+    },
+    {
+      "word": "export",
+      "ipa": "/ˈekspɔːt/",
+      "pos": "n",
+      "vi": "xuất khẩu",
+      "example_en": "Vietnam's exports of coffee and rice have grown steadily over the past decade.",
+      "example_vi": "Xuất khẩu cà phê và gạo của Việt Nam đã tăng đều đặn trong suốt thập kỷ qua.",
+      "emoji": "📤"
+    },
+    {
+      "word": "tariff",
+      "ipa": "/ˈtærɪf/",
+      "pos": "n",
+      "vi": "thuế quan",
+      "example_en": "The new tariffs on steel imports significantly increased production costs for carmakers.",
+      "example_vi": "Thuế quan mới đối với thép nhập khẩu đã làm tăng đáng kể chi phí sản xuất của các hãng xe.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "pos": "n",
+      "vi": "hải quan",
+      "example_en": "All goods must be declared at customs before they are allowed into the country.",
+      "example_vi": "Mọi hàng hóa phải được khai báo tại hải quan trước khi được phép nhập vào nước.",
+      "emoji": "🛃"
+    },
+    {
+      "word": "freight",
+      "ipa": "/freɪt/",
+      "pos": "n",
+      "vi": "hàng hóa vận chuyển; cước vận chuyển",
+      "example_en": "Sending the machinery by air freight was faster but far more expensive than by sea.",
+      "example_vi": "Gửi máy móc bằng cước hàng không nhanh hơn nhưng đắt hơn nhiều so với đường biển.",
+      "emoji": "🚚"
+    },
+    {
+      "word": "supply chain",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "pos": "n",
+      "vi": "chuỗi cung ứng",
+      "example_en": "The pandemic exposed just how fragile global supply chains had become.",
+      "example_vi": "Đại dịch đã phơi bày sự mong manh của các chuỗi cung ứng toàn cầu.",
+      "emoji": "🔗"
+    },
+    {
+      "word": "shipment",
+      "ipa": "/ˈʃɪpmənt/",
+      "pos": "n",
+      "vi": "lô hàng",
+      "example_en": "The latest shipment of electronics was held up at the port for two weeks.",
+      "example_vi": "Lô hàng điện tử mới nhất bị giữ lại tại cảng suốt hai tuần.",
+      "emoji": "📦"
+    },
+    {
+      "word": "bill of lading",
+      "ipa": "/ˌbɪl əv ˈleɪdɪŋ/",
+      "pos": "n",
+      "vi": "vận đơn",
+      "example_en": "The exporter must present the bill of lading before the bank will release payment.",
+      "example_vi": "Nhà xuất khẩu phải xuất trình vận đơn trước khi ngân hàng giải ngân.",
+      "emoji": "📜"
+    },
+    {
+      "word": "incoterms",
+      "ipa": "/ˈɪnkəʊtɜːmz/",
+      "pos": "n",
+      "vi": "điều kiện thương mại quốc tế (Incoterms)",
+      "example_en": "Under Incoterms, the buyer and seller agree exactly who pays for shipping and insurance.",
+      "example_vi": "Theo Incoterms, người mua và người bán thống nhất chính xác ai trả phí vận chuyển và bảo hiểm.",
+      "emoji": "📑"
+    },
+    {
+      "word": "letter of credit",
+      "ipa": "/ˌletər əv ˈkredɪt/",
+      "pos": "n",
+      "vi": "thư tín dụng",
+      "example_en": "The supplier only agreed to ship the goods once a letter of credit had been issued.",
+      "example_vi": "Nhà cung cấp chỉ đồng ý giao hàng khi thư tín dụng đã được phát hành.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "embargo",
+      "ipa": "/ɪmˈbɑːɡəʊ/",
+      "pos": "n",
+      "vi": "lệnh cấm vận",
+      "example_en": "The trade embargo prevented local companies from exporting technology to the region.",
+      "example_vi": "Lệnh cấm vận thương mại khiến các công ty trong nước không thể xuất khẩu công nghệ sang khu vực đó.",
+      "emoji": "⛔"
+    },
+    {
+      "word": "quota",
+      "ipa": "/ˈkwəʊtə/",
+      "pos": "n",
+      "vi": "hạn ngạch",
+      "example_en": "The country imposed an import quota to limit the number of foreign cars sold each year.",
+      "example_vi": "Nước này áp đặt hạn ngạch nhập khẩu để giới hạn số lượng ô tô ngoại bán ra mỗi năm.",
+      "emoji": "📊"
+    },
+    {
+      "word": "trade deficit",
+      "ipa": "/ˌtreɪd ˈdefɪsɪt/",
+      "pos": "n",
+      "vi": "thâm hụt thương mại",
+      "example_en": "A widening trade deficit means the country is importing far more than it exports.",
+      "example_vi": "Thâm hụt thương mại ngày càng lớn nghĩa là nước này nhập khẩu nhiều hơn hẳn so với xuất khẩu.",
+      "emoji": "📉"
+    },
+    {
+      "word": "warehouse",
+      "ipa": "/ˈweəhaʊs/",
+      "pos": "n",
+      "vi": "kho hàng",
+      "example_en": "The company rented a larger warehouse to store its rapidly growing inventory.",
+      "example_vi": "Công ty thuê một kho hàng lớn hơn để chứa lượng hàng tồn đang tăng nhanh.",
+      "emoji": "🏬"
+    },
+    {
+      "word": "logistics",
+      "ipa": "/ləˈdʒɪstɪks/",
+      "pos": "n",
+      "vi": "hậu cần; logistics",
+      "example_en": "Efficient logistics can dramatically cut the cost of delivering goods to customers.",
+      "example_vi": "Hậu cần hiệu quả có thể giảm mạnh chi phí giao hàng đến khách hàng.",
+      "emoji": "🚛"
+    },
+    {
+      "word": "distribution channel",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn ˌtʃænl/",
+      "pos": "n",
+      "vi": "kênh phân phối",
+      "example_en": "The brand expanded its distribution channels by selling directly through its own website.",
+      "example_vi": "Thương hiệu mở rộng các kênh phân phối bằng cách bán trực tiếp qua website riêng.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "lead time",
+      "ipa": "/ˈliːd taɪm/",
+      "pos": "n",
+      "vi": "thời gian chờ giao hàng",
+      "example_en": "A shorter lead time allows the factory to respond quickly to changes in demand.",
+      "example_vi": "Thời gian chờ giao hàng ngắn hơn giúp nhà máy phản ứng nhanh với thay đổi về nhu cầu.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "cargo",
+      "ipa": "/ˈkɑːɡəʊ/",
+      "pos": "n",
+      "vi": "hàng hóa (vận chuyển)",
+      "example_en": "The ship was carrying a cargo of grain worth several million dollars.",
+      "example_vi": "Con tàu đang chở một lô hàng ngũ cốc trị giá vài triệu đô la.",
+      "emoji": "🚢"
+    },
+    {
+      "word": "customs clearance",
+      "ipa": "/ˌkʌstəmz ˈklɪərəns/",
+      "pos": "n",
+      "vi": "thông quan",
+      "example_en": "Customs clearance can take several days if the paperwork is incomplete.",
+      "example_vi": "Việc thông quan có thể mất vài ngày nếu giấy tờ chưa đầy đủ.",
+      "emoji": "✅"
+    },
+    {
+      "word": "consignment",
+      "ipa": "/kənˈsaɪnmənt/",
+      "pos": "n",
+      "vi": "lô hàng gửi; hàng ký gửi",
+      "example_en": "A large consignment of textiles arrived at the warehouse late yesterday evening.",
+      "example_vi": "Một lô hàng dệt may lớn đã đến kho vào tối muộn hôm qua.",
+      "emoji": "🧾"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 3015,
+  "slug": "travel-5",
+  "title_en": "Money & Payments",
+  "title_vi": "Tiền & thanh toán",
+  "emoji": "💳",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "cash",
+      "ipa": "/kæʃ/",
+      "pos": "n",
+      "vi": "tiền mặt",
+      "example_en": "I don't have any cash, so can I pay by card?",
+      "example_vi": "Tôi không có tiền mặt, vậy tôi trả bằng thẻ được không?",
+      "emoji": "💵"
+    },
+    {
+      "word": "currency",
+      "ipa": "/ˈkʌrənsi/",
+      "pos": "n",
+      "vi": "tiền tệ, đơn vị tiền",
+      "example_en": "The currency in Japan is the yen.",
+      "example_vi": "Đơn vị tiền tệ ở Nhật Bản là đồng yên.",
+      "emoji": "💱"
+    },
+    {
+      "word": "exchange rate",
+      "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+      "pos": "n",
+      "vi": "tỷ giá hối đoái",
+      "example_en": "The exchange rate is good today, so I'll change my money now.",
+      "example_vi": "Hôm nay tỷ giá tốt, nên tôi sẽ đổi tiền ngay bây giờ.",
+      "emoji": "📈"
+    },
+    {
+      "word": "credit card",
+      "ipa": "/ˈkredɪt kɑːd/",
+      "pos": "n",
+      "vi": "thẻ tín dụng",
+      "example_en": "You can book the hotel online with a credit card.",
+      "example_vi": "Bạn có thể đặt khách sạn trực tuyến bằng thẻ tín dụng.",
+      "emoji": "💳"
+    },
+    {
+      "word": "debit card",
+      "ipa": "/ˈdebɪt kɑːd/",
+      "pos": "n",
+      "vi": "thẻ ghi nợ",
+      "example_en": "I paid for the food with my debit card.",
+      "example_vi": "Tôi đã trả tiền đồ ăn bằng thẻ ghi nợ.",
+      "emoji": "💳"
+    },
+    {
+      "word": "ATM",
+      "ipa": "/ˌeɪ tiː ˈem/",
+      "pos": "n",
+      "vi": "máy rút tiền tự động",
+      "example_en": "There is an ATM near the station where you can get cash.",
+      "example_vi": "Có một máy rút tiền gần nhà ga, nơi bạn có thể lấy tiền mặt.",
+      "emoji": "🏧"
+    },
+    {
+      "word": "coins",
+      "ipa": "/kɔɪnz/",
+      "pos": "n",
+      "vi": "tiền xu",
+      "example_en": "I have some coins in my pocket for the bus.",
+      "example_vi": "Tôi có vài đồng xu trong túi để đi xe buýt.",
+      "emoji": "🪙"
+    },
+    {
+      "word": "banknote",
+      "ipa": "/ˈbæŋknəʊt/",
+      "pos": "n",
+      "vi": "tờ tiền giấy",
+      "example_en": "She paid with a fifty-dollar banknote.",
+      "example_vi": "Cô ấy trả bằng một tờ tiền năm mươi đô la.",
+      "emoji": "💶"
+    },
+    {
+      "word": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "pos": "n",
+      "vi": "tiền thối lại, tiền lẻ",
+      "example_en": "The waiter gave me my change after I paid.",
+      "example_vi": "Người phục vụ đưa lại tiền thối cho tôi sau khi tôi trả.",
+      "emoji": "🪙"
+    },
+    {
+      "word": "tip",
+      "ipa": "/tɪp/",
+      "pos": "n",
+      "vi": "tiền boa",
+      "example_en": "We left a small tip because the service was good.",
+      "example_vi": "Chúng tôi để lại một khoản tiền boa nhỏ vì dịch vụ tốt.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "pos": "n",
+      "vi": "sự giảm giá",
+      "example_en": "Students can get a discount on train tickets.",
+      "example_vi": "Sinh viên có thể được giảm giá vé tàu.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "price",
+      "ipa": "/praɪs/",
+      "pos": "n",
+      "vi": "giá cả",
+      "example_en": "What is the price of this jacket?",
+      "example_vi": "Giá của chiếc áo khoác này là bao nhiêu?",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "cheap",
+      "ipa": "/tʃiːp/",
+      "pos": "adj",
+      "vi": "rẻ",
+      "example_en": "The food at this restaurant is cheap and tasty.",
+      "example_vi": "Đồ ăn ở nhà hàng này vừa rẻ vừa ngon.",
+      "emoji": "🤑"
+    },
+    {
+      "word": "expensive",
+      "ipa": "/ɪkˈspensɪv/",
+      "pos": "adj",
+      "vi": "đắt",
+      "example_en": "This hotel is too expensive for us.",
+      "example_vi": "Khách sạn này quá đắt đối với chúng tôi.",
+      "emoji": "💸"
+    },
+    {
+      "word": "pay in cash",
+      "ipa": "/peɪ ɪn kæʃ/",
+      "pos": "phr",
+      "vi": "trả bằng tiền mặt",
+      "example_en": "At the market you usually have to pay in cash.",
+      "example_vi": "Ở chợ, bạn thường phải trả bằng tiền mặt.",
+      "emoji": "💵"
+    },
+    {
+      "word": "contactless payment",
+      "ipa": "/ˈkɒntæktləs ˈpeɪmənt/",
+      "pos": "n",
+      "vi": "thanh toán không tiếp xúc",
+      "example_en": "I just tap my phone because the shop accepts contactless payment.",
+      "example_vi": "Tôi chỉ cần chạm điện thoại vì cửa hàng chấp nhận thanh toán không tiếp xúc.",
+      "emoji": "📲"
+    },
+    {
+      "word": "wallet",
+      "ipa": "/ˈwɒlɪt/",
+      "pos": "n",
+      "vi": "ví (tiền)",
+      "example_en": "I keep my cards and money in my wallet.",
+      "example_vi": "Tôi để thẻ và tiền trong ví của mình.",
+      "emoji": "👛"
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "pos": "n",
+      "vi": "ngân sách",
+      "example_en": "We have a small budget for our holiday this year.",
+      "example_vi": "Chúng tôi có một ngân sách nhỏ cho kỳ nghỉ năm nay.",
+      "emoji": "📊"
+    },
+    {
+      "word": "withdraw money",
+      "ipa": "/wɪðˈdrɔː ˈmʌni/",
+      "pos": "phr",
+      "vi": "rút tiền",
+      "example_en": "I need to withdraw money from the ATM before we leave.",
+      "example_vi": "Tôi cần rút tiền từ máy ATM trước khi chúng ta đi.",
+      "emoji": "🏧"
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "pos": "n",
+      "vi": "hóa đơn, biên lai",
+      "example_en": "Please keep the receipt in case you want to return it.",
+      "example_vi": "Vui lòng giữ lại hóa đơn phòng khi bạn muốn trả lại.",
+      "emoji": "🧾"
+    }
+  ]
+}

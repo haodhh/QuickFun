@@ -1,0 +1,195 @@
+{
+  "id": 3011,
+  "slug": "travel-1",
+  "title_en": "At the Airport",
+  "title_vi": "Ở sân bay",
+  "emoji": "🛫",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "passport",
+      "ipa": "/ˈpɑːspɔːt/",
+      "pos": "n",
+      "vi": "hộ chiếu",
+      "example_en": "Show your passport at the airport before your flight.",
+      "example_vi": "Xuất trình hộ chiếu ở sân bay trước chuyến bay của bạn.",
+      "emoji": "🛂"
+    },
+    {
+      "word": "boarding pass",
+      "ipa": "/ˈbɔːdɪŋ pɑːs/",
+      "pos": "n",
+      "vi": "thẻ lên máy bay",
+      "example_en": "Please keep your boarding pass until you are on the plane.",
+      "example_vi": "Vui lòng giữ thẻ lên máy bay cho đến khi bạn lên máy bay.",
+      "emoji": "🎫"
+    },
+    {
+      "word": "check-in desk",
+      "ipa": "/ˈtʃek ɪn desk/",
+      "pos": "n",
+      "vi": "quầy làm thủ tục",
+      "example_en": "Go to the check-in desk to drop off your bags.",
+      "example_vi": "Hãy đến quầy làm thủ tục để gửi hành lý.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "departure gate",
+      "ipa": "/dɪˈpɑːtʃə ɡeɪt/",
+      "pos": "n",
+      "vi": "cửa khởi hành",
+      "example_en": "Our departure gate is number 15, near the coffee shop.",
+      "example_vi": "Cửa khởi hành của chúng ta là số 15, gần quán cà phê.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "security check",
+      "ipa": "/sɪˈkjʊərəti tʃek/",
+      "pos": "n",
+      "vi": "kiểm tra an ninh",
+      "example_en": "You must take off your belt at the security check.",
+      "example_vi": "Bạn phải cởi thắt lưng khi qua kiểm tra an ninh.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "terminal",
+      "ipa": "/ˈtɜːmɪnl/",
+      "pos": "n",
+      "vi": "nhà ga sân bay",
+      "example_en": "My flight leaves from terminal 2, so let's go there.",
+      "example_vi": "Chuyến bay của tôi khởi hành từ nhà ga số 2, nên hãy đến đó.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "flight number",
+      "ipa": "/flaɪt ˈnʌmbə/",
+      "pos": "n",
+      "vi": "số hiệu chuyến bay",
+      "example_en": "Can you tell me the flight number for the plane to Paris?",
+      "example_vi": "Bạn cho tôi biết số hiệu chuyến bay đến Paris được không?",
+      "emoji": "🔢"
+    },
+    {
+      "word": "departures board",
+      "ipa": "/dɪˈpɑːtʃəz bɔːd/",
+      "pos": "n",
+      "vi": "bảng chuyến bay đi",
+      "example_en": "Check the departures board to see if your flight is on time.",
+      "example_vi": "Xem bảng chuyến bay đi để biết chuyến bay của bạn có đúng giờ không.",
+      "emoji": "📋"
+    },
+    {
+      "word": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "pos": "n",
+      "vi": "sự hoãn, trễ",
+      "example_en": "There was a two-hour delay because of the storm.",
+      "example_vi": "Chuyến bay bị hoãn hai giờ vì cơn bão.",
+      "emoji": "⏰"
+    },
+    {
+      "word": "connecting flight",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "pos": "n",
+      "vi": "chuyến bay nối chuyến",
+      "example_en": "We have a connecting flight in Dubai to Sydney.",
+      "example_vi": "Chúng tôi có một chuyến bay nối chuyến ở Dubai để đến Sydney.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "duty-free shop",
+      "ipa": "/ˌdjuːti ˈfriː ʃɒp/",
+      "pos": "n",
+      "vi": "cửa hàng miễn thuế",
+      "example_en": "She bought some perfume at the duty-free shop.",
+      "example_vi": "Cô ấy mua ít nước hoa ở cửa hàng miễn thuế.",
+      "emoji": "🛍️"
+    },
+    {
+      "word": "passport control",
+      "ipa": "/ˈpɑːspɔːt kənˈtrəʊl/",
+      "pos": "n",
+      "vi": "kiểm tra hộ chiếu",
+      "example_en": "The queue at passport control was very long this morning.",
+      "example_vi": "Hàng chờ ở khu kiểm tra hộ chiếu sáng nay rất dài.",
+      "emoji": "🛂"
+    },
+    {
+      "word": "baggage claim",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "pos": "n",
+      "vi": "khu nhận hành lý",
+      "example_en": "Let's wait for our suitcases at baggage claim.",
+      "example_vi": "Hãy chờ lấy va li ở khu nhận hành lý.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "pos": "n",
+      "vi": "hải quan",
+      "example_en": "You must go through customs before you leave the airport.",
+      "example_vi": "Bạn phải qua hải quan trước khi rời sân bay.",
+      "emoji": "🛃"
+    },
+    {
+      "word": "immigration",
+      "ipa": "/ˌɪmɪˈɡreɪʃn/",
+      "pos": "n",
+      "vi": "nhập cảnh",
+      "example_en": "The officer at immigration asked about my trip.",
+      "example_vi": "Nhân viên ở khu nhập cảnh hỏi về chuyến đi của tôi.",
+      "emoji": "🛂"
+    },
+    {
+      "word": "boarding time",
+      "ipa": "/ˈbɔːdɪŋ taɪm/",
+      "pos": "n",
+      "vi": "giờ lên máy bay",
+      "example_en": "The boarding time is 6:30, so don't be late.",
+      "example_vi": "Giờ lên máy bay là 6 giờ 30, nên đừng đến trễ.",
+      "emoji": "🕕"
+    },
+    {
+      "word": "long-haul flight",
+      "ipa": "/ˌlɒŋ ˈhɔːl flaɪt/",
+      "pos": "n",
+      "vi": "chuyến bay đường dài",
+      "example_en": "A long-haul flight to New York can take many hours.",
+      "example_vi": "Một chuyến bay đường dài đến New York có thể mất nhiều giờ.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "one-way ticket",
+      "ipa": "/ˌwʌn weɪ ˈtɪkɪt/",
+      "pos": "n",
+      "vi": "vé một chiều",
+      "example_en": "I only need a one-way ticket because I'm not coming back.",
+      "example_vi": "Tôi chỉ cần vé một chiều vì tôi sẽ không quay về.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "return ticket",
+      "ipa": "/rɪˈtɜːn ˈtɪkɪt/",
+      "pos": "n",
+      "vi": "vé khứ hồi",
+      "example_en": "A return ticket is cheaper than two single tickets.",
+      "example_vi": "Vé khứ hồi rẻ hơn hai vé một chiều.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "e-ticket",
+      "ipa": "/ˈiː tɪkɪt/",
+      "pos": "n",
+      "vi": "vé điện tử",
+      "example_en": "I saved my e-ticket on my phone to show at check-in.",
+      "example_vi": "Tôi lưu vé điện tử trên điện thoại để xuất trình khi làm thủ tục.",
+      "emoji": "📱"
+    }
+  ]
+}

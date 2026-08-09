@@ -1,0 +1,195 @@
+{
+  "id": 3020,
+  "slug": "travel-10",
+  "title_en": "Sightseeing & Activities",
+  "title_vi": "Tham quan & hoạt động",
+  "emoji": "🎒",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "tourist",
+      "ipa": "/ˈtʊərɪst/",
+      "pos": "n",
+      "vi": "khách du lịch",
+      "example_en": "Many tourists visit the old town every summer.",
+      "example_vi": "Nhiều khách du lịch đến thăm phố cổ mỗi mùa hè.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "guidebook",
+      "ipa": "/ˈɡaɪdbʊk/",
+      "pos": "n",
+      "vi": "sách hướng dẫn du lịch",
+      "example_en": "I bought a guidebook to learn about the city.",
+      "example_vi": "Tôi mua một cuốn sách hướng dẫn để tìm hiểu về thành phố.",
+      "emoji": "📖"
+    },
+    {
+      "word": "tour guide",
+      "ipa": "/ˈtʊə ɡaɪd/",
+      "pos": "n",
+      "vi": "hướng dẫn viên du lịch",
+      "example_en": "Our tour guide showed us the best places to visit.",
+      "example_vi": "Hướng dẫn viên của chúng tôi chỉ cho chúng tôi những nơi đẹp nhất để tham quan.",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "pos": "n",
+      "vi": "việc tham quan, ngắm cảnh",
+      "example_en": "We spent the whole day sightseeing in Paris.",
+      "example_vi": "Chúng tôi dành cả ngày đi tham quan ở Paris.",
+      "emoji": "📸"
+    },
+    {
+      "word": "landmark",
+      "ipa": "/ˈlændmɑːk/",
+      "pos": "n",
+      "vi": "địa danh nổi tiếng",
+      "example_en": "The tower is a famous landmark in the city.",
+      "example_vi": "Tòa tháp là một địa danh nổi tiếng trong thành phố.",
+      "emoji": "🗼"
+    },
+    {
+      "word": "museum",
+      "ipa": "/mjuˈziːəm/",
+      "pos": "n",
+      "vi": "bảo tàng",
+      "example_en": "The museum has many old paintings and statues.",
+      "example_vi": "Bảo tàng có nhiều bức tranh và tượng cổ.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "art gallery",
+      "ipa": "/ˈɑːt ˌɡæləri/",
+      "pos": "n",
+      "vi": "phòng trưng bày nghệ thuật",
+      "example_en": "We saw modern pictures at the art gallery.",
+      "example_vi": "Chúng tôi xem những bức tranh hiện đại ở phòng trưng bày nghệ thuật.",
+      "emoji": "🖼️"
+    },
+    {
+      "word": "castle",
+      "ipa": "/ˈkɑːsl/",
+      "pos": "n",
+      "vi": "lâu đài",
+      "example_en": "The old castle stands on top of a hill.",
+      "example_vi": "Lâu đài cổ nằm trên đỉnh một ngọn đồi.",
+      "emoji": "🏰"
+    },
+    {
+      "word": "palace",
+      "ipa": "/ˈpæləs/",
+      "pos": "n",
+      "vi": "cung điện",
+      "example_en": "The king used to live in this beautiful palace.",
+      "example_vi": "Nhà vua từng sống trong cung điện tuyệt đẹp này.",
+      "emoji": "🏯"
+    },
+    {
+      "word": "cathedral",
+      "ipa": "/kəˈθiːdrəl/",
+      "pos": "n",
+      "vi": "nhà thờ lớn",
+      "example_en": "The cathedral is over five hundred years old.",
+      "example_vi": "Nhà thờ lớn này đã hơn năm trăm năm tuổi.",
+      "emoji": "⛪"
+    },
+    {
+      "word": "viewpoint",
+      "ipa": "/ˈvjuːpɔɪnt/",
+      "pos": "n",
+      "vi": "điểm ngắm cảnh",
+      "example_en": "From the viewpoint you can see the whole valley.",
+      "example_vi": "Từ điểm ngắm cảnh bạn có thể thấy toàn bộ thung lũng.",
+      "emoji": "🌄"
+    },
+    {
+      "word": "guided tour",
+      "ipa": "/ˌɡaɪdɪd ˈtʊə/",
+      "pos": "n",
+      "vi": "chuyến tham quan có hướng dẫn",
+      "example_en": "We joined a guided tour of the castle in the morning.",
+      "example_vi": "Chúng tôi tham gia một chuyến tham quan có hướng dẫn quanh lâu đài vào buổi sáng.",
+      "emoji": "🚶"
+    },
+    {
+      "word": "entrance fee",
+      "ipa": "/ˈentrəns fiː/",
+      "pos": "n",
+      "vi": "phí vào cửa",
+      "example_en": "The entrance fee for the museum is ten dollars.",
+      "example_vi": "Phí vào cửa bảo tàng là mười đô la.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "brochure",
+      "ipa": "/ˈbrəʊʃə/",
+      "pos": "n",
+      "vi": "tờ quảng cáo, sách mỏng giới thiệu",
+      "example_en": "The hotel gave us a brochure about local tours.",
+      "example_vi": "Khách sạn đưa cho chúng tôi một tờ quảng cáo về các tour địa phương.",
+      "emoji": "📃"
+    },
+    {
+      "word": "beach",
+      "ipa": "/biːtʃ/",
+      "pos": "n",
+      "vi": "bãi biển",
+      "example_en": "We relaxed on the beach and swam in the sea.",
+      "example_vi": "Chúng tôi thư giãn trên bãi biển và bơi dưới biển.",
+      "emoji": "🏖️"
+    },
+    {
+      "word": "boat trip",
+      "ipa": "/ˈbəʊt trɪp/",
+      "pos": "n",
+      "vi": "chuyến đi bằng thuyền",
+      "example_en": "We took a boat trip around the small islands.",
+      "example_vi": "Chúng tôi đi một chuyến bằng thuyền quanh các hòn đảo nhỏ.",
+      "emoji": "⛵"
+    },
+    {
+      "word": "hiking",
+      "ipa": "/ˈhaɪkɪŋ/",
+      "pos": "n",
+      "vi": "đi bộ đường dài",
+      "example_en": "Hiking in the mountains is my favourite holiday activity.",
+      "example_vi": "Đi bộ đường dài trên núi là hoạt động kỳ nghỉ yêu thích của tôi.",
+      "emoji": "🥾"
+    },
+    {
+      "word": "take photos",
+      "ipa": "/ˌteɪk ˈfəʊtəʊz/",
+      "pos": "phr",
+      "vi": "chụp ảnh",
+      "example_en": "Tourists love to take photos in front of the fountain.",
+      "example_vi": "Khách du lịch thích chụp ảnh trước đài phun nước.",
+      "emoji": "📷"
+    },
+    {
+      "word": "attraction",
+      "ipa": "/əˈtrækʃn/",
+      "pos": "n",
+      "vi": "điểm tham quan, điểm thu hút",
+      "example_en": "The zoo is a popular attraction for families.",
+      "example_vi": "Sở thú là một điểm tham quan được các gia đình yêu thích.",
+      "emoji": "🎡"
+    },
+    {
+      "word": "day trip",
+      "ipa": "/ˈdeɪ trɪp/",
+      "pos": "n",
+      "vi": "chuyến đi trong ngày",
+      "example_en": "We went on a day trip to the seaside last Sunday.",
+      "example_vi": "Chúng tôi đã có một chuyến đi trong ngày ra bờ biển vào Chủ nhật tuần trước.",
+      "emoji": "🚌"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 3039,
+  "slug": "business-9",
+  "title_en": "Risk & Compliance",
+  "title_vi": "Rủi ro & tuân thủ",
+  "emoji": "🛡️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "compliance",
+      "ipa": "/kəmˈplaɪəns/",
+      "pos": "n",
+      "vi": "sự tuân thủ",
+      "example_en": "The bank hired more staff to ensure full compliance with the new financial rules.",
+      "example_vi": "Ngân hàng đã tuyển thêm nhân viên để đảm bảo tuân thủ đầy đủ các quy định tài chính mới.",
+      "emoji": "✅"
+    },
+    {
+      "word": "regulation",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "pos": "n",
+      "vi": "quy định, quy chế",
+      "example_en": "New data-protection regulations force companies to store customer information more securely.",
+      "example_vi": "Các quy định bảo vệ dữ liệu mới buộc các công ty lưu trữ thông tin khách hàng an toàn hơn.",
+      "emoji": "📜"
+    },
+    {
+      "word": "risk assessment",
+      "ipa": "/ˈrɪsk əˌsesmənt/",
+      "pos": "n",
+      "vi": "đánh giá rủi ro",
+      "example_en": "Before launching the product, the team carried out a detailed risk assessment.",
+      "example_vi": "Trước khi ra mắt sản phẩm, nhóm đã tiến hành đánh giá rủi ro chi tiết.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "mitigation",
+      "ipa": "/ˌmɪtɪˈɡeɪʃn/",
+      "pos": "n",
+      "vi": "sự giảm thiểu (rủi ro)",
+      "example_en": "The report outlines several mitigation measures to reduce the impact of a cyber-attack.",
+      "example_vi": "Báo cáo nêu ra một số biện pháp giảm thiểu để giảm tác động của một cuộc tấn công mạng.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "audit trail",
+      "ipa": "/ˈɔːdɪt treɪl/",
+      "pos": "n",
+      "vi": "nhật ký kiểm toán",
+      "example_en": "Every transaction leaves an audit trail that investigators can follow later.",
+      "example_vi": "Mỗi giao dịch để lại một nhật ký kiểm toán mà các điều tra viên có thể lần theo sau này.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "money laundering",
+      "ipa": "/ˈmʌni ˌlɔːndərɪŋ/",
+      "pos": "n",
+      "vi": "rửa tiền",
+      "example_en": "The company was fined heavily for failing to prevent money laundering.",
+      "example_vi": "Công ty bị phạt nặng vì không ngăn chặn được hành vi rửa tiền.",
+      "emoji": "💸"
+    },
+    {
+      "word": "fraud",
+      "ipa": "/frɔːd/",
+      "pos": "n",
+      "vi": "gian lận, lừa đảo",
+      "example_en": "An employee was arrested after committing fraud worth millions of dollars.",
+      "example_vi": "Một nhân viên bị bắt sau khi thực hiện hành vi gian lận trị giá hàng triệu đô la.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "whistleblower",
+      "ipa": "/ˈwɪslˌbləʊə/",
+      "pos": "n",
+      "vi": "người tố giác nội bộ",
+      "example_en": "The scandal only came to light because a brave whistleblower spoke to the press.",
+      "example_vi": "Vụ bê bối chỉ bị phanh phui vì một người tố giác dũng cảm đã nói với báo chí.",
+      "emoji": "📢"
+    },
+    {
+      "word": "conflict of interest",
+      "ipa": "/ˌkɒnflɪkt əv ˈɪntrəst/",
+      "pos": "n",
+      "vi": "xung đột lợi ích",
+      "example_en": "The director resigned to avoid a possible conflict of interest with the supplier.",
+      "example_vi": "Vị giám đốc đã từ chức để tránh khả năng xung đột lợi ích với nhà cung cấp.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "internal controls",
+      "ipa": "/ɪnˌtɜːnl kənˈtrəʊlz/",
+      "pos": "n",
+      "vi": "kiểm soát nội bộ",
+      "example_en": "Weak internal controls allowed the errors to go unnoticed for months.",
+      "example_vi": "Kiểm soát nội bộ yếu kém đã khiến các sai sót không bị phát hiện trong nhiều tháng.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "governance",
+      "ipa": "/ˈɡʌvənəns/",
+      "pos": "n",
+      "vi": "quản trị (doanh nghiệp)",
+      "example_en": "Investors are demanding stronger corporate governance and greater transparency.",
+      "example_vi": "Các nhà đầu tư đang yêu cầu quản trị doanh nghiệp chặt chẽ hơn và minh bạch hơn.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "sanctions",
+      "ipa": "/ˈsæŋkʃnz/",
+      "pos": "n",
+      "vi": "lệnh trừng phạt",
+      "example_en": "The firm can no longer trade with the region because of international sanctions.",
+      "example_vi": "Công ty không còn có thể giao thương với khu vực này vì các lệnh trừng phạt quốc tế.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "exposure",
+      "ipa": "/ɪkˈspəʊʒə/",
+      "pos": "n",
+      "vi": "mức độ rủi ro tiếp xúc",
+      "example_en": "The bank reduced its exposure to the volatile property market.",
+      "example_vi": "Ngân hàng đã giảm mức độ rủi ro tiếp xúc với thị trường bất động sản đầy biến động.",
+      "emoji": "📉"
+    },
+    {
+      "word": "hedging",
+      "ipa": "/ˈhedʒɪŋ/",
+      "pos": "n",
+      "vi": "phòng ngừa rủi ro",
+      "example_en": "The company uses currency hedging to protect itself against exchange-rate swings.",
+      "example_vi": "Công ty sử dụng biện pháp phòng ngừa rủi ro tiền tệ để tự bảo vệ trước biến động tỷ giá.",
+      "emoji": "🔀"
+    },
+    {
+      "word": "insurance premium",
+      "ipa": "/ɪnˈʃʊərəns ˌpriːmiəm/",
+      "pos": "n",
+      "vi": "phí bảo hiểm",
+      "example_en": "After the flood, the factory's insurance premium rose sharply.",
+      "example_vi": "Sau trận lũ, phí bảo hiểm của nhà máy đã tăng mạnh.",
+      "emoji": "💰"
+    },
+    {
+      "word": "contingency plan",
+      "ipa": "/kənˈtɪndʒənsi plæn/",
+      "pos": "n",
+      "vi": "kế hoạch dự phòng",
+      "example_en": "Every business should have a contingency plan in case its main supplier fails.",
+      "example_vi": "Mọi doanh nghiệp nên có một kế hoạch dự phòng phòng khi nhà cung cấp chính gặp sự cố.",
+      "emoji": "🗂️"
+    },
+    {
+      "word": "regulatory framework",
+      "ipa": "/ˈreɡjələtri ˈfreɪmwɜːk/",
+      "pos": "n",
+      "vi": "khung pháp lý, khung quản lý",
+      "example_en": "A clear regulatory framework helps foreign investors trust the market.",
+      "example_vi": "Một khung pháp lý rõ ràng giúp các nhà đầu tư nước ngoài tin tưởng thị trường.",
+      "emoji": "🏗️"
+    },
+    {
+      "word": "data breach",
+      "ipa": "/ˈdeɪtə briːtʃ/",
+      "pos": "n",
+      "vi": "vi phạm dữ liệu, rò rỉ dữ liệu",
+      "example_en": "The data breach exposed the personal details of thousands of customers.",
+      "example_vi": "Vụ rò rỉ dữ liệu đã làm lộ thông tin cá nhân của hàng nghìn khách hàng.",
+      "emoji": "💻"
+    },
+    {
+      "word": "anti-trust",
+      "ipa": "/ˌæntiˈtrʌst/",
+      "pos": "adj",
+      "vi": "chống độc quyền",
+      "example_en": "Regulators opened an anti-trust investigation into the tech giant's practices.",
+      "example_vi": "Các cơ quan quản lý đã mở cuộc điều tra chống độc quyền đối với hoạt động của gã khổng lồ công nghệ.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "code of conduct",
+      "ipa": "/ˌkəʊd əv ˈkɒndʌkt/",
+      "pos": "n",
+      "vi": "bộ quy tắc ứng xử",
+      "example_en": "All employees must sign the company's code of conduct before starting work.",
+      "example_vi": "Tất cả nhân viên phải ký vào bộ quy tắc ứng xử của công ty trước khi bắt đầu làm việc.",
+      "emoji": "📖"
+    }
+  ]
+}

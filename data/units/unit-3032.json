@@ -1,0 +1,195 @@
+{
+  "id": 3032,
+  "slug": "business-2",
+  "title_en": "Investment & Shareholders",
+  "title_vi": "Đầu tư & cổ đông",
+  "emoji": "📈",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "shareholder",
+      "ipa": "/ˈʃeəhəʊldə/",
+      "pos": "n",
+      "vi": "cổ đông",
+      "example_en": "As a major shareholder, she has a significant say in the company's strategic decisions.",
+      "example_vi": "Là một cổ đông lớn, bà ấy có tiếng nói đáng kể trong các quyết định chiến lược của công ty.",
+      "emoji": "👤"
+    },
+    {
+      "word": "dividend",
+      "ipa": "/ˈdɪvɪdend/",
+      "pos": "n",
+      "vi": "cổ tức",
+      "example_en": "The board decided to raise the annual dividend after a year of record profits.",
+      "example_vi": "Hội đồng quản trị quyết định tăng cổ tức hằng năm sau một năm lợi nhuận kỷ lục.",
+      "emoji": "💰"
+    },
+    {
+      "word": "equity",
+      "ipa": "/ˈekwɪti/",
+      "pos": "n",
+      "vi": "vốn chủ sở hữu; cổ phần",
+      "example_en": "The founders gave up some equity in exchange for early-stage funding.",
+      "example_vi": "Các nhà sáng lập từ bỏ một phần cổ phần để đổi lấy nguồn vốn giai đoạn đầu.",
+      "emoji": "📊"
+    },
+    {
+      "word": "stock exchange",
+      "ipa": "/ˈstɒk ɪksˌtʃeɪndʒ/",
+      "pos": "n phr",
+      "vi": "sàn giao dịch chứng khoán",
+      "example_en": "The company was officially listed on the London Stock Exchange last month.",
+      "example_vi": "Công ty đã chính thức niêm yết trên Sàn giao dịch chứng khoán London tháng trước.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "portfolio",
+      "ipa": "/pɔːtˈfəʊliəʊ/",
+      "pos": "n",
+      "vi": "danh mục đầu tư",
+      "example_en": "A well-balanced portfolio should include both stocks and bonds to spread risk.",
+      "example_vi": "Một danh mục đầu tư cân bằng nên bao gồm cả cổ phiếu và trái phiếu để phân tán rủi ro.",
+      "emoji": "💼"
+    },
+    {
+      "word": "bond",
+      "ipa": "/bɒnd/",
+      "pos": "n",
+      "vi": "trái phiếu",
+      "example_en": "Government bonds are generally considered a safer investment than shares.",
+      "example_vi": "Trái phiếu chính phủ nhìn chung được coi là khoản đầu tư an toàn hơn cổ phiếu.",
+      "emoji": "📜"
+    },
+    {
+      "word": "yield",
+      "ipa": "/jiːld/",
+      "pos": "n",
+      "vi": "lợi suất",
+      "example_en": "Investors flocked to the bond because of its unusually high yield.",
+      "example_vi": "Các nhà đầu tư đổ xô mua trái phiếu này vì lợi suất cao bất thường của nó.",
+      "emoji": "📈"
+    },
+    {
+      "word": "capital gain",
+      "ipa": "/ˌkæpɪtl ˈɡeɪn/",
+      "pos": "n phr",
+      "vi": "lãi vốn (lời từ chênh lệch giá)",
+      "example_en": "She made a substantial capital gain when she sold the shares at a higher price.",
+      "example_vi": "Bà ấy thu được khoản lãi vốn đáng kể khi bán cổ phiếu với giá cao hơn.",
+      "emoji": "💵"
+    },
+    {
+      "word": "market capitalization",
+      "ipa": "/ˌmɑːkɪt ˌkæpɪtəlaɪˈzeɪʃn/",
+      "pos": "n phr",
+      "vi": "vốn hóa thị trường",
+      "example_en": "The tech giant's market capitalization exceeded two trillion dollars for the first time.",
+      "example_vi": "Vốn hóa thị trường của gã khổng lồ công nghệ này lần đầu vượt hai nghìn tỷ đô la.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "initial public offering",
+      "ipa": "/ɪˌnɪʃl ˌpʌblɪk ˈɒfərɪŋ/",
+      "pos": "n phr",
+      "vi": "phát hành cổ phiếu lần đầu ra công chúng (IPO)",
+      "example_en": "The startup raised billions through its initial public offering on Wall Street.",
+      "example_vi": "Công ty khởi nghiệp này đã huy động được hàng tỷ đô qua đợt phát hành cổ phiếu lần đầu ra công chúng trên Phố Wall.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "bull market",
+      "ipa": "/ˈbʊl ˌmɑːkɪt/",
+      "pos": "n phr",
+      "vi": "thị trường giá lên (thị trường bò)",
+      "example_en": "During the bull market, share prices climbed steadily for almost two years.",
+      "example_vi": "Trong thị trường giá lên, giá cổ phiếu tăng đều đặn suốt gần hai năm.",
+      "emoji": "🐂"
+    },
+    {
+      "word": "bear market",
+      "ipa": "/ˈbeə ˌmɑːkɪt/",
+      "pos": "n phr",
+      "vi": "thị trường giá xuống (thị trường gấu)",
+      "example_en": "Many investors panicked and sold their assets during the prolonged bear market.",
+      "example_vi": "Nhiều nhà đầu tư hoảng loạn và bán tháo tài sản trong thị trường giá xuống kéo dài.",
+      "emoji": "🐻"
+    },
+    {
+      "word": "venture capital",
+      "ipa": "/ˈventʃə ˌkæpɪtl/",
+      "pos": "n phr",
+      "vi": "vốn đầu tư mạo hiểm",
+      "example_en": "The app secured venture capital from several prominent Silicon Valley firms.",
+      "example_vi": "Ứng dụng này đã huy động được vốn đầu tư mạo hiểm từ nhiều công ty danh tiếng ở Thung lũng Silicon.",
+      "emoji": "🎲"
+    },
+    {
+      "word": "return on investment",
+      "ipa": "/rɪˌtɜːn ɒn ɪnˈvestmənt/",
+      "pos": "n phr",
+      "vi": "tỷ suất lợi nhuận trên vốn đầu tư (ROI)",
+      "example_en": "Managers must justify each project by estimating its likely return on investment.",
+      "example_vi": "Các nhà quản lý phải biện minh cho từng dự án bằng cách ước tính tỷ suất lợi nhuận trên vốn đầu tư có thể đạt được.",
+      "emoji": "💹"
+    },
+    {
+      "word": "blue-chip stock",
+      "ipa": "/ˌbluː tʃɪp ˈstɒk/",
+      "pos": "n phr",
+      "vi": "cổ phiếu blue-chip (cổ phiếu hàng đầu, ổn định)",
+      "example_en": "For a steady income, she prefers investing in reliable blue-chip stocks.",
+      "example_vi": "Để có thu nhập ổn định, bà ấy thích đầu tư vào các cổ phiếu blue-chip đáng tin cậy.",
+      "emoji": "💎"
+    },
+    {
+      "word": "diversification",
+      "ipa": "/daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "pos": "n",
+      "vi": "sự đa dạng hóa (đầu tư)",
+      "example_en": "Diversification helps reduce the impact of any single investment performing poorly.",
+      "example_vi": "Sự đa dạng hóa giúp giảm tác động khi bất kỳ khoản đầu tư đơn lẻ nào hoạt động kém.",
+      "emoji": "🧺"
+    },
+    {
+      "word": "asset allocation",
+      "ipa": "/ˈæset ˌæləˈkeɪʃn/",
+      "pos": "n phr",
+      "vi": "phân bổ tài sản",
+      "example_en": "Your asset allocation should shift towards safer investments as you near retirement.",
+      "example_vi": "Việc phân bổ tài sản của bạn nên chuyển dần sang các khoản đầu tư an toàn hơn khi gần đến tuổi nghỉ hưu.",
+      "emoji": "🥧"
+    },
+    {
+      "word": "mutual fund",
+      "ipa": "/ˌmjuːtʃuəl ˈfʌnd/",
+      "pos": "n phr",
+      "vi": "quỹ tương hỗ",
+      "example_en": "Investing in a mutual fund lets small investors pool their money professionally.",
+      "example_vi": "Đầu tư vào quỹ tương hỗ cho phép các nhà đầu tư nhỏ góp chung tiền và được quản lý chuyên nghiệp.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "hedge fund",
+      "ipa": "/ˈhedʒ ˌfʌnd/",
+      "pos": "n phr",
+      "vi": "quỹ phòng hộ",
+      "example_en": "The hedge fund employs aggressive strategies to generate high returns for wealthy clients.",
+      "example_vi": "Quỹ phòng hộ này áp dụng các chiến lược táo bạo để tạo ra lợi nhuận cao cho khách hàng giàu có.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "share buyback",
+      "ipa": "/ˈʃeə ˌbaɪbæk/",
+      "pos": "n phr",
+      "vi": "mua lại cổ phiếu",
+      "example_en": "The company announced a large share buyback to return cash to its investors.",
+      "example_vi": "Công ty công bố một đợt mua lại cổ phiếu lớn để trả lại tiền mặt cho các nhà đầu tư.",
+      "emoji": "🔄"
+    }
+  ]
+}

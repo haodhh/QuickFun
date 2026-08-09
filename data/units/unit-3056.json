@@ -1,0 +1,195 @@
+{
+  "id": 3056,
+  "slug": "awl-6",
+  "title_en": "Quantity & Data",
+  "title_vi": "Định lượng & số liệu",
+  "emoji": "📊",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "data",
+      "ipa": "/ˈdeɪtə/",
+      "pos": "n",
+      "vi": "dữ liệu, số liệu",
+      "example_en": "The researchers collected data from over five hundred participants across three countries.",
+      "example_vi": "Các nhà nghiên cứu đã thu thập dữ liệu từ hơn năm trăm người tham gia ở ba quốc gia.",
+      "emoji": "📊"
+    },
+    {
+      "word": "statistics",
+      "ipa": "/stəˈtɪstɪks/",
+      "pos": "n",
+      "vi": "số liệu thống kê; thống kê học",
+      "example_en": "Official statistics show that unemployment fell steadily over the past decade.",
+      "example_vi": "Số liệu thống kê chính thức cho thấy tỷ lệ thất nghiệp giảm đều trong suốt thập kỷ qua.",
+      "emoji": "📈"
+    },
+    {
+      "word": "proportion",
+      "ipa": "/prəˈpɔːʃn/",
+      "pos": "n",
+      "vi": "tỷ lệ, phần",
+      "example_en": "A large proportion of the students reported difficulty accessing online materials.",
+      "example_vi": "Một tỷ lệ lớn sinh viên cho biết gặp khó khăn khi truy cập tài liệu trực tuyến.",
+      "emoji": "🥧"
+    },
+    {
+      "word": "percentage",
+      "ipa": "/pəˈsentɪdʒ/",
+      "pos": "n",
+      "vi": "tỷ lệ phần trăm",
+      "example_en": "The percentage of households with internet access rose sharply after 2010.",
+      "example_vi": "Tỷ lệ phần trăm hộ gia đình có kết nối internet tăng mạnh sau năm 2010.",
+      "emoji": "💯"
+    },
+    {
+      "word": "figure",
+      "ipa": "/ˈfɪɡə/",
+      "pos": "n",
+      "vi": "con số, số liệu",
+      "example_en": "The latest figures indicate a slight decline in national carbon emissions.",
+      "example_vi": "Các con số mới nhất cho thấy lượng khí thải carbon quốc gia giảm nhẹ.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "estimate",
+      "ipa": "/ˈestɪmeɪt/",
+      "pos": "v/n",
+      "vi": "ước tính, ước lượng",
+      "example_en": "Experts estimate that the population will double within the next forty years.",
+      "example_vi": "Các chuyên gia ước tính rằng dân số sẽ tăng gấp đôi trong bốn mươi năm tới.",
+      "emoji": "📐"
+    },
+    {
+      "word": "approximately",
+      "ipa": "/əˈprɒksɪmətli/",
+      "pos": "adv",
+      "vi": "xấp xỉ, khoảng chừng",
+      "example_en": "Approximately two-thirds of respondents supported the proposed policy change.",
+      "example_vi": "Khoảng hai phần ba số người được hỏi ủng hộ thay đổi chính sách được đề xuất.",
+      "emoji": "≈"
+    },
+    {
+      "word": "significant",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "pos": "adj",
+      "vi": "đáng kể; có ý nghĩa (thống kê)",
+      "example_en": "The study found a significant difference between the two treatment groups.",
+      "example_vi": "Nghiên cứu tìm thấy một sự khác biệt đáng kể giữa hai nhóm điều trị.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "average",
+      "ipa": "/ˈævərɪdʒ/",
+      "pos": "n/adj",
+      "vi": "trung bình; mức trung bình",
+      "example_en": "The average score improved by ten points after the new method was introduced.",
+      "example_vi": "Điểm trung bình tăng mười điểm sau khi phương pháp mới được áp dụng.",
+      "emoji": "📊"
+    },
+    {
+      "word": "rate",
+      "ipa": "/reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ, tốc độ",
+      "example_en": "The country's birth rate has fallen consistently over the last two decades.",
+      "example_vi": "Tỷ lệ sinh của quốc gia này đã giảm liên tục trong hai thập kỷ qua.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "ratio",
+      "ipa": "/ˈreɪʃiəʊ/",
+      "pos": "n",
+      "vi": "tỷ số, tỷ lệ tương quan",
+      "example_en": "The ratio of teachers to students in the sample was roughly one to twenty.",
+      "example_vi": "Tỷ số giáo viên trên học sinh trong mẫu khảo sát là khoảng một trên hai mươi.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "quantity",
+      "ipa": "/ˈkwɒntəti/",
+      "pos": "n",
+      "vi": "số lượng, lượng",
+      "example_en": "Researchers measured the quantity of water each plant absorbed daily.",
+      "example_vi": "Các nhà nghiên cứu đo lượng nước mà mỗi cây hấp thụ mỗi ngày.",
+      "emoji": "📦"
+    },
+    {
+      "word": "measure",
+      "ipa": "/ˈmeʒə/",
+      "pos": "v/n",
+      "vi": "đo lường; thước đo, biện pháp",
+      "example_en": "The survey attempts to measure public attitudes towards renewable energy.",
+      "example_vi": "Cuộc khảo sát cố gắng đo lường thái độ của công chúng đối với năng lượng tái tạo.",
+      "emoji": "📏"
+    },
+    {
+      "word": "numerous",
+      "ipa": "/ˈnjuːmərəs/",
+      "pos": "adj",
+      "vi": "nhiều, đông đảo",
+      "example_en": "Numerous studies have confirmed the link between diet and heart disease.",
+      "example_vi": "Nhiều nghiên cứu đã xác nhận mối liên hệ giữa chế độ ăn và bệnh tim.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "substantial",
+      "ipa": "/səbˈstænʃl/",
+      "pos": "adj",
+      "vi": "đáng kể, lớn",
+      "example_en": "The project received substantial funding from both government and private sources.",
+      "example_vi": "Dự án nhận được nguồn tài trợ đáng kể từ cả nhà nước lẫn tư nhân.",
+      "emoji": "💰"
+    },
+    {
+      "word": "minimal",
+      "ipa": "/ˈmɪnɪml/",
+      "pos": "adj",
+      "vi": "tối thiểu, rất ít",
+      "example_en": "The new drug produced minimal side effects in most of the patients tested.",
+      "example_vi": "Loại thuốc mới gây ra tác dụng phụ tối thiểu ở hầu hết bệnh nhân được thử nghiệm.",
+      "emoji": "🔽"
+    },
+    {
+      "word": "considerable",
+      "ipa": "/kənˈsɪdərəbl/",
+      "pos": "adj",
+      "vi": "đáng kể, khá lớn",
+      "example_en": "There is considerable evidence that early education improves long-term outcomes.",
+      "example_vi": "Có bằng chứng đáng kể cho thấy giáo dục sớm cải thiện kết quả về lâu dài.",
+      "emoji": "📈"
+    },
+    {
+      "word": "threshold",
+      "ipa": "/ˈθreʃhəʊld/",
+      "pos": "n",
+      "vi": "ngưỡng, mức giới hạn",
+      "example_en": "Any value above this threshold is considered statistically significant.",
+      "example_vi": "Bất kỳ giá trị nào vượt ngưỡng này đều được coi là có ý nghĩa thống kê.",
+      "emoji": "🚧"
+    },
+    {
+      "word": "margin",
+      "ipa": "/ˈmɑːdʒɪn/",
+      "pos": "n",
+      "vi": "biên độ, khoảng chênh",
+      "example_en": "The results are accurate to within a margin of error of three percent.",
+      "example_vi": "Kết quả chính xác trong phạm vi biên độ sai số ba phần trăm.",
+      "emoji": "📉"
+    },
+    {
+      "word": "accumulate",
+      "ipa": "/əˈkjuːmjəleɪt/",
+      "pos": "v",
+      "vi": "tích lũy, dồn lại",
+      "example_en": "Over time, small measurement errors can accumulate and distort the final results.",
+      "example_vi": "Theo thời gian, các sai số đo lường nhỏ có thể tích lũy và làm sai lệch kết quả cuối cùng.",
+      "emoji": "🗄️"
+    }
+  ]
+}

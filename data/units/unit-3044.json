@@ -1,0 +1,195 @@
+{
+  "id": 3044,
+  "slug": "ielts-4",
+  "title_en": "Linking & Argumentation",
+  "title_vi": "Từ nối & lập luận",
+  "emoji": "🔗",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "furthermore",
+      "ipa": "/ˌfɜːðəˈmɔː/",
+      "pos": "adv",
+      "vi": "hơn nữa, thêm vào đó",
+      "example_en": "The policy reduces traffic; furthermore, it significantly lowers air pollution in the city centre.",
+      "example_vi": "Chính sách này giảm ùn tắc; hơn nữa, nó còn giảm đáng kể ô nhiễm không khí ở trung tâm thành phố.",
+      "emoji": "➕"
+    },
+    {
+      "word": "nevertheless",
+      "ipa": "/ˌnevəðəˈles/",
+      "pos": "adv",
+      "vi": "tuy nhiên, dù vậy",
+      "example_en": "The evidence was limited; nevertheless, the researchers reached a fairly convincing conclusion.",
+      "example_vi": "Bằng chứng còn hạn chế; tuy nhiên, các nhà nghiên cứu vẫn đi đến một kết luận khá thuyết phục.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "consequently",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "pos": "adv",
+      "vi": "do đó, vì thế",
+      "example_en": "Demand for housing has soared; consequently, rental prices have risen sharply this year.",
+      "example_vi": "Nhu cầu nhà ở tăng vọt; do đó, giá thuê đã tăng mạnh trong năm nay.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "in contrast",
+      "ipa": "/ɪn ˈkɒntrɑːst/",
+      "pos": "phr",
+      "vi": "trái lại, ngược lại",
+      "example_en": "City schools are well funded; in contrast, many rural ones struggle to buy basic equipment.",
+      "example_vi": "Trường học thành phố được cấp kinh phí tốt; trái lại, nhiều trường nông thôn chật vật mua thiết bị cơ bản.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "on the other hand",
+      "ipa": "/ɒn ði ˈʌðə hænd/",
+      "pos": "phr",
+      "vi": "mặt khác",
+      "example_en": "Working from home saves commuting time; on the other hand, it can blur work-life boundaries.",
+      "example_vi": "Làm việc tại nhà tiết kiệm thời gian đi lại; mặt khác, nó có thể làm mờ ranh giới giữa công việc và cuộc sống.",
+      "emoji": "✋"
+    },
+    {
+      "word": "as a result",
+      "ipa": "/æz ə rɪˈzʌlt/",
+      "pos": "phr",
+      "vi": "kết quả là",
+      "example_en": "The company invested heavily in training, and as a result, staff turnover fell noticeably.",
+      "example_vi": "Công ty đầu tư mạnh vào đào tạo, và kết quả là tỷ lệ nhân viên nghỉ việc giảm rõ rệt.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "despite this",
+      "ipa": "/dɪˈspaɪt ðɪs/",
+      "pos": "phr",
+      "vi": "dù vậy, bất chấp điều này",
+      "example_en": "The film received harsh reviews; despite this, it became a surprising box-office success.",
+      "example_vi": "Bộ phim nhận nhiều đánh giá gay gắt; dù vậy, nó lại trở thành một hiện tượng phòng vé bất ngờ.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "moreover",
+      "ipa": "/mɔːˈrəʊvə/",
+      "pos": "adv",
+      "vi": "hơn nữa, ngoài ra",
+      "example_en": "The plan is expensive; moreover, there is little evidence that it would actually work.",
+      "example_vi": "Kế hoạch này tốn kém; hơn nữa, có rất ít bằng chứng cho thấy nó thực sự hiệu quả.",
+      "emoji": "📌"
+    },
+    {
+      "word": "therefore",
+      "ipa": "/ˈðeəfɔː/",
+      "pos": "adv",
+      "vi": "do đó, vì vậy",
+      "example_en": "The data are inconsistent and therefore cannot be used to support such a firm claim.",
+      "example_vi": "Dữ liệu không nhất quán và do đó không thể dùng để chứng minh một nhận định chắc chắn như vậy.",
+      "emoji": "✅"
+    },
+    {
+      "word": "whereas",
+      "ipa": "/weərˈæz/",
+      "pos": "conj",
+      "vi": "trong khi (đó)",
+      "example_en": "Older generations tend to value job security, whereas younger workers often prioritise flexibility.",
+      "example_vi": "Thế hệ lớn tuổi thường coi trọng sự ổn định công việc, trong khi người lao động trẻ lại ưu tiên sự linh hoạt.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "in addition",
+      "ipa": "/ɪn əˈdɪʃn/",
+      "pos": "phr",
+      "vi": "ngoài ra, thêm vào đó",
+      "example_en": "The course improves your grammar; in addition, it builds confidence in academic writing.",
+      "example_vi": "Khóa học cải thiện ngữ pháp của bạn; ngoài ra, nó còn xây dựng sự tự tin trong viết học thuật.",
+      "emoji": "➕"
+    },
+    {
+      "word": "for instance",
+      "ipa": "/fər ˈɪnstəns/",
+      "pos": "phr",
+      "vi": "ví dụ, chẳng hạn",
+      "example_en": "Many everyday habits harm the environment; for instance, leaving devices on standby wastes energy.",
+      "example_vi": "Nhiều thói quen hằng ngày gây hại cho môi trường; ví dụ, để thiết bị ở chế độ chờ gây lãng phí năng lượng.",
+      "emoji": "💡"
+    },
+    {
+      "word": "to a certain extent",
+      "ipa": "/tu ə ˈsɜːtn ɪkˈstent/",
+      "pos": "phr",
+      "vi": "ở một mức độ nhất định",
+      "example_en": "I agree with the argument to a certain extent, but it overlooks several important exceptions.",
+      "example_vi": "Tôi đồng ý với lập luận này ở một mức độ nhất định, nhưng nó bỏ qua vài ngoại lệ quan trọng.",
+      "emoji": "📊"
+    },
+    {
+      "word": "arguably",
+      "ipa": "/ˈɑːɡjuəbli/",
+      "pos": "adv",
+      "vi": "có thể lập luận rằng, có lẽ",
+      "example_en": "This is arguably the most influential study on the topic published in the last decade.",
+      "example_vi": "Có thể lập luận rằng đây là nghiên cứu có ảnh hưởng nhất về chủ đề này được công bố trong thập kỷ qua.",
+      "emoji": "🤔"
+    },
+    {
+      "word": "by comparison",
+      "ipa": "/baɪ kəmˈpærɪsn/",
+      "pos": "phr",
+      "vi": "so với đó, khi so sánh",
+      "example_en": "The first proposal is risky; by comparison, the second one seems far more practical.",
+      "example_vi": "Đề xuất thứ nhất rủi ro; so với đó, đề xuất thứ hai có vẻ thực tế hơn nhiều.",
+      "emoji": "📈"
+    },
+    {
+      "word": "on the whole",
+      "ipa": "/ɒn ðə həʊl/",
+      "pos": "phr",
+      "vi": "nhìn chung, về tổng thể",
+      "example_en": "There were a few weak sections, but on the whole the report was clear and well argued.",
+      "example_vi": "Có vài phần còn yếu, nhưng nhìn chung bản báo cáo rõ ràng và lập luận chặt chẽ.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "in light of",
+      "ipa": "/ɪn ˈlaɪt əv/",
+      "pos": "phr",
+      "vi": "xét theo, dựa trên",
+      "example_en": "In light of recent findings, the government has decided to revise its safety guidelines.",
+      "example_vi": "Xét theo những phát hiện gần đây, chính phủ đã quyết định điều chỉnh các hướng dẫn an toàn.",
+      "emoji": "🔦"
+    },
+    {
+      "word": "albeit",
+      "ipa": "/ɔːlˈbiːɪt/",
+      "pos": "conj",
+      "vi": "mặc dù, dẫu rằng",
+      "example_en": "The economy is recovering, albeit slowly, after a difficult and prolonged recession.",
+      "example_vi": "Nền kinh tế đang phục hồi, dẫu rằng chậm chạp, sau một cuộc suy thoái kéo dài và khó khăn.",
+      "emoji": "🌗"
+    },
+    {
+      "word": "notwithstanding",
+      "ipa": "/ˌnɒtwɪðˈstændɪŋ/",
+      "pos": "prep",
+      "vi": "mặc dù, bất chấp",
+      "example_en": "Notwithstanding the high costs, the project was approved because of its long-term benefits.",
+      "example_vi": "Bất chấp chi phí cao, dự án vẫn được phê duyệt nhờ những lợi ích lâu dài của nó.",
+      "emoji": "🚧"
+    },
+    {
+      "word": "conversely",
+      "ipa": "/ˈkɒnvɜːsli/",
+      "pos": "adv",
+      "vi": "ngược lại",
+      "example_en": "Praise can boost motivation; conversely, constant criticism often makes learners give up.",
+      "example_vi": "Lời khen có thể tăng động lực; ngược lại, sự chỉ trích liên tục thường khiến người học bỏ cuộc.",
+      "emoji": "🔀"
+    }
+  ]
+}

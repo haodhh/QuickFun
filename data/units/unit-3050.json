@@ -1,0 +1,195 @@
+{
+  "id": 3050,
+  "slug": "ielts-10",
+  "title_en": "Society, Crime & Global Issues",
+  "title_vi": "Xã hội, tội phạm & vấn đề toàn cầu",
+  "emoji": "⚖️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "crime rate",
+      "ipa": "/ˈkraɪm reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ tội phạm",
+      "example_en": "The crime rate in the city has fallen sharply over the past decade.",
+      "example_vi": "Tỷ lệ tội phạm ở thành phố đã giảm mạnh trong thập kỷ qua.",
+      "emoji": "📉"
+    },
+    {
+      "word": "law enforcement",
+      "ipa": "/ˈlɔː ɪnˌfɔːsmənt/",
+      "pos": "n",
+      "vi": "lực lượng thực thi pháp luật",
+      "example_en": "Law enforcement agencies are working together to tackle organised crime.",
+      "example_vi": "Các cơ quan thực thi pháp luật đang phối hợp để giải quyết tội phạm có tổ chức.",
+      "emoji": "👮"
+    },
+    {
+      "word": "juvenile delinquency",
+      "ipa": "/ˈdʒuːvənaɪl dɪˈlɪŋkwənsi/",
+      "pos": "n",
+      "vi": "tình trạng phạm pháp ở thanh thiếu niên",
+      "example_en": "Poverty and a lack of education are often linked to juvenile delinquency.",
+      "example_vi": "Nghèo đói và thiếu giáo dục thường liên quan đến tình trạng phạm pháp ở thanh thiếu niên.",
+      "emoji": "🧑‍⚖️"
+    },
+    {
+      "word": "capital punishment",
+      "ipa": "/ˌkæpɪtl ˈpʌnɪʃmənt/",
+      "pos": "n",
+      "vi": "án tử hình",
+      "example_en": "Many countries have abolished capital punishment on human rights grounds.",
+      "example_vi": "Nhiều quốc gia đã bãi bỏ án tử hình vì lý do nhân quyền.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "deterrent",
+      "ipa": "/dɪˈterənt/",
+      "pos": "n",
+      "vi": "biện pháp răn đe",
+      "example_en": "Harsher sentences are intended to act as a deterrent to would-be criminals.",
+      "example_vi": "Những bản án nghiêm khắc hơn nhằm đóng vai trò răn đe những kẻ có ý định phạm tội.",
+      "emoji": "🚧"
+    },
+    {
+      "word": "offender",
+      "ipa": "/əˈfendə/",
+      "pos": "n",
+      "vi": "người phạm tội",
+      "example_en": "First-time offenders are often given community service instead of prison.",
+      "example_vi": "Người phạm tội lần đầu thường bị phạt lao động công ích thay vì ngồi tù.",
+      "emoji": "🚔"
+    },
+    {
+      "word": "legislation",
+      "ipa": "/ˌledʒɪsˈleɪʃn/",
+      "pos": "n",
+      "vi": "pháp luật, luật lệ",
+      "example_en": "The government has introduced new legislation to combat online fraud.",
+      "example_vi": "Chính phủ đã ban hành luật mới để chống lừa đảo trực tuyến.",
+      "emoji": "📜"
+    },
+    {
+      "word": "antisocial behaviour",
+      "ipa": "/ˌæntiˈsəʊʃl bɪˈheɪvjə/",
+      "pos": "n",
+      "vi": "hành vi chống đối xã hội",
+      "example_en": "Vandalism and noise are common forms of antisocial behaviour in the area.",
+      "example_vi": "Phá hoại và gây ồn là những dạng hành vi chống đối xã hội phổ biến trong khu vực.",
+      "emoji": "🚯"
+    },
+    {
+      "word": "social cohesion",
+      "ipa": "/ˌsəʊʃl kəʊˈhiːʒn/",
+      "pos": "n",
+      "vi": "sự gắn kết xã hội",
+      "example_en": "Community events help to strengthen social cohesion among residents.",
+      "example_vi": "Các sự kiện cộng đồng giúp củng cố sự gắn kết xã hội giữa cư dân.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "discrimination",
+      "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+      "pos": "n",
+      "vi": "sự phân biệt đối xử",
+      "example_en": "The new law bans discrimination based on age, gender or religion.",
+      "example_vi": "Luật mới cấm phân biệt đối xử dựa trên tuổi tác, giới tính hay tôn giáo.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "social inequality",
+      "ipa": "/ˌsəʊʃl ˌɪnɪˈkwɒləti/",
+      "pos": "n",
+      "vi": "bất bình đẳng xã hội",
+      "example_en": "The gap between rich and poor is a clear sign of social inequality.",
+      "example_vi": "Khoảng cách giữa người giàu và người nghèo là dấu hiệu rõ ràng của bất bình đẳng xã hội.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "globalisation",
+      "ipa": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+      "pos": "n",
+      "vi": "toàn cầu hóa",
+      "example_en": "Globalisation has made it easier for companies to trade across borders.",
+      "example_vi": "Toàn cầu hóa đã giúp các công ty giao thương xuyên biên giới dễ dàng hơn.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "cultural diversity",
+      "ipa": "/ˌkʌltʃərəl daɪˈvɜːsəti/",
+      "pos": "n",
+      "vi": "sự đa dạng văn hóa",
+      "example_en": "The city is proud of its rich cultural diversity and many languages.",
+      "example_vi": "Thành phố tự hào về sự đa dạng văn hóa phong phú và nhiều ngôn ngữ của mình.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "multiculturalism",
+      "ipa": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+      "pos": "n",
+      "vi": "chủ nghĩa đa văn hóa",
+      "example_en": "Multiculturalism has become a defining feature of modern British society.",
+      "example_vi": "Chủ nghĩa đa văn hóa đã trở thành đặc điểm nổi bật của xã hội Anh hiện đại.",
+      "emoji": "🕌"
+    },
+    {
+      "word": "immigration",
+      "ipa": "/ˌɪmɪˈɡreɪʃn/",
+      "pos": "n",
+      "vi": "sự nhập cư",
+      "example_en": "Immigration has helped to fill labour shortages in many industries.",
+      "example_vi": "Nhập cư đã giúp bù đắp tình trạng thiếu lao động trong nhiều ngành.",
+      "emoji": "🛂"
+    },
+    {
+      "word": "cultural identity",
+      "ipa": "/ˌkʌltʃərəl aɪˈdentəti/",
+      "pos": "n",
+      "vi": "bản sắc văn hóa",
+      "example_en": "Learning their mother tongue helps children preserve their cultural identity.",
+      "example_vi": "Học tiếng mẹ đẻ giúp trẻ em gìn giữ bản sắc văn hóa của mình.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "social norms",
+      "ipa": "/ˌsəʊʃl ˈnɔːmz/",
+      "pos": "n",
+      "vi": "chuẩn mực xã hội",
+      "example_en": "What counts as polite behaviour depends on the social norms of each culture.",
+      "example_vi": "Điều được coi là lịch sự phụ thuộc vào chuẩn mực xã hội của mỗi nền văn hóa.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "welfare state",
+      "ipa": "/ˈwelfeə steɪt/",
+      "pos": "n",
+      "vi": "nhà nước phúc lợi",
+      "example_en": "The welfare state provides free healthcare and support for the unemployed.",
+      "example_vi": "Nhà nước phúc lợi cung cấp chăm sóc y tế miễn phí và hỗ trợ cho người thất nghiệp.",
+      "emoji": "🏥"
+    },
+    {
+      "word": "poverty",
+      "ipa": "/ˈpɒvəti/",
+      "pos": "n",
+      "vi": "sự nghèo đói",
+      "example_en": "Millions of people around the world still live in extreme poverty.",
+      "example_vi": "Hàng triệu người trên thế giới vẫn sống trong cảnh nghèo đói cùng cực.",
+      "emoji": "🍞"
+    },
+    {
+      "word": "cultural heritage",
+      "ipa": "/ˌkʌltʃərəl ˈherɪtɪdʒ/",
+      "pos": "n",
+      "vi": "di sản văn hóa",
+      "example_en": "The ancient temples are an important part of the country's cultural heritage.",
+      "example_vi": "Những ngôi đền cổ là một phần quan trọng trong di sản văn hóa của đất nước.",
+      "emoji": "🏛️"
+    }
+  ]
+}

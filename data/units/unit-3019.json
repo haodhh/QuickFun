@@ -1,0 +1,195 @@
+{
+  "id": 3019,
+  "slug": "travel-9",
+  "title_en": "Problems & Emergencies",
+  "title_vi": "Sự cố & khẩn cấp",
+  "emoji": "🚨",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "emergency",
+      "ipa": "/ɪˈmɜːdʒənsi/",
+      "pos": "n",
+      "vi": "trường hợp khẩn cấp",
+      "example_en": "In an emergency, call this number for help.",
+      "example_vi": "Trong trường hợp khẩn cấp, hãy gọi số này để được giúp đỡ.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "accident",
+      "ipa": "/ˈæksɪdənt/",
+      "pos": "n",
+      "vi": "tai nạn",
+      "example_en": "There was a car accident near our hotel this morning.",
+      "example_vi": "Có một vụ tai nạn ô tô gần khách sạn của chúng tôi sáng nay.",
+      "emoji": "💥"
+    },
+    {
+      "word": "call an ambulance",
+      "ipa": "/kɔːl ən ˈæmbjələns/",
+      "pos": "phr",
+      "vi": "gọi xe cứu thương",
+      "example_en": "She is hurt badly, so please call an ambulance now.",
+      "example_vi": "Cô ấy bị thương nặng, nên hãy gọi xe cứu thương ngay.",
+      "emoji": "🚑"
+    },
+    {
+      "word": "police station",
+      "ipa": "/pəˈliːs ˌsteɪʃn/",
+      "pos": "n",
+      "vi": "đồn cảnh sát",
+      "example_en": "I went to the police station to report my lost bag.",
+      "example_vi": "Tôi đến đồn cảnh sát để trình báo chiếc túi bị mất.",
+      "emoji": "🚓"
+    },
+    {
+      "word": "pharmacy",
+      "ipa": "/ˈfɑːməsi/",
+      "pos": "n",
+      "vi": "hiệu thuốc",
+      "example_en": "You can buy medicine at the pharmacy near the station.",
+      "example_vi": "Bạn có thể mua thuốc ở hiệu thuốc gần nhà ga.",
+      "emoji": "💊"
+    },
+    {
+      "word": "first aid",
+      "ipa": "/ˌfɜːst ˈeɪd/",
+      "pos": "n",
+      "vi": "sơ cứu",
+      "example_en": "The hotel staff gave first aid to the injured man.",
+      "example_vi": "Nhân viên khách sạn đã sơ cứu cho người đàn ông bị thương.",
+      "emoji": "🩹"
+    },
+    {
+      "word": "injured",
+      "ipa": "/ˈɪndʒəd/",
+      "pos": "adj",
+      "vi": "bị thương",
+      "example_en": "Two people were injured in the accident.",
+      "example_vi": "Hai người bị thương trong vụ tai nạn.",
+      "emoji": "🤕"
+    },
+    {
+      "word": "report a theft",
+      "ipa": "/rɪˌpɔːt ə ˈθeft/",
+      "pos": "phr",
+      "vi": "trình báo vụ trộm",
+      "example_en": "I need to report a theft because someone took my phone.",
+      "example_vi": "Tôi cần trình báo một vụ trộm vì có người lấy mất điện thoại của tôi.",
+      "emoji": "🕵️"
+    },
+    {
+      "word": "fire brigade",
+      "ipa": "/ˈfaɪə brɪˌɡeɪd/",
+      "pos": "n",
+      "vi": "đội cứu hỏa",
+      "example_en": "The fire brigade came quickly to put out the fire.",
+      "example_vi": "Đội cứu hỏa đến nhanh chóng để dập tắt đám cháy.",
+      "emoji": "🚒"
+    },
+    {
+      "word": "call for help",
+      "ipa": "/kɔːl fə ˈhelp/",
+      "pos": "phr",
+      "vi": "kêu cứu, gọi giúp đỡ",
+      "example_en": "When he fell into the water, we called for help.",
+      "example_vi": "Khi anh ấy ngã xuống nước, chúng tôi đã kêu cứu.",
+      "emoji": "🆘"
+    },
+    {
+      "word": "lost property",
+      "ipa": "/ˌlɒst ˈprɒpəti/",
+      "pos": "n",
+      "vi": "đồ thất lạc",
+      "example_en": "I found my umbrella at the lost property office.",
+      "example_vi": "Tôi tìm thấy chiếc ô của mình ở phòng đồ thất lạc.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "travel insurance",
+      "ipa": "/ˈtrævl ɪnˌʃʊərəns/",
+      "pos": "n",
+      "vi": "bảo hiểm du lịch",
+      "example_en": "Travel insurance will pay if you get sick on holiday.",
+      "example_vi": "Bảo hiểm du lịch sẽ chi trả nếu bạn bị ốm trong kỳ nghỉ.",
+      "emoji": "📋"
+    },
+    {
+      "word": "breakdown",
+      "ipa": "/ˈbreɪkdaʊn/",
+      "pos": "n",
+      "vi": "sự hỏng xe giữa đường",
+      "example_en": "We had a breakdown on the motorway and waited for help.",
+      "example_vi": "Xe chúng tôi bị hỏng trên đường cao tốc và phải chờ trợ giúp.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "flat tyre",
+      "ipa": "/ˌflæt ˈtaɪə/",
+      "pos": "n",
+      "vi": "lốp xe xẹp",
+      "example_en": "My bike has a flat tyre, so I can't ride it.",
+      "example_vi": "Xe đạp của tôi bị xẹp lốp nên tôi không thể đi được.",
+      "emoji": "🛞"
+    },
+    {
+      "word": "fever",
+      "ipa": "/ˈfiːvə/",
+      "pos": "n",
+      "vi": "sốt",
+      "example_en": "My son has a high fever and feels very hot.",
+      "example_vi": "Con trai tôi bị sốt cao và cảm thấy rất nóng.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "painkiller",
+      "ipa": "/ˈpeɪnkɪlə/",
+      "pos": "n",
+      "vi": "thuốc giảm đau",
+      "example_en": "I took a painkiller because my head hurt a lot.",
+      "example_vi": "Tôi uống một viên thuốc giảm đau vì đầu tôi rất đau.",
+      "emoji": "💊"
+    },
+    {
+      "word": "embassy",
+      "ipa": "/ˈembəsi/",
+      "pos": "n",
+      "vi": "đại sứ quán",
+      "example_en": "If you lose your passport, go to your country's embassy.",
+      "example_vi": "Nếu bạn mất hộ chiếu, hãy đến đại sứ quán nước bạn.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "food poisoning",
+      "ipa": "/ˈfuːd ˌpɔɪzənɪŋ/",
+      "pos": "n",
+      "vi": "ngộ độc thực phẩm",
+      "example_en": "He got food poisoning after eating the old fish.",
+      "example_vi": "Anh ấy bị ngộ độc thực phẩm sau khi ăn con cá để lâu.",
+      "emoji": "🤢"
+    },
+    {
+      "word": "danger",
+      "ipa": "/ˈdeɪndʒə/",
+      "pos": "n",
+      "vi": "sự nguy hiểm",
+      "example_en": "The sign says there is danger of falling rocks.",
+      "example_vi": "Biển báo nói rằng có nguy hiểm đá rơi.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "pos": "n",
+      "vi": "bệnh viện",
+      "example_en": "They took the injured woman to the hospital by ambulance.",
+      "example_vi": "Họ đưa người phụ nữ bị thương đến bệnh viện bằng xe cứu thương.",
+      "emoji": "🏥"
+    }
+  ]
+}

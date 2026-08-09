@@ -1,0 +1,195 @@
+{
+  "id": 3013,
+  "slug": "travel-3",
+  "title_en": "At the Hotel",
+  "title_vi": "Ở khách sạn",
+  "emoji": "🏨",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "reception",
+      "ipa": "/rɪˈsepʃn/",
+      "pos": "n",
+      "vi": "quầy lễ tân",
+      "example_en": "Please leave your key at reception when you go out.",
+      "example_vi": "Vui lòng để lại chìa khóa ở quầy lễ tân khi bạn ra ngoài.",
+      "emoji": "🛎️"
+    },
+    {
+      "word": "reservation",
+      "ipa": "/ˌrezəˈveɪʃn/",
+      "pos": "n",
+      "vi": "việc đặt chỗ, đặt phòng",
+      "example_en": "I have a reservation for two nights under the name Nam.",
+      "example_vi": "Tôi có đặt phòng hai đêm dưới tên Nam.",
+      "emoji": "📝"
+    },
+    {
+      "word": "single room",
+      "ipa": "/ˌsɪŋɡl ˈruːm/",
+      "pos": "n",
+      "vi": "phòng đơn",
+      "example_en": "I'd like to book a single room for tonight.",
+      "example_vi": "Tôi muốn đặt một phòng đơn cho tối nay.",
+      "emoji": "🛏️"
+    },
+    {
+      "word": "double room",
+      "ipa": "/ˌdʌbl ˈruːm/",
+      "pos": "n",
+      "vi": "phòng đôi",
+      "example_en": "We booked a double room with a big bed.",
+      "example_vi": "Chúng tôi đã đặt một phòng đôi có giường lớn.",
+      "emoji": "🛌"
+    },
+    {
+      "word": "key card",
+      "ipa": "/ˈkiː kɑːd/",
+      "pos": "n",
+      "vi": "thẻ chìa khóa phòng",
+      "example_en": "Use your key card to open the hotel room door.",
+      "example_vi": "Dùng thẻ chìa khóa để mở cửa phòng khách sạn.",
+      "emoji": "💳"
+    },
+    {
+      "word": "room service",
+      "ipa": "/ˈruːm ˌsɜːvɪs/",
+      "pos": "n",
+      "vi": "dịch vụ phòng",
+      "example_en": "We ordered dinner from room service last night.",
+      "example_vi": "Tối qua chúng tôi gọi bữa tối từ dịch vụ phòng.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "wake-up call",
+      "ipa": "/ˈweɪk ʌp kɔːl/",
+      "pos": "n",
+      "vi": "cuộc gọi báo thức",
+      "example_en": "Can I have a wake-up call at six in the morning?",
+      "example_vi": "Tôi có thể nhận cuộc gọi báo thức lúc sáu giờ sáng không?",
+      "emoji": "⏰"
+    },
+    {
+      "word": "mini-bar",
+      "ipa": "/ˈmɪni bɑː/",
+      "pos": "n",
+      "vi": "tủ lạnh mini trong phòng",
+      "example_en": "The drinks in the mini-bar are quite expensive.",
+      "example_vi": "Đồ uống trong tủ lạnh mini khá đắt.",
+      "emoji": "🧊"
+    },
+    {
+      "word": "en-suite bathroom",
+      "ipa": "/ˌɒn swiːt ˈbɑːθruːm/",
+      "pos": "n",
+      "vi": "phòng tắm riêng trong phòng ngủ",
+      "example_en": "Every room has its own en-suite bathroom.",
+      "example_vi": "Mỗi phòng đều có phòng tắm riêng bên trong.",
+      "emoji": "🚿"
+    },
+    {
+      "word": "air conditioning",
+      "ipa": "/ˈeə kənˌdɪʃənɪŋ/",
+      "pos": "n",
+      "vi": "máy điều hòa không khí",
+      "example_en": "Please turn on the air conditioning; the room is hot.",
+      "example_vi": "Làm ơn bật điều hòa; căn phòng nóng quá.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "check-out",
+      "ipa": "/ˈtʃek aʊt/",
+      "pos": "n",
+      "vi": "việc trả phòng",
+      "example_en": "Check-out is at eleven o'clock, so please pack early.",
+      "example_vi": "Giờ trả phòng là mười một giờ, nên hãy soạn đồ sớm.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "vacancy",
+      "ipa": "/ˈveɪkənsi/",
+      "pos": "n",
+      "vi": "phòng trống",
+      "example_en": "The sign outside says the hotel has a vacancy.",
+      "example_vi": "Tấm biển bên ngoài cho biết khách sạn còn phòng trống.",
+      "emoji": "🟢"
+    },
+    {
+      "word": "fully booked",
+      "ipa": "/ˌfʊli ˈbʊkt/",
+      "pos": "adj",
+      "vi": "hết phòng, kín chỗ",
+      "example_en": "Sorry, the hotel is fully booked this weekend.",
+      "example_vi": "Xin lỗi, khách sạn đã kín phòng vào cuối tuần này.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "guesthouse",
+      "ipa": "/ˈɡesthaʊs/",
+      "pos": "n",
+      "vi": "nhà nghỉ",
+      "example_en": "We stayed in a small guesthouse near the beach.",
+      "example_vi": "Chúng tôi ở trong một nhà nghỉ nhỏ gần bãi biển.",
+      "emoji": "🏡"
+    },
+    {
+      "word": "extra bed",
+      "ipa": "/ˌekstrə ˈbed/",
+      "pos": "n",
+      "vi": "giường phụ",
+      "example_en": "Could you put an extra bed in our room for the child?",
+      "example_vi": "Bạn có thể kê thêm một giường phụ trong phòng cho cháu bé không?",
+      "emoji": "🛏️"
+    },
+    {
+      "word": "sea view",
+      "ipa": "/ˈsiː vjuː/",
+      "pos": "n",
+      "vi": "tầm nhìn ra biển",
+      "example_en": "Our room has a lovely sea view from the window.",
+      "example_vi": "Phòng của chúng tôi có tầm nhìn ra biển đẹp từ cửa sổ.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "breakfast included",
+      "ipa": "/ˌbrekfəst ɪnˈkluːdɪd/",
+      "pos": "phr",
+      "vi": "đã bao gồm bữa sáng",
+      "example_en": "The room costs fifty dollars, breakfast included.",
+      "example_vi": "Phòng có giá năm mươi đô la, đã bao gồm bữa sáng.",
+      "emoji": "🍳"
+    },
+    {
+      "word": "lobby",
+      "ipa": "/ˈlɒbi/",
+      "pos": "n",
+      "vi": "sảnh khách sạn",
+      "example_en": "Let's meet in the lobby at nine o'clock.",
+      "example_vi": "Hãy gặp nhau ở sảnh khách sạn lúc chín giờ.",
+      "emoji": "🏨"
+    },
+    {
+      "word": "housekeeping",
+      "ipa": "/ˈhaʊskiːpɪŋ/",
+      "pos": "n",
+      "vi": "bộ phận dọn phòng",
+      "example_en": "Housekeeping cleans the rooms every morning.",
+      "example_vi": "Bộ phận dọn phòng làm sạch các phòng mỗi sáng.",
+      "emoji": "🧹"
+    },
+    {
+      "word": "book a room",
+      "ipa": "/ˌbʊk ə ˈruːm/",
+      "pos": "phr",
+      "vi": "đặt một phòng",
+      "example_en": "I want to book a room for three nights, please.",
+      "example_vi": "Tôi muốn đặt một phòng cho ba đêm.",
+      "emoji": "📅"
+    }
+  ]
+}

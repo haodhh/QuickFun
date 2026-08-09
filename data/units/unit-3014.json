@@ -1,0 +1,195 @@
+{
+  "id": 3014,
+  "slug": "travel-4",
+  "title_en": "Getting Around & Directions",
+  "title_vi": "Đi lại & phương hướng",
+  "emoji": "🧭",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "bus stop",
+      "ipa": "/ˈbʌs stɒp/",
+      "pos": "n",
+      "vi": "điểm dừng xe buýt",
+      "example_en": "I'll wait for you at the bus stop near the school.",
+      "example_vi": "Mình sẽ đợi bạn ở điểm dừng xe buýt gần trường.",
+      "emoji": "🚏"
+    },
+    {
+      "word": "train station",
+      "ipa": "/ˈtreɪn ˌsteɪʃn/",
+      "pos": "n",
+      "vi": "ga tàu",
+      "example_en": "The train station is about ten minutes from my house.",
+      "example_vi": "Ga tàu cách nhà tôi khoảng mười phút.",
+      "emoji": "🚉"
+    },
+    {
+      "word": "platform",
+      "ipa": "/ˈplætfɔːm/",
+      "pos": "n",
+      "vi": "sân ga (thềm ke ga)",
+      "example_en": "Your train leaves from platform four.",
+      "example_vi": "Tàu của bạn khởi hành từ sân ga số bốn.",
+      "emoji": "🛤️"
+    },
+    {
+      "word": "ticket machine",
+      "ipa": "/ˈtɪkɪt məˌʃiːn/",
+      "pos": "n",
+      "vi": "máy bán vé tự động",
+      "example_en": "You can buy a ticket from the ticket machine over there.",
+      "example_vi": "Bạn có thể mua vé ở máy bán vé tự động đằng kia.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "timetable",
+      "ipa": "/ˈtaɪmˌteɪbl/",
+      "pos": "n",
+      "vi": "bảng giờ chạy, lịch trình",
+      "example_en": "Check the timetable to see when the next bus comes.",
+      "example_vi": "Xem bảng giờ chạy để biết khi nào xe buýt tiếp theo đến.",
+      "emoji": "📋"
+    },
+    {
+      "word": "subway",
+      "ipa": "/ˈsʌbweɪ/",
+      "pos": "n",
+      "vi": "tàu điện ngầm",
+      "example_en": "We took the subway to the city centre.",
+      "example_vi": "Chúng tôi đi tàu điện ngầm đến trung tâm thành phố.",
+      "emoji": "🚇"
+    },
+    {
+      "word": "taxi rank",
+      "ipa": "/ˈtæksi ræŋk/",
+      "pos": "n",
+      "vi": "điểm đỗ taxi",
+      "example_en": "There is a taxi rank right outside the station.",
+      "example_vi": "Có một điểm đỗ taxi ngay bên ngoài nhà ga.",
+      "emoji": "🚕"
+    },
+    {
+      "word": "traffic lights",
+      "ipa": "/ˈtræfɪk laɪts/",
+      "pos": "n",
+      "vi": "đèn giao thông",
+      "example_en": "Stop when the traffic lights turn red.",
+      "example_vi": "Hãy dừng lại khi đèn giao thông chuyển sang màu đỏ.",
+      "emoji": "🚦"
+    },
+    {
+      "word": "roundabout",
+      "ipa": "/ˈraʊndəbaʊt/",
+      "pos": "n",
+      "vi": "vòng xuyến, bùng binh",
+      "example_en": "Take the second exit at the roundabout.",
+      "example_vi": "Đi ra lối thứ hai ở vòng xuyến.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "crossroads",
+      "ipa": "/ˈkrɒsrəʊdz/",
+      "pos": "n",
+      "vi": "ngã tư",
+      "example_en": "Turn right at the crossroads and you'll see the shop.",
+      "example_vi": "Rẽ phải ở ngã tư và bạn sẽ thấy cửa hàng.",
+      "emoji": "✖️"
+    },
+    {
+      "word": "turn left",
+      "ipa": "/ˌtɜːn ˈleft/",
+      "pos": "phr",
+      "vi": "rẽ trái",
+      "example_en": "Turn left after the bank and go up the hill.",
+      "example_vi": "Rẽ trái sau ngân hàng rồi đi lên dốc.",
+      "emoji": "⬅️"
+    },
+    {
+      "word": "turn right",
+      "ipa": "/ˌtɜːn ˈraɪt/",
+      "pos": "phr",
+      "vi": "rẽ phải",
+      "example_en": "Turn right at the end of the street.",
+      "example_vi": "Rẽ phải ở cuối con phố.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "go straight ahead",
+      "ipa": "/ˌɡəʊ ˌstreɪt əˈhed/",
+      "pos": "phr",
+      "vi": "đi thẳng về phía trước",
+      "example_en": "Go straight ahead until you reach the park.",
+      "example_vi": "Đi thẳng về phía trước cho đến khi bạn tới công viên.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "get off",
+      "ipa": "/ˌɡet ˈɒf/",
+      "pos": "phr v",
+      "vi": "xuống xe (tàu, buýt)",
+      "example_en": "We need to get off at the next stop.",
+      "example_vi": "Chúng ta cần xuống xe ở điểm dừng tiếp theo.",
+      "emoji": "🚶"
+    },
+    {
+      "word": "next stop",
+      "ipa": "/ˌnekst ˈstɒp/",
+      "pos": "n",
+      "vi": "điểm dừng tiếp theo",
+      "example_en": "The next stop is the train station.",
+      "example_vi": "Điểm dừng tiếp theo là ga tàu.",
+      "emoji": "🚏"
+    },
+    {
+      "word": "car park",
+      "ipa": "/ˈkɑː pɑːk/",
+      "pos": "n",
+      "vi": "bãi đỗ xe",
+      "example_en": "You can leave your car in the car park behind the mall.",
+      "example_vi": "Bạn có thể để xe ở bãi đỗ xe phía sau trung tâm mua sắm.",
+      "emoji": "🅿️"
+    },
+    {
+      "word": "pedestrian crossing",
+      "ipa": "/pəˌdestriən ˈkrɒsɪŋ/",
+      "pos": "n",
+      "vi": "vạch qua đường cho người đi bộ",
+      "example_en": "Always use the pedestrian crossing to cross the road.",
+      "example_vi": "Hãy luôn dùng vạch qua đường cho người đi bộ để sang đường.",
+      "emoji": "🚸"
+    },
+    {
+      "word": "map",
+      "ipa": "/mæp/",
+      "pos": "n",
+      "vi": "bản đồ",
+      "example_en": "I looked at the map to find the museum.",
+      "example_vi": "Tôi nhìn bản đồ để tìm bảo tàng.",
+      "emoji": "🗺️"
+    },
+    {
+      "word": "get lost",
+      "ipa": "/ˌɡet ˈlɒst/",
+      "pos": "phr",
+      "vi": "bị lạc đường",
+      "example_en": "We got lost in the old town without a map.",
+      "example_vi": "Chúng tôi bị lạc đường trong khu phố cổ vì không có bản đồ.",
+      "emoji": "❓"
+    },
+    {
+      "word": "on foot",
+      "ipa": "/ɒn ˈfʊt/",
+      "pos": "adv",
+      "vi": "đi bộ",
+      "example_en": "The station is close, so we can go there on foot.",
+      "example_vi": "Nhà ga ở gần nên chúng ta có thể đi bộ tới đó.",
+      "emoji": "🦶"
+    }
+  ]
+}

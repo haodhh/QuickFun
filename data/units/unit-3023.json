@@ -1,0 +1,195 @@
+{
+  "id": 3023,
+  "slug": "toeic-3",
+  "title_en": "Meetings & Presentations",
+  "title_vi": "Họp & thuyết trình",
+  "emoji": "📊",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "pos": "n",
+      "vi": "chương trình họp",
+      "example_en": "Let's follow the agenda so the meeting finishes on time.",
+      "example_vi": "Hãy bám theo chương trình họp để cuộc họp kết thúc đúng giờ.",
+      "emoji": "📋"
+    },
+    {
+      "word": "meeting minutes",
+      "ipa": "/ˈmiːtɪŋ ˈmɪnɪts/",
+      "pos": "n",
+      "vi": "biên bản cuộc họp",
+      "example_en": "She emailed the meeting minutes to everyone the next morning.",
+      "example_vi": "Cô ấy gửi biên bản cuộc họp cho mọi người vào sáng hôm sau.",
+      "emoji": "📝"
+    },
+    {
+      "word": "attendee",
+      "ipa": "/əˌtenˈdiː/",
+      "pos": "n",
+      "vi": "người tham dự",
+      "example_en": "Every attendee received a copy of the report before the talk.",
+      "example_vi": "Mỗi người tham dự nhận được một bản báo cáo trước buổi nói chuyện.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "chairperson",
+      "ipa": "/ˈtʃeəpɜːsn/",
+      "pos": "n",
+      "vi": "người chủ trì",
+      "example_en": "The chairperson opened the meeting and welcomed the new staff.",
+      "example_vi": "Người chủ trì khai mạc cuộc họp và chào đón nhân viên mới.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "brainstorm",
+      "ipa": "/ˈbreɪnstɔːm/",
+      "pos": "v",
+      "vi": "động não, nghĩ ý tưởng",
+      "example_en": "Let's brainstorm a few ideas before we choose the best one.",
+      "example_vi": "Hãy cùng động não vài ý tưởng trước khi chọn ra ý hay nhất.",
+      "emoji": "💡"
+    },
+    {
+      "word": "reschedule",
+      "ipa": "/ˌriːˈʃedjuːl/",
+      "pos": "v",
+      "vi": "dời lịch, xếp lại lịch",
+      "example_en": "We had to reschedule the meeting because the manager was sick.",
+      "example_vi": "Chúng tôi phải dời lịch cuộc họp vì quản lý bị ốm.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "keynote",
+      "ipa": "/ˈkiːnəʊt/",
+      "pos": "n",
+      "vi": "bài phát biểu chính",
+      "example_en": "The CEO gave the keynote at the annual conference.",
+      "example_vi": "Giám đốc điều hành trình bày bài phát biểu chính tại hội nghị thường niên.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "slideshow",
+      "ipa": "/ˈslaɪdʃəʊ/",
+      "pos": "n",
+      "vi": "bài trình chiếu",
+      "example_en": "He prepared a short slideshow to explain the sales figures.",
+      "example_vi": "Anh ấy chuẩn bị một bài trình chiếu ngắn để giải thích số liệu bán hàng.",
+      "emoji": "🖥️"
+    },
+    {
+      "word": "handout",
+      "ipa": "/ˈhændaʊt/",
+      "pos": "n",
+      "vi": "tài liệu phát tay",
+      "example_en": "Please take a handout and pass the rest along.",
+      "example_vi": "Vui lòng lấy một tài liệu phát tay và chuyển phần còn lại đi.",
+      "emoji": "📄"
+    },
+    {
+      "word": "flip chart",
+      "ipa": "/ˈflɪp tʃɑːt/",
+      "pos": "n",
+      "vi": "bảng giấy lật",
+      "example_en": "The trainer wrote the main points on the flip chart.",
+      "example_vi": "Người hướng dẫn viết các ý chính lên bảng giấy lật.",
+      "emoji": "📊"
+    },
+    {
+      "word": "action item",
+      "ipa": "/ˈækʃn ˈaɪtəm/",
+      "pos": "n",
+      "vi": "việc cần làm (sau họp)",
+      "example_en": "Each action item was given to a different team member.",
+      "example_vi": "Mỗi việc cần làm được giao cho một thành viên khác trong nhóm.",
+      "emoji": "✅"
+    },
+    {
+      "word": "follow-up",
+      "ipa": "/ˈfɒləʊ ʌp/",
+      "pos": "n",
+      "vi": "việc theo dõi tiếp",
+      "example_en": "I'll send a follow-up email to confirm the details.",
+      "example_vi": "Tôi sẽ gửi một email theo dõi để xác nhận các chi tiết.",
+      "emoji": "📧"
+    },
+    {
+      "word": "conference call",
+      "ipa": "/ˈkɒnfərəns kɔːl/",
+      "pos": "n",
+      "vi": "cuộc gọi hội nghị",
+      "example_en": "We joined a conference call with the office in Tokyo.",
+      "example_vi": "Chúng tôi tham gia một cuộc gọi hội nghị với văn phòng ở Tokyo.",
+      "emoji": "📞"
+    },
+    {
+      "word": "venue",
+      "ipa": "/ˈvenjuː/",
+      "pos": "n",
+      "vi": "địa điểm tổ chức",
+      "example_en": "The venue for this year's conference is a hotel downtown.",
+      "example_vi": "Địa điểm tổ chức hội nghị năm nay là một khách sạn ở trung tâm.",
+      "emoji": "📍"
+    },
+    {
+      "word": "postpone",
+      "ipa": "/pəˈspəʊn/",
+      "pos": "v",
+      "vi": "hoãn lại",
+      "example_en": "They decided to postpone the presentation until next week.",
+      "example_vi": "Họ quyết định hoãn buổi thuyết trình đến tuần sau.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "adjourn",
+      "ipa": "/əˈdʒɜːn/",
+      "pos": "v",
+      "vi": "kết thúc, tạm nghỉ họp",
+      "example_en": "The chairperson adjourned the meeting after two hours.",
+      "example_vi": "Người chủ trì kết thúc cuộc họp sau hai giờ.",
+      "emoji": "🔚"
+    },
+    {
+      "word": "vote",
+      "ipa": "/vəʊt/",
+      "pos": "v",
+      "vi": "biểu quyết, bỏ phiếu",
+      "example_en": "The team will vote on the new plan at the end of the meeting.",
+      "example_vi": "Cả nhóm sẽ biểu quyết về kế hoạch mới vào cuối cuộc họp.",
+      "emoji": "🗳️"
+    },
+    {
+      "word": "proposal",
+      "ipa": "/prəˈpəʊzl/",
+      "pos": "n",
+      "vi": "đề xuất, bản đề nghị",
+      "example_en": "She presented a clear proposal to cut the project's costs.",
+      "example_vi": "Cô ấy trình bày một đề xuất rõ ràng để cắt giảm chi phí dự án.",
+      "emoji": "📑"
+    },
+    {
+      "word": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "pos": "n",
+      "vi": "phản hồi, góp ý",
+      "example_en": "The manager gave helpful feedback after the presentation.",
+      "example_vi": "Người quản lý đưa ra phản hồi hữu ích sau buổi thuyết trình.",
+      "emoji": "💬"
+    },
+    {
+      "word": "Q&A session",
+      "ipa": "/ˌkjuː ənd ˈeɪ ˈseʃn/",
+      "pos": "n",
+      "vi": "phần hỏi đáp",
+      "example_en": "There will be a short Q&A session after the talk.",
+      "example_vi": "Sẽ có một phần hỏi đáp ngắn sau bài nói chuyện.",
+      "emoji": "❓"
+    }
+  ]
+}

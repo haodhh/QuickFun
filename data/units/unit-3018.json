@@ -1,0 +1,195 @@
+{
+  "id": 3018,
+  "slug": "travel-8",
+  "title_en": "Trip Weather",
+  "title_vi": "Thời tiết chuyến đi",
+  "emoji": "🌦️",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "weather forecast",
+      "ipa": "/ˈweðə ˈfɔːkɑːst/",
+      "pos": "n",
+      "vi": "dự báo thời tiết",
+      "example_en": "I always check the weather forecast before a trip.",
+      "example_vi": "Tôi luôn xem dự báo thời tiết trước mỗi chuyến đi.",
+      "emoji": "📺"
+    },
+    {
+      "word": "sunny",
+      "ipa": "/ˈsʌni/",
+      "pos": "adj",
+      "vi": "nắng, có nắng",
+      "example_en": "It was warm and sunny on the beach all day.",
+      "example_vi": "Trời ấm và nắng trên bãi biển suốt cả ngày.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "cloudy",
+      "ipa": "/ˈklaʊdi/",
+      "pos": "adj",
+      "vi": "nhiều mây, u ám",
+      "example_en": "The sky is cloudy, so it might rain later.",
+      "example_vi": "Bầu trời nhiều mây, nên có thể mưa sau đó.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "rainy",
+      "ipa": "/ˈreɪni/",
+      "pos": "adj",
+      "vi": "mưa, có mưa",
+      "example_en": "We stayed in the hotel on the rainy afternoon.",
+      "example_vi": "Chúng tôi ở lại khách sạn trong buổi chiều mưa.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "windy",
+      "ipa": "/ˈwɪndi/",
+      "pos": "adj",
+      "vi": "có gió, nhiều gió",
+      "example_en": "It was too windy to open my umbrella.",
+      "example_vi": "Trời gió quá nên tôi không mở được ô.",
+      "emoji": "💨"
+    },
+    {
+      "word": "foggy",
+      "ipa": "/ˈfɒɡi/",
+      "pos": "adj",
+      "vi": "có sương mù",
+      "example_en": "The mountain was foggy, so we couldn't see much.",
+      "example_vi": "Ngọn núi nhiều sương mù nên chúng tôi không nhìn thấy gì mấy.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "stormy",
+      "ipa": "/ˈstɔːmi/",
+      "pos": "adj",
+      "vi": "có bão, giông bão",
+      "example_en": "The sea was stormy, so the boat trip was cancelled.",
+      "example_vi": "Biển động vì bão nên chuyến đi thuyền bị hủy.",
+      "emoji": "⛈️"
+    },
+    {
+      "word": "humid",
+      "ipa": "/ˈhjuːmɪd/",
+      "pos": "adj",
+      "vi": "ẩm, oi ẩm",
+      "example_en": "The weather in summer is very hot and humid here.",
+      "example_vi": "Thời tiết mùa hè ở đây rất nóng và oi ẩm.",
+      "emoji": "💧"
+    },
+    {
+      "word": "temperature",
+      "ipa": "/ˈtemprətʃə/",
+      "pos": "n",
+      "vi": "nhiệt độ",
+      "example_en": "The temperature drops a lot at night in the desert.",
+      "example_vi": "Nhiệt độ giảm nhiều vào ban đêm ở sa mạc.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "degrees",
+      "ipa": "/dɪˈɡriːz/",
+      "pos": "n",
+      "vi": "độ (nhiệt độ)",
+      "example_en": "It's about thirty degrees today, so wear light clothes.",
+      "example_vi": "Hôm nay khoảng ba mươi độ, nên mặc đồ mỏng nhé.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "heatwave",
+      "ipa": "/ˈhiːtweɪv/",
+      "pos": "n",
+      "vi": "đợt nắng nóng",
+      "example_en": "During the heatwave, we drank a lot of water.",
+      "example_vi": "Trong đợt nắng nóng, chúng tôi uống rất nhiều nước.",
+      "emoji": "🥵"
+    },
+    {
+      "word": "shower",
+      "ipa": "/ˈʃaʊə/",
+      "pos": "n",
+      "vi": "cơn mưa rào",
+      "example_en": "There was a short shower, but the sun came out again.",
+      "example_vi": "Có một cơn mưa rào ngắn, nhưng rồi nắng lại lên.",
+      "emoji": "🌦️"
+    },
+    {
+      "word": "umbrella",
+      "ipa": "/ʌmˈbrelə/",
+      "pos": "n",
+      "vi": "cái ô, cái dù",
+      "example_en": "Take an umbrella because it looks like rain.",
+      "example_vi": "Mang theo cái ô vì trời có vẻ sắp mưa.",
+      "emoji": "☂️"
+    },
+    {
+      "word": "sunscreen",
+      "ipa": "/ˈsʌnskriːn/",
+      "pos": "n",
+      "vi": "kem chống nắng",
+      "example_en": "Don't forget your sunscreen at the beach.",
+      "example_vi": "Đừng quên kem chống nắng khi ra bãi biển.",
+      "emoji": "🧴"
+    },
+    {
+      "word": "sunglasses",
+      "ipa": "/ˈsʌnɡlɑːsɪz/",
+      "pos": "n",
+      "vi": "kính râm",
+      "example_en": "I wear sunglasses when the sun is very bright.",
+      "example_vi": "Tôi đeo kính râm khi nắng rất chói.",
+      "emoji": "🕶️"
+    },
+    {
+      "word": "raincoat",
+      "ipa": "/ˈreɪnkəʊt/",
+      "pos": "n",
+      "vi": "áo mưa",
+      "example_en": "She put on a raincoat before going out.",
+      "example_vi": "Cô ấy mặc áo mưa trước khi ra ngoài.",
+      "emoji": "🧥"
+    },
+    {
+      "word": "snow",
+      "ipa": "/snəʊ/",
+      "pos": "n",
+      "vi": "tuyết",
+      "example_en": "The children were happy to see snow for the first time.",
+      "example_vi": "Bọn trẻ rất vui khi lần đầu thấy tuyết.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "thunderstorm",
+      "ipa": "/ˈθʌndəstɔːm/",
+      "pos": "n",
+      "vi": "cơn giông (sấm sét)",
+      "example_en": "We heard a loud thunderstorm during the night.",
+      "example_vi": "Chúng tôi nghe thấy một cơn giông lớn trong đêm.",
+      "emoji": "🌩️"
+    },
+    {
+      "word": "mild",
+      "ipa": "/maɪld/",
+      "pos": "adj",
+      "vi": "ôn hòa, dịu (thời tiết)",
+      "example_en": "The weather in spring is usually mild and pleasant.",
+      "example_vi": "Thời tiết mùa xuân thường ôn hòa và dễ chịu.",
+      "emoji": "🌤️"
+    },
+    {
+      "word": "chilly",
+      "ipa": "/ˈtʃɪli/",
+      "pos": "adj",
+      "vi": "se lạnh, lành lạnh",
+      "example_en": "The mornings are chilly, so bring a warm jacket.",
+      "example_vi": "Buổi sáng se lạnh, nên mang theo áo khoác ấm.",
+      "emoji": "🧣"
+    }
+  ]
+}

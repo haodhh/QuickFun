@@ -1,0 +1,195 @@
+{
+  "id": 3030,
+  "slug": "toeic-10",
+  "title_en": "Office Technology",
+  "title_vi": "Công nghệ văn phòng",
+  "emoji": "💻",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "laptop",
+      "ipa": "/ˈlæp.tɒp/",
+      "pos": "n",
+      "vi": "máy tính xách tay",
+      "example_en": "She takes her laptop to every meeting to write notes.",
+      "example_vi": "Cô ấy mang máy tính xách tay đến mọi cuộc họp để ghi chú.",
+      "emoji": "💻"
+    },
+    {
+      "word": "printer",
+      "ipa": "/ˈprɪn.tər/",
+      "pos": "n",
+      "vi": "máy in",
+      "example_en": "The printer on the third floor is out of ink again.",
+      "example_vi": "Máy in ở tầng ba lại hết mực rồi.",
+      "emoji": "🖨️"
+    },
+    {
+      "word": "scanner",
+      "ipa": "/ˈskæn.ər/",
+      "pos": "n",
+      "vi": "máy quét",
+      "example_en": "Please use the scanner to make a digital copy of the contract.",
+      "example_vi": "Vui lòng dùng máy quét để tạo bản sao số của hợp đồng.",
+      "emoji": "🖨️"
+    },
+    {
+      "word": "photocopier",
+      "ipa": "/ˈfəʊ.təʊˌkɒp.i.ər/",
+      "pos": "n",
+      "vi": "máy photocopy",
+      "example_en": "The photocopier jammed while I was copying the report.",
+      "example_vi": "Máy photocopy bị kẹt giấy khi tôi đang sao chép báo cáo.",
+      "emoji": "📄"
+    },
+    {
+      "word": "password",
+      "ipa": "/ˈpɑːs.wɜːd/",
+      "pos": "n",
+      "vi": "mật khẩu",
+      "example_en": "You should change your password every few months for safety.",
+      "example_vi": "Bạn nên đổi mật khẩu vài tháng một lần để đảm bảo an toàn.",
+      "emoji": "🔑"
+    },
+    {
+      "word": "software",
+      "ipa": "/ˈsɒft.weər/",
+      "pos": "n",
+      "vi": "phần mềm",
+      "example_en": "Our team installed new software to manage customer orders.",
+      "example_vi": "Nhóm chúng tôi đã cài phần mềm mới để quản lý đơn hàng của khách.",
+      "emoji": "🖥️"
+    },
+    {
+      "word": "spreadsheet",
+      "ipa": "/ˈspred.ʃiːt/",
+      "pos": "n",
+      "vi": "bảng tính",
+      "example_en": "I keep track of the monthly budget in a spreadsheet.",
+      "example_vi": "Tôi theo dõi ngân sách hàng tháng trong một bảng tính.",
+      "emoji": "📊"
+    },
+    {
+      "word": "database",
+      "ipa": "/ˈdeɪ.tə.beɪs/",
+      "pos": "n",
+      "vi": "cơ sở dữ liệu",
+      "example_en": "All customer information is stored in a secure database.",
+      "example_vi": "Toàn bộ thông tin khách hàng được lưu trong một cơ sở dữ liệu bảo mật.",
+      "emoji": "🗄️"
+    },
+    {
+      "word": "server",
+      "ipa": "/ˈsɜː.vər/",
+      "pos": "n",
+      "vi": "máy chủ",
+      "example_en": "The company's email server was down for two hours this morning.",
+      "example_vi": "Máy chủ email của công ty bị ngừng hoạt động trong hai giờ sáng nay.",
+      "emoji": "🖥️"
+    },
+    {
+      "word": "backup",
+      "ipa": "/ˈbæk.ʌp/",
+      "pos": "n",
+      "vi": "bản sao lưu",
+      "example_en": "Always make a backup of your files before updating the system.",
+      "example_vi": "Luôn tạo bản sao lưu các tệp của bạn trước khi cập nhật hệ thống.",
+      "emoji": "💾"
+    },
+    {
+      "word": "attachment",
+      "ipa": "/əˈtætʃ.mənt/",
+      "pos": "n",
+      "vi": "tệp đính kèm",
+      "example_en": "I forgot to add the attachment, so I sent the email again.",
+      "example_vi": "Tôi quên đính kèm tệp nên đã gửi lại email.",
+      "emoji": "📎"
+    },
+    {
+      "word": "spam",
+      "ipa": "/spæm/",
+      "pos": "n",
+      "vi": "thư rác",
+      "example_en": "My inbox is full of spam advertising cheap holidays.",
+      "example_vi": "Hộp thư của tôi đầy thư rác quảng cáo các kỳ nghỉ giá rẻ.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "Wi-Fi",
+      "ipa": "/ˈwaɪ.faɪ/",
+      "pos": "n",
+      "vi": "mạng Wi-Fi",
+      "example_en": "The hotel offers free Wi-Fi in every room.",
+      "example_vi": "Khách sạn cung cấp Wi-Fi miễn phí trong mỗi phòng.",
+      "emoji": "📶"
+    },
+    {
+      "word": "download",
+      "ipa": "/ˌdaʊnˈləʊd/",
+      "pos": "v",
+      "vi": "tải xuống",
+      "example_en": "You can download the app from the company website.",
+      "example_vi": "Bạn có thể tải ứng dụng xuống từ trang web của công ty.",
+      "emoji": "⬇️"
+    },
+    {
+      "word": "troubleshoot",
+      "ipa": "/ˈtrʌb.əl.ʃuːt/",
+      "pos": "v",
+      "vi": "xử lý sự cố",
+      "example_en": "The IT team will troubleshoot the network problem this afternoon.",
+      "example_vi": "Nhóm IT sẽ xử lý sự cố mạng vào chiều nay.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "USB drive",
+      "ipa": "/ˌjuː.es.biː ˈdraɪv/",
+      "pos": "n",
+      "vi": "ổ USB",
+      "example_en": "He saved the presentation on a USB drive to use later.",
+      "example_vi": "Anh ấy lưu bài thuyết trình vào ổ USB để dùng sau.",
+      "emoji": "🔌"
+    },
+    {
+      "word": "log in",
+      "ipa": "/ˌlɒɡ ˈɪn/",
+      "pos": "phr v",
+      "vi": "đăng nhập",
+      "example_en": "You need a username and password to log in to the system.",
+      "example_vi": "Bạn cần tên đăng nhập và mật khẩu để đăng nhập vào hệ thống.",
+      "emoji": "🔓"
+    },
+    {
+      "word": "cloud storage",
+      "ipa": "/ˌklaʊd ˈstɔː.rɪdʒ/",
+      "pos": "n",
+      "vi": "lưu trữ đám mây",
+      "example_en": "We use cloud storage so the team can access files from anywhere.",
+      "example_vi": "Chúng tôi dùng lưu trữ đám mây để cả nhóm có thể truy cập tệp từ bất cứ đâu.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "headset",
+      "ipa": "/ˈhed.set/",
+      "pos": "n",
+      "vi": "tai nghe có micro",
+      "example_en": "She wears a headset while taking calls in the call centre.",
+      "example_vi": "Cô ấy đeo tai nghe có micro khi nhận cuộc gọi ở tổng đài.",
+      "emoji": "🎧"
+    },
+    {
+      "word": "videoconferencing",
+      "ipa": "/ˈvɪd.i.əʊˌkɒn.fər.ən.sɪŋ/",
+      "pos": "n",
+      "vi": "họp trực tuyến qua video",
+      "example_en": "Videoconferencing lets our staff join meetings from different countries.",
+      "example_vi": "Họp trực tuyến qua video cho phép nhân viên của chúng tôi tham gia các cuộc họp từ nhiều quốc gia khác nhau.",
+      "emoji": "📹"
+    }
+  ]
+}

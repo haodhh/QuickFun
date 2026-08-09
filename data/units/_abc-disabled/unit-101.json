@@ -1,0 +1,263 @@
+{
+  "id": 101,
+  "slug": "abc-function-words",
+  "title_en": "Function Words",
+  "title_vi": "Hư từ & từ nối",
+  "emoji": "🔤",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "a",
+      "ipa": "/ə/",
+      "pos": "art",
+      "vi": "một (mạo từ không xác định)",
+      "example_en": "I have a cat.",
+      "example_vi": "Tôi có một con mèo.",
+      "emoji": "1️⃣"
+    },
+    {
+      "word": "an",
+      "ipa": "/ən/",
+      "pos": "art",
+      "vi": "một (trước nguyên âm)",
+      "example_en": "I eat an apple.",
+      "example_vi": "Tôi ăn một quả táo.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "the",
+      "ipa": "/ðə/",
+      "pos": "art",
+      "vi": "cái/con... (mạo từ xác định)",
+      "example_en": "The sun is hot.",
+      "example_vi": "Mặt trời thì nóng.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "and",
+      "ipa": "/ænd/",
+      "pos": "conj",
+      "vi": "và",
+      "example_en": "You and I are friends.",
+      "example_vi": "Bạn và tôi là bạn bè.",
+      "emoji": "➕"
+    },
+    {
+      "word": "but",
+      "ipa": "/bʌt/",
+      "pos": "conj",
+      "vi": "nhưng",
+      "example_en": "I am small but strong.",
+      "example_vi": "Tôi nhỏ nhưng khỏe.",
+      "emoji": "🔀"
+    },
+    {
+      "word": "or",
+      "ipa": "/ɔː/",
+      "pos": "conj",
+      "vi": "hoặc, hay",
+      "example_en": "Tea or coffee?",
+      "example_vi": "Trà hay cà phê?",
+      "emoji": "❓"
+    },
+    {
+      "word": "so",
+      "ipa": "/səʊ/",
+      "pos": "conj",
+      "vi": "vì vậy, nên",
+      "example_en": "I am tired, so I sleep.",
+      "example_vi": "Tôi mệt, nên tôi đi ngủ.",
+      "emoji": "😴"
+    },
+    {
+      "word": "because",
+      "ipa": "/bɪˈkɒz/",
+      "pos": "conj",
+      "vi": "bởi vì",
+      "example_en": "I cry because I am sad.",
+      "example_vi": "Tôi khóc vì tôi buồn.",
+      "emoji": "😢"
+    },
+    {
+      "word": "if",
+      "ipa": "/ɪf/",
+      "pos": "conj",
+      "vi": "nếu",
+      "example_en": "If it rains, I stay home.",
+      "example_vi": "Nếu trời mưa, tôi ở nhà.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "in",
+      "ipa": "/ɪn/",
+      "pos": "prep",
+      "vi": "trong, ở trong",
+      "example_en": "The cat is in the box.",
+      "example_vi": "Con mèo ở trong hộp.",
+      "emoji": "📦"
+    },
+    {
+      "word": "on",
+      "ipa": "/ɒn/",
+      "pos": "prep",
+      "vi": "trên (bề mặt)",
+      "example_en": "The book is on the table.",
+      "example_vi": "Quyển sách ở trên bàn.",
+      "emoji": "📖"
+    },
+    {
+      "word": "at",
+      "ipa": "/æt/",
+      "pos": "prep",
+      "vi": "tại, ở",
+      "example_en": "I am at home.",
+      "example_vi": "Tôi đang ở nhà.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "to",
+      "ipa": "/tuː/",
+      "pos": "prep",
+      "vi": "đến, tới",
+      "example_en": "I go to school.",
+      "example_vi": "Tôi đi đến trường.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "of",
+      "ipa": "/ɒv/",
+      "pos": "prep",
+      "vi": "của",
+      "example_en": "A cup of tea.",
+      "example_vi": "Một tách trà.",
+      "emoji": "☕"
+    },
+    {
+      "word": "for",
+      "ipa": "/fɔː/",
+      "pos": "prep",
+      "vi": "cho, dành cho",
+      "example_en": "This gift is for you.",
+      "example_vi": "Món quà này dành cho bạn.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "with",
+      "ipa": "/wɪð/",
+      "pos": "prep",
+      "vi": "với, cùng với",
+      "example_en": "I play with my dog.",
+      "example_vi": "Tôi chơi với con chó của tôi.",
+      "emoji": "🐕"
+    },
+    {
+      "word": "from",
+      "ipa": "/frɒm/",
+      "pos": "prep",
+      "vi": "từ",
+      "example_en": "I am from Vietnam.",
+      "example_vi": "Tôi đến từ Việt Nam.",
+      "emoji": "🌏"
+    },
+    {
+      "word": "about",
+      "ipa": "/əˈbaʊt/",
+      "pos": "prep",
+      "vi": "về (chủ đề)",
+      "example_en": "This book is about cats.",
+      "example_vi": "Quyển sách này nói về mèo.",
+      "emoji": "💬"
+    },
+    {
+      "word": "under",
+      "ipa": "/ˈʌndə/",
+      "pos": "prep",
+      "vi": "dưới, bên dưới",
+      "example_en": "The ball is under the bed.",
+      "example_vi": "Quả bóng ở dưới gầm giường.",
+      "emoji": "⬇️"
+    },
+    {
+      "word": "over",
+      "ipa": "/ˈəʊvə/",
+      "pos": "prep",
+      "vi": "phía trên, qua",
+      "example_en": "The bird flies over the house.",
+      "example_vi": "Con chim bay qua ngôi nhà.",
+      "emoji": "🕊️"
+    },
+    {
+      "word": "near",
+      "ipa": "/nɪə/",
+      "pos": "prep",
+      "vi": "gần",
+      "example_en": "My house is near the school.",
+      "example_vi": "Nhà tôi ở gần trường.",
+      "emoji": "📍"
+    },
+    {
+      "word": "not",
+      "ipa": "/nɒt/",
+      "pos": "adv",
+      "vi": "không",
+      "example_en": "I am not sad.",
+      "example_vi": "Tôi không buồn.",
+      "emoji": "❌"
+    },
+    {
+      "word": "some",
+      "ipa": "/sʌm/",
+      "pos": "det",
+      "vi": "một vài, một ít",
+      "example_en": "I want some water.",
+      "example_vi": "Tôi muốn một ít nước.",
+      "emoji": "💧"
+    },
+    {
+      "word": "any",
+      "ipa": "/ˈeni/",
+      "pos": "det",
+      "vi": "nào, bất kỳ (câu hỏi/phủ định)",
+      "example_en": "Do you have any pens?",
+      "example_vi": "Bạn có cây bút nào không?",
+      "emoji": "✏️"
+    },
+    {
+      "word": "all",
+      "ipa": "/ɔːl/",
+      "pos": "det",
+      "vi": "tất cả, toàn bộ",
+      "example_en": "All the cats are black.",
+      "example_vi": "Tất cả những con mèo đều màu đen.",
+      "emoji": "💯"
+    },
+    {
+      "word": "every",
+      "ipa": "/ˈevri/",
+      "pos": "det",
+      "vi": "mỗi, mọi",
+      "example_en": "I brush my teeth every day.",
+      "example_vi": "Tôi đánh răng mỗi ngày.",
+      "emoji": "📅"
+    },
+    {
+      "word": "again",
+      "ipa": "/əˈɡen/",
+      "pos": "adv",
+      "vi": "lại, lần nữa",
+      "example_en": "Please say it again.",
+      "example_vi": "Xin hãy nói lại lần nữa.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "also",
+      "ipa": "/ˈɔːlsəʊ/",
+      "pos": "adv",
+      "vi": "cũng, cũng vậy",
+      "example_en": "I like tea. I also like coffee.",
+      "example_vi": "Tôi thích trà. Tôi cũng thích cà phê.",
+      "emoji": "➕"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 3059,
+  "slug": "awl-9",
+  "title_en": "Presentation & Evidence",
+  "title_vi": "Trình bày & dẫn chứng",
+  "emoji": "📑",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "evidence",
+      "ipa": "/ˈevɪdəns/",
+      "pos": "n",
+      "vi": "bằng chứng, chứng cứ",
+      "example_en": "The study provides strong evidence that regular exercise improves memory.",
+      "example_vi": "Nghiên cứu cung cấp bằng chứng mạnh mẽ rằng việc tập thể dục đều đặn cải thiện trí nhớ.",
+      "emoji": "🔎"
+    },
+    {
+      "word": "demonstrate",
+      "ipa": "/ˈdemənstreɪt/",
+      "pos": "v",
+      "vi": "chứng minh, cho thấy",
+      "example_en": "The results clearly demonstrate the link between diet and heart disease.",
+      "example_vi": "Các kết quả chứng minh rõ ràng mối liên hệ giữa chế độ ăn và bệnh tim.",
+      "emoji": "📊"
+    },
+    {
+      "word": "illustrate",
+      "ipa": "/ˈɪləstreɪt/",
+      "pos": "v",
+      "vi": "minh họa, làm rõ bằng ví dụ",
+      "example_en": "The graph illustrates how temperatures have risen over the past century.",
+      "example_vi": "Biểu đồ minh họa nhiệt độ đã tăng như thế nào trong thế kỷ qua.",
+      "emoji": "📈"
+    },
+    {
+      "word": "indicate",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "pos": "v",
+      "vi": "chỉ ra, cho thấy",
+      "example_en": "The data indicate a steady decline in reading habits among teenagers.",
+      "example_vi": "Dữ liệu cho thấy sự suy giảm đều đặn trong thói quen đọc sách ở thanh thiếu niên.",
+      "emoji": "👉"
+    },
+    {
+      "word": "reveal",
+      "ipa": "/rɪˈviːl/",
+      "pos": "v",
+      "vi": "tiết lộ, hé lộ",
+      "example_en": "The survey reveals that most students prefer online learning.",
+      "example_vi": "Cuộc khảo sát tiết lộ rằng phần lớn sinh viên thích học trực tuyến.",
+      "emoji": "🔓"
+    },
+    {
+      "word": "cite",
+      "ipa": "/saɪt/",
+      "pos": "v",
+      "vi": "trích dẫn (nguồn)",
+      "example_en": "The author cites several studies to support her argument.",
+      "example_vi": "Tác giả trích dẫn nhiều nghiên cứu để củng cố lập luận của mình.",
+      "emoji": "📚"
+    },
+    {
+      "word": "reference",
+      "ipa": "/ˈrefrəns/",
+      "pos": "n",
+      "vi": "tài liệu tham khảo, sự dẫn nguồn",
+      "example_en": "Each claim in the essay must include a reference to a reliable source.",
+      "example_vi": "Mỗi luận điểm trong bài luận phải kèm theo một tài liệu tham khảo từ nguồn đáng tin cậy.",
+      "emoji": "🔗"
+    },
+    {
+      "word": "source",
+      "ipa": "/sɔːs/",
+      "pos": "n",
+      "vi": "nguồn (tài liệu)",
+      "example_en": "Wikipedia is not always considered a reliable academic source.",
+      "example_vi": "Wikipedia không phải lúc nào cũng được coi là nguồn học thuật đáng tin cậy.",
+      "emoji": "📄"
+    },
+    {
+      "word": "quote",
+      "ipa": "/kwəʊt/",
+      "pos": "v",
+      "vi": "trích dẫn (nguyên văn)",
+      "example_en": "In the introduction, she quotes a leading expert on climate policy.",
+      "example_vi": "Trong phần mở đầu, cô ấy trích dẫn một chuyên gia hàng đầu về chính sách khí hậu.",
+      "emoji": "💬"
+    },
+    {
+      "word": "summarise",
+      "ipa": "/ˈsʌməraɪz/",
+      "pos": "v",
+      "vi": "tóm tắt",
+      "example_en": "The final paragraph summarises the main findings of the research.",
+      "example_vi": "Đoạn cuối tóm tắt những phát hiện chính của nghiên cứu.",
+      "emoji": "📝"
+    },
+    {
+      "word": "highlight",
+      "ipa": "/ˈhaɪlaɪt/",
+      "pos": "v",
+      "vi": "nhấn mạnh, làm nổi bật",
+      "example_en": "The report highlights the urgent need for cleaner energy sources.",
+      "example_vi": "Bản báo cáo nhấn mạnh nhu cầu cấp bách về các nguồn năng lượng sạch hơn.",
+      "emoji": "🖍️"
+    },
+    {
+      "word": "present",
+      "ipa": "/prɪˈzent/",
+      "pos": "v",
+      "vi": "trình bày, đưa ra",
+      "example_en": "The researchers presented their findings at the international conference.",
+      "example_vi": "Các nhà nghiên cứu đã trình bày phát hiện của họ tại hội nghị quốc tế.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "outline",
+      "ipa": "/ˈaʊtlaɪn/",
+      "pos": "v",
+      "vi": "nêu khái quát, phác thảo",
+      "example_en": "The first chapter outlines the main theories discussed in the book.",
+      "example_vi": "Chương đầu tiên nêu khái quát các lý thuyết chính được thảo luận trong cuốn sách.",
+      "emoji": "🗂️"
+    },
+    {
+      "word": "specify",
+      "ipa": "/ˈspesɪfaɪ/",
+      "pos": "v",
+      "vi": "nêu cụ thể, xác định rõ",
+      "example_en": "The instructions specify exactly how the experiment should be carried out.",
+      "example_vi": "Hướng dẫn nêu rõ chính xác cách thực hiện thí nghiệm.",
+      "emoji": "📌"
+    },
+    {
+      "word": "emphasise",
+      "ipa": "/ˈemfəsaɪz/",
+      "pos": "v",
+      "vi": "nhấn mạnh",
+      "example_en": "The lecturer emphasised the importance of citing every source correctly.",
+      "example_vi": "Giảng viên nhấn mạnh tầm quan trọng của việc trích dẫn mọi nguồn một cách chính xác.",
+      "emoji": "❗"
+    },
+    {
+      "word": "elaborate",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "pos": "v",
+      "vi": "trình bày chi tiết, giải thích kỹ",
+      "example_en": "The professor asked the student to elaborate on his main argument.",
+      "example_vi": "Giáo sư yêu cầu sinh viên trình bày chi tiết hơn về lập luận chính của mình.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "clarify",
+      "ipa": "/ˈklærəfaɪ/",
+      "pos": "v",
+      "vi": "làm rõ",
+      "example_en": "The author adds a footnote to clarify a complex point.",
+      "example_vi": "Tác giả thêm một chú thích để làm rõ một điểm phức tạp.",
+      "emoji": "💡"
+    },
+    {
+      "word": "verify",
+      "ipa": "/ˈverɪfaɪ/",
+      "pos": "v",
+      "vi": "xác minh, kiểm chứng",
+      "example_en": "Scientists must verify their results by repeating the experiment.",
+      "example_vi": "Các nhà khoa học phải xác minh kết quả bằng cách lặp lại thí nghiệm.",
+      "emoji": "✅"
+    },
+    {
+      "word": "document",
+      "ipa": "/ˈdɒkjument/",
+      "pos": "v",
+      "vi": "ghi lại, dẫn chứng bằng tư liệu",
+      "example_en": "The report documents the impact of pollution on local wildlife.",
+      "example_vi": "Bản báo cáo ghi lại bằng tư liệu tác động của ô nhiễm lên động vật hoang dã địa phương.",
+      "emoji": "🗃️"
+    },
+    {
+      "word": "exemplify",
+      "ipa": "/ɪɡˈzemplɪfaɪ/",
+      "pos": "v",
+      "vi": "làm ví dụ điển hình, minh chứng",
+      "example_en": "This case study exemplifies the challenges faced by small businesses.",
+      "example_vi": "Nghiên cứu điển hình này minh chứng cho những thách thức mà doanh nghiệp nhỏ phải đối mặt.",
+      "emoji": "🌟"
+    }
+  ]
+}

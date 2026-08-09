@@ -1,0 +1,195 @@
+{
+  "id": 3043,
+  "slug": "ielts-3",
+  "title_en": "Environment & Urban Life",
+  "title_vi": "Môi trường & đô thị",
+  "emoji": "🌆",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "carbon emissions",
+      "ipa": "/ˈkɑːbən ɪˈmɪʃnz/",
+      "pos": "n",
+      "vi": "lượng khí thải carbon",
+      "example_en": "Governments are under pressure to cut carbon emissions from heavy industry.",
+      "example_vi": "Các chính phủ đang chịu áp lực phải cắt giảm lượng khí thải carbon từ ngành công nghiệp nặng.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "deforestation",
+      "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+      "pos": "n",
+      "vi": "nạn phá rừng",
+      "example_en": "Widespread deforestation has destroyed the natural habitat of countless species.",
+      "example_vi": "Nạn phá rừng trên diện rộng đã hủy hoại môi trường sống tự nhiên của vô số loài.",
+      "emoji": "🌲"
+    },
+    {
+      "word": "renewable energy",
+      "ipa": "/rɪˈnjuːəbl ˈenədʒi/",
+      "pos": "n",
+      "vi": "năng lượng tái tạo",
+      "example_en": "The country plans to generate half of its electricity from renewable energy by 2030.",
+      "example_vi": "Đất nước này dự định sản xuất một nửa lượng điện từ năng lượng tái tạo vào năm 2030.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "fossil fuels",
+      "ipa": "/ˈfɒsl ˈfjuːəlz/",
+      "pos": "n",
+      "vi": "nhiên liệu hóa thạch",
+      "example_en": "Our heavy reliance on fossil fuels is a major cause of global warming.",
+      "example_vi": "Sự phụ thuộc nặng nề của chúng ta vào nhiên liệu hóa thạch là nguyên nhân chính gây ra sự nóng lên toàn cầu.",
+      "emoji": "⛽"
+    },
+    {
+      "word": "greenhouse gases",
+      "ipa": "/ˈɡriːnhaʊs ˈɡæsɪz/",
+      "pos": "n",
+      "vi": "khí nhà kính",
+      "example_en": "Carbon dioxide and methane are among the most harmful greenhouse gases.",
+      "example_vi": "Carbon dioxide và metan nằm trong số những loại khí nhà kính gây hại nhất.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "biodiversity",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "pos": "n",
+      "vi": "đa dạng sinh học",
+      "example_en": "Protecting biodiversity is essential for maintaining a healthy ecosystem.",
+      "example_vi": "Bảo vệ đa dạng sinh học là điều thiết yếu để duy trì một hệ sinh thái khỏe mạnh.",
+      "emoji": "🦋"
+    },
+    {
+      "word": "sustainable development",
+      "ipa": "/səˈsteɪnəbl dɪˈveləpmənt/",
+      "pos": "n",
+      "vi": "phát triển bền vững",
+      "example_en": "Sustainable development seeks to balance economic growth with environmental protection.",
+      "example_vi": "Phát triển bền vững tìm cách cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường.",
+      "emoji": "♻️"
+    },
+    {
+      "word": "air pollution",
+      "ipa": "/eə pəˈluːʃn/",
+      "pos": "n",
+      "vi": "ô nhiễm không khí",
+      "example_en": "Air pollution in major cities has reached dangerous levels this summer.",
+      "example_vi": "Ô nhiễm không khí ở các thành phố lớn đã đạt mức nguy hiểm trong mùa hè này.",
+      "emoji": "😷"
+    },
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜːbən sprɔːl/",
+      "pos": "n",
+      "vi": "sự bành trướng đô thị",
+      "example_en": "Uncontrolled urban sprawl is swallowing up valuable farmland around the city.",
+      "example_vi": "Sự bành trướng đô thị không kiểm soát đang nuốt chửng đất nông nghiệp quý giá quanh thành phố.",
+      "emoji": "🏙️"
+    },
+    {
+      "word": "congestion",
+      "ipa": "/kənˈdʒestʃən/",
+      "pos": "n",
+      "vi": "sự tắc nghẽn (giao thông)",
+      "example_en": "Traffic congestion during rush hour costs commuters hours every week.",
+      "example_vi": "Tình trạng tắc nghẽn giao thông vào giờ cao điểm khiến người đi làm mất nhiều giờ mỗi tuần.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "ecological footprint",
+      "ipa": "/ˌiːkəˈlɒdʒɪkl ˈfʊtprɪnt/",
+      "pos": "n",
+      "vi": "dấu chân sinh thái",
+      "example_en": "Living in a smaller home can significantly reduce your ecological footprint.",
+      "example_vi": "Sống trong một ngôi nhà nhỏ hơn có thể giảm đáng kể dấu chân sinh thái của bạn.",
+      "emoji": "👣"
+    },
+    {
+      "word": "conservation",
+      "ipa": "/ˌkɒnsəˈveɪʃn/",
+      "pos": "n",
+      "vi": "sự bảo tồn",
+      "example_en": "Wildlife conservation programmes have helped several endangered species recover.",
+      "example_vi": "Các chương trình bảo tồn động vật hoang dã đã giúp một số loài nguy cấp hồi phục.",
+      "emoji": "🌿"
+    },
+    {
+      "word": "depletion of resources",
+      "ipa": "/dɪˈpliːʃn əv rɪˈzɔːsɪz/",
+      "pos": "phr",
+      "vi": "sự cạn kiệt tài nguyên",
+      "example_en": "The rapid depletion of resources threatens the well-being of future generations.",
+      "example_vi": "Sự cạn kiệt tài nguyên nhanh chóng đe dọa sự an sinh của các thế hệ tương lai.",
+      "emoji": "⛏️"
+    },
+    {
+      "word": "waste disposal",
+      "ipa": "/weɪst dɪˈspəʊzl/",
+      "pos": "n",
+      "vi": "sự xử lý rác thải",
+      "example_en": "Poor waste disposal systems have contaminated the local water supply.",
+      "example_vi": "Hệ thống xử lý rác thải kém đã làm ô nhiễm nguồn nước địa phương.",
+      "emoji": "🗑️"
+    },
+    {
+      "word": "green spaces",
+      "ipa": "/ɡriːn ˈspeɪsɪz/",
+      "pos": "n",
+      "vi": "không gian xanh",
+      "example_en": "Access to green spaces improves both the mental and physical health of residents.",
+      "example_vi": "Việc tiếp cận không gian xanh cải thiện cả sức khỏe tinh thần lẫn thể chất của cư dân.",
+      "emoji": "🌳"
+    },
+    {
+      "word": "environmental degradation",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
+      "pos": "n",
+      "vi": "sự suy thoái môi trường",
+      "example_en": "Decades of industrial activity have led to severe environmental degradation in the region.",
+      "example_vi": "Nhiều thập kỷ hoạt động công nghiệp đã dẫn đến sự suy thoái môi trường nghiêm trọng trong khu vực.",
+      "emoji": "🏜️"
+    },
+    {
+      "word": "climate change",
+      "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+      "pos": "n",
+      "vi": "biến đổi khí hậu",
+      "example_en": "Climate change is causing more frequent and intense extreme weather events.",
+      "example_vi": "Biến đổi khí hậu đang gây ra các hiện tượng thời tiết cực đoan thường xuyên và dữ dội hơn.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "public transport infrastructure",
+      "ipa": "/ˈpʌblɪk ˈtrænspɔːt ˈɪnfrəstrʌktʃə/",
+      "pos": "n",
+      "vi": "cơ sở hạ tầng giao thông công cộng",
+      "example_en": "Investing in public transport infrastructure can ease congestion and reduce emissions.",
+      "example_vi": "Đầu tư vào cơ sở hạ tầng giao thông công cộng có thể giảm ùn tắc và cắt giảm khí thải.",
+      "emoji": "🚇"
+    },
+    {
+      "word": "carbon footprint",
+      "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "pos": "n",
+      "vi": "dấu chân carbon",
+      "example_en": "Cycling to work instead of driving is a simple way to lower your carbon footprint.",
+      "example_vi": "Đạp xe đi làm thay vì lái xe là một cách đơn giản để giảm dấu chân carbon của bạn.",
+      "emoji": "🚲"
+    },
+    {
+      "word": "habitat loss",
+      "ipa": "/ˈhæbɪtæt lɒs/",
+      "pos": "n",
+      "vi": "sự mất môi trường sống",
+      "example_en": "Habitat loss caused by urban expansion is driving many animals towards extinction.",
+      "example_vi": "Sự mất môi trường sống do mở rộng đô thị đang đẩy nhiều loài động vật đến bờ tuyệt chủng.",
+      "emoji": "🐘"
+    }
+  ]
+}

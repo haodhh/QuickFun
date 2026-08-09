@@ -1,0 +1,263 @@
+{
+  "id": 103,
+  "slug": "abc-numbers",
+  "title_en": "Numbers",
+  "title_vi": "Số đếm & thứ tự",
+  "emoji": "🔢",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "zero",
+      "ipa": "/ˈzɪərəʊ/",
+      "pos": "num",
+      "vi": "số không",
+      "example_en": "I have zero dogs.",
+      "example_vi": "Tôi có không con chó nào.",
+      "emoji": "0️⃣"
+    },
+    {
+      "word": "one",
+      "ipa": "/wʌn/",
+      "pos": "num",
+      "vi": "một",
+      "example_en": "I have one cat.",
+      "example_vi": "Tôi có một con mèo.",
+      "emoji": "1️⃣"
+    },
+    {
+      "word": "two",
+      "ipa": "/tuː/",
+      "pos": "num",
+      "vi": "hai",
+      "example_en": "I see two birds.",
+      "example_vi": "Tôi thấy hai con chim.",
+      "emoji": "2️⃣"
+    },
+    {
+      "word": "three",
+      "ipa": "/θriː/",
+      "pos": "num",
+      "vi": "ba",
+      "example_en": "I have three books.",
+      "example_vi": "Tôi có ba quyển sách.",
+      "emoji": "3️⃣"
+    },
+    {
+      "word": "four",
+      "ipa": "/fɔː/",
+      "pos": "num",
+      "vi": "bốn",
+      "example_en": "The car has four wheels.",
+      "example_vi": "Chiếc xe có bốn bánh.",
+      "emoji": "4️⃣"
+    },
+    {
+      "word": "five",
+      "ipa": "/faɪv/",
+      "pos": "num",
+      "vi": "năm",
+      "example_en": "I have five fingers.",
+      "example_vi": "Tôi có năm ngón tay.",
+      "emoji": "5️⃣"
+    },
+    {
+      "word": "six",
+      "ipa": "/sɪks/",
+      "pos": "num",
+      "vi": "sáu",
+      "example_en": "She is six years old.",
+      "example_vi": "Cô ấy sáu tuổi.",
+      "emoji": "6️⃣"
+    },
+    {
+      "word": "seven",
+      "ipa": "/ˈsevən/",
+      "pos": "num",
+      "vi": "bảy",
+      "example_en": "A week has seven days.",
+      "example_vi": "Một tuần có bảy ngày.",
+      "emoji": "7️⃣"
+    },
+    {
+      "word": "eight",
+      "ipa": "/eɪt/",
+      "pos": "num",
+      "vi": "tám",
+      "example_en": "I get up at eight.",
+      "example_vi": "Tôi thức dậy lúc tám giờ.",
+      "emoji": "8️⃣"
+    },
+    {
+      "word": "nine",
+      "ipa": "/naɪn/",
+      "pos": "num",
+      "vi": "chín",
+      "example_en": "There are nine cats.",
+      "example_vi": "Có chín con mèo.",
+      "emoji": "9️⃣"
+    },
+    {
+      "word": "ten",
+      "ipa": "/ten/",
+      "pos": "num",
+      "vi": "mười",
+      "example_en": "I have ten pens.",
+      "example_vi": "Tôi có mười cây bút.",
+      "emoji": "🔟"
+    },
+    {
+      "word": "eleven",
+      "ipa": "/ɪˈlevən/",
+      "pos": "num",
+      "vi": "mười một",
+      "example_en": "He is eleven years old.",
+      "example_vi": "Cậu ấy mười một tuổi.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "twelve",
+      "ipa": "/twelv/",
+      "pos": "num",
+      "vi": "mười hai",
+      "example_en": "A year has twelve months.",
+      "example_vi": "Một năm có mười hai tháng.",
+      "emoji": "🕛"
+    },
+    {
+      "word": "twenty",
+      "ipa": "/ˈtwenti/",
+      "pos": "num",
+      "vi": "hai mươi",
+      "example_en": "I have twenty books.",
+      "example_vi": "Tôi có hai mươi quyển sách.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "thirty",
+      "ipa": "/ˈθɜːti/",
+      "pos": "num",
+      "vi": "ba mươi",
+      "example_en": "My mum is thirty.",
+      "example_vi": "Mẹ tôi ba mươi tuổi.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "forty",
+      "ipa": "/ˈfɔːti/",
+      "pos": "num",
+      "vi": "bốn mươi",
+      "example_en": "He is forty years old.",
+      "example_vi": "Ông ấy bốn mươi tuổi.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "fifty",
+      "ipa": "/ˈfɪfti/",
+      "pos": "num",
+      "vi": "năm mươi",
+      "example_en": "I have fifty coins.",
+      "example_vi": "Tôi có năm mươi đồng xu.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "hundred",
+      "ipa": "/ˈhʌndrəd/",
+      "pos": "num",
+      "vi": "một trăm",
+      "example_en": "I have one hundred pens.",
+      "example_vi": "Tôi có một trăm cây bút.",
+      "emoji": "💯"
+    },
+    {
+      "word": "thousand",
+      "ipa": "/ˈθaʊzənd/",
+      "pos": "num",
+      "vi": "một nghìn",
+      "example_en": "This book has a thousand words.",
+      "example_vi": "Quyển sách này có một nghìn từ.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "million",
+      "ipa": "/ˈmɪljən/",
+      "pos": "num",
+      "vi": "một triệu",
+      "example_en": "I want a million dollars.",
+      "example_vi": "Tôi muốn một triệu đô la.",
+      "emoji": "💰"
+    },
+    {
+      "word": "first",
+      "ipa": "/fɜːst/",
+      "pos": "num",
+      "vi": "thứ nhất",
+      "example_en": "I am first in the line.",
+      "example_vi": "Tôi đứng thứ nhất trong hàng.",
+      "emoji": "🥇"
+    },
+    {
+      "word": "second",
+      "ipa": "/ˈsekənd/",
+      "pos": "num",
+      "vi": "thứ hai",
+      "example_en": "She is second in the race.",
+      "example_vi": "Cô ấy về thứ hai trong cuộc đua.",
+      "emoji": "🥈"
+    },
+    {
+      "word": "third",
+      "ipa": "/θɜːd/",
+      "pos": "num",
+      "vi": "thứ ba",
+      "example_en": "He is third in the class.",
+      "example_vi": "Cậu ấy đứng thứ ba trong lớp.",
+      "emoji": "🥉"
+    },
+    {
+      "word": "fourth",
+      "ipa": "/fɔːθ/",
+      "pos": "num",
+      "vi": "thứ tư",
+      "example_en": "This is my fourth cake.",
+      "example_vi": "Đây là cái bánh thứ tư của tôi.",
+      "emoji": "4️⃣"
+    },
+    {
+      "word": "fifth",
+      "ipa": "/fɪfθ/",
+      "pos": "num",
+      "vi": "thứ năm",
+      "example_en": "Today is the fifth day.",
+      "example_vi": "Hôm nay là ngày thứ năm.",
+      "emoji": "5️⃣"
+    },
+    {
+      "word": "next",
+      "ipa": "/nekst/",
+      "pos": "adj",
+      "vi": "tiếp theo",
+      "example_en": "The next bus is red.",
+      "example_vi": "Chiếc xe buýt tiếp theo màu đỏ.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "last",
+      "ipa": "/lɑːst/",
+      "pos": "adj",
+      "vi": "cuối cùng",
+      "example_en": "This is the last cake.",
+      "example_vi": "Đây là cái bánh cuối cùng.",
+      "emoji": "🔚"
+    },
+    {
+      "word": "half",
+      "ipa": "/hɑːf/",
+      "pos": "n",
+      "vi": "một nửa",
+      "example_en": "I eat half an apple.",
+      "example_vi": "Tôi ăn nửa quả táo.",
+      "emoji": "➗"
+    }
+  ]
+}

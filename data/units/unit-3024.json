@@ -1,0 +1,195 @@
+{
+  "id": 3024,
+  "slug": "toeic-4",
+  "title_en": "HR & Recruitment",
+  "title_vi": "Nhân sự & tuyển dụng",
+  "emoji": "👔",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "résumé",
+      "ipa": "/ˈrezjumeɪ/",
+      "pos": "n",
+      "vi": "sơ yếu lý lịch, bản CV",
+      "example_en": "Please send your résumé and a cover letter to the HR department.",
+      "example_vi": "Vui lòng gửi sơ yếu lý lịch và thư xin việc đến phòng nhân sự.",
+      "emoji": "📄"
+    },
+    {
+      "word": "job interview",
+      "ipa": "/ˈdʒɒb ˌɪntəvjuː/",
+      "pos": "n",
+      "vi": "buổi phỏng vấn xin việc",
+      "example_en": "She felt nervous before her first job interview.",
+      "example_vi": "Cô ấy thấy lo lắng trước buổi phỏng vấn xin việc đầu tiên.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "pos": "n",
+      "vi": "ứng viên",
+      "example_en": "The company chose the best candidate for the position.",
+      "example_vi": "Công ty đã chọn ứng viên tốt nhất cho vị trí này.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "recruit",
+      "ipa": "/rɪˈkruːt/",
+      "pos": "v",
+      "vi": "tuyển dụng",
+      "example_en": "Our company plans to recruit ten new engineers this year.",
+      "example_vi": "Công ty chúng tôi dự định tuyển mười kỹ sư mới trong năm nay.",
+      "emoji": "📢"
+    },
+    {
+      "word": "probation period",
+      "ipa": "/prəˈbeɪʃn ˌpɪəriəd/",
+      "pos": "n",
+      "vi": "thời gian thử việc",
+      "example_en": "New staff must pass a three-month probation period.",
+      "example_vi": "Nhân viên mới phải vượt qua thời gian thử việc ba tháng.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "pos": "n",
+      "vi": "lương (tháng)",
+      "example_en": "He earns a good salary at his new job.",
+      "example_vi": "Anh ấy nhận mức lương tốt ở công việc mới.",
+      "emoji": "💰"
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈməʊʃn/",
+      "pos": "n",
+      "vi": "sự thăng chức",
+      "example_en": "After five years, she finally got a promotion to manager.",
+      "example_vi": "Sau năm năm, cuối cùng cô ấy được thăng chức lên quản lý.",
+      "emoji": "📈"
+    },
+    {
+      "word": "resignation",
+      "ipa": "/ˌrezɪɡˈneɪʃn/",
+      "pos": "n",
+      "vi": "sự từ chức, đơn xin nghỉ việc",
+      "example_en": "The director accepted his resignation last week.",
+      "example_vi": "Giám đốc đã chấp nhận đơn từ chức của anh ấy vào tuần trước.",
+      "emoji": "👋"
+    },
+    {
+      "word": "onboarding",
+      "ipa": "/ˈɒnbɔːdɪŋ/",
+      "pos": "n",
+      "vi": "quá trình hội nhập nhân viên mới",
+      "example_en": "The onboarding process helps new employees learn their tasks.",
+      "example_vi": "Quá trình hội nhập giúp nhân viên mới nắm được công việc của mình.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "payroll",
+      "ipa": "/ˈpeɪrəʊl/",
+      "pos": "n",
+      "vi": "bảng lương, danh sách trả lương",
+      "example_en": "There are more than 200 workers on the company payroll.",
+      "example_vi": "Có hơn 200 công nhân trong bảng lương của công ty.",
+      "emoji": "💵"
+    },
+    {
+      "word": "benefits",
+      "ipa": "/ˈbenɪfɪts/",
+      "pos": "n",
+      "vi": "phúc lợi",
+      "example_en": "The job offers good benefits, including health insurance.",
+      "example_vi": "Công việc này có phúc lợi tốt, bao gồm bảo hiểm y tế.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "overtime",
+      "ipa": "/ˈəʊvətaɪm/",
+      "pos": "n",
+      "vi": "giờ làm thêm",
+      "example_en": "I worked overtime to finish the report on time.",
+      "example_vi": "Tôi làm thêm giờ để hoàn thành báo cáo đúng hạn.",
+      "emoji": "⏱️"
+    },
+    {
+      "word": "annual leave",
+      "ipa": "/ˌænjuəl ˈliːv/",
+      "pos": "n",
+      "vi": "nghỉ phép năm",
+      "example_en": "She is taking two weeks of annual leave this summer.",
+      "example_vi": "Cô ấy sẽ nghỉ phép năm hai tuần vào mùa hè này.",
+      "emoji": "🏖️"
+    },
+    {
+      "word": "performance review",
+      "ipa": "/pəˈfɔːməns rɪˌvjuː/",
+      "pos": "n",
+      "vi": "đánh giá hiệu suất làm việc",
+      "example_en": "My manager gave me good feedback during my performance review.",
+      "example_vi": "Quản lý đã đưa ra nhận xét tốt cho tôi trong buổi đánh giá hiệu suất.",
+      "emoji": "📊"
+    },
+    {
+      "word": "job description",
+      "ipa": "/ˈdʒɒb dɪˌskrɪpʃn/",
+      "pos": "n",
+      "vi": "bản mô tả công việc",
+      "example_en": "The job description lists all the duties of the role.",
+      "example_vi": "Bản mô tả công việc liệt kê tất cả nhiệm vụ của vị trí này.",
+      "emoji": "📋"
+    },
+    {
+      "word": "shortlist",
+      "ipa": "/ˈʃɔːtlɪst/",
+      "pos": "n",
+      "vi": "danh sách rút gọn (ứng viên vào vòng trong)",
+      "example_en": "Only five candidates made the shortlist for the manager job.",
+      "example_vi": "Chỉ có năm ứng viên lọt vào danh sách rút gọn cho vị trí quản lý.",
+      "emoji": "✅"
+    },
+    {
+      "word": "vacancy",
+      "ipa": "/ˈveɪkənsi/",
+      "pos": "n",
+      "vi": "vị trí còn trống",
+      "example_en": "There is a vacancy for a sales assistant in our store.",
+      "example_vi": "Có một vị trí còn trống cho nhân viên bán hàng ở cửa hàng chúng tôi.",
+      "emoji": "🈳"
+    },
+    {
+      "word": "staff turnover",
+      "ipa": "/ˌstɑːf ˈtɜːnəʊvə/",
+      "pos": "n",
+      "vi": "tỷ lệ nhân viên nghỉ việc, biến động nhân sự",
+      "example_en": "High staff turnover can be very expensive for a company.",
+      "example_vi": "Tỷ lệ nhân viên nghỉ việc cao có thể rất tốn kém cho công ty.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "reference letter",
+      "ipa": "/ˈrefrəns ˌletə/",
+      "pos": "n",
+      "vi": "thư giới thiệu",
+      "example_en": "Her old boss wrote her a strong reference letter.",
+      "example_vi": "Sếp cũ đã viết cho cô ấy một thư giới thiệu ấn tượng.",
+      "emoji": "✉️"
+    },
+    {
+      "word": "notice period",
+      "ipa": "/ˈnəʊtɪs ˌpɪəriəd/",
+      "pos": "n",
+      "vi": "thời gian báo trước khi nghỉ việc",
+      "example_en": "He has a one-month notice period before he can leave the job.",
+      "example_vi": "Anh ấy phải báo trước một tháng trước khi có thể nghỉ việc.",
+      "emoji": "📅"
+    }
+  ]
+}

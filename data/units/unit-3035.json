@@ -1,0 +1,195 @@
+{
+  "id": 3035,
+  "slug": "business-5",
+  "title_en": "Startups & Growth",
+  "title_vi": "Khởi nghiệp & tăng trưởng",
+  "emoji": "🚀",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "entrepreneur",
+      "ipa": "/ˌɒntrəprəˈnɜː/",
+      "pos": "n",
+      "vi": "doanh nhân khởi nghiệp",
+      "example_en": "A successful entrepreneur is willing to take risks that others avoid.",
+      "example_vi": "Một doanh nhân khởi nghiệp thành công sẵn sàng chấp nhận rủi ro mà người khác né tránh.",
+      "emoji": "👩‍💼"
+    },
+    {
+      "word": "startup",
+      "ipa": "/ˈstɑːtʌp/",
+      "pos": "n",
+      "vi": "công ty khởi nghiệp",
+      "example_en": "Her tech startup grew from three people to fifty in just two years.",
+      "example_vi": "Công ty khởi nghiệp công nghệ của cô ấy tăng từ ba người lên năm mươi chỉ trong hai năm.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "seed funding",
+      "ipa": "/ˈsiːd ˌfʌndɪŋ/",
+      "pos": "n",
+      "vi": "vốn gieo mầm (vốn ban đầu)",
+      "example_en": "They raised half a million dollars in seed funding to build their first product.",
+      "example_vi": "Họ huy động được nửa triệu đô vốn gieo mầm để xây dựng sản phẩm đầu tiên.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "pos": "n",
+      "vi": "khả năng mở rộng quy mô",
+      "example_en": "Investors were impressed by the scalability of the platform across new markets.",
+      "example_vi": "Các nhà đầu tư ấn tượng với khả năng mở rộng quy mô của nền tảng sang các thị trường mới.",
+      "emoji": "📈"
+    },
+    {
+      "word": "business model",
+      "ipa": "/ˈbɪznəs ˌmɒdl/",
+      "pos": "n",
+      "vi": "mô hình kinh doanh",
+      "example_en": "The company changed its business model to focus on monthly subscriptions.",
+      "example_vi": "Công ty đã thay đổi mô hình kinh doanh để tập trung vào gói đăng ký hàng tháng.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "minimum viable product",
+      "ipa": "/ˌmɪnɪməm ˌvaɪəbl ˈprɒdʌkt/",
+      "pos": "n",
+      "vi": "sản phẩm khả dụng tối thiểu (MVP)",
+      "example_en": "We launched a minimum viable product to test whether customers actually wanted the feature.",
+      "example_vi": "Chúng tôi ra mắt một sản phẩm khả dụng tối thiểu để kiểm tra xem khách hàng có thực sự muốn tính năng đó không.",
+      "emoji": "🛠️"
+    },
+    {
+      "word": "pitch deck",
+      "ipa": "/ˈpɪtʃ dek/",
+      "pos": "n",
+      "vi": "bộ slide thuyết trình gọi vốn",
+      "example_en": "She spent a week polishing the pitch deck before meeting the investors.",
+      "example_vi": "Cô ấy dành cả tuần để trau chuốt bộ slide thuyết trình gọi vốn trước khi gặp các nhà đầu tư.",
+      "emoji": "📊"
+    },
+    {
+      "word": "burn rate",
+      "ipa": "/ˈbɜːn reɪt/",
+      "pos": "n",
+      "vi": "tốc độ đốt tiền (chi tiêu)",
+      "example_en": "With such a high burn rate, the startup will run out of cash within six months.",
+      "example_vi": "Với tốc độ đốt tiền cao như vậy, công ty khởi nghiệp sẽ cạn tiền trong vòng sáu tháng.",
+      "emoji": "🔥"
+    },
+    {
+      "word": "runway",
+      "ipa": "/ˈrʌnweɪ/",
+      "pos": "n",
+      "vi": "thời gian trụ được bằng vốn hiện có",
+      "example_en": "After cutting costs, the company extended its runway to eighteen months.",
+      "example_vi": "Sau khi cắt giảm chi phí, công ty kéo dài thời gian trụ được bằng vốn lên mười tám tháng.",
+      "emoji": "🛫"
+    },
+    {
+      "word": "bootstrapping",
+      "ipa": "/ˈbuːtstræpɪŋ/",
+      "pos": "n",
+      "vi": "tự lực vốn (không gọi vốn ngoài)",
+      "example_en": "By bootstrapping the business, the founders kept full control without outside investors.",
+      "example_vi": "Bằng cách tự lực vốn, những người sáng lập giữ toàn quyền kiểm soát mà không cần nhà đầu tư bên ngoài.",
+      "emoji": "👢"
+    },
+    {
+      "word": "unicorn",
+      "ipa": "/ˈjuːnɪkɔːn/",
+      "pos": "n",
+      "vi": "kỳ lân (startup định giá trên 1 tỷ đô)",
+      "example_en": "The app became a unicorn after its valuation passed one billion dollars.",
+      "example_vi": "Ứng dụng trở thành kỳ lân sau khi định giá vượt một tỷ đô.",
+      "emoji": "🦄"
+    },
+    {
+      "word": "angel investor",
+      "ipa": "/ˈeɪndʒl ɪnˌvestə/",
+      "pos": "n",
+      "vi": "nhà đầu tư thiên thần",
+      "example_en": "An angel investor backed the founders when no bank would lend them money.",
+      "example_vi": "Một nhà đầu tư thiên thần đã hậu thuẫn những người sáng lập khi không ngân hàng nào cho họ vay tiền.",
+      "emoji": "😇"
+    },
+    {
+      "word": "traction",
+      "ipa": "/ˈtrækʃn/",
+      "pos": "n",
+      "vi": "đà tăng trưởng (sự được đón nhận)",
+      "example_en": "The startup finally gained traction after a popular blogger reviewed it.",
+      "example_vi": "Công ty khởi nghiệp cuối cùng cũng có đà tăng trưởng sau khi một blogger nổi tiếng đánh giá về nó.",
+      "emoji": "🧲"
+    },
+    {
+      "word": "incubator",
+      "ipa": "/ˈɪŋkjubeɪtə/",
+      "pos": "n",
+      "vi": "vườn ươm khởi nghiệp",
+      "example_en": "Their idea was refined at a startup incubator that offered mentoring and office space.",
+      "example_vi": "Ý tưởng của họ được hoàn thiện tại một vườn ươm khởi nghiệp cung cấp cố vấn và không gian làm việc.",
+      "emoji": "🐣"
+    },
+    {
+      "word": "scale up",
+      "ipa": "/ˌskeɪl ˈʌp/",
+      "pos": "phr v",
+      "vi": "mở rộng quy mô",
+      "example_en": "Once demand grew, they had to scale up production very quickly.",
+      "example_vi": "Khi nhu cầu tăng, họ phải mở rộng quy mô sản xuất rất nhanh.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "churn rate",
+      "ipa": "/ˈtʃɜːn reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ khách hàng rời bỏ",
+      "example_en": "A high churn rate suggests that customers are unhappy with the service.",
+      "example_vi": "Tỷ lệ khách hàng rời bỏ cao cho thấy khách hàng không hài lòng với dịch vụ.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "product-market fit",
+      "ipa": "/ˌprɒdʌkt ˈmɑːkɪt fɪt/",
+      "pos": "n",
+      "vi": "sự phù hợp sản phẩm với thị trường",
+      "example_en": "The company only started scaling after it achieved genuine product-market fit.",
+      "example_vi": "Công ty chỉ bắt đầu mở rộng sau khi đạt được sự phù hợp thực sự giữa sản phẩm và thị trường.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "exit strategy",
+      "ipa": "/ˈeksɪt ˌstrætədʒi/",
+      "pos": "n",
+      "vi": "chiến lược thoái vốn",
+      "example_en": "Most investors want a clear exit strategy before they commit their money.",
+      "example_vi": "Hầu hết nhà đầu tư muốn có chiến lược thoái vốn rõ ràng trước khi rót tiền.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "equity stake",
+      "ipa": "/ˈekwəti steɪk/",
+      "pos": "n",
+      "vi": "phần vốn sở hữu (cổ phần)",
+      "example_en": "The investor took a twenty percent equity stake in exchange for the funding.",
+      "example_vi": "Nhà đầu tư nhận hai mươi phần trăm cổ phần để đổi lấy khoản vốn.",
+      "emoji": "🥧"
+    },
+    {
+      "word": "growth hacking",
+      "ipa": "/ˈɡrəʊθ ˌhækɪŋ/",
+      "pos": "n",
+      "vi": "chiến thuật tăng trưởng đột phá",
+      "example_en": "Through clever growth hacking, they tripled their user base without spending on ads.",
+      "example_vi": "Nhờ những chiến thuật tăng trưởng đột phá thông minh, họ tăng gấp ba lượng người dùng mà không tốn tiền quảng cáo.",
+      "emoji": "⚡"
+    }
+  ]
+}

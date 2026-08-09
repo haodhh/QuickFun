@@ -1,0 +1,195 @@
+{
+  "id": 3054,
+  "slug": "awl-4",
+  "title_en": "Cause & Effect",
+  "title_vi": "Nhân quả & tác động",
+  "emoji": "⚡",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "cause",
+      "ipa": "/kɔːz/",
+      "pos": "n./v.",
+      "vi": "nguyên nhân; gây ra",
+      "example_en": "Researchers identified air pollution as a major cause of respiratory disease.",
+      "example_vi": "Các nhà nghiên cứu xác định ô nhiễm không khí là một nguyên nhân chính gây bệnh hô hấp.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "effect",
+      "ipa": "/ɪˈfekt/",
+      "pos": "n.",
+      "vi": "tác động, ảnh hưởng, hiệu ứng",
+      "example_en": "The new teaching method had a positive effect on students' performance.",
+      "example_vi": "Phương pháp giảng dạy mới có tác động tích cực đến kết quả học tập của học sinh.",
+      "emoji": "📈"
+    },
+    {
+      "word": "consequence",
+      "ipa": "/ˈkɒnsɪkwəns/",
+      "pos": "n.",
+      "vi": "hậu quả, kết quả (thường tiêu cực)",
+      "example_en": "Rising sea levels are a direct consequence of global warming.",
+      "example_vi": "Mực nước biển dâng cao là hậu quả trực tiếp của hiện tượng nóng lên toàn cầu.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "impact",
+      "ipa": "/ˈɪmpækt/",
+      "pos": "n./v.",
+      "vi": "tác động, ảnh hưởng (mạnh)",
+      "example_en": "The study examines the impact of social media on adolescent mental health.",
+      "example_vi": "Nghiên cứu này khảo sát tác động của mạng xã hội đến sức khỏe tâm thần của thanh thiếu niên.",
+      "emoji": "💥"
+    },
+    {
+      "word": "influence",
+      "ipa": "/ˈɪnfluəns/",
+      "pos": "n./v.",
+      "vi": "ảnh hưởng, sự chi phối",
+      "example_en": "Cultural background can strongly influence consumer behaviour.",
+      "example_vi": "Bối cảnh văn hóa có thể ảnh hưởng mạnh mẽ đến hành vi của người tiêu dùng.",
+      "emoji": "🧲"
+    },
+    {
+      "word": "factor",
+      "ipa": "/ˈfæktə/",
+      "pos": "n.",
+      "vi": "yếu tố, nhân tố",
+      "example_en": "Poverty is a significant factor contributing to poor health outcomes.",
+      "example_vi": "Nghèo đói là một yếu tố quan trọng góp phần dẫn đến các vấn đề sức khỏe kém.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "contribute",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "pos": "v.",
+      "vi": "góp phần, đóng góp",
+      "example_en": "Several factors contribute to the ongoing decline in biodiversity.",
+      "example_vi": "Nhiều yếu tố góp phần vào sự suy giảm đa dạng sinh học đang diễn ra.",
+      "emoji": "➕"
+    },
+    {
+      "word": "result",
+      "ipa": "/rɪˈzʌlt/",
+      "pos": "n./v.",
+      "vi": "kết quả; dẫn đến (result in/from)",
+      "example_en": "Prolonged stress can result in serious physical and mental health problems.",
+      "example_vi": "Căng thẳng kéo dài có thể dẫn đến các vấn đề nghiêm trọng về sức khỏe thể chất và tinh thần.",
+      "emoji": "✅"
+    },
+    {
+      "word": "trigger",
+      "ipa": "/ˈtrɪɡə/",
+      "pos": "v./n.",
+      "vi": "kích hoạt, châm ngòi, gây ra",
+      "example_en": "Economic instability can trigger widespread social unrest.",
+      "example_vi": "Bất ổn kinh tế có thể châm ngòi cho tình trạng bất ổn xã hội trên diện rộng.",
+      "emoji": "⚡"
+    },
+    {
+      "word": "affect",
+      "ipa": "/əˈfekt/",
+      "pos": "v.",
+      "vi": "ảnh hưởng đến, tác động đến",
+      "example_en": "Climate change directly affects agricultural productivity worldwide.",
+      "example_vi": "Biến đổi khí hậu ảnh hưởng trực tiếp đến năng suất nông nghiệp trên toàn thế giới.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "outcome",
+      "ipa": "/ˈaʊtkʌm/",
+      "pos": "n.",
+      "vi": "kết quả, kết cục",
+      "example_en": "The outcome of the treatment varied significantly among patients.",
+      "example_vi": "Kết quả của phương pháp điều trị khác nhau đáng kể giữa các bệnh nhân.",
+      "emoji": "🏁"
+    },
+    {
+      "word": "determine",
+      "ipa": "/dɪˈtɜːmɪn/",
+      "pos": "v.",
+      "vi": "quyết định, xác định",
+      "example_en": "Genetic factors largely determine an individual's risk of certain diseases.",
+      "example_vi": "Các yếu tố di truyền quyết định phần lớn nguy cơ mắc một số bệnh của mỗi cá nhân.",
+      "emoji": "🔑"
+    },
+    {
+      "word": "generate",
+      "ipa": "/ˈdʒenəreɪt/",
+      "pos": "v.",
+      "vi": "tạo ra, sinh ra",
+      "example_en": "Renewable sources can generate electricity without emitting carbon.",
+      "example_vi": "Các nguồn năng lượng tái tạo có thể tạo ra điện mà không phát thải carbon.",
+      "emoji": "⚙️"
+    },
+    {
+      "word": "induce",
+      "ipa": "/ɪnˈdjuːs/",
+      "pos": "v.",
+      "vi": "gây ra, kích thích (làm phát sinh)",
+      "example_en": "Certain medications may induce drowsiness in some patients.",
+      "example_vi": "Một số loại thuốc có thể gây buồn ngủ ở một số bệnh nhân.",
+      "emoji": "💊"
+    },
+    {
+      "word": "implication",
+      "ipa": "/ˌɪmplɪˈkeɪʃn/",
+      "pos": "n.",
+      "vi": "hàm ý, hệ quả kéo theo",
+      "example_en": "The findings have important implications for future public policy.",
+      "example_vi": "Các phát hiện này có những hàm ý quan trọng đối với chính sách công trong tương lai.",
+      "emoji": "💭"
+    },
+    {
+      "word": "attribute",
+      "ipa": "/əˈtrɪbjuːt/",
+      "pos": "v.",
+      "vi": "quy cho, cho là do",
+      "example_en": "Scientists attribute the rise in temperature to human activity.",
+      "example_vi": "Các nhà khoa học quy sự gia tăng nhiệt độ là do hoạt động của con người.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "correlation",
+      "ipa": "/ˌkɒrəˈleɪʃn/",
+      "pos": "n.",
+      "vi": "mối tương quan",
+      "example_en": "The data reveal a strong correlation between income and educational attainment.",
+      "example_vi": "Dữ liệu cho thấy một mối tương quan chặt chẽ giữa thu nhập và trình độ học vấn.",
+      "emoji": "🔗"
+    },
+    {
+      "word": "derive",
+      "ipa": "/dɪˈraɪv/",
+      "pos": "v.",
+      "vi": "bắt nguồn, thu được, rút ra",
+      "example_en": "Many modern medicines are derived from naturally occurring compounds.",
+      "example_vi": "Nhiều loại thuốc hiện đại được chiết xuất từ các hợp chất có trong tự nhiên.",
+      "emoji": "🌿"
+    },
+    {
+      "word": "yield",
+      "ipa": "/jiːld/",
+      "pos": "v./n.",
+      "vi": "tạo ra, mang lại (kết quả)",
+      "example_en": "The experiment yielded surprising results that challenged the existing theory.",
+      "example_vi": "Thí nghiệm mang lại những kết quả bất ngờ, thách thức lý thuyết hiện có.",
+      "emoji": "🌾"
+    },
+    {
+      "word": "repercussion",
+      "ipa": "/ˌriːpəˈkʌʃn/",
+      "pos": "n.",
+      "vi": "hậu quả, tác động dây chuyền (lâu dài)",
+      "example_en": "The financial crisis had lasting repercussions for the global economy.",
+      "example_vi": "Cuộc khủng hoảng tài chính để lại những hậu quả lâu dài cho nền kinh tế toàn cầu.",
+      "emoji": "🌊"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 3026,
+  "slug": "toeic-6",
+  "title_en": "Marketing & Advertising",
+  "title_vi": "Marketing & quảng cáo",
+  "emoji": "📣",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "advertisement",
+      "ipa": "/ədˈvɜːtɪsmənt/",
+      "pos": "n",
+      "vi": "quảng cáo",
+      "example_en": "We put an advertisement in the local newspaper to attract new customers.",
+      "example_vi": "Chúng tôi đăng một quảng cáo trên báo địa phương để thu hút khách hàng mới.",
+      "emoji": "📢"
+    },
+    {
+      "word": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "pos": "n",
+      "vi": "chiến dịch (quảng cáo)",
+      "example_en": "The new advertising campaign helped the company sell twice as many products.",
+      "example_vi": "Chiến dịch quảng cáo mới giúp công ty bán được gấp đôi số sản phẩm.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "pos": "n",
+      "vi": "thương hiệu",
+      "example_en": "People trust the brand because its products are always high quality.",
+      "example_vi": "Mọi người tin tưởng thương hiệu này vì sản phẩm luôn có chất lượng cao.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "target audience",
+      "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/",
+      "pos": "phr",
+      "vi": "đối tượng khách hàng mục tiêu",
+      "example_en": "Our target audience is young people who love travelling and technology.",
+      "example_vi": "Đối tượng khách hàng mục tiêu của chúng tôi là người trẻ yêu thích du lịch và công nghệ.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "market research",
+      "ipa": "/ˈmɑːkɪt rɪˈsɜːtʃ/",
+      "pos": "phr",
+      "vi": "nghiên cứu thị trường",
+      "example_en": "Before launching the app, we did market research to understand what customers wanted.",
+      "example_vi": "Trước khi ra mắt ứng dụng, chúng tôi làm nghiên cứu thị trường để hiểu khách hàng muốn gì.",
+      "emoji": "📊"
+    },
+    {
+      "word": "market share",
+      "ipa": "/ˈmɑːkɪt ʃeə/",
+      "pos": "phr",
+      "vi": "thị phần",
+      "example_en": "The company increased its market share by offering lower prices than its rivals.",
+      "example_vi": "Công ty tăng thị phần bằng cách đưa ra giá thấp hơn các đối thủ.",
+      "emoji": "🥧"
+    },
+    {
+      "word": "product launch",
+      "ipa": "/ˈprɒdʌkt lɔːntʃ/",
+      "pos": "phr",
+      "vi": "buổi ra mắt sản phẩm",
+      "example_en": "Hundreds of journalists attended the product launch of the new smartphone.",
+      "example_vi": "Hàng trăm nhà báo đã tham dự buổi ra mắt sản phẩm điện thoại mới.",
+      "emoji": "🎉"
+    },
+    {
+      "word": "slogan",
+      "ipa": "/ˈsləʊɡən/",
+      "pos": "n",
+      "vi": "khẩu hiệu quảng cáo",
+      "example_en": "A good slogan is short and easy for customers to remember.",
+      "example_vi": "Một khẩu hiệu hay thì ngắn gọn và dễ để khách hàng nhớ.",
+      "emoji": "💬"
+    },
+    {
+      "word": "press release",
+      "ipa": "/ˈpres rɪliːs/",
+      "pos": "phr",
+      "vi": "thông cáo báo chí",
+      "example_en": "The company sent out a press release to announce its new partnership.",
+      "example_vi": "Công ty gửi đi một thông cáo báo chí để công bố quan hệ hợp tác mới.",
+      "emoji": "📰"
+    },
+    {
+      "word": "social media",
+      "ipa": "/ˈsəʊʃl ˈmiːdiə/",
+      "pos": "phr",
+      "vi": "mạng xã hội",
+      "example_en": "Many small businesses use social media to advertise their products for free.",
+      "example_vi": "Nhiều doanh nghiệp nhỏ dùng mạng xã hội để quảng cáo sản phẩm miễn phí.",
+      "emoji": "📱"
+    },
+    {
+      "word": "newsletter",
+      "ipa": "/ˈnjuːzletə/",
+      "pos": "n",
+      "vi": "bản tin (email)",
+      "example_en": "Subscribe to our newsletter to get news about sales and special offers.",
+      "example_vi": "Hãy đăng ký bản tin của chúng tôi để nhận tin về khuyến mãi và ưu đãi đặc biệt.",
+      "emoji": "✉️"
+    },
+    {
+      "word": "billboard",
+      "ipa": "/ˈbɪlbɔːd/",
+      "pos": "n",
+      "vi": "bảng quảng cáo ngoài trời",
+      "example_en": "A huge billboard beside the motorway advertised the latest sports car.",
+      "example_vi": "Một tấm bảng quảng cáo ngoài trời khổng lồ bên đường cao tốc quảng cáo mẫu xe thể thao mới nhất.",
+      "emoji": "🪧"
+    },
+    {
+      "word": "voucher",
+      "ipa": "/ˈvaʊtʃə/",
+      "pos": "n",
+      "vi": "phiếu giảm giá",
+      "example_en": "If you spend over fifty pounds, you will get a voucher for your next purchase.",
+      "example_vi": "Nếu bạn mua trên năm mươi bảng, bạn sẽ nhận được một phiếu giảm giá cho lần mua tiếp theo.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "survey",
+      "ipa": "/ˈsɜːveɪ/",
+      "pos": "n",
+      "vi": "cuộc khảo sát",
+      "example_en": "We asked customers to complete a short survey about our service.",
+      "example_vi": "Chúng tôi đề nghị khách hàng hoàn thành một cuộc khảo sát ngắn về dịch vụ của chúng tôi.",
+      "emoji": "📝"
+    },
+    {
+      "word": "competitor",
+      "ipa": "/kəmˈpetɪtə/",
+      "pos": "n",
+      "vi": "đối thủ cạnh tranh",
+      "example_en": "Our biggest competitor has just lowered its prices, so we need a new plan.",
+      "example_vi": "Đối thủ cạnh tranh lớn nhất của chúng tôi vừa hạ giá, nên chúng tôi cần một kế hoạch mới.",
+      "emoji": "🥊"
+    },
+    {
+      "word": "publicity",
+      "ipa": "/pʌbˈlɪsəti/",
+      "pos": "n",
+      "vi": "sự quảng bá; chú ý của công chúng",
+      "example_en": "The film received a lot of publicity before it appeared in cinemas.",
+      "example_vi": "Bộ phim nhận được nhiều sự quảng bá trước khi ra rạp.",
+      "emoji": "📣"
+    },
+    {
+      "word": "flyer",
+      "ipa": "/ˈflaɪə/",
+      "pos": "n",
+      "vi": "tờ rơi quảng cáo",
+      "example_en": "Staff handed out flyers in the street to promote the new restaurant.",
+      "example_vi": "Nhân viên phát tờ rơi trên phố để quảng bá nhà hàng mới.",
+      "emoji": "📄"
+    },
+    {
+      "word": "logo",
+      "ipa": "/ˈləʊɡəʊ/",
+      "pos": "n",
+      "vi": "logo, biểu trưng",
+      "example_en": "The company changed its logo to look more modern and friendly.",
+      "example_vi": "Công ty đã đổi logo để trông hiện đại và thân thiện hơn.",
+      "emoji": "🔶"
+    },
+    {
+      "word": "brochure",
+      "ipa": "/ˈbrəʊʃə/",
+      "pos": "n",
+      "vi": "tờ giới thiệu, sách quảng cáo",
+      "example_en": "The travel agency gave me a colourful brochure about holidays in Italy.",
+      "example_vi": "Công ty du lịch đưa tôi một tờ giới thiệu đầy màu sắc về các kỳ nghỉ ở Ý.",
+      "emoji": "📔"
+    },
+    {
+      "word": "endorsement",
+      "ipa": "/ɪnˈdɔːsmənt/",
+      "pos": "n",
+      "vi": "sự chứng thực, quảng bá của người nổi tiếng",
+      "example_en": "The brand's sales grew quickly after the endorsement from a famous footballer.",
+      "example_vi": "Doanh số của thương hiệu tăng nhanh sau sự quảng bá từ một cầu thủ bóng đá nổi tiếng.",
+      "emoji": "⭐"
+    }
+  ]
+}

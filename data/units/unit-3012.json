@@ -1,0 +1,195 @@
+{
+  "id": 3012,
+  "slug": "travel-2",
+  "title_en": "Baggage & On the Plane",
+  "title_vi": "Hành lý & trên máy bay",
+  "emoji": "🧳",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "suitcase",
+      "ipa": "/ˈsuːtkeɪs/",
+      "pos": "n",
+      "vi": "vali",
+      "example_en": "I packed all my clothes in one big suitcase.",
+      "example_vi": "Tôi xếp tất cả quần áo vào một chiếc vali lớn.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "hand luggage",
+      "ipa": "/ˈhænd ˌlʌɡɪdʒ/",
+      "pos": "n",
+      "vi": "hành lý xách tay",
+      "example_en": "You can take one bag of hand luggage onto the plane.",
+      "example_vi": "Bạn được mang một túi hành lý xách tay lên máy bay.",
+      "emoji": "👜"
+    },
+    {
+      "word": "carry-on",
+      "ipa": "/ˈkæri ɒn/",
+      "pos": "n",
+      "vi": "hành lý xách tay (mang theo)",
+      "example_en": "My carry-on is small enough to fit under the seat.",
+      "example_vi": "Hành lý xách tay của tôi đủ nhỏ để nhét dưới ghế.",
+      "emoji": "🎒"
+    },
+    {
+      "word": "overhead locker",
+      "ipa": "/ˌəʊvəhed ˈlɒkə/",
+      "pos": "n",
+      "vi": "ngăn hành lý phía trên",
+      "example_en": "Please put your bag in the overhead locker.",
+      "example_vi": "Vui lòng để túi của bạn vào ngăn hành lý phía trên.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "seatbelt",
+      "ipa": "/ˈsiːtbelt/",
+      "pos": "n",
+      "vi": "dây an toàn",
+      "example_en": "Fasten your seatbelt before the plane takes off.",
+      "example_vi": "Hãy thắt dây an toàn trước khi máy bay cất cánh.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "aisle seat",
+      "ipa": "/ˈaɪl siːt/",
+      "pos": "n",
+      "vi": "ghế cạnh lối đi",
+      "example_en": "I prefer an aisle seat so I can walk around easily.",
+      "example_vi": "Tôi thích ghế cạnh lối đi để dễ đi lại.",
+      "emoji": "💺"
+    },
+    {
+      "word": "window seat",
+      "ipa": "/ˈwɪndəʊ siːt/",
+      "pos": "n",
+      "vi": "ghế cạnh cửa sổ",
+      "example_en": "She chose a window seat to look at the clouds.",
+      "example_vi": "Cô ấy chọn ghế cạnh cửa sổ để ngắm mây.",
+      "emoji": "🪟"
+    },
+    {
+      "word": "tray table",
+      "ipa": "/ˈtreɪ ˌteɪbl/",
+      "pos": "n",
+      "vi": "bàn ăn gấp",
+      "example_en": "Put your tray table up before landing.",
+      "example_vi": "Hãy gấp bàn ăn lên trước khi hạ cánh.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "cabin crew",
+      "ipa": "/ˈkæbɪn kruː/",
+      "pos": "n",
+      "vi": "tổ tiếp viên",
+      "example_en": "The cabin crew showed us where the exits were.",
+      "example_vi": "Tổ tiếp viên chỉ cho chúng tôi vị trí các cửa thoát hiểm.",
+      "emoji": "👩‍✈️"
+    },
+    {
+      "word": "flight attendant",
+      "ipa": "/ˈflaɪt əˌtendənt/",
+      "pos": "n",
+      "vi": "tiếp viên hàng không",
+      "example_en": "A flight attendant brought me a glass of water.",
+      "example_vi": "Một tiếp viên hàng không mang cho tôi một cốc nước.",
+      "emoji": "🧑‍✈️"
+    },
+    {
+      "word": "life jacket",
+      "ipa": "/ˈlaɪf ˌdʒækɪt/",
+      "pos": "n",
+      "vi": "áo phao cứu sinh",
+      "example_en": "The life jacket is under your seat.",
+      "example_vi": "Áo phao cứu sinh nằm dưới ghế của bạn.",
+      "emoji": "🦺"
+    },
+    {
+      "word": "emergency exit",
+      "ipa": "/iˈmɜːdʒənsi ˌeɡzɪt/",
+      "pos": "n",
+      "vi": "cửa thoát hiểm",
+      "example_en": "In an emergency, use the nearest emergency exit.",
+      "example_vi": "Khi khẩn cấp, hãy dùng cửa thoát hiểm gần nhất.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "take-off",
+      "ipa": "/ˈteɪk ɒf/",
+      "pos": "n",
+      "vi": "sự cất cánh",
+      "example_en": "The plane was ready for take-off at eight o'clock.",
+      "example_vi": "Máy bay sẵn sàng cất cánh lúc tám giờ.",
+      "emoji": "🛫"
+    },
+    {
+      "word": "landing",
+      "ipa": "/ˈlændɪŋ/",
+      "pos": "n",
+      "vi": "sự hạ cánh",
+      "example_en": "The landing was smooth and we arrived on time.",
+      "example_vi": "Cú hạ cánh êm ái và chúng tôi đến đúng giờ.",
+      "emoji": "🛬"
+    },
+    {
+      "word": "turbulence",
+      "ipa": "/ˈtɜːbjələns/",
+      "pos": "n",
+      "vi": "nhiễu động không khí",
+      "example_en": "Stay in your seat during turbulence.",
+      "example_vi": "Hãy ngồi yên tại chỗ khi có nhiễu động không khí.",
+      "emoji": "🌪️"
+    },
+    {
+      "word": "jet lag",
+      "ipa": "/ˈdʒet læɡ/",
+      "pos": "n",
+      "vi": "mệt mỏi do lệch múi giờ",
+      "example_en": "After the long flight, I had bad jet lag for two days.",
+      "example_vi": "Sau chuyến bay dài, tôi bị lệch múi giờ nặng suốt hai ngày.",
+      "emoji": "😴"
+    },
+    {
+      "word": "excess baggage",
+      "ipa": "/ˌekses ˈbæɡɪdʒ/",
+      "pos": "n",
+      "vi": "hành lý quá cân",
+      "example_en": "I had to pay extra for my excess baggage.",
+      "example_vi": "Tôi phải trả thêm tiền cho hành lý quá cân của mình.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "luggage tag",
+      "ipa": "/ˈlʌɡɪdʒ tæɡ/",
+      "pos": "n",
+      "vi": "thẻ hành lý",
+      "example_en": "I wrote my name and phone number on the luggage tag.",
+      "example_vi": "Tôi ghi tên và số điện thoại lên thẻ hành lý.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "hold luggage",
+      "ipa": "/ˈhəʊld ˌlʌɡɪdʒ/",
+      "pos": "n",
+      "vi": "hành lý ký gửi",
+      "example_en": "You can check in two bags as hold luggage.",
+      "example_vi": "Bạn có thể ký gửi hai túi làm hành lý ký gửi.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "in-flight meal",
+      "ipa": "/ˌɪn flaɪt ˈmiːl/",
+      "pos": "n",
+      "vi": "suất ăn trên máy bay",
+      "example_en": "The in-flight meal was chicken with rice.",
+      "example_vi": "Suất ăn trên máy bay là gà với cơm.",
+      "emoji": "🍱"
+    }
+  ]
+}

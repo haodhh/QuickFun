@@ -1,0 +1,195 @@
+{
+  "id": 3022,
+  "slug": "toeic-2",
+  "title_en": "Logistics & Delivery",
+  "title_vi": "Kho vận & giao hàng",
+  "emoji": "🚚",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "warehouse",
+      "ipa": "/ˈweəhaʊs/",
+      "pos": "n",
+      "vi": "nhà kho",
+      "example_en": "All the products are stored in a large warehouse near the port.",
+      "example_vi": "Tất cả sản phẩm được lưu trữ trong một nhà kho lớn gần cảng.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "shipment",
+      "ipa": "/ˈʃɪpmənt/",
+      "pos": "n",
+      "vi": "lô hàng (được vận chuyển)",
+      "example_en": "The latest shipment of laptops arrived a day early.",
+      "example_vi": "Lô hàng laptop mới nhất đã đến sớm một ngày.",
+      "emoji": "📦"
+    },
+    {
+      "word": "freight",
+      "ipa": "/freɪt/",
+      "pos": "n",
+      "vi": "hàng hóa vận chuyển; cước vận",
+      "example_en": "We send heavy freight by sea because it is cheaper.",
+      "example_vi": "Chúng tôi gửi hàng nặng bằng đường biển vì rẻ hơn.",
+      "emoji": "🚢"
+    },
+    {
+      "word": "courier",
+      "ipa": "/ˈkʊriə/",
+      "pos": "n",
+      "vi": "nhân viên/dịch vụ chuyển phát",
+      "example_en": "A courier will collect the parcel from your office tomorrow.",
+      "example_vi": "Một nhân viên chuyển phát sẽ đến lấy bưu kiện ở văn phòng bạn vào ngày mai.",
+      "emoji": "🛵"
+    },
+    {
+      "word": "tracking number",
+      "ipa": "/ˈtrækɪŋ ˌnʌmbə/",
+      "pos": "phr (n)",
+      "vi": "mã vận đơn, mã theo dõi",
+      "example_en": "Use the tracking number to see where your order is now.",
+      "example_vi": "Hãy dùng mã vận đơn để xem đơn hàng của bạn đang ở đâu.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "delivery date",
+      "ipa": "/dɪˈlɪvəri deɪt/",
+      "pos": "phr (n)",
+      "vi": "ngày giao hàng",
+      "example_en": "The delivery date for your furniture is next Monday.",
+      "example_vi": "Ngày giao hàng cho đồ nội thất của bạn là thứ Hai tuần sau.",
+      "emoji": "📅"
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "pos": "n",
+      "vi": "hải quan",
+      "example_en": "The goods were held at customs for two extra days.",
+      "example_vi": "Hàng hóa bị giữ lại ở hải quan thêm hai ngày.",
+      "emoji": "🛃"
+    },
+    {
+      "word": "inventory",
+      "ipa": "/ˈɪnvəntri/",
+      "pos": "n",
+      "vi": "hàng tồn kho, kiểm kê",
+      "example_en": "We check the inventory at the end of every month.",
+      "example_vi": "Chúng tôi kiểm kê hàng tồn kho vào cuối mỗi tháng.",
+      "emoji": "📋"
+    },
+    {
+      "word": "pallet",
+      "ipa": "/ˈpælɪt/",
+      "pos": "n",
+      "vi": "pa-lét (khay kê hàng)",
+      "example_en": "The boxes were stacked neatly on a wooden pallet.",
+      "example_vi": "Các thùng được xếp gọn gàng trên một chiếc pa-lét gỗ.",
+      "emoji": "🪵"
+    },
+    {
+      "word": "forklift",
+      "ipa": "/ˈfɔːklɪft/",
+      "pos": "n",
+      "vi": "xe nâng",
+      "example_en": "A driver uses a forklift to move the heavy boxes.",
+      "example_vi": "Một tài xế dùng xe nâng để di chuyển các thùng hàng nặng.",
+      "emoji": "🚜"
+    },
+    {
+      "word": "loading dock",
+      "ipa": "/ˈləʊdɪŋ dɒk/",
+      "pos": "phr (n)",
+      "vi": "bến bốc dỡ hàng",
+      "example_en": "The trucks wait at the loading dock to be unloaded.",
+      "example_vi": "Các xe tải chờ ở bến bốc dỡ để được dỡ hàng.",
+      "emoji": "🚛"
+    },
+    {
+      "word": "pack",
+      "ipa": "/pæk/",
+      "pos": "v",
+      "vi": "đóng gói",
+      "example_en": "The workers pack each order carefully before it is sent.",
+      "example_vi": "Công nhân đóng gói cẩn thận từng đơn hàng trước khi gửi đi.",
+      "emoji": "📦"
+    },
+    {
+      "word": "dispatch",
+      "ipa": "/dɪˈspætʃ/",
+      "pos": "v",
+      "vi": "gửi đi, điều phối (hàng)",
+      "example_en": "We will dispatch your order as soon as we receive payment.",
+      "example_vi": "Chúng tôi sẽ gửi đơn hàng của bạn ngay khi nhận được thanh toán.",
+      "emoji": "🚚"
+    },
+    {
+      "word": "carrier",
+      "ipa": "/ˈkæriə/",
+      "pos": "n",
+      "vi": "đơn vị/hãng vận chuyển",
+      "example_en": "Our regular carrier delivers most parcels within three days.",
+      "example_vi": "Hãng vận chuyển thường xuyên của chúng tôi giao phần lớn bưu kiện trong ba ngày.",
+      "emoji": "🚛"
+    },
+    {
+      "word": "lead time",
+      "ipa": "/ˈliːd taɪm/",
+      "pos": "phr (n)",
+      "vi": "thời gian chờ (từ đặt đến giao)",
+      "example_en": "The lead time for this product is about two weeks.",
+      "example_vi": "Thời gian chờ cho sản phẩm này là khoảng hai tuần.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "damaged goods",
+      "ipa": "/ˈdæmɪdʒd ɡʊdz/",
+      "pos": "phr (n)",
+      "vi": "hàng bị hư hỏng",
+      "example_en": "The customer sent back the damaged goods for a refund.",
+      "example_vi": "Khách hàng gửi trả lại hàng bị hư hỏng để được hoàn tiền.",
+      "emoji": "📦"
+    },
+    {
+      "word": "return",
+      "ipa": "/rɪˈtɜːn/",
+      "pos": "n/v",
+      "vi": "trả hàng, hàng trả lại",
+      "example_en": "You can make a return within thirty days of purchase.",
+      "example_vi": "Bạn có thể trả hàng trong vòng ba mươi ngày kể từ khi mua.",
+      "emoji": "↩️"
+    },
+    {
+      "word": "stock level",
+      "ipa": "/ˈstɒk ˌlevl/",
+      "pos": "phr (n)",
+      "vi": "mức tồn kho",
+      "example_en": "When the stock level is low, the system orders more.",
+      "example_vi": "Khi mức tồn kho thấp, hệ thống sẽ đặt thêm hàng.",
+      "emoji": "📊"
+    },
+    {
+      "word": "distribution center",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn ˌsentə/",
+      "pos": "phr (n)",
+      "vi": "trung tâm phân phối",
+      "example_en": "Orders are sent from the distribution centre to local shops.",
+      "example_vi": "Đơn hàng được gửi từ trung tâm phân phối đến các cửa hàng địa phương.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "consignment",
+      "ipa": "/kənˈsaɪnmənt/",
+      "pos": "n",
+      "vi": "lô hàng ký gửi",
+      "example_en": "A large consignment of clothes was shipped to the store.",
+      "example_vi": "Một lô hàng quần áo lớn đã được chuyển đến cửa hàng.",
+      "emoji": "📦"
+    }
+  ]
+}

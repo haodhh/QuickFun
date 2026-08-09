@@ -1,0 +1,195 @@
+{
+  "id": 3017,
+  "slug": "travel-7",
+  "title_en": "Shopping on Holiday",
+  "title_vi": "Mua sắm khi đi du lịch",
+  "emoji": "🛍️",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "souvenir",
+      "ipa": "/ˌsuːvəˈnɪə/",
+      "pos": "n",
+      "vi": "quà lưu niệm",
+      "example_en": "I bought a small souvenir to remember my trip to Paris.",
+      "example_vi": "Tôi mua một món quà lưu niệm nhỏ để nhớ về chuyến đi Paris.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "gift shop",
+      "ipa": "/ˈɡɪft ʃɒp/",
+      "pos": "n",
+      "vi": "cửa hàng quà tặng",
+      "example_en": "There is a lovely gift shop next to the museum.",
+      "example_vi": "Có một cửa hàng quà tặng dễ thương bên cạnh bảo tàng.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "market",
+      "ipa": "/ˈmɑːkɪt/",
+      "pos": "n",
+      "vi": "chợ",
+      "example_en": "We bought fresh fruit at the local market this morning.",
+      "example_vi": "Chúng tôi mua trái cây tươi ở chợ địa phương sáng nay.",
+      "emoji": "🏬"
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːɡɪn/",
+      "pos": "v",
+      "vi": "mặc cả, trả giá",
+      "example_en": "You can bargain with the seller to get a lower price.",
+      "example_vi": "Bạn có thể mặc cả với người bán để có giá thấp hơn.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "try on",
+      "ipa": "/ˈtraɪ ɒn/",
+      "pos": "phr v",
+      "vi": "mặc thử, thử đồ",
+      "example_en": "Can I try on this jacket before I buy it?",
+      "example_vi": "Tôi có thể mặc thử chiếc áo khoác này trước khi mua không?",
+      "emoji": "👕"
+    },
+    {
+      "word": "fitting room",
+      "ipa": "/ˈfɪtɪŋ ruːm/",
+      "pos": "n",
+      "vi": "phòng thử đồ",
+      "example_en": "The fitting room is over there, next to the mirror.",
+      "example_vi": "Phòng thử đồ ở đằng kia, cạnh cái gương.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "size",
+      "ipa": "/saɪz/",
+      "pos": "n",
+      "vi": "cỡ, kích cỡ",
+      "example_en": "Do you have this shirt in a bigger size?",
+      "example_vi": "Bạn có chiếc áo này cỡ to hơn không?",
+      "emoji": "📏"
+    },
+    {
+      "word": "till",
+      "ipa": "/tɪl/",
+      "pos": "n",
+      "vi": "quầy thu ngân, máy tính tiền",
+      "example_en": "Please pay for your shopping at the till near the door.",
+      "example_vi": "Vui lòng trả tiền cho món đồ ở quầy thu ngân gần cửa.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "sold out",
+      "ipa": "/ˌsəʊld ˈaʊt/",
+      "pos": "adj",
+      "vi": "đã bán hết",
+      "example_en": "Sorry, that dress is sold out in your size.",
+      "example_vi": "Xin lỗi, chiếc váy đó đã bán hết cỡ của bạn.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "pos": "n",
+      "vi": "đợt giảm giá",
+      "example_en": "These shoes are cheap because there is a sale today.",
+      "example_vi": "Đôi giày này rẻ vì hôm nay có đợt giảm giá.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "pos": "n",
+      "vi": "tiền hoàn lại",
+      "example_en": "I asked for a refund because the bag was broken.",
+      "example_vi": "Tôi xin hoàn tiền vì chiếc túi bị hỏng.",
+      "emoji": "💵"
+    },
+    {
+      "word": "return an item",
+      "ipa": "/rɪˌtɜːn ən ˈaɪtəm/",
+      "pos": "phr",
+      "vi": "trả lại món hàng",
+      "example_en": "You can return an item within seven days with the receipt.",
+      "example_vi": "Bạn có thể trả lại món hàng trong bảy ngày kèm hóa đơn.",
+      "emoji": "↩️"
+    },
+    {
+      "word": "shopping bag",
+      "ipa": "/ˈʃɒpɪŋ bæɡ/",
+      "pos": "n",
+      "vi": "túi đựng đồ mua sắm",
+      "example_en": "She carried a heavy shopping bag full of clothes.",
+      "example_vi": "Cô ấy xách một túi mua sắm nặng đầy quần áo.",
+      "emoji": "🛍️"
+    },
+    {
+      "word": "barcode",
+      "ipa": "/ˈbɑːkəʊd/",
+      "pos": "n",
+      "vi": "mã vạch",
+      "example_en": "The assistant scanned the barcode to check the price.",
+      "example_vi": "Nhân viên quét mã vạch để kiểm tra giá.",
+      "emoji": "📊"
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "pos": "n",
+      "vi": "nhãn hiệu, thương hiệu",
+      "example_en": "This is a famous brand, so it is a bit expensive.",
+      "example_vi": "Đây là một thương hiệu nổi tiếng nên hơi đắt.",
+      "emoji": "®️"
+    },
+    {
+      "word": "local crafts",
+      "ipa": "/ˌləʊkl ˈkrɑːfts/",
+      "pos": "n",
+      "vi": "đồ thủ công địa phương",
+      "example_en": "The market sells beautiful local crafts made by hand.",
+      "example_vi": "Chợ bán những món đồ thủ công địa phương đẹp được làm bằng tay.",
+      "emoji": "🧶"
+    },
+    {
+      "word": "postcard",
+      "ipa": "/ˈpəʊstkɑːd/",
+      "pos": "n",
+      "vi": "bưu thiếp",
+      "example_en": "I sent my family a postcard from the beach.",
+      "example_vi": "Tôi gửi cho gia đình một tấm bưu thiếp từ bãi biển.",
+      "emoji": "📮"
+    },
+    {
+      "word": "handmade",
+      "ipa": "/ˌhændˈmeɪd/",
+      "pos": "adj",
+      "vi": "làm bằng tay, thủ công",
+      "example_en": "This handmade scarf is soft and very well made.",
+      "example_vi": "Chiếc khăn làm bằng tay này mềm và rất khéo.",
+      "emoji": "🧵"
+    },
+    {
+      "word": "window shopping",
+      "ipa": "/ˈwɪndəʊ ʃɒpɪŋ/",
+      "pos": "n",
+      "vi": "ngắm đồ (không mua)",
+      "example_en": "We went window shopping in the old town all afternoon.",
+      "example_vi": "Chúng tôi đi ngắm đồ ở phố cổ suốt cả buổi chiều.",
+      "emoji": "🪟"
+    },
+    {
+      "word": "shop assistant",
+      "ipa": "/ˈʃɒp əsɪstənt/",
+      "pos": "n",
+      "vi": "nhân viên bán hàng",
+      "example_en": "The shop assistant helped me find the right size.",
+      "example_vi": "Nhân viên bán hàng giúp tôi tìm đúng cỡ.",
+      "emoji": "🧑‍💼"
+    }
+  ]
+}

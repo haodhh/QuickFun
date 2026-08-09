@@ -1,0 +1,195 @@
+{
+  "id": 3038,
+  "slug": "business-8",
+  "title_en": "Accounting & Tax",
+  "title_vi": "Kế toán & thuế",
+  "emoji": "🧮",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "depreciation",
+      "ipa": "/dɪˌpriːʃiˈeɪʃn/",
+      "pos": "n",
+      "vi": "khấu hao (tài sản)",
+      "example_en": "The company spreads the depreciation of its machinery over ten years.",
+      "example_vi": "Công ty phân bổ khấu hao máy móc trong mười năm.",
+      "emoji": "📉"
+    },
+    {
+      "word": "amortization",
+      "ipa": "/əˌmɔːtaɪˈzeɪʃn/",
+      "pos": "n",
+      "vi": "phân bổ dần (tài sản vô hình/khoản vay)",
+      "example_en": "Amortization gradually reduces the value of the patent on the balance sheet.",
+      "example_vi": "Việc phân bổ dần làm giảm giá trị bằng sáng chế trên bảng cân đối.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "accounts payable",
+      "ipa": "/əˌkaʊnts ˈpeɪəbl/",
+      "pos": "n",
+      "vi": "khoản phải trả",
+      "example_en": "Our accounts payable rose sharply after we ordered new stock on credit.",
+      "example_vi": "Khoản phải trả của chúng tôi tăng mạnh sau khi nhập hàng trả chậm.",
+      "emoji": "💸"
+    },
+    {
+      "word": "accounts receivable",
+      "ipa": "/əˌkaʊnts rɪˈsiːvəbl/",
+      "pos": "n",
+      "vi": "khoản phải thu",
+      "example_en": "The firm struggled with cash flow because its accounts receivable were paid late.",
+      "example_vi": "Công ty gặp khó về dòng tiền vì các khoản phải thu bị trả trễ.",
+      "emoji": "📥"
+    },
+    {
+      "word": "ledger",
+      "ipa": "/ˈledʒə/",
+      "pos": "n",
+      "vi": "sổ cái",
+      "example_en": "Every transaction must be recorded accurately in the general ledger.",
+      "example_vi": "Mọi giao dịch phải được ghi chính xác vào sổ cái tổng hợp.",
+      "emoji": "📒"
+    },
+    {
+      "word": "audit",
+      "ipa": "/ˈɔːdɪt/",
+      "pos": "n, v",
+      "vi": "kiểm toán",
+      "example_en": "An independent firm was hired to audit the company's annual accounts.",
+      "example_vi": "Một công ty độc lập được thuê để kiểm toán báo cáo tài chính hằng năm.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "tax deduction",
+      "ipa": "/ˌtæks dɪˈdʌkʃn/",
+      "pos": "n",
+      "vi": "khoản giảm trừ thuế",
+      "example_en": "Charitable donations often qualify for a tax deduction.",
+      "example_vi": "Các khoản quyên góp từ thiện thường được hưởng giảm trừ thuế.",
+      "emoji": "➖"
+    },
+    {
+      "word": "value-added tax",
+      "ipa": "/ˌvæljuː ˈædɪd tæks/",
+      "pos": "n",
+      "vi": "thuế giá trị gia tăng (VAT)",
+      "example_en": "The price includes value-added tax at the standard rate.",
+      "example_vi": "Giá đã bao gồm thuế giá trị gia tăng theo mức tiêu chuẩn.",
+      "emoji": "🧮"
+    },
+    {
+      "word": "accrual",
+      "ipa": "/əˈkruːəl/",
+      "pos": "n",
+      "vi": "khoản dồn tích, dự chi/dự thu",
+      "example_en": "Under the accrual method, revenue is recorded when it is earned, not when cash arrives.",
+      "example_vi": "Theo phương pháp dồn tích, doanh thu được ghi khi phát sinh chứ không phải khi nhận tiền.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "liabilities",
+      "ipa": "/ˌlaɪəˈbɪlətiz/",
+      "pos": "n",
+      "vi": "nợ phải trả, công nợ",
+      "example_en": "The business must settle its short-term liabilities within the year.",
+      "example_vi": "Doanh nghiệp phải thanh toán các khoản nợ ngắn hạn trong năm.",
+      "emoji": "📊"
+    },
+    {
+      "word": "assets",
+      "ipa": "/ˈæsets/",
+      "pos": "n",
+      "vi": "tài sản",
+      "example_en": "The company's total assets exceed its liabilities by a wide margin.",
+      "example_vi": "Tổng tài sản của công ty vượt xa nợ phải trả.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "bookkeeping",
+      "ipa": "/ˈbʊkkiːpɪŋ/",
+      "pos": "n",
+      "vi": "việc ghi sổ kế toán",
+      "example_en": "Accurate bookkeeping is essential for preparing reliable financial statements.",
+      "example_vi": "Việc ghi sổ chính xác là điều thiết yếu để lập báo cáo tài chính đáng tin cậy.",
+      "emoji": "📚"
+    },
+    {
+      "word": "reconciliation",
+      "ipa": "/ˌrekənsɪliˈeɪʃn/",
+      "pos": "n",
+      "vi": "đối chiếu (số liệu)",
+      "example_en": "Monthly bank reconciliation helps detect any errors or missing transactions.",
+      "example_vi": "Việc đối chiếu ngân hàng hằng tháng giúp phát hiện sai sót hoặc giao dịch bị thiếu.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "taxable income",
+      "ipa": "/ˌtæksəbl ˈɪnkʌm/",
+      "pos": "n",
+      "vi": "thu nhập chịu thuế",
+      "example_en": "Business expenses can be subtracted to reduce your taxable income.",
+      "example_vi": "Chi phí kinh doanh có thể được trừ để giảm thu nhập chịu thuế của bạn.",
+      "emoji": "💰"
+    },
+    {
+      "word": "tax evasion",
+      "ipa": "/ˌtæks ɪˈveɪʒn/",
+      "pos": "n",
+      "vi": "trốn thuế",
+      "example_en": "The director was jailed for large-scale tax evasion.",
+      "example_vi": "Vị giám đốc bị bỏ tù vì trốn thuế quy mô lớn.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "tax return",
+      "ipa": "/ˈtæks rɪˌtɜːn/",
+      "pos": "n",
+      "vi": "tờ khai thuế",
+      "example_en": "You must file your tax return before the end of January.",
+      "example_vi": "Bạn phải nộp tờ khai thuế trước cuối tháng Một.",
+      "emoji": "📝"
+    },
+    {
+      "word": "trial balance",
+      "ipa": "/ˌtraɪəl ˈbæləns/",
+      "pos": "n",
+      "vi": "bảng cân đối thử",
+      "example_en": "The accountant prepares a trial balance to check that debits equal credits.",
+      "example_vi": "Kế toán lập bảng cân đối thử để kiểm tra bên nợ khớp bên có.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "expenditure",
+      "ipa": "/ɪkˈspendɪtʃə/",
+      "pos": "n",
+      "vi": "chi tiêu, khoản chi",
+      "example_en": "The government aims to cut public expenditure next year.",
+      "example_vi": "Chính phủ đặt mục tiêu cắt giảm chi tiêu công vào năm tới.",
+      "emoji": "💳"
+    },
+    {
+      "word": "journal entry",
+      "ipa": "/ˈdʒɜːnl ˌentri/",
+      "pos": "n",
+      "vi": "bút toán (ghi vào nhật ký)",
+      "example_en": "Each transaction begins with a journal entry showing the debit and credit.",
+      "example_vi": "Mỗi giao dịch bắt đầu bằng một bút toán ghi rõ bên nợ và bên có.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "provision",
+      "ipa": "/prəˈvɪʒn/",
+      "pos": "n",
+      "vi": "khoản dự phòng",
+      "example_en": "The bank set aside a large provision for potential bad debts.",
+      "example_vi": "Ngân hàng trích lập một khoản dự phòng lớn cho nợ xấu tiềm ẩn.",
+      "emoji": "🛡️"
+    }
+  ]
+}

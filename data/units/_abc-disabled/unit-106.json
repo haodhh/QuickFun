@@ -1,0 +1,317 @@
+{
+  "id": 106,
+  "slug": "abc-core-verbs",
+  "title_en": "Core Verbs",
+  "title_vi": "Động từ lõi",
+  "emoji": "⚙️",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "be",
+      "ipa": "/biː/",
+      "pos": "v",
+      "vi": "thì, là, ở (am/is/are)",
+      "example_en": "I want to be happy.",
+      "example_vi": "Tôi muốn được hạnh phúc.",
+      "emoji": "😊"
+    },
+    {
+      "word": "have",
+      "ipa": "/hæv/",
+      "pos": "v",
+      "vi": "có",
+      "example_en": "I have a cat.",
+      "example_vi": "Tôi có một con mèo.",
+      "emoji": "🐱"
+    },
+    {
+      "word": "do",
+      "ipa": "/duː/",
+      "pos": "v",
+      "vi": "làm",
+      "example_en": "I do my homework.",
+      "example_vi": "Tôi làm bài tập.",
+      "emoji": "📝"
+    },
+    {
+      "word": "go",
+      "ipa": "/ɡəʊ/",
+      "pos": "v",
+      "vi": "đi",
+      "example_en": "I go to school.",
+      "example_vi": "Tôi đi học.",
+      "emoji": "🚶"
+    },
+    {
+      "word": "come",
+      "ipa": "/kʌm/",
+      "pos": "v",
+      "vi": "đến",
+      "example_en": "Come here, please.",
+      "example_vi": "Đến đây nào.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "get",
+      "ipa": "/ɡet/",
+      "pos": "v",
+      "vi": "lấy, nhận được",
+      "example_en": "I get a gift.",
+      "example_vi": "Tôi nhận một món quà.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "make",
+      "ipa": "/meɪk/",
+      "pos": "v",
+      "vi": "làm, tạo ra",
+      "example_en": "I make a cake.",
+      "example_vi": "Tôi làm một cái bánh.",
+      "emoji": "🎂"
+    },
+    {
+      "word": "take",
+      "ipa": "/teɪk/",
+      "pos": "v",
+      "vi": "lấy, cầm",
+      "example_en": "Take my hand.",
+      "example_vi": "Cầm tay tôi nào.",
+      "emoji": "✋"
+    },
+    {
+      "word": "give",
+      "ipa": "/ɡɪv/",
+      "pos": "v",
+      "vi": "cho, đưa",
+      "example_en": "I give you a book.",
+      "example_vi": "Tôi cho bạn một cuốn sách.",
+      "emoji": "🤲"
+    },
+    {
+      "word": "want",
+      "ipa": "/wɒnt/",
+      "pos": "v",
+      "vi": "muốn",
+      "example_en": "I want water.",
+      "example_vi": "Tôi muốn nước.",
+      "emoji": "💧"
+    },
+    {
+      "word": "need",
+      "ipa": "/niːd/",
+      "pos": "v",
+      "vi": "cần",
+      "example_en": "I need help.",
+      "example_vi": "Tôi cần giúp đỡ.",
+      "emoji": "🆘"
+    },
+    {
+      "word": "like",
+      "ipa": "/laɪk/",
+      "pos": "v",
+      "vi": "thích",
+      "example_en": "I like tea.",
+      "example_vi": "Tôi thích trà.",
+      "emoji": "👍"
+    },
+    {
+      "word": "know",
+      "ipa": "/nəʊ/",
+      "pos": "v",
+      "vi": "biết",
+      "example_en": "I know your name.",
+      "example_vi": "Tôi biết tên bạn.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "think",
+      "ipa": "/θɪŋk/",
+      "pos": "v",
+      "vi": "nghĩ",
+      "example_en": "I think it is good.",
+      "example_vi": "Tôi nghĩ nó tốt.",
+      "emoji": "💭"
+    },
+    {
+      "word": "see",
+      "ipa": "/siː/",
+      "pos": "v",
+      "vi": "thấy, nhìn thấy",
+      "example_en": "I see a bird.",
+      "example_vi": "Tôi thấy một con chim.",
+      "emoji": "👀"
+    },
+    {
+      "word": "look",
+      "ipa": "/lʊk/",
+      "pos": "v",
+      "vi": "nhìn",
+      "example_en": "Look at me.",
+      "example_vi": "Nhìn tôi này.",
+      "emoji": "👁️"
+    },
+    {
+      "word": "hear",
+      "ipa": "/hɪə/",
+      "pos": "v",
+      "vi": "nghe thấy",
+      "example_en": "I hear music.",
+      "example_vi": "Tôi nghe thấy nhạc.",
+      "emoji": "👂"
+    },
+    {
+      "word": "say",
+      "ipa": "/seɪ/",
+      "pos": "v",
+      "vi": "nói",
+      "example_en": "Say hello.",
+      "example_vi": "Nói xin chào nào.",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "tell",
+      "ipa": "/tel/",
+      "pos": "v",
+      "vi": "kể, bảo",
+      "example_en": "Tell me a story.",
+      "example_vi": "Kể tôi nghe một câu chuyện.",
+      "emoji": "💬"
+    },
+    {
+      "word": "ask",
+      "ipa": "/ɑːsk/",
+      "pos": "v",
+      "vi": "hỏi",
+      "example_en": "I ask a question.",
+      "example_vi": "Tôi hỏi một câu.",
+      "emoji": "❓"
+    },
+    {
+      "word": "speak",
+      "ipa": "/spiːk/",
+      "pos": "v",
+      "vi": "nói (ngôn ngữ)",
+      "example_en": "I speak English.",
+      "example_vi": "Tôi nói tiếng Anh.",
+      "emoji": "🗨️"
+    },
+    {
+      "word": "work",
+      "ipa": "/wɜːk/",
+      "pos": "v",
+      "vi": "làm việc",
+      "example_en": "I work every day.",
+      "example_vi": "Tôi làm việc mỗi ngày.",
+      "emoji": "💼"
+    },
+    {
+      "word": "play",
+      "ipa": "/pleɪ/",
+      "pos": "v",
+      "vi": "chơi",
+      "example_en": "I play with my dog.",
+      "example_vi": "Tôi chơi với con chó.",
+      "emoji": "⚽"
+    },
+    {
+      "word": "eat",
+      "ipa": "/iːt/",
+      "pos": "v",
+      "vi": "ăn",
+      "example_en": "I eat rice.",
+      "example_vi": "Tôi ăn cơm.",
+      "emoji": "🍚"
+    },
+    {
+      "word": "drink",
+      "ipa": "/drɪŋk/",
+      "pos": "v",
+      "vi": "uống",
+      "example_en": "I drink milk.",
+      "example_vi": "Tôi uống sữa.",
+      "emoji": "🥛"
+    },
+    {
+      "word": "sleep",
+      "ipa": "/sliːp/",
+      "pos": "v",
+      "vi": "ngủ",
+      "example_en": "I sleep at night.",
+      "example_vi": "Tôi ngủ vào ban đêm.",
+      "emoji": "😴"
+    },
+    {
+      "word": "live",
+      "ipa": "/lɪv/",
+      "pos": "v",
+      "vi": "sống, ở",
+      "example_en": "I live in Hanoi.",
+      "example_vi": "Tôi sống ở Hà Nội.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "use",
+      "ipa": "/juːz/",
+      "pos": "v",
+      "vi": "dùng, sử dụng",
+      "example_en": "I use a pen.",
+      "example_vi": "Tôi dùng một cây bút.",
+      "emoji": "✏️"
+    },
+    {
+      "word": "help",
+      "ipa": "/help/",
+      "pos": "v",
+      "vi": "giúp đỡ",
+      "example_en": "I help my mom.",
+      "example_vi": "Tôi giúp mẹ tôi.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "put",
+      "ipa": "/pʊt/",
+      "pos": "v",
+      "vi": "đặt, để",
+      "example_en": "Put it on the table.",
+      "example_vi": "Đặt nó lên bàn.",
+      "emoji": "📥"
+    },
+    {
+      "word": "find",
+      "ipa": "/faɪnd/",
+      "pos": "v",
+      "vi": "tìm thấy",
+      "example_en": "I find my keys.",
+      "example_vi": "Tôi tìm thấy chìa khóa.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "feel",
+      "ipa": "/fiːl/",
+      "pos": "v",
+      "vi": "cảm thấy",
+      "example_en": "I feel happy.",
+      "example_vi": "Tôi cảm thấy vui.",
+      "emoji": "💗"
+    },
+    {
+      "word": "open",
+      "ipa": "/ˈəʊpən/",
+      "pos": "v",
+      "vi": "mở",
+      "example_en": "Open the door.",
+      "example_vi": "Mở cửa nào.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "close",
+      "ipa": "/kləʊz/",
+      "pos": "v",
+      "vi": "đóng",
+      "example_en": "Close the window.",
+      "example_vi": "Đóng cửa sổ lại.",
+      "emoji": "🪟"
+    }
+  ]
+}

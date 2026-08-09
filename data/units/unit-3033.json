@@ -1,0 +1,195 @@
+{
+  "id": 3033,
+  "slug": "business-3",
+  "title_en": "Negotiation, Contracts & M&A",
+  "title_vi": "Đàm phán, hợp đồng & M&A",
+  "emoji": "🤝",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "merger",
+      "ipa": "/ˈmɜːdʒə/",
+      "pos": "n",
+      "vi": "sự sáp nhập (doanh nghiệp)",
+      "example_en": "The merger between the two banks created the largest financial group in the region.",
+      "example_vi": "Vụ sáp nhập giữa hai ngân hàng đã tạo ra tập đoàn tài chính lớn nhất khu vực.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "acquisition",
+      "ipa": "/ˌækwɪˈzɪʃn/",
+      "pos": "n",
+      "vi": "sự thâu tóm, mua lại",
+      "example_en": "The acquisition of the start-up gave the corporation access to cutting-edge technology.",
+      "example_vi": "Việc mua lại công ty khởi nghiệp giúp tập đoàn tiếp cận công nghệ tiên tiến.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "due diligence",
+      "ipa": "/ˌdjuː ˈdɪlɪdʒəns/",
+      "pos": "phr",
+      "vi": "thẩm định (điều tra kỹ trước giao dịch)",
+      "example_en": "Investors carried out thorough due diligence before signing the deal.",
+      "example_vi": "Các nhà đầu tư đã thẩm định kỹ lưỡng trước khi ký kết thương vụ.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "counteroffer",
+      "ipa": "/ˈkaʊntərˌɒfə/",
+      "pos": "n",
+      "vi": "đề nghị đối ứng, mặc cả ngược",
+      "example_en": "When they rejected our price, we responded with a reasonable counteroffer.",
+      "example_vi": "Khi họ từ chối mức giá của chúng tôi, chúng tôi đưa ra một đề nghị đối ứng hợp lý.",
+      "emoji": "💬"
+    },
+    {
+      "word": "bargaining power",
+      "ipa": "/ˈbɑːɡɪnɪŋ ˌpaʊə/",
+      "pos": "phr",
+      "vi": "sức mạnh thương lượng, thế mặc cả",
+      "example_en": "With several buyers competing, the seller had strong bargaining power.",
+      "example_vi": "Với nhiều người mua cạnh tranh, bên bán có thế mặc cả rất mạnh.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkˌhəʊldə/",
+      "pos": "n",
+      "vi": "bên liên quan (có quyền lợi)",
+      "example_en": "Management consulted every stakeholder before finalising the restructuring plan.",
+      "example_vi": "Ban lãnh đạo đã tham vấn mọi bên liên quan trước khi hoàn tất kế hoạch tái cơ cấu.",
+      "emoji": "👥"
+    },
+    {
+      "word": "clause",
+      "ipa": "/klɔːz/",
+      "pos": "n",
+      "vi": "điều khoản (trong hợp đồng)",
+      "example_en": "The confidentiality clause prevents either party from sharing sensitive information.",
+      "example_vi": "Điều khoản bảo mật ngăn cả hai bên chia sẻ thông tin nhạy cảm.",
+      "emoji": "📑"
+    },
+    {
+      "word": "breach of contract",
+      "ipa": "/ˌbriːtʃ əv ˈkɒntrækt/",
+      "pos": "phr",
+      "vi": "sự vi phạm hợp đồng",
+      "example_en": "Failing to deliver the goods on time amounted to a serious breach of contract.",
+      "example_vi": "Việc không giao hàng đúng hạn được xem là một vi phạm hợp đồng nghiêm trọng.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "non-disclosure agreement",
+      "ipa": "/ˌnɒn dɪsˈkləʊʒər əˌɡriːmənt/",
+      "pos": "phr",
+      "vi": "thỏa thuận bảo mật (NDA)",
+      "example_en": "Both companies signed a non-disclosure agreement before the negotiations began.",
+      "example_vi": "Cả hai công ty đã ký thỏa thuận bảo mật trước khi cuộc đàm phán bắt đầu.",
+      "emoji": "🤐"
+    },
+    {
+      "word": "terms and conditions",
+      "ipa": "/ˌtɜːmz ənd kənˈdɪʃnz/",
+      "pos": "phr",
+      "vi": "các điều khoản và điều kiện",
+      "example_en": "Please read the terms and conditions carefully before you accept the offer.",
+      "example_vi": "Vui lòng đọc kỹ các điều khoản và điều kiện trước khi bạn chấp nhận đề nghị.",
+      "emoji": "📜"
+    },
+    {
+      "word": "deadlock",
+      "ipa": "/ˈdedlɒk/",
+      "pos": "n",
+      "vi": "sự bế tắc (trong đàm phán)",
+      "example_en": "The talks reached a deadlock when neither side would lower its demands.",
+      "example_vi": "Cuộc đàm phán rơi vào bế tắc khi không bên nào chịu hạ yêu cầu.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "concession",
+      "ipa": "/kənˈseʃn/",
+      "pos": "n",
+      "vi": "sự nhượng bộ",
+      "example_en": "To close the deal, the supplier made a small concession on the delivery date.",
+      "example_vi": "Để chốt được thương vụ, nhà cung cấp đã nhượng bộ một chút về ngày giao hàng.",
+      "emoji": "🕊️"
+    },
+    {
+      "word": "leveraged buyout",
+      "ipa": "/ˌliːvərɪdʒd ˈbaɪaʊt/",
+      "pos": "phr",
+      "vi": "mua lại bằng vốn vay (LBO)",
+      "example_en": "The firm was purchased through a leveraged buyout funded largely by borrowed money.",
+      "example_vi": "Công ty được mua lại thông qua một thương vụ dùng vốn vay là chủ yếu.",
+      "emoji": "💰"
+    },
+    {
+      "word": "hostile takeover",
+      "ipa": "/ˌhɒstaɪl ˈteɪkəʊvə/",
+      "pos": "phr",
+      "vi": "thâu tóm thù địch (không được đồng ý)",
+      "example_en": "The board fought hard to resist the hostile takeover by its biggest rival.",
+      "example_vi": "Hội đồng quản trị đã chống trả quyết liệt để cản vụ thâu tóm thù địch từ đối thủ lớn nhất.",
+      "emoji": "⚔️"
+    },
+    {
+      "word": "binding agreement",
+      "ipa": "/ˌbaɪndɪŋ əˌɡriːmənt/",
+      "pos": "phr",
+      "vi": "thỏa thuận ràng buộc (pháp lý)",
+      "example_en": "Once both parties sign, this becomes a legally binding agreement.",
+      "example_vi": "Khi cả hai bên ký, văn bản này trở thành một thỏa thuận ràng buộc về mặt pháp lý.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "arbitration",
+      "ipa": "/ˌɑːbɪˈtreɪʃn/",
+      "pos": "n",
+      "vi": "trọng tài (phương thức phân xử tranh chấp)",
+      "example_en": "The two sides agreed to settle the dispute through arbitration rather than in court.",
+      "example_vi": "Hai bên đồng ý giải quyết tranh chấp bằng trọng tài thay vì ra tòa.",
+      "emoji": "👨‍⚖️"
+    },
+    {
+      "word": "memorandum of understanding",
+      "ipa": "/ˌmeməˌrændəm əv ˌʌndəˈstændɪŋ/",
+      "pos": "phr",
+      "vi": "biên bản ghi nhớ (MOU)",
+      "example_en": "The governments signed a memorandum of understanding to boost trade cooperation.",
+      "example_vi": "Các chính phủ đã ký biên bản ghi nhớ nhằm thúc đẩy hợp tác thương mại.",
+      "emoji": "📝"
+    },
+    {
+      "word": "letter of intent",
+      "ipa": "/ˌletər əv ɪnˈtent/",
+      "pos": "phr",
+      "vi": "thư bày tỏ ý định (LOI)",
+      "example_en": "The buyer submitted a letter of intent outlining the main terms of the proposed deal.",
+      "example_vi": "Bên mua đã gửi thư bày tỏ ý định nêu ra các điều khoản chính của thương vụ dự kiến.",
+      "emoji": "✉️"
+    },
+    {
+      "word": "valuation",
+      "ipa": "/ˌvæljuˈeɪʃn/",
+      "pos": "n",
+      "vi": "sự định giá (doanh nghiệp, tài sản)",
+      "example_en": "Analysts disagreed over the valuation of the company before its sale.",
+      "example_vi": "Các nhà phân tích bất đồng về việc định giá công ty trước khi bán.",
+      "emoji": "📊"
+    },
+    {
+      "word": "synergy",
+      "ipa": "/ˈsɪnədʒi/",
+      "pos": "n",
+      "vi": "sự cộng hưởng, hiệp lực",
+      "example_en": "The merger is expected to create synergy by cutting duplicate costs.",
+      "example_vi": "Vụ sáp nhập được kỳ vọng tạo ra sự cộng hưởng nhờ cắt giảm các chi phí trùng lặp.",
+      "emoji": "🔗"
+    }
+  ]
+}

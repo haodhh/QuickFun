@@ -1,0 +1,195 @@
+{
+  "id": 3042,
+  "slug": "ielts-2",
+  "title_en": "Figures & Proportions",
+  "title_vi": "Số liệu & tỉ lệ",
+  "emoji": "📊",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "approximately",
+      "ipa": "/əˈprɒksɪmətli/",
+      "pos": "adv",
+      "vi": "khoảng, xấp xỉ",
+      "example_en": "Approximately 40% of respondents said they preferred remote work.",
+      "example_vi": "Khoảng 40% người được hỏi nói rằng họ thích làm việc từ xa.",
+      "emoji": "📊"
+    },
+    {
+      "word": "a significant proportion",
+      "ipa": "/ə sɪɡˈnɪfɪkənt prəˈpɔːʃn/",
+      "pos": "phr",
+      "vi": "một tỉ lệ đáng kể",
+      "example_en": "A significant proportion of the workforce now holds a university degree.",
+      "example_vi": "Một tỉ lệ đáng kể lực lượng lao động hiện có bằng đại học.",
+      "emoji": "📈"
+    },
+    {
+      "word": "the majority of",
+      "ipa": "/ðə məˈdʒɒrəti əv/",
+      "pos": "phr",
+      "vi": "phần lớn, đa số",
+      "example_en": "The majority of participants completed the survey within ten minutes.",
+      "example_vi": "Phần lớn người tham gia hoàn thành khảo sát trong vòng mười phút.",
+      "emoji": "👥"
+    },
+    {
+      "word": "a minority of",
+      "ipa": "/ə maɪˈnɒrəti əv/",
+      "pos": "phr",
+      "vi": "một số ít, thiểu số",
+      "example_en": "Only a minority of households reported any change in monthly spending.",
+      "example_vi": "Chỉ một số ít hộ gia đình cho biết có thay đổi trong chi tiêu hằng tháng.",
+      "emoji": "🔹"
+    },
+    {
+      "word": "roughly a third",
+      "ipa": "/ˈrʌfli ə θɜːd/",
+      "pos": "phr",
+      "vi": "khoảng một phần ba",
+      "example_en": "Roughly a third of the city's energy comes from renewable sources.",
+      "example_vi": "Khoảng một phần ba năng lượng của thành phố đến từ nguồn tái tạo.",
+      "emoji": "⅓"
+    },
+    {
+      "word": "twofold",
+      "ipa": "/ˈtuːfəʊld/",
+      "pos": "adj/adv",
+      "vi": "gấp đôi",
+      "example_en": "Between 2010 and 2020, online sales increased twofold.",
+      "example_vi": "Từ năm 2010 đến 2020, doanh số trực tuyến đã tăng gấp đôi.",
+      "emoji": "✖️"
+    },
+    {
+      "word": "account for",
+      "ipa": "/əˈkaʊnt fɔː/",
+      "pos": "phr v",
+      "vi": "chiếm (tỉ lệ)",
+      "example_en": "Manufacturing accounts for nearly a quarter of the country's exports.",
+      "example_vi": "Ngành sản xuất chiếm gần một phần tư kim ngạch xuất khẩu của cả nước.",
+      "emoji": "🥧"
+    },
+    {
+      "word": "make up",
+      "ipa": "/ˌmeɪk ˈʌp/",
+      "pos": "phr v",
+      "vi": "chiếm, tạo thành",
+      "example_en": "Women make up over half of the students enrolled this year.",
+      "example_vi": "Nữ giới chiếm hơn một nửa số sinh viên nhập học năm nay.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "respectively",
+      "ipa": "/rɪˈspektɪvli/",
+      "pos": "adv",
+      "vi": "lần lượt, theo thứ tự",
+      "example_en": "Sales in the two branches rose by 8% and 12% respectively.",
+      "example_vi": "Doanh số tại hai chi nhánh lần lượt tăng 8% và 12%.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "the figure stood at",
+      "ipa": "/ðə ˈfɪɡə stʊd ət/",
+      "pos": "phr",
+      "vi": "con số ở mức",
+      "example_en": "By December, the unemployment figure stood at just under 5%.",
+      "example_vi": "Đến tháng Mười Hai, con số thất nghiệp ở mức dưới 5% một chút.",
+      "emoji": "📉"
+    },
+    {
+      "word": "by a margin of",
+      "ipa": "/baɪ ə ˈmɑːdʒɪn əv/",
+      "pos": "phr",
+      "vi": "với chênh lệch, cách biệt",
+      "example_en": "The proposal was approved by a margin of nearly two to one.",
+      "example_vi": "Đề xuất được thông qua với chênh lệch gần hai chọi một.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "per capita",
+      "ipa": "/pə ˈkæpɪtə/",
+      "pos": "adj/adv",
+      "vi": "bình quân đầu người",
+      "example_en": "Per capita income in the region has doubled over the past decade.",
+      "example_vi": "Thu nhập bình quân đầu người trong khu vực đã tăng gấp đôi trong thập kỷ qua.",
+      "emoji": "🧍"
+    },
+    {
+      "word": "ratio",
+      "ipa": "/ˈreɪʃiəʊ/",
+      "pos": "n",
+      "vi": "tỉ lệ, tỉ số",
+      "example_en": "The student-to-teacher ratio at the school is around fifteen to one.",
+      "example_vi": "Tỉ lệ học sinh trên giáo viên ở trường vào khoảng mười lăm trên một.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "quadruple",
+      "ipa": "/ˈkwɒdrʊpl/",
+      "pos": "v",
+      "vi": "tăng gấp bốn",
+      "example_en": "The number of electric cars on the road is expected to quadruple by 2030.",
+      "example_vi": "Số xe điện lưu thông dự kiến sẽ tăng gấp bốn vào năm 2030.",
+      "emoji": "4️⃣"
+    },
+    {
+      "word": "percentage point",
+      "ipa": "/pəˈsentɪdʒ pɔɪnt/",
+      "pos": "n",
+      "vi": "điểm phần trăm",
+      "example_en": "Inflation fell by two percentage points compared with last year.",
+      "example_vi": "Lạm phát giảm hai điểm phần trăm so với năm ngoái.",
+      "emoji": "💯"
+    },
+    {
+      "word": "the overall total",
+      "ipa": "/ði ˌəʊvərɔːl ˈtəʊtl/",
+      "pos": "phr",
+      "vi": "tổng chung, tổng thể",
+      "example_en": "When both regions are combined, the overall total reaches ten million.",
+      "example_vi": "Khi cộng cả hai khu vực, tổng chung đạt mười triệu.",
+      "emoji": "➕"
+    },
+    {
+      "word": "a marginal difference",
+      "ipa": "/ə ˈmɑːdʒɪnl ˈdɪfrəns/",
+      "pos": "phr",
+      "vi": "chênh lệch không đáng kể",
+      "example_en": "There was only a marginal difference between the two groups' results.",
+      "example_vi": "Chỉ có một chênh lệch không đáng kể giữa kết quả của hai nhóm.",
+      "emoji": "➖"
+    },
+    {
+      "word": "comparatively",
+      "ipa": "/kəmˈpærətɪvli/",
+      "pos": "adv",
+      "vi": "tương đối, so sánh ra",
+      "example_en": "Spending on healthcare remained comparatively low throughout the period.",
+      "example_vi": "Chi tiêu cho y tế vẫn ở mức tương đối thấp trong suốt giai đoạn này.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "pos": "v",
+      "vi": "vượt quá",
+      "example_en": "Demand for the product exceeded all of the company's forecasts.",
+      "example_vi": "Nhu cầu về sản phẩm đã vượt quá mọi dự báo của công ty.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "fall short of",
+      "ipa": "/ˌfɔːl ˈʃɔːt əv/",
+      "pos": "phr v",
+      "vi": "thiếu, không đạt",
+      "example_en": "This year's profits fell short of the target by several million.",
+      "example_vi": "Lợi nhuận năm nay không đạt mục tiêu, thiếu vài triệu.",
+      "emoji": "⬇️"
+    }
+  ]
+}

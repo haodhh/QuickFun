@@ -1,0 +1,195 @@
+{
+  "id": 3025,
+  "slug": "toeic-5",
+  "title_en": "Office Finance & Accounting",
+  "title_vi": "Tài chính & kế toán",
+  "emoji": "💰",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "pos": "n",
+      "vi": "ngân sách",
+      "example_en": "Our team has a small budget for office supplies this year.",
+      "example_vi": "Nhóm chúng tôi có ngân sách nhỏ cho văn phòng phẩm năm nay.",
+      "emoji": "💰"
+    },
+    {
+      "word": "expense",
+      "ipa": "/ɪkˈspens/",
+      "pos": "n",
+      "vi": "chi phí",
+      "example_en": "The company will pay for all your travel expenses.",
+      "example_vi": "Công ty sẽ chi trả toàn bộ chi phí đi lại của bạn.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "profit",
+      "ipa": "/ˈprɒfɪt/",
+      "pos": "n",
+      "vi": "lợi nhuận",
+      "example_en": "The shop made a good profit last month.",
+      "example_vi": "Cửa hàng đã thu được lợi nhuận tốt tháng trước.",
+      "emoji": "📈"
+    },
+    {
+      "word": "revenue",
+      "ipa": "/ˈrevənjuː/",
+      "pos": "n",
+      "vi": "doanh thu",
+      "example_en": "The company's revenue increased by ten percent this year.",
+      "example_vi": "Doanh thu của công ty tăng mười phần trăm trong năm nay.",
+      "emoji": "💵"
+    },
+    {
+      "word": "reimbursement",
+      "ipa": "/ˌriːɪmˈbɜːsmənt/",
+      "pos": "n",
+      "vi": "sự hoàn tiền, bồi hoàn",
+      "example_en": "You can claim reimbursement for your taxi fares.",
+      "example_vi": "Bạn có thể yêu cầu hoàn tiền cho các khoản taxi.",
+      "emoji": "💳"
+    },
+    {
+      "word": "balance sheet",
+      "ipa": "/ˈbæləns ʃiːt/",
+      "pos": "n phr",
+      "vi": "bảng cân đối kế toán",
+      "example_en": "The accountant checked the numbers on the balance sheet.",
+      "example_vi": "Kế toán viên đã kiểm tra các con số trên bảng cân đối kế toán.",
+      "emoji": "📊"
+    },
+    {
+      "word": "cash flow",
+      "ipa": "/ˈkæʃ fləʊ/",
+      "pos": "n phr",
+      "vi": "dòng tiền",
+      "example_en": "Good cash flow helps a business pay its bills on time.",
+      "example_vi": "Dòng tiền tốt giúp doanh nghiệp thanh toán hóa đơn đúng hạn.",
+      "emoji": "💸"
+    },
+    {
+      "word": "audit",
+      "ipa": "/ˈɔːdɪt/",
+      "pos": "n",
+      "vi": "kiểm toán",
+      "example_en": "The company has an audit every year to check its accounts.",
+      "example_vi": "Công ty có một cuộc kiểm toán mỗi năm để rà soát sổ sách.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "tax",
+      "ipa": "/tæks/",
+      "pos": "n",
+      "vi": "thuế",
+      "example_en": "Everyone must pay tax on their income.",
+      "example_vi": "Mọi người đều phải nộp thuế trên thu nhập của mình.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "financial report",
+      "ipa": "/faɪˌnænʃl rɪˈpɔːt/",
+      "pos": "n phr",
+      "vi": "báo cáo tài chính",
+      "example_en": "The manager presented the financial report at the meeting.",
+      "example_vi": "Người quản lý đã trình bày báo cáo tài chính tại cuộc họp.",
+      "emoji": "📑"
+    },
+    {
+      "word": "petty cash",
+      "ipa": "/ˌpeti ˈkæʃ/",
+      "pos": "n phr",
+      "vi": "quỹ tiền mặt nhỏ",
+      "example_en": "We use petty cash to buy small things like coffee and pens.",
+      "example_vi": "Chúng tôi dùng quỹ tiền mặt nhỏ để mua những thứ lặt vặt như cà phê và bút.",
+      "emoji": "🪙"
+    },
+    {
+      "word": "accounts payable",
+      "ipa": "/əˌkaʊnts ˈpeɪəbl/",
+      "pos": "n phr",
+      "vi": "khoản phải trả",
+      "example_en": "The accounts payable team pays the company's suppliers.",
+      "example_vi": "Bộ phận khoản phải trả thanh toán cho các nhà cung cấp của công ty.",
+      "emoji": "📤"
+    },
+    {
+      "word": "accounts receivable",
+      "ipa": "/əˌkaʊnts rɪˈsiːvəbl/",
+      "pos": "n phr",
+      "vi": "khoản phải thu",
+      "example_en": "Accounts receivable shows the money that customers still owe us.",
+      "example_vi": "Khoản phải thu cho biết số tiền mà khách hàng vẫn còn nợ chúng ta.",
+      "emoji": "📥"
+    },
+    {
+      "word": "forecast",
+      "ipa": "/ˈfɔːkɑːst/",
+      "pos": "n",
+      "vi": "dự báo",
+      "example_en": "The sales forecast for next year looks very good.",
+      "example_vi": "Dự báo doanh số cho năm sau trông rất khả quan.",
+      "emoji": "🔮"
+    },
+    {
+      "word": "ledger",
+      "ipa": "/ˈledʒə/",
+      "pos": "n",
+      "vi": "sổ cái",
+      "example_en": "All the transactions are recorded in the ledger.",
+      "example_vi": "Tất cả các giao dịch đều được ghi vào sổ cái.",
+      "emoji": "📒"
+    },
+    {
+      "word": "fiscal year",
+      "ipa": "/ˌfɪskl ˈjɪə/",
+      "pos": "n phr",
+      "vi": "năm tài chính",
+      "example_en": "Our fiscal year ends in June, not December.",
+      "example_vi": "Năm tài chính của chúng tôi kết thúc vào tháng Sáu, không phải tháng Mười Hai.",
+      "emoji": "📅"
+    },
+    {
+      "word": "overhead cost",
+      "ipa": "/ˈəʊvəhed kɒst/",
+      "pos": "n phr",
+      "vi": "chi phí chung",
+      "example_en": "Rent and electricity are examples of overhead costs.",
+      "example_vi": "Tiền thuê và tiền điện là những ví dụ về chi phí chung.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "assets",
+      "ipa": "/ˈæsets/",
+      "pos": "n",
+      "vi": "tài sản",
+      "example_en": "The company sold some of its assets to raise money.",
+      "example_vi": "Công ty đã bán một số tài sản để huy động tiền.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "bookkeeping",
+      "ipa": "/ˈbʊkkiːpɪŋ/",
+      "pos": "n",
+      "vi": "ghi chép sổ sách kế toán",
+      "example_en": "Good bookkeeping helps a small company track its money.",
+      "example_vi": "Việc ghi chép sổ sách tốt giúp công ty nhỏ theo dõi dòng tiền.",
+      "emoji": "📔"
+    },
+    {
+      "word": "statement",
+      "ipa": "/ˈsteɪtmənt/",
+      "pos": "n",
+      "vi": "bảng sao kê",
+      "example_en": "I check my bank statement at the end of every month.",
+      "example_vi": "Tôi kiểm tra bảng sao kê ngân hàng vào cuối mỗi tháng.",
+      "emoji": "🧮"
+    }
+  ]
+}

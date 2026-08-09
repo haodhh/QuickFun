@@ -1,0 +1,290 @@
+{
+  "id": 107,
+  "slug": "abc-basic-adjectives",
+  "title_en": "Basic Adjectives",
+  "title_vi": "Tính từ cơ bản",
+  "emoji": "📏",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "good",
+      "ipa": "/ɡʊd/",
+      "pos": "adj",
+      "vi": "tốt, hay",
+      "example_en": "This is a good book.",
+      "example_vi": "Đây là một cuốn sách hay.",
+      "emoji": "👍"
+    },
+    {
+      "word": "bad",
+      "ipa": "/bæd/",
+      "pos": "adj",
+      "vi": "xấu, tệ",
+      "example_en": "The weather is bad today.",
+      "example_vi": "Thời tiết hôm nay xấu.",
+      "emoji": "👎"
+    },
+    {
+      "word": "big",
+      "ipa": "/bɪɡ/",
+      "pos": "adj",
+      "vi": "to, lớn",
+      "example_en": "I have a big dog.",
+      "example_vi": "Tôi có một con chó to.",
+      "emoji": "🐘"
+    },
+    {
+      "word": "small",
+      "ipa": "/smɔːl/",
+      "pos": "adj",
+      "vi": "nhỏ, bé",
+      "example_en": "She has a small bag.",
+      "example_vi": "Cô ấy có một cái túi nhỏ.",
+      "emoji": "🐁"
+    },
+    {
+      "word": "long",
+      "ipa": "/lɒŋ/",
+      "pos": "adj",
+      "vi": "dài",
+      "example_en": "It is a long road.",
+      "example_vi": "Đó là một con đường dài.",
+      "emoji": "📏"
+    },
+    {
+      "word": "short",
+      "ipa": "/ʃɔːt/",
+      "pos": "adj",
+      "vi": "ngắn",
+      "example_en": "My hair is short.",
+      "example_vi": "Tóc tôi ngắn.",
+      "emoji": "✂️"
+    },
+    {
+      "word": "tall",
+      "ipa": "/tɔːl/",
+      "pos": "adj",
+      "vi": "cao (người)",
+      "example_en": "He is very tall.",
+      "example_vi": "Anh ấy rất cao.",
+      "emoji": "🦒"
+    },
+    {
+      "word": "high",
+      "ipa": "/haɪ/",
+      "pos": "adj",
+      "vi": "cao (độ cao)",
+      "example_en": "The wall is high.",
+      "example_vi": "Bức tường cao.",
+      "emoji": "🏔️"
+    },
+    {
+      "word": "low",
+      "ipa": "/ləʊ/",
+      "pos": "adj",
+      "vi": "thấp",
+      "example_en": "The table is low.",
+      "example_vi": "Cái bàn thấp.",
+      "emoji": "⬇️"
+    },
+    {
+      "word": "hot",
+      "ipa": "/hɒt/",
+      "pos": "adj",
+      "vi": "nóng",
+      "example_en": "The soup is hot.",
+      "example_vi": "Món súp nóng.",
+      "emoji": "🔥"
+    },
+    {
+      "word": "cold",
+      "ipa": "/kəʊld/",
+      "pos": "adj",
+      "vi": "lạnh",
+      "example_en": "The water is cold.",
+      "example_vi": "Nước lạnh.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "warm",
+      "ipa": "/wɔːm/",
+      "pos": "adj",
+      "vi": "ấm áp",
+      "example_en": "The room is warm.",
+      "example_vi": "Căn phòng ấm áp.",
+      "emoji": "🧣"
+    },
+    {
+      "word": "new",
+      "ipa": "/njuː/",
+      "pos": "adj",
+      "vi": "mới",
+      "example_en": "I have a new phone.",
+      "example_vi": "Tôi có một chiếc điện thoại mới.",
+      "emoji": "🆕"
+    },
+    {
+      "word": "old",
+      "ipa": "/əʊld/",
+      "pos": "adj",
+      "vi": "cũ, già",
+      "example_en": "This is an old car.",
+      "example_vi": "Đây là một chiếc xe cũ.",
+      "emoji": "👴"
+    },
+    {
+      "word": "young",
+      "ipa": "/jʌŋ/",
+      "pos": "adj",
+      "vi": "trẻ",
+      "example_en": "She is young.",
+      "example_vi": "Cô ấy còn trẻ.",
+      "emoji": "🧒"
+    },
+    {
+      "word": "easy",
+      "ipa": "/ˈiːzi/",
+      "pos": "adj",
+      "vi": "dễ",
+      "example_en": "The test is easy.",
+      "example_vi": "Bài kiểm tra dễ.",
+      "emoji": "✅"
+    },
+    {
+      "word": "hard",
+      "ipa": "/hɑːd/",
+      "pos": "adj",
+      "vi": "khó; cứng",
+      "example_en": "This work is hard.",
+      "example_vi": "Công việc này khó.",
+      "emoji": "💪"
+    },
+    {
+      "word": "fast",
+      "ipa": "/fɑːst/",
+      "pos": "adj",
+      "vi": "nhanh",
+      "example_en": "The car is fast.",
+      "example_vi": "Chiếc xe nhanh.",
+      "emoji": "🏎️"
+    },
+    {
+      "word": "slow",
+      "ipa": "/sləʊ/",
+      "pos": "adj",
+      "vi": "chậm",
+      "example_en": "The turtle is slow.",
+      "example_vi": "Con rùa chậm.",
+      "emoji": "🐢"
+    },
+    {
+      "word": "happy",
+      "ipa": "/ˈhæpi/",
+      "pos": "adj",
+      "vi": "vui, hạnh phúc",
+      "example_en": "I am happy today.",
+      "example_vi": "Hôm nay tôi vui.",
+      "emoji": "😀"
+    },
+    {
+      "word": "sad",
+      "ipa": "/sæd/",
+      "pos": "adj",
+      "vi": "buồn",
+      "example_en": "She is sad.",
+      "example_vi": "Cô ấy buồn.",
+      "emoji": "😢"
+    },
+    {
+      "word": "hungry",
+      "ipa": "/ˈhʌŋɡri/",
+      "pos": "adj",
+      "vi": "đói",
+      "example_en": "I am hungry.",
+      "example_vi": "Tôi đói.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "thirsty",
+      "ipa": "/ˈθɜːsti/",
+      "pos": "adj",
+      "vi": "khát",
+      "example_en": "I am thirsty.",
+      "example_vi": "Tôi khát.",
+      "emoji": "🥤"
+    },
+    {
+      "word": "tired",
+      "ipa": "/ˈtaɪəd/",
+      "pos": "adj",
+      "vi": "mệt, mệt mỏi",
+      "example_en": "I am tired.",
+      "example_vi": "Tôi mệt.",
+      "emoji": "😫"
+    },
+    {
+      "word": "nice",
+      "ipa": "/naɪs/",
+      "pos": "adj",
+      "vi": "đẹp, tử tế, dễ chịu",
+      "example_en": "She is a nice girl.",
+      "example_vi": "Cô ấy là một cô gái tử tế.",
+      "emoji": "😊"
+    },
+    {
+      "word": "clean",
+      "ipa": "/kliːn/",
+      "pos": "adj",
+      "vi": "sạch",
+      "example_en": "My hands are clean.",
+      "example_vi": "Tay tôi sạch.",
+      "emoji": "🧼"
+    },
+    {
+      "word": "dirty",
+      "ipa": "/ˈdɜːti/",
+      "pos": "adj",
+      "vi": "bẩn",
+      "example_en": "The floor is dirty.",
+      "example_vi": "Sàn nhà bẩn.",
+      "emoji": "🧹"
+    },
+    {
+      "word": "right",
+      "ipa": "/raɪt/",
+      "pos": "adj",
+      "vi": "đúng",
+      "example_en": "Your answer is right.",
+      "example_vi": "Câu trả lời của bạn đúng.",
+      "emoji": "✔️"
+    },
+    {
+      "word": "wrong",
+      "ipa": "/rɒŋ/",
+      "pos": "adj",
+      "vi": "sai",
+      "example_en": "This answer is wrong.",
+      "example_vi": "Câu trả lời này sai.",
+      "emoji": "❌"
+    },
+    {
+      "word": "full",
+      "ipa": "/fʊl/",
+      "pos": "adj",
+      "vi": "đầy; no",
+      "example_en": "The cup is full.",
+      "example_vi": "Cái cốc đầy.",
+      "emoji": "🥛"
+    },
+    {
+      "word": "empty",
+      "ipa": "/ˈempti/",
+      "pos": "adj",
+      "vi": "trống, rỗng",
+      "example_en": "The box is empty.",
+      "example_vi": "Cái hộp trống.",
+      "emoji": "📦"
+    }
+  ]
+}

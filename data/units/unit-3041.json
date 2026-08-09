@@ -1,0 +1,195 @@
+{
+  "id": 3041,
+  "slug": "ielts-1",
+  "title_en": "Describing Trends (Task 1)",
+  "title_vi": "Mô tả xu hướng (Task 1)",
+  "emoji": "📈",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "surge",
+      "ipa": "/sɜːdʒ/",
+      "pos": "v, n",
+      "vi": "tăng vọt (đột ngột, mạnh)",
+      "example_en": "House prices surged by 15% in the final quarter of 2023.",
+      "example_vi": "Giá nhà tăng vọt 15% trong quý cuối năm 2023.",
+      "emoji": "📈"
+    },
+    {
+      "word": "plummet",
+      "ipa": "/ˈplʌmɪt/",
+      "pos": "v",
+      "vi": "lao dốc, giảm mạnh",
+      "example_en": "The company's shares plummeted after the scandal broke.",
+      "example_vi": "Cổ phiếu của công ty lao dốc sau khi vụ bê bối bị phanh phui.",
+      "emoji": "📉"
+    },
+    {
+      "word": "soar",
+      "ipa": "/sɔː/",
+      "pos": "v",
+      "vi": "tăng vọt, tăng cao",
+      "example_en": "Unemployment soared to record levels during the recession.",
+      "example_vi": "Tỷ lệ thất nghiệp tăng vọt lên mức kỷ lục trong thời kỳ suy thoái.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "decline steadily",
+      "ipa": "/dɪˌklaɪn ˈstedɪli/",
+      "pos": "phr",
+      "vi": "giảm đều đặn",
+      "example_en": "The birth rate declined steadily throughout the 1990s.",
+      "example_vi": "Tỷ lệ sinh giảm đều đặn trong suốt thập niên 1990.",
+      "emoji": "📉"
+    },
+    {
+      "word": "fluctuate",
+      "ipa": "/ˈflʌktʃueɪt/",
+      "pos": "v",
+      "vi": "dao động, biến động",
+      "example_en": "Oil prices fluctuated wildly over the six-month period.",
+      "example_vi": "Giá dầu biến động mạnh trong suốt giai đoạn sáu tháng.",
+      "emoji": "〰️"
+    },
+    {
+      "word": "peak at",
+      "ipa": "/ˈpiːk æt/",
+      "pos": "phr",
+      "vi": "đạt đỉnh ở (mức)",
+      "example_en": "Sales peaked at 5,000 units in December before falling.",
+      "example_vi": "Doanh số đạt đỉnh ở mức 5.000 sản phẩm vào tháng Mười Hai trước khi sụt giảm.",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "level off",
+      "ipa": "/ˈlevl ɒf/",
+      "pos": "phr",
+      "vi": "chững lại, ổn định",
+      "example_en": "After rising rapidly, the figures levelled off in 2010.",
+      "example_vi": "Sau khi tăng nhanh, các con số chững lại vào năm 2010.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "plateau",
+      "ipa": "/ˈplætəʊ/",
+      "pos": "v, n",
+      "vi": "đi ngang, ổn định ở một mức",
+      "example_en": "Website traffic plateaued at around one million visitors a month.",
+      "example_vi": "Lượng truy cập website đi ngang ở mức khoảng một triệu lượt mỗi tháng.",
+      "emoji": "🏞️"
+    },
+    {
+      "word": "rise sharply",
+      "ipa": "/ˌraɪz ˈʃɑːpli/",
+      "pos": "phr",
+      "vi": "tăng mạnh",
+      "example_en": "Demand for electric cars rose sharply between 2018 and 2022.",
+      "example_vi": "Nhu cầu xe điện tăng mạnh trong giai đoạn 2018 đến 2022.",
+      "emoji": "📈"
+    },
+    {
+      "word": "dip",
+      "ipa": "/dɪp/",
+      "pos": "v, n",
+      "vi": "giảm nhẹ, sụt nhẹ",
+      "example_en": "Profits dipped slightly in the second quarter before recovering.",
+      "example_vi": "Lợi nhuận giảm nhẹ trong quý hai trước khi phục hồi.",
+      "emoji": "🔽"
+    },
+    {
+      "word": "rebound",
+      "ipa": "/rɪˈbaʊnd/",
+      "pos": "v, n",
+      "vi": "phục hồi, bật tăng trở lại",
+      "example_en": "The economy rebounded strongly after the initial downturn.",
+      "example_vi": "Nền kinh tế phục hồi mạnh mẽ sau đợt suy giảm ban đầu.",
+      "emoji": "⤴️"
+    },
+    {
+      "word": "gradual increase",
+      "ipa": "/ˌɡrædʒuəl ˈɪŋkriːs/",
+      "pos": "phr",
+      "vi": "sự tăng dần",
+      "example_en": "The chart shows a gradual increase in tourism over the decade.",
+      "example_vi": "Biểu đồ cho thấy sự tăng dần của ngành du lịch trong suốt thập kỷ.",
+      "emoji": "📊"
+    },
+    {
+      "word": "dramatic fall",
+      "ipa": "/drəˌmætɪk ˈfɔːl/",
+      "pos": "phr",
+      "vi": "sự sụt giảm mạnh",
+      "example_en": "There was a dramatic fall in crime rates after the new policy.",
+      "example_vi": "Đã có sự sụt giảm mạnh về tỷ lệ tội phạm sau chính sách mới.",
+      "emoji": "📉"
+    },
+    {
+      "word": "remain stable",
+      "ipa": "/rɪˌmeɪn ˈsteɪbl/",
+      "pos": "phr",
+      "vi": "giữ ổn định",
+      "example_en": "Interest rates remained stable throughout the year.",
+      "example_vi": "Lãi suất giữ ổn định trong suốt cả năm.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "reach a low point",
+      "ipa": "/ˌriːtʃ ə ˈləʊ pɔɪnt/",
+      "pos": "phr",
+      "vi": "chạm đáy, xuống mức thấp nhất",
+      "example_en": "Consumer confidence reached a low point in early 2009.",
+      "example_vi": "Niềm tin tiêu dùng chạm đáy vào đầu năm 2009.",
+      "emoji": "🕳️"
+    },
+    {
+      "word": "climb",
+      "ipa": "/klaɪm/",
+      "pos": "v",
+      "vi": "tăng lên, leo lên",
+      "example_en": "Global temperatures have continued to climb over recent decades.",
+      "example_vi": "Nhiệt độ toàn cầu tiếp tục tăng lên trong những thập kỷ gần đây.",
+      "emoji": "🧗"
+    },
+    {
+      "word": "tumble",
+      "ipa": "/ˈtʌmbl/",
+      "pos": "v",
+      "vi": "lao dốc, tụt mạnh",
+      "example_en": "Stock markets tumbled as investors panicked over inflation.",
+      "example_vi": "Thị trường chứng khoán lao dốc khi các nhà đầu tư hoảng loạn vì lạm phát.",
+      "emoji": "📉"
+    },
+    {
+      "word": "taper off",
+      "ipa": "/ˈteɪpər ɒf/",
+      "pos": "phr",
+      "vi": "giảm dần, thu hẹp dần",
+      "example_en": "Growth in membership began to taper off after 2015.",
+      "example_vi": "Tốc độ tăng trưởng thành viên bắt đầu giảm dần sau năm 2015.",
+      "emoji": "🔻"
+    },
+    {
+      "word": "upward trend",
+      "ipa": "/ˌʌpwəd ˈtrend/",
+      "pos": "phr",
+      "vi": "xu hướng đi lên",
+      "example_en": "The graph reveals a clear upward trend in renewable energy use.",
+      "example_vi": "Đồ thị cho thấy một xu hướng đi lên rõ rệt trong việc sử dụng năng lượng tái tạo.",
+      "emoji": "↗️"
+    },
+    {
+      "word": "downward trajectory",
+      "ipa": "/ˌdaʊnwəd trəˈdʒektəri/",
+      "pos": "phr",
+      "vi": "xu hướng đi xuống",
+      "example_en": "Newspaper sales have been on a downward trajectory since 2005.",
+      "example_vi": "Doanh số báo giấy đã đi theo xu hướng giảm kể từ năm 2005.",
+      "emoji": "↘️"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 3055,
+  "slug": "awl-5",
+  "title_en": "Comparison & Contrast",
+  "title_vi": "So sánh & tương phản",
+  "emoji": "⚖️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "compare",
+      "ipa": "/kəmˈpeə/",
+      "pos": "v",
+      "vi": "so sánh",
+      "example_en": "In this essay, we compare the two economic models to identify their relative strengths.",
+      "example_vi": "Trong bài luận này, chúng tôi so sánh hai mô hình kinh tế để xác định thế mạnh tương đối của chúng.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "contrast",
+      "ipa": "/kənˈtrɑːst/",
+      "pos": "v",
+      "vi": "đối lập, tương phản",
+      "example_en": "The author contrasts urban and rural lifestyles throughout the chapter.",
+      "example_vi": "Tác giả đối lập lối sống thành thị và nông thôn xuyên suốt chương này.",
+      "emoji": "🔲"
+    },
+    {
+      "word": "differ",
+      "ipa": "/ˈdɪfə/",
+      "pos": "v",
+      "vi": "khác biệt, không giống",
+      "example_en": "Experts differ significantly in their interpretation of the survey data.",
+      "example_vi": "Các chuyên gia khác biệt đáng kể trong cách diễn giải dữ liệu khảo sát.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "resemble",
+      "ipa": "/rɪˈzembl/",
+      "pos": "v",
+      "vi": "giống, tương tự",
+      "example_en": "The proposed theory closely resembles earlier work in the same field.",
+      "example_vi": "Lý thuyết được đề xuất gần giống với các nghiên cứu trước đó trong cùng lĩnh vực.",
+      "emoji": "👯"
+    },
+    {
+      "word": "distinguish",
+      "ipa": "/dɪˈstɪŋɡwɪʃ/",
+      "pos": "v",
+      "vi": "phân biệt",
+      "example_en": "It is essential to distinguish correlation from causation when analysing results.",
+      "example_vi": "Việc phân biệt tương quan với quan hệ nhân quả là thiết yếu khi phân tích kết quả.",
+      "emoji": "🔎"
+    },
+    {
+      "word": "similarity",
+      "ipa": "/ˌsɪməˈlærəti/",
+      "pos": "n",
+      "vi": "điểm tương đồng",
+      "example_en": "The study highlights several striking similarities between the two ancient cultures.",
+      "example_vi": "Nghiên cứu làm nổi bật một số điểm tương đồng đáng chú ý giữa hai nền văn hoá cổ.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "difference",
+      "ipa": "/ˈdɪfrəns/",
+      "pos": "n",
+      "vi": "sự khác biệt",
+      "example_en": "There is a marked difference between the control group and the treatment group.",
+      "example_vi": "Có một sự khác biệt rõ rệt giữa nhóm đối chứng và nhóm thử nghiệm.",
+      "emoji": "➖"
+    },
+    {
+      "word": "distinction",
+      "ipa": "/dɪˈstɪŋkʃn/",
+      "pos": "n",
+      "vi": "sự phân biệt, ranh giới",
+      "example_en": "The paper draws a clear distinction between weather and long-term climate.",
+      "example_vi": "Bài báo vạch ra một ranh giới rõ ràng giữa thời tiết và khí hậu dài hạn.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "parallel",
+      "ipa": "/ˈpærəlel/",
+      "pos": "n",
+      "vi": "sự tương đồng, điểm song song",
+      "example_en": "Historians often draw a parallel between the two political revolutions.",
+      "example_vi": "Các sử gia thường rút ra sự tương đồng giữa hai cuộc cách mạng chính trị.",
+      "emoji": "🚊"
+    },
+    {
+      "word": "counterpart",
+      "ipa": "/ˈkaʊntəpɑːt/",
+      "pos": "n",
+      "vi": "bên tương ứng, đối tác tương đương",
+      "example_en": "The finance minister met her German counterpart to discuss the trade agreement.",
+      "example_vi": "Bộ trưởng tài chính đã gặp người đồng cấp phía Đức để bàn về hiệp định thương mại.",
+      "emoji": "🪞"
+    },
+    {
+      "word": "equivalent",
+      "ipa": "/ɪˈkwɪvələnt/",
+      "pos": "adj",
+      "vi": "tương đương",
+      "example_en": "For the purposes of this analysis, one credit is equivalent to ten study hours.",
+      "example_vi": "Trong phạm vi phân tích này, một tín chỉ tương đương với mười giờ học.",
+      "emoji": "🟰"
+    },
+    {
+      "word": "contrary",
+      "ipa": "/ˈkɒntrəri/",
+      "pos": "adj",
+      "vi": "trái ngược",
+      "example_en": "Contrary to popular belief, the findings revealed no clear link between the variables.",
+      "example_vi": "Trái với quan niệm phổ biến, kết quả cho thấy không có mối liên hệ rõ ràng giữa các biến số.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "relative",
+      "ipa": "/ˈrelətɪv/",
+      "pos": "adj",
+      "vi": "tương đối",
+      "example_en": "The relative importance of each factor remains a matter of ongoing debate.",
+      "example_vi": "Tầm quan trọng tương đối của từng yếu tố vẫn là chủ đề tranh luận đang diễn ra.",
+      "emoji": "📊"
+    },
+    {
+      "word": "correspond",
+      "ipa": "/ˌkɒrəˈspɒnd/",
+      "pos": "v",
+      "vi": "tương ứng, phù hợp",
+      "example_en": "The experimental results correspond closely to the predictions of the model.",
+      "example_vi": "Các kết quả thí nghiệm tương ứng chặt chẽ với những dự đoán của mô hình.",
+      "emoji": "🔗"
+    },
+    {
+      "word": "discrepancy",
+      "ipa": "/dɪˈskrepənsi/",
+      "pos": "n",
+      "vi": "sự chênh lệch, không nhất quán",
+      "example_en": "The auditors identified a significant discrepancy between the two sets of figures.",
+      "example_vi": "Các kiểm toán viên phát hiện một sự chênh lệch đáng kể giữa hai bộ số liệu.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "analogous",
+      "ipa": "/əˈnæləɡəs/",
+      "pos": "adj",
+      "vi": "tương tự (theo phép loại suy)",
+      "example_en": "The human brain is often described as analogous to a powerful computer.",
+      "example_vi": "Bộ não con người thường được ví như tương tự với một máy tính mạnh mẽ.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "conversely",
+      "ipa": "/kənˈvɜːsli/",
+      "pos": "adv",
+      "vi": "ngược lại",
+      "example_en": "Higher taxes tend to curb spending; conversely, tax cuts often stimulate it.",
+      "example_vi": "Thuế cao có xu hướng kìm hãm chi tiêu; ngược lại, việc giảm thuế thường kích thích nó.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "differentiate",
+      "ipa": "/ˌdɪfəˈrenʃieɪt/",
+      "pos": "v",
+      "vi": "phân biệt, làm khác biệt",
+      "example_en": "Consumers often struggle to differentiate between the competing brands.",
+      "example_vi": "Người tiêu dùng thường khó phân biệt giữa các thương hiệu cạnh tranh.",
+      "emoji": "🔀"
+    },
+    {
+      "word": "comparable",
+      "ipa": "/ˈkɒmpərəbl/",
+      "pos": "adj",
+      "vi": "có thể so sánh, tương đương",
+      "example_en": "The two cities are broadly comparable in size and population density.",
+      "example_vi": "Hai thành phố này về cơ bản là tương đương về diện tích và mật độ dân số.",
+      "emoji": "📐"
+    },
+    {
+      "word": "disparity",
+      "ipa": "/dɪˈspærəti/",
+      "pos": "n",
+      "vi": "sự chênh lệch (lớn)",
+      "example_en": "The report reveals a growing disparity between rich and poor households.",
+      "example_vi": "Báo cáo cho thấy sự chênh lệch ngày càng lớn giữa các hộ giàu và nghèo.",
+      "emoji": "📉"
+    }
+  ]
+}

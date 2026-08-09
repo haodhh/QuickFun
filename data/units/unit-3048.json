@@ -1,0 +1,195 @@
+{
+  "id": 3048,
+  "slug": "ielts-8",
+  "title_en": "Health & Lifestyle",
+  "title_vi": "Sức khỏe & lối sống",
+  "emoji": "🩺",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˌsedəntri ˈlaɪfstaɪl/",
+      "pos": "n phr",
+      "vi": "lối sống ít vận động",
+      "example_en": "Spending hours at a desk has led to an increasingly sedentary lifestyle among office workers.",
+      "example_vi": "Việc ngồi hàng giờ ở bàn làm việc đã dẫn đến lối sống ngày càng ít vận động ở nhân viên văn phòng.",
+      "emoji": "🛋️"
+    },
+    {
+      "word": "obesity",
+      "ipa": "/əʊˈbiːsəti/",
+      "pos": "n",
+      "vi": "béo phì",
+      "example_en": "Rising rates of childhood obesity have become a serious public health concern.",
+      "example_vi": "Tỷ lệ béo phì ở trẻ em gia tăng đã trở thành mối lo ngại nghiêm trọng về sức khỏe cộng đồng.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "chronic illness",
+      "ipa": "/ˌkrɒnɪk ˈɪlnəs/",
+      "pos": "n phr",
+      "vi": "bệnh mãn tính",
+      "example_en": "Managing a chronic illness such as diabetes requires long-term lifestyle changes.",
+      "example_vi": "Kiểm soát một bệnh mãn tính như tiểu đường đòi hỏi thay đổi lối sống lâu dài.",
+      "emoji": "🩺"
+    },
+    {
+      "word": "mental health",
+      "ipa": "/ˌmentl ˈhelθ/",
+      "pos": "n",
+      "vi": "sức khỏe tinh thần",
+      "example_en": "Universities are investing more in services that support students' mental health.",
+      "example_vi": "Các trường đại học đang đầu tư nhiều hơn vào các dịch vụ hỗ trợ sức khỏe tinh thần của sinh viên.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "life expectancy",
+      "ipa": "/ˈlaɪf ɪkˌspektənsi/",
+      "pos": "n",
+      "vi": "tuổi thọ trung bình",
+      "example_en": "Advances in medicine have significantly increased average life expectancy over the past century.",
+      "example_vi": "Những tiến bộ trong y học đã làm tăng đáng kể tuổi thọ trung bình trong thế kỷ qua.",
+      "emoji": "📈"
+    },
+    {
+      "word": "balanced diet",
+      "ipa": "/ˌbælənst ˈdaɪət/",
+      "pos": "n",
+      "vi": "chế độ ăn cân bằng",
+      "example_en": "A balanced diet rich in fruit and vegetables can lower the risk of many diseases.",
+      "example_vi": "Một chế độ ăn cân bằng, giàu trái cây và rau củ có thể giảm nguy cơ mắc nhiều bệnh.",
+      "emoji": "🥗"
+    },
+    {
+      "word": "preventive care",
+      "ipa": "/prɪˌventɪv ˈkeə/",
+      "pos": "n",
+      "vi": "chăm sóc phòng ngừa",
+      "example_en": "Regular check-ups are a form of preventive care that can catch problems early.",
+      "example_vi": "Khám sức khỏe định kỳ là một hình thức chăm sóc phòng ngừa giúp phát hiện sớm vấn đề.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "public healthcare",
+      "ipa": "/ˌpʌblɪk ˈhelθkeə/",
+      "pos": "n",
+      "vi": "y tế công",
+      "example_en": "A well-funded public healthcare system ensures that treatment is available to everyone.",
+      "example_vi": "Một hệ thống y tế công được cấp ngân sách đầy đủ đảm bảo mọi người đều được điều trị.",
+      "emoji": "🏥"
+    },
+    {
+      "word": "epidemic",
+      "ipa": "/ˌepɪˈdemɪk/",
+      "pos": "n",
+      "vi": "dịch bệnh",
+      "example_en": "Health authorities acted quickly to contain the epidemic before it spread nationwide.",
+      "example_vi": "Các cơ quan y tế đã hành động nhanh chóng để khống chế dịch bệnh trước khi nó lan ra cả nước.",
+      "emoji": "🦠"
+    },
+    {
+      "word": "wellbeing",
+      "ipa": "/ˌwelˈbiːɪŋ/",
+      "pos": "n",
+      "vi": "sự khỏe mạnh, an lạc",
+      "example_en": "Employers are increasingly aware that a healthy workplace improves the wellbeing of staff.",
+      "example_vi": "Người sử dụng lao động ngày càng nhận ra rằng môi trường làm việc lành mạnh cải thiện sự an lạc của nhân viên.",
+      "emoji": "🌿"
+    },
+    {
+      "word": "immune system",
+      "ipa": "/ɪˈmjuːn ˌsɪstəm/",
+      "pos": "n",
+      "vi": "hệ miễn dịch",
+      "example_en": "Getting enough sleep helps strengthen the immune system against infection.",
+      "example_vi": "Ngủ đủ giấc giúp tăng cường hệ miễn dịch chống lại nhiễm trùng.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "malnutrition",
+      "ipa": "/ˌmælnjuˈtrɪʃn/",
+      "pos": "n",
+      "vi": "suy dinh dưỡng",
+      "example_en": "Millions of children in poorer regions still suffer from malnutrition.",
+      "example_vi": "Hàng triệu trẻ em ở các vùng nghèo hơn vẫn đang chịu cảnh suy dinh dưỡng.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "physical activity",
+      "ipa": "/ˌfɪzɪkl ækˈtɪvəti/",
+      "pos": "n",
+      "vi": "hoạt động thể chất",
+      "example_en": "Doctors recommend at least thirty minutes of physical activity every day.",
+      "example_vi": "Các bác sĩ khuyến nghị ít nhất ba mươi phút hoạt động thể chất mỗi ngày.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "medical treatment",
+      "ipa": "/ˌmedɪkl ˈtriːtmənt/",
+      "pos": "n",
+      "vi": "điều trị y tế",
+      "example_en": "Without prompt medical treatment, a minor infection can become dangerous.",
+      "example_vi": "Nếu không được điều trị y tế kịp thời, một nhiễm trùng nhỏ có thể trở nên nguy hiểm.",
+      "emoji": "💊"
+    },
+    {
+      "word": "stress-related disorders",
+      "ipa": "/ˌstres rɪleɪtɪd dɪsˈɔːdəz/",
+      "pos": "n phr",
+      "vi": "rối loạn liên quan đến căng thẳng",
+      "example_en": "Long working hours are often linked to stress-related disorders such as anxiety and insomnia.",
+      "example_vi": "Giờ làm việc kéo dài thường liên quan đến các rối loạn do căng thẳng như lo âu và mất ngủ.",
+      "emoji": "😣"
+    },
+    {
+      "word": "hygiene",
+      "ipa": "/ˈhaɪdʒiːn/",
+      "pos": "n",
+      "vi": "vệ sinh",
+      "example_en": "Good personal hygiene, like washing your hands, prevents the spread of germs.",
+      "example_vi": "Vệ sinh cá nhân tốt, như rửa tay, giúp ngăn chặn sự lây lan của vi khuẩn.",
+      "emoji": "🧼"
+    },
+    {
+      "word": "dietary habits",
+      "ipa": "/ˈdaɪətri ˌhæbɪts/",
+      "pos": "n phr",
+      "vi": "thói quen ăn uống",
+      "example_en": "Changing unhealthy dietary habits can be difficult but is well worth the effort.",
+      "example_vi": "Thay đổi thói quen ăn uống không lành mạnh có thể khó nhưng rất đáng công sức.",
+      "emoji": "🍱"
+    },
+    {
+      "word": "vaccination",
+      "ipa": "/ˌvæksɪˈneɪʃn/",
+      "pos": "n",
+      "vi": "tiêm chủng",
+      "example_en": "Widespread vaccination has almost eliminated several deadly childhood diseases.",
+      "example_vi": "Việc tiêm chủng rộng rãi đã gần như loại bỏ một số bệnh chết người ở trẻ em.",
+      "emoji": "💉"
+    },
+    {
+      "word": "life-threatening",
+      "ipa": "/ˈlaɪf ˌθretnɪŋ/",
+      "pos": "adj",
+      "vi": "đe dọa tính mạng",
+      "example_en": "The patient was rushed to hospital with a life-threatening condition.",
+      "example_vi": "Bệnh nhân được đưa gấp đến bệnh viện trong tình trạng đe dọa tính mạng.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "rehabilitation",
+      "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+      "pos": "n",
+      "vi": "phục hồi chức năng",
+      "example_en": "After the accident, she spent months in rehabilitation to regain the use of her leg.",
+      "example_vi": "Sau tai nạn, cô ấy đã trải qua nhiều tháng phục hồi chức năng để lấy lại khả năng đi lại của chân.",
+      "emoji": "🦽"
+    }
+  ]
+}

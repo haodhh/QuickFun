@@ -1,0 +1,195 @@
+{
+  "id": 3031,
+  "slug": "business-1",
+  "title_en": "Corporate Finance & Profit/Loss",
+  "title_vi": "Tài chính doanh nghiệp & lãi lỗ",
+  "emoji": "💰",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "revenue",
+      "ipa": "/ˈrevənjuː/",
+      "pos": "n",
+      "vi": "doanh thu",
+      "example_en": "The company's annual revenue climbed to $2 billion after it expanded into overseas markets.",
+      "example_vi": "Doanh thu hàng năm của công ty tăng lên 2 tỷ đô la sau khi mở rộng ra thị trường nước ngoài.",
+      "emoji": "💰"
+    },
+    {
+      "word": "profit margin",
+      "ipa": "/ˈprɒfɪt ˌmɑːdʒɪn/",
+      "pos": "n phr",
+      "vi": "biên lợi nhuận",
+      "example_en": "Rising raw material costs have squeezed the firm's profit margin to just three percent.",
+      "example_vi": "Chi phí nguyên liệu tăng đã bóp biên lợi nhuận của công ty xuống chỉ còn ba phần trăm.",
+      "emoji": "📊"
+    },
+    {
+      "word": "net income",
+      "ipa": "/ˌnet ˈɪnkʌm/",
+      "pos": "n phr",
+      "vi": "lợi nhuận ròng",
+      "example_en": "After deducting taxes and interest, the group reported a net income of $50 million.",
+      "example_vi": "Sau khi trừ thuế và lãi vay, tập đoàn báo cáo lợi nhuận ròng 50 triệu đô la.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "gross profit",
+      "ipa": "/ˌɡrəʊs ˈprɒfɪt/",
+      "pos": "n phr",
+      "vi": "lợi nhuận gộp",
+      "example_en": "The retailer's gross profit rose sharply once it renegotiated deals with its suppliers.",
+      "example_vi": "Lợi nhuận gộp của nhà bán lẻ tăng mạnh sau khi họ đàm phán lại hợp đồng với nhà cung cấp.",
+      "emoji": "📈"
+    },
+    {
+      "word": "operating expenses",
+      "ipa": "/ˈɒpəreɪtɪŋ ɪkˌspensɪz/",
+      "pos": "n phr",
+      "vi": "chi phí vận hành",
+      "example_en": "Management is cutting operating expenses by moving most staff to remote work.",
+      "example_vi": "Ban quản lý đang cắt giảm chi phí vận hành bằng cách cho phần lớn nhân viên làm việc từ xa.",
+      "emoji": "✂️"
+    },
+    {
+      "word": "cash flow",
+      "ipa": "/ˈkæʃ fləʊ/",
+      "pos": "n phr",
+      "vi": "dòng tiền",
+      "example_en": "Even profitable businesses can collapse if they run into serious cash flow problems.",
+      "example_vi": "Ngay cả doanh nghiệp có lãi cũng có thể sụp đổ nếu gặp vấn đề nghiêm trọng về dòng tiền.",
+      "emoji": "💵"
+    },
+    {
+      "word": "balance sheet",
+      "ipa": "/ˈbæləns ʃiːt/",
+      "pos": "n phr",
+      "vi": "bảng cân đối kế toán",
+      "example_en": "Investors examined the balance sheet closely to assess how much debt the company carried.",
+      "example_vi": "Các nhà đầu tư xem xét kỹ bảng cân đối kế toán để đánh giá công ty đang gánh bao nhiêu nợ.",
+      "emoji": "📋"
+    },
+    {
+      "word": "income statement",
+      "ipa": "/ˈɪnkʌm ˌsteɪtmənt/",
+      "pos": "n phr",
+      "vi": "báo cáo kết quả kinh doanh",
+      "example_en": "The income statement shows that revenue grew but costs rose even faster.",
+      "example_vi": "Báo cáo kết quả kinh doanh cho thấy doanh thu tăng nhưng chi phí còn tăng nhanh hơn.",
+      "emoji": "📄"
+    },
+    {
+      "word": "break-even point",
+      "ipa": "/ˌbreɪk ˈiːvn̩ pɔɪnt/",
+      "pos": "n phr",
+      "vi": "điểm hòa vốn",
+      "example_en": "The startup expects to reach its break-even point within two years of launching.",
+      "example_vi": "Công ty khởi nghiệp kỳ vọng đạt điểm hòa vốn trong vòng hai năm sau khi ra mắt.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "overhead",
+      "ipa": "/ˈəʊvəhed/",
+      "pos": "n",
+      "vi": "chi phí chung",
+      "example_en": "By closing the downtown office, the firm dramatically reduced its overhead.",
+      "example_vi": "Bằng cách đóng cửa văn phòng trung tâm, công ty đã giảm mạnh chi phí chung.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "liquidity",
+      "ipa": "/lɪˈkwɪdəti/",
+      "pos": "n",
+      "vi": "tính thanh khoản",
+      "example_en": "The bank maintains high liquidity so it can meet customer withdrawals at any time.",
+      "example_vi": "Ngân hàng duy trì tính thanh khoản cao để có thể đáp ứng nhu cầu rút tiền của khách hàng bất cứ lúc nào.",
+      "emoji": "💧"
+    },
+    {
+      "word": "solvency",
+      "ipa": "/ˈsɒlvənsi/",
+      "pos": "n",
+      "vi": "khả năng thanh toán nợ",
+      "example_en": "Auditors raised doubts about the company's long-term solvency after its debts mounted.",
+      "example_vi": "Kiểm toán viên nghi ngờ về khả năng thanh toán nợ dài hạn của công ty sau khi các khoản nợ chồng chất.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "working capital",
+      "ipa": "/ˌwɜːkɪŋ ˈkæpɪtl̩/",
+      "pos": "n phr",
+      "vi": "vốn lưu động",
+      "example_en": "Without enough working capital, the manufacturer struggled to pay its suppliers on time.",
+      "example_vi": "Không đủ vốn lưu động, nhà sản xuất chật vật trả tiền cho nhà cung cấp đúng hạn.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "retained earnings",
+      "ipa": "/rɪˌteɪnd ˈɜːnɪŋz/",
+      "pos": "n phr",
+      "vi": "lợi nhuận giữ lại",
+      "example_en": "Rather than pay dividends, the board reinvested the retained earnings into new equipment.",
+      "example_vi": "Thay vì trả cổ tức, hội đồng quản trị tái đầu tư lợi nhuận giữ lại vào thiết bị mới.",
+      "emoji": "💼"
+    },
+    {
+      "word": "debt-to-equity ratio",
+      "ipa": "/ˌdet tu ˈekwəti ˌreɪʃiəʊ/",
+      "pos": "n phr",
+      "vi": "tỷ lệ nợ trên vốn chủ sở hữu",
+      "example_en": "A high debt-to-equity ratio suggests the company relies heavily on borrowed money.",
+      "example_vi": "Tỷ lệ nợ trên vốn chủ sở hữu cao cho thấy công ty phụ thuộc nhiều vào tiền vay.",
+      "emoji": "📉"
+    },
+    {
+      "word": "write-off",
+      "ipa": "/ˈraɪt ɒf/",
+      "pos": "n",
+      "vi": "khoản xóa sổ, xóa nợ",
+      "example_en": "The bank took a large write-off after several borrowers defaulted on their loans.",
+      "example_vi": "Ngân hàng phải ghi nhận một khoản xóa sổ lớn sau khi nhiều người vay không trả được nợ.",
+      "emoji": "🗑️"
+    },
+    {
+      "word": "bottom line",
+      "ipa": "/ˌbɒtəm ˈlaɪn/",
+      "pos": "n phr",
+      "vi": "lợi nhuận cuối cùng, kết quả cốt lõi",
+      "example_en": "Cutting wasteful spending should improve the company's bottom line this quarter.",
+      "example_vi": "Cắt giảm chi tiêu lãng phí sẽ cải thiện lợi nhuận cuối cùng của công ty trong quý này.",
+      "emoji": "✅"
+    },
+    {
+      "word": "fiscal year",
+      "ipa": "/ˌfɪskl̩ ˈjɪə/",
+      "pos": "n phr",
+      "vi": "năm tài chính",
+      "example_en": "The retailer earned record profits during the last fiscal year.",
+      "example_vi": "Nhà bán lẻ đạt lợi nhuận kỷ lục trong năm tài chính vừa qua.",
+      "emoji": "📅"
+    },
+    {
+      "word": "budget deficit",
+      "ipa": "/ˌbʌdʒɪt ˈdefɪsɪt/",
+      "pos": "n phr",
+      "vi": "thâm hụt ngân sách",
+      "example_en": "The government is under pressure to reduce the widening budget deficit.",
+      "example_vi": "Chính phủ đang chịu áp lực phải giảm thâm hụt ngân sách ngày càng lớn.",
+      "emoji": "🔻"
+    },
+    {
+      "word": "leverage",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "pos": "n",
+      "vi": "đòn bẩy tài chính",
+      "example_en": "Using too much leverage can amplify losses when the market turns against you.",
+      "example_vi": "Sử dụng đòn bẩy tài chính quá nhiều có thể khuếch đại thua lỗ khi thị trường quay lưng với bạn.",
+      "emoji": "🏋️"
+    }
+  ]
+}

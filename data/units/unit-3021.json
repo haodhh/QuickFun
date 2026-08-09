@@ -1,0 +1,195 @@
+{
+  "id": 3021,
+  "slug": "toeic-1",
+  "title_en": "Orders & Invoices",
+  "title_vi": "Đơn hàng & hóa đơn",
+  "emoji": "🧾",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "purchase order",
+      "ipa": "/ˈpɜːtʃəs ˌɔːdə/",
+      "pos": "n",
+      "vi": "đơn đặt hàng",
+      "example_en": "We sent the supplier a purchase order for 500 units this morning.",
+      "example_vi": "Chúng tôi đã gửi cho nhà cung cấp một đơn đặt hàng 500 sản phẩm sáng nay.",
+      "emoji": "📝"
+    },
+    {
+      "word": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "pos": "n",
+      "vi": "hóa đơn (thanh toán)",
+      "example_en": "Please pay the invoice within thirty days of receiving it.",
+      "example_vi": "Vui lòng thanh toán hóa đơn trong vòng ba mươi ngày kể từ khi nhận.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "quotation",
+      "ipa": "/kwəʊˈteɪʃn/",
+      "pos": "n",
+      "vi": "bảng báo giá",
+      "example_en": "Could you send us a quotation for the office furniture?",
+      "example_vi": "Bạn có thể gửi cho chúng tôi bảng báo giá cho đồ nội thất văn phòng không?",
+      "emoji": "💬"
+    },
+    {
+      "word": "supplier",
+      "ipa": "/səˈplaɪə/",
+      "pos": "n",
+      "vi": "nhà cung cấp",
+      "example_en": "Our main supplier delivers fresh materials every week.",
+      "example_vi": "Nhà cung cấp chính của chúng tôi giao nguyên liệu tươi mỗi tuần.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "pos": "n",
+      "vi": "chiết khấu, giảm giá",
+      "example_en": "They offered us a ten percent discount for paying early.",
+      "example_vi": "Họ giảm giá mười phần trăm cho chúng tôi vì thanh toán sớm.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "payment terms",
+      "ipa": "/ˈpeɪmənt ˌtɜːmz/",
+      "pos": "n",
+      "vi": "điều khoản thanh toán",
+      "example_en": "The payment terms say we must pay half the amount in advance.",
+      "example_vi": "Điều khoản thanh toán quy định chúng tôi phải trả trước một nửa số tiền.",
+      "emoji": "💳"
+    },
+    {
+      "word": "due date",
+      "ipa": "/ˈdjuː ˌdeɪt/",
+      "pos": "n",
+      "vi": "ngày đến hạn",
+      "example_en": "The due date for this invoice is the fifteenth of May.",
+      "example_vi": "Ngày đến hạn của hóa đơn này là ngày mười lăm tháng Năm.",
+      "emoji": "📅"
+    },
+    {
+      "word": "confirm an order",
+      "ipa": "/kənˌfɜːm ən ˈɔːdə/",
+      "pos": "phr v",
+      "vi": "xác nhận đơn hàng",
+      "example_en": "Please confirm the order by email so we can start production.",
+      "example_vi": "Vui lòng xác nhận đơn hàng qua email để chúng tôi bắt đầu sản xuất.",
+      "emoji": "✅"
+    },
+    {
+      "word": "out of stock",
+      "ipa": "/ˌaʊt əv ˈstɒk/",
+      "pos": "phr",
+      "vi": "hết hàng",
+      "example_en": "I'm sorry, that model is out of stock until next month.",
+      "example_vi": "Xin lỗi, mẫu đó đã hết hàng cho đến tháng sau.",
+      "emoji": "📦"
+    },
+    {
+      "word": "backorder",
+      "ipa": "/ˈbækˌɔːdə/",
+      "pos": "n",
+      "vi": "đơn hàng chờ (hàng hết tạm thời)",
+      "example_en": "The item is on backorder, so delivery will take two weeks longer.",
+      "example_vi": "Mặt hàng này đang trong danh sách chờ, nên giao hàng sẽ mất thêm hai tuần.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "unit price",
+      "ipa": "/ˈjuːnɪt ˌpraɪs/",
+      "pos": "n",
+      "vi": "đơn giá",
+      "example_en": "The unit price drops if you buy more than a hundred pieces.",
+      "example_vi": "Đơn giá sẽ giảm nếu bạn mua hơn một trăm cái.",
+      "emoji": "💲"
+    },
+    {
+      "word": "bulk order",
+      "ipa": "/ˈbʌlk ˌɔːdə/",
+      "pos": "n",
+      "vi": "đơn hàng số lượng lớn",
+      "example_en": "We get a better price when we place a bulk order.",
+      "example_vi": "Chúng tôi được giá tốt hơn khi đặt đơn hàng số lượng lớn.",
+      "emoji": "📦"
+    },
+    {
+      "word": "sign a contract",
+      "ipa": "/ˌsaɪn ə ˈkɒntrækt/",
+      "pos": "phr v",
+      "vi": "ký hợp đồng",
+      "example_en": "Both companies will sign a contract at the meeting tomorrow.",
+      "example_vi": "Hai công ty sẽ ký hợp đồng tại cuộc họp ngày mai.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "terms and conditions",
+      "ipa": "/ˌtɜːmz ənd kənˈdɪʃnz/",
+      "pos": "n",
+      "vi": "điều khoản và điều kiện",
+      "example_en": "Read the terms and conditions carefully before you agree.",
+      "example_vi": "Hãy đọc kỹ các điều khoản và điều kiện trước khi bạn đồng ý.",
+      "emoji": "📜"
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "pos": "n",
+      "vi": "tiền hoàn lại; sự hoàn tiền",
+      "example_en": "The shop gave me a full refund for the broken item.",
+      "example_vi": "Cửa hàng đã hoàn lại toàn bộ tiền cho món hàng bị hỏng.",
+      "emoji": "💰"
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "pos": "n",
+      "vi": "biên lai, hóa đơn mua hàng",
+      "example_en": "Keep the receipt in case you want to return the product.",
+      "example_vi": "Hãy giữ biên lai phòng khi bạn muốn trả lại sản phẩm.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "place an order",
+      "ipa": "/ˌpleɪs ən ˈɔːdə/",
+      "pos": "phr v",
+      "vi": "đặt hàng",
+      "example_en": "I'd like to place an order for twenty boxes of paper.",
+      "example_vi": "Tôi muốn đặt hàng hai mươi thùng giấy.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "cancel an order",
+      "ipa": "/ˌkænsl ən ˈɔːdə/",
+      "pos": "phr v",
+      "vi": "hủy đơn hàng",
+      "example_en": "The customer decided to cancel the order before it was shipped.",
+      "example_vi": "Khách hàng quyết định hủy đơn hàng trước khi nó được gửi đi.",
+      "emoji": "❌"
+    },
+    {
+      "word": "wholesale",
+      "ipa": "/ˈhəʊlseɪl/",
+      "pos": "adj",
+      "vi": "bán buôn, bán sỉ",
+      "example_en": "They buy goods at wholesale prices and sell them in small shops.",
+      "example_vi": "Họ mua hàng theo giá bán sỉ rồi bán lại ở các cửa hàng nhỏ.",
+      "emoji": "🏬"
+    },
+    {
+      "word": "deposit",
+      "ipa": "/dɪˈpɒzɪt/",
+      "pos": "n",
+      "vi": "tiền đặt cọc",
+      "example_en": "The supplier asked for a deposit before starting the order.",
+      "example_vi": "Nhà cung cấp yêu cầu tiền đặt cọc trước khi bắt đầu đơn hàng.",
+      "emoji": "💵"
+    }
+  ]
+}

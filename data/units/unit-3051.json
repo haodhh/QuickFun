@@ -1,0 +1,195 @@
+{
+  "id": 3051,
+  "slug": "awl-1",
+  "title_en": "Research & Analysis",
+  "title_vi": "Nghiên cứu & phân tích",
+  "emoji": "🔬",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "analyse",
+      "ipa": "/ˈænəlaɪz/",
+      "pos": "v",
+      "vi": "phân tích",
+      "example_en": "Researchers analyse the collected data to identify meaningful patterns.",
+      "example_vi": "Các nhà nghiên cứu phân tích dữ liệu thu thập được để tìm ra các mẫu hình có ý nghĩa.",
+      "emoji": "🔬"
+    },
+    {
+      "word": "evaluate",
+      "ipa": "/ɪˈvæljueɪt/",
+      "pos": "v",
+      "vi": "đánh giá",
+      "example_en": "The study aims to evaluate the effectiveness of the new teaching method.",
+      "example_vi": "Nghiên cứu này nhằm đánh giá hiệu quả của phương pháp giảng dạy mới.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "investigate",
+      "ipa": "/ɪnˈvestɪɡeɪt/",
+      "pos": "v",
+      "vi": "điều tra, khảo cứu",
+      "example_en": "This paper investigates how social media affects academic performance.",
+      "example_vi": "Bài báo này khảo cứu cách mạng xã hội ảnh hưởng đến kết quả học tập.",
+      "emoji": "🕵️"
+    },
+    {
+      "word": "examine",
+      "ipa": "/ɪɡˈzæmɪn/",
+      "pos": "v",
+      "vi": "xem xét, khảo sát",
+      "example_en": "The authors examine several factors that influence consumer behaviour.",
+      "example_vi": "Các tác giả xem xét một số yếu tố ảnh hưởng đến hành vi người tiêu dùng.",
+      "emoji": "🔎"
+    },
+    {
+      "word": "assess",
+      "ipa": "/əˈses/",
+      "pos": "v",
+      "vi": "đánh giá, thẩm định",
+      "example_en": "We used a questionnaire to assess the participants' level of motivation.",
+      "example_vi": "Chúng tôi dùng bảng hỏi để đánh giá mức độ động lực của người tham gia.",
+      "emoji": "📊"
+    },
+    {
+      "word": "hypothesis",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "pos": "n",
+      "vi": "giả thuyết",
+      "example_en": "The experiment was designed to test the main hypothesis of the study.",
+      "example_vi": "Thí nghiệm được thiết kế để kiểm định giả thuyết chính của nghiên cứu.",
+      "emoji": "💡"
+    },
+    {
+      "word": "methodology",
+      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "pos": "n",
+      "vi": "phương pháp luận",
+      "example_en": "The methodology section explains how the data were collected and analysed.",
+      "example_vi": "Phần phương pháp luận giải thích cách dữ liệu được thu thập và phân tích.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "empirical",
+      "ipa": "/ɪmˈpɪrɪkl/",
+      "pos": "adj",
+      "vi": "thực nghiệm, dựa trên quan sát",
+      "example_en": "There is little empirical evidence to support this theory so far.",
+      "example_vi": "Cho đến nay có rất ít bằng chứng thực nghiệm ủng hộ lý thuyết này.",
+      "emoji": "📈"
+    },
+    {
+      "word": "survey",
+      "ipa": "/ˈsɜːveɪ/",
+      "pos": "n",
+      "vi": "khảo sát",
+      "example_en": "The survey was distributed to more than five hundred university students.",
+      "example_vi": "Bảng khảo sát được phát cho hơn năm trăm sinh viên đại học.",
+      "emoji": "📋"
+    },
+    {
+      "word": "sample",
+      "ipa": "/ˈsɑːmpl/",
+      "pos": "n",
+      "vi": "mẫu (nghiên cứu)",
+      "example_en": "The sample consisted of 200 adults aged between 25 and 40.",
+      "example_vi": "Mẫu nghiên cứu gồm 200 người trưởng thành trong độ tuổi từ 25 đến 40.",
+      "emoji": "🧪"
+    },
+    {
+      "word": "variable",
+      "ipa": "/ˈveəriəbl/",
+      "pos": "n",
+      "vi": "biến số",
+      "example_en": "Income was the main variable that affected the participants' choices.",
+      "example_vi": "Thu nhập là biến số chính ảnh hưởng đến lựa chọn của người tham gia.",
+      "emoji": "🔢"
+    },
+    {
+      "word": "quantitative",
+      "ipa": "/ˈkwɒntɪtətɪv/",
+      "pos": "adj",
+      "vi": "định lượng",
+      "example_en": "The researchers adopted a quantitative approach based on statistical analysis.",
+      "example_vi": "Các nhà nghiên cứu áp dụng cách tiếp cận định lượng dựa trên phân tích thống kê.",
+      "emoji": "📐"
+    },
+    {
+      "word": "qualitative",
+      "ipa": "/ˈkwɒlɪtətɪv/",
+      "pos": "adj",
+      "vi": "định tính",
+      "example_en": "Qualitative interviews provided deeper insight into the students' experiences.",
+      "example_vi": "Các cuộc phỏng vấn định tính mang lại hiểu biết sâu hơn về trải nghiệm của sinh viên.",
+      "emoji": "💬"
+    },
+    {
+      "word": "observe",
+      "ipa": "/əbˈzɜːv/",
+      "pos": "v",
+      "vi": "quan sát",
+      "example_en": "The researcher observed the children's behaviour in a natural setting.",
+      "example_vi": "Nhà nghiên cứu quan sát hành vi của trẻ em trong bối cảnh tự nhiên.",
+      "emoji": "👁️"
+    },
+    {
+      "word": "experiment",
+      "ipa": "/ɪkˈsperɪmənt/",
+      "pos": "n",
+      "vi": "thí nghiệm",
+      "example_en": "The experiment was repeated three times to ensure reliable results.",
+      "example_vi": "Thí nghiệm được lặp lại ba lần để đảm bảo kết quả đáng tin cậy.",
+      "emoji": "⚗️"
+    },
+    {
+      "word": "finding",
+      "ipa": "/ˈfaɪndɪŋ/",
+      "pos": "n",
+      "vi": "phát hiện, kết quả",
+      "example_en": "The main findings suggest a strong link between sleep and memory.",
+      "example_vi": "Các phát hiện chính cho thấy mối liên hệ chặt chẽ giữa giấc ngủ và trí nhớ.",
+      "emoji": "🔦"
+    },
+    {
+      "word": "interpret",
+      "ipa": "/ɪnˈtɜːprɪt/",
+      "pos": "v",
+      "vi": "diễn giải, lý giải",
+      "example_en": "It is difficult to interpret these results without further data.",
+      "example_vi": "Rất khó diễn giải các kết quả này nếu không có thêm dữ liệu.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "conduct",
+      "ipa": "/kənˈdʌkt/",
+      "pos": "v",
+      "vi": "tiến hành, thực hiện",
+      "example_en": "The team conducted a series of experiments over six months.",
+      "example_vi": "Nhóm nghiên cứu đã tiến hành một loạt thí nghiệm trong sáu tháng.",
+      "emoji": "🧷"
+    },
+    {
+      "word": "procedure",
+      "ipa": "/prəˈsiːdʒə/",
+      "pos": "n",
+      "vi": "quy trình, thủ tục",
+      "example_en": "The same procedure was followed for every participant in the study.",
+      "example_vi": "Cùng một quy trình được áp dụng cho mọi người tham gia nghiên cứu.",
+      "emoji": "📑"
+    },
+    {
+      "word": "validate",
+      "ipa": "/ˈvælɪdeɪt/",
+      "pos": "v",
+      "vi": "kiểm chứng, xác nhận tính hợp lệ",
+      "example_en": "Further research is needed to validate these preliminary conclusions.",
+      "example_vi": "Cần thêm nghiên cứu để kiểm chứng những kết luận sơ bộ này.",
+      "emoji": "✅"
+    }
+  ]
+}

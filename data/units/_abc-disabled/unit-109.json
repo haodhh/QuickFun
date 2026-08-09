@@ -1,0 +1,191 @@
+{
+  "id": 109,
+  "slug": "abc-questions-polite",
+  "title_en": "Question & Polite Words",
+  "title_vi": "Từ để hỏi & lịch sự",
+  "emoji": "❓",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "who",
+      "ipa": "/huː/",
+      "pos": "pron",
+      "vi": "ai",
+      "example_en": "Who is that?",
+      "example_vi": "Đó là ai?",
+      "emoji": "🧑"
+    },
+    {
+      "word": "what",
+      "ipa": "/wɒt/",
+      "pos": "pron",
+      "vi": "cái gì",
+      "example_en": "What is this?",
+      "example_vi": "Đây là cái gì?",
+      "emoji": "❓"
+    },
+    {
+      "word": "where",
+      "ipa": "/weə/",
+      "pos": "adv",
+      "vi": "ở đâu",
+      "example_en": "Where is my bag?",
+      "example_vi": "Túi của tôi ở đâu?",
+      "emoji": "📍"
+    },
+    {
+      "word": "when",
+      "ipa": "/wen/",
+      "pos": "adv",
+      "vi": "khi nào",
+      "example_en": "When is lunch?",
+      "example_vi": "Khi nào ăn trưa?",
+      "emoji": "⏰"
+    },
+    {
+      "word": "why",
+      "ipa": "/waɪ/",
+      "pos": "adv",
+      "vi": "tại sao",
+      "example_en": "Why are you sad?",
+      "example_vi": "Tại sao bạn buồn?",
+      "emoji": "🤔"
+    },
+    {
+      "word": "how",
+      "ipa": "/haʊ/",
+      "pos": "adv",
+      "vi": "như thế nào",
+      "example_en": "How are you?",
+      "example_vi": "Bạn khỏe không?",
+      "emoji": "🤷"
+    },
+    {
+      "word": "which",
+      "ipa": "/wɪtʃ/",
+      "pos": "pron",
+      "vi": "cái nào",
+      "example_en": "Which one do you like?",
+      "example_vi": "Bạn thích cái nào?",
+      "emoji": "🔀"
+    },
+    {
+      "word": "whose",
+      "ipa": "/huːz/",
+      "pos": "pron",
+      "vi": "của ai",
+      "example_en": "Whose bag is this?",
+      "example_vi": "Đây là túi của ai?",
+      "emoji": "🔑"
+    },
+    {
+      "word": "yes",
+      "ipa": "/jes/",
+      "pos": "interj",
+      "vi": "vâng, có",
+      "example_en": "Yes, I am happy.",
+      "example_vi": "Vâng, tôi vui.",
+      "emoji": "✅"
+    },
+    {
+      "word": "no",
+      "ipa": "/nəʊ/",
+      "pos": "interj",
+      "vi": "không",
+      "example_en": "No, I am not tired.",
+      "example_vi": "Không, tôi không mệt.",
+      "emoji": "❌"
+    },
+    {
+      "word": "please",
+      "ipa": "/pliːz/",
+      "pos": "interj",
+      "vi": "làm ơn, xin",
+      "example_en": "Please sit down.",
+      "example_vi": "Làm ơn ngồi xuống.",
+      "emoji": "🙏"
+    },
+    {
+      "word": "thank you",
+      "ipa": "/ˈθæŋk juː/",
+      "pos": "cụm",
+      "vi": "cảm ơn",
+      "example_en": "Thank you very much.",
+      "example_vi": "Cảm ơn rất nhiều.",
+      "emoji": "🙏"
+    },
+    {
+      "word": "sorry",
+      "ipa": "/ˈsɒri/",
+      "pos": "interj",
+      "vi": "xin lỗi",
+      "example_en": "I am sorry.",
+      "example_vi": "Tôi xin lỗi.",
+      "emoji": "😔"
+    },
+    {
+      "word": "hello",
+      "ipa": "/həˈləʊ/",
+      "pos": "interj",
+      "vi": "xin chào",
+      "example_en": "Hello, I am Nam.",
+      "example_vi": "Xin chào, tôi là Nam.",
+      "emoji": "👋"
+    },
+    {
+      "word": "hi",
+      "ipa": "/haɪ/",
+      "pos": "interj",
+      "vi": "chào",
+      "example_en": "Hi, how are you?",
+      "example_vi": "Chào, bạn khỏe không?",
+      "emoji": "🙋"
+    },
+    {
+      "word": "goodbye",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "pos": "interj",
+      "vi": "tạm biệt",
+      "example_en": "Goodbye, see you soon.",
+      "example_vi": "Tạm biệt, hẹn gặp lại sớm.",
+      "emoji": "👋"
+    },
+    {
+      "word": "bye",
+      "ipa": "/baɪ/",
+      "pos": "interj",
+      "vi": "tạm biệt (thân mật)",
+      "example_en": "Bye, see you.",
+      "example_vi": "Tạm biệt, hẹn gặp lại.",
+      "emoji": "👋"
+    },
+    {
+      "word": "okay",
+      "ipa": "/ˌəʊˈkeɪ/",
+      "pos": "interj",
+      "vi": "được, ổn",
+      "example_en": "Okay, I can help.",
+      "example_vi": "Được, tôi có thể giúp.",
+      "emoji": "👌"
+    },
+    {
+      "word": "welcome",
+      "ipa": "/ˈwelkəm/",
+      "pos": "adj",
+      "vi": "không có gì; chào mừng",
+      "example_en": "You are welcome.",
+      "example_vi": "Không có gì.",
+      "emoji": "🤗"
+    },
+    {
+      "word": "excuse me",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "pos": "cụm",
+      "vi": "xin lỗi (để hỏi/gây chú ý)",
+      "example_en": "Excuse me, where is the shop?",
+      "example_vi": "Xin lỗi, cửa hàng ở đâu?",
+      "emoji": "🙋"
+    }
+  ]
+}

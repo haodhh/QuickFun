@@ -1,0 +1,195 @@
+{
+  "id": 3029,
+  "slug": "toeic-9",
+  "title_en": "Maintenance & Facilities",
+  "title_vi": "Bảo trì & cơ sở vật chất",
+  "emoji": "🔧",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "pos": "n",
+      "vi": "bảo trì, bảo dưỡng",
+      "example_en": "The building undergoes regular maintenance to keep all the systems running smoothly.",
+      "example_vi": "Tòa nhà được bảo trì định kỳ để giữ cho tất cả các hệ thống hoạt động trơn tru.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "repair",
+      "ipa": "/rɪˈpeə/",
+      "pos": "n, v",
+      "vi": "sửa chữa",
+      "example_en": "A technician came to repair the broken heating system this morning.",
+      "example_vi": "Một kỹ thuật viên đã đến sửa hệ thống sưởi bị hỏng sáng nay.",
+      "emoji": "🛠️"
+    },
+    {
+      "word": "equipment",
+      "ipa": "/ɪˈkwɪpmənt/",
+      "pos": "n",
+      "vi": "thiết bị",
+      "example_en": "All the office equipment must be checked before the new staff arrive.",
+      "example_vi": "Tất cả thiết bị văn phòng phải được kiểm tra trước khi nhân viên mới đến.",
+      "emoji": "⚙️"
+    },
+    {
+      "word": "facility",
+      "ipa": "/fəˈsɪləti/",
+      "pos": "n",
+      "vi": "cơ sở vật chất, tiện ích",
+      "example_en": "The company has invested in a modern facility with a gym and a canteen.",
+      "example_vi": "Công ty đã đầu tư vào một cơ sở hiện đại với phòng gym và căng tin.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "air conditioning",
+      "ipa": "/ˈeə kənˌdɪʃənɪŋ/",
+      "pos": "n, phr",
+      "vi": "điều hòa không khí",
+      "example_en": "The air conditioning broke down, so the whole office felt very stuffy.",
+      "example_vi": "Điều hòa bị hỏng nên cả văn phòng cảm thấy rất ngột ngạt.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "elevator",
+      "ipa": "/ˈelɪveɪtə/",
+      "pos": "n",
+      "vi": "thang máy",
+      "example_en": "Please use the stairs while the elevator is being serviced.",
+      "example_vi": "Vui lòng dùng cầu thang bộ trong khi thang máy đang được bảo dưỡng.",
+      "emoji": "🛗"
+    },
+    {
+      "word": "security guard",
+      "ipa": "/sɪˈkjʊərəti ɡɑːd/",
+      "pos": "n, phr",
+      "vi": "nhân viên bảo vệ",
+      "example_en": "The security guard checks everyone's ID card at the main entrance.",
+      "example_vi": "Nhân viên bảo vệ kiểm tra thẻ căn cước của mọi người ở lối vào chính.",
+      "emoji": "💂"
+    },
+    {
+      "word": "cleaning staff",
+      "ipa": "/ˈkliːnɪŋ stɑːf/",
+      "pos": "n, phr",
+      "vi": "nhân viên vệ sinh",
+      "example_en": "The cleaning staff tidy the meeting rooms every evening after work.",
+      "example_vi": "Nhân viên vệ sinh dọn dẹp các phòng họp mỗi tối sau giờ làm.",
+      "emoji": "🧹"
+    },
+    {
+      "word": "power outage",
+      "ipa": "/ˈpaʊər ˌaʊtɪdʒ/",
+      "pos": "n, phr",
+      "vi": "mất điện",
+      "example_en": "A sudden power outage forced us to stop the presentation for an hour.",
+      "example_vi": "Việc mất điện đột ngột buộc chúng tôi phải dừng bài thuyết trình trong một giờ.",
+      "emoji": "🔌"
+    },
+    {
+      "word": "breakdown",
+      "ipa": "/ˈbreɪkdaʊn/",
+      "pos": "n",
+      "vi": "sự hỏng hóc, trục trặc",
+      "example_en": "A breakdown in the main server delayed all the deliveries yesterday.",
+      "example_vi": "Sự cố hỏng hóc ở máy chủ chính đã làm chậm tất cả các đơn giao hàng hôm qua.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "spare part",
+      "ipa": "/speə pɑːt/",
+      "pos": "n, phr",
+      "vi": "phụ tùng thay thế",
+      "example_en": "We had to order a spare part before the machine could be fixed.",
+      "example_vi": "Chúng tôi phải đặt một phụ tùng thay thế trước khi máy có thể được sửa.",
+      "emoji": "🔩"
+    },
+    {
+      "word": "inspection",
+      "ipa": "/ɪnˈspekʃən/",
+      "pos": "n",
+      "vi": "sự kiểm tra, thanh tra",
+      "example_en": "The factory passed its annual safety inspection without any problems.",
+      "example_vi": "Nhà máy đã vượt qua cuộc kiểm tra an toàn hàng năm mà không gặp vấn đề gì.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "safety regulations",
+      "ipa": "/ˈseɪfti ˌreɡjuˈleɪʃənz/",
+      "pos": "n, phr",
+      "vi": "quy định an toàn",
+      "example_en": "All workers must follow the safety regulations when using heavy machinery.",
+      "example_vi": "Tất cả công nhân phải tuân theo các quy định an toàn khi sử dụng máy móc hạng nặng.",
+      "emoji": "📋"
+    },
+    {
+      "word": "fire extinguisher",
+      "ipa": "/ˈfaɪər ɪkˌstɪŋɡwɪʃə/",
+      "pos": "n, phr",
+      "vi": "bình chữa cháy",
+      "example_en": "There is a fire extinguisher on every floor in case of an emergency.",
+      "example_vi": "Có một bình chữa cháy ở mỗi tầng để phòng khi có sự cố khẩn cấp.",
+      "emoji": "🧯"
+    },
+    {
+      "word": "emergency exit",
+      "ipa": "/ɪˈmɜːdʒənsi ˈeksɪt/",
+      "pos": "n, phr",
+      "vi": "lối thoát hiểm",
+      "example_en": "Please keep the emergency exit clear at all times.",
+      "example_vi": "Vui lòng luôn giữ cho lối thoát hiểm không bị chắn.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "plumbing",
+      "ipa": "/ˈplʌmɪŋ/",
+      "pos": "n",
+      "vi": "hệ thống ống nước",
+      "example_en": "The old plumbing in the building often causes leaks in the bathrooms.",
+      "example_vi": "Hệ thống ống nước cũ trong tòa nhà thường gây rò rỉ ở các phòng vệ sinh.",
+      "emoji": "🚰"
+    },
+    {
+      "word": "lighting",
+      "ipa": "/ˈlaɪtɪŋ/",
+      "pos": "n",
+      "vi": "hệ thống chiếu sáng",
+      "example_en": "Better lighting in the corridors makes the office feel much safer at night.",
+      "example_vi": "Hệ thống chiếu sáng tốt hơn ở hành lang khiến văn phòng cảm thấy an toàn hơn nhiều vào ban đêm.",
+      "emoji": "💡"
+    },
+    {
+      "word": "renovation",
+      "ipa": "/ˌrenəˈveɪʃən/",
+      "pos": "n",
+      "vi": "sự cải tạo, tân trang",
+      "example_en": "The lobby is closed for renovation until the end of next month.",
+      "example_vi": "Sảnh lớn đóng cửa để cải tạo cho đến cuối tháng sau.",
+      "emoji": "🏗️"
+    },
+    {
+      "word": "parking lot",
+      "ipa": "/ˈpɑːkɪŋ lɒt/",
+      "pos": "n, phr",
+      "vi": "bãi đỗ xe",
+      "example_en": "Staff can leave their cars in the parking lot behind the building.",
+      "example_vi": "Nhân viên có thể để xe ở bãi đỗ xe phía sau tòa nhà.",
+      "emoji": "🅿️"
+    },
+    {
+      "word": "caretaker",
+      "ipa": "/ˈkeəteɪkə/",
+      "pos": "n",
+      "vi": "người trông coi, quản lý cơ sở",
+      "example_en": "The caretaker locks up the building and checks the doors every night.",
+      "example_vi": "Người trông coi khóa cửa tòa nhà và kiểm tra các cửa mỗi đêm.",
+      "emoji": "🧑‍🔧"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 # Quick & Fun · Học từ vựng tiếng Anh 🧩
 
-Web app học từ vựng tiếng Anh theo **20 chủ đề** — mở trên điện thoại hay máy tính để học mọi lúc, mọi nơi. Tất cả tiến độ được lưu ngay trên máy bạn, không cần đăng nhập hay kết nối tài khoản.
+Web app học tiếng Anh — mở trên điện thoại hay máy tính để học mọi lúc, mọi nơi. Tất cả tiến độ được lưu ngay trên máy bạn, không cần đăng nhập hay kết nối tài khoản.
+
+Thanh menu ở đầu trang cho phép chuyển giữa hai mục học:
+
+- **📚 Học từ vựng** — 2 tab: **Chủ đề** (20 chủ đề đời sống, 744 từ) và **Chuyên biệt theo mục đích** (5 nhóm: Du lịch, TOEIC, Thương mại, IELTS, AWL; mỗi nhóm 10 chủ đề con × 20 từ = 1000 từ).
+- **📝 Học ngữ pháp** — 67 chủ điểm ngữ pháp kèm bài luyện tập, lọc theo **3 cấp**: Cấp 1 (A1) · Cấp 2 (A2) · Cấp 3 (B1–B2).
 
 ## Học được gì ở đây?
 
@@ -9,8 +14,9 @@ Web app học từ vựng tiếng Anh theo **20 chủ đề** — mở trên đi
 - 🎓 **Luyện tập** (3 dạng): **Trắc nghiệm** (Anh↔Việt), **Điền từ** (điền từ còn thiếu vào câu), **Nghe & viết** (nghe phát âm rồi gõ lại).
 - 🔁 **Ôn tập ngắt quãng (SRS)**: gom từ cần ôn của **tất cả** chủ đề theo thuật toán lặp lại ngắt quãng (SM-2 rút gọn), giới hạn 20 từ mới/ngày, tự lên lịch ôn.
 - 🎯 **Kiểm tra tổng hợp**: bài đánh giá rút ngẫu nhiên từ cả 20 chủ đề (20/30/40 câu), chấm điểm và **phân tích điểm mạnh–yếu theo từng chủ đề** để biết cần ôn gì.
-- 🔎 **Tìm kiếm**: tra nhanh trong toàn bộ 744 từ (theo từ tiếng Anh, nghĩa, hoặc câu ví dụ).
+- 🔎 **Tìm kiếm**: tra nhanh trong toàn bộ ~1.744 từ (theo từ tiếng Anh, nghĩa, hoặc câu ví dụ).
 - ▶️ **Học tiếp**: tự nhớ bài/tab đang học dở (nút "Tiếp tục học" + danh sách "Gần đây" ở trang chủ).
+- 📝 **Ngữ pháp**: các chủ điểm từ cơ bản đến nâng cao (thì, mạo từ, so sánh, danh từ số nhiều/đếm được, đại từ, sở hữu cách, câu mệnh lệnh, giới từ…) — mỗi bài có lý thuyết ngắn gọn, công thức, ví dụ nghe được và bài trắc nghiệm có giải thích; đánh dấu "đã học" và lưu điểm luyện tập. Có **🔁 Ôn tập ngắt quãng** và **🎯 Kiểm tra tổng hợp** trên toàn bộ câu hỏi ngữ pháp (giống phần từ vựng).
 - 🌙 Giao diện sáng/tối, tối ưu cho điện thoại.
 
 ## Phát âm

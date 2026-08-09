@@ -1,0 +1,195 @@
+{
+  "id": 3045,
+  "slug": "ielts-5",
+  "title_en": "Academic Verbs & Concepts",
+  "title_vi": "Động từ & khái niệm học thuật",
+  "emoji": "✍️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "illustrate",
+      "ipa": "/ˈɪləstreɪt/",
+      "pos": "v",
+      "vi": "minh họa, làm rõ",
+      "example_en": "The author uses several case studies to illustrate how climate change affects farming.",
+      "example_vi": "Tác giả dùng vài nghiên cứu điển hình để minh họa cách biến đổi khí hậu ảnh hưởng đến nông nghiệp.",
+      "emoji": "📊"
+    },
+    {
+      "word": "demonstrate",
+      "ipa": "/ˈdemənstreɪt/",
+      "pos": "v",
+      "vi": "chứng minh, thể hiện",
+      "example_en": "The experiment clearly demonstrates that plants grow faster under blue light.",
+      "example_vi": "Thí nghiệm chứng minh rõ ràng rằng cây phát triển nhanh hơn dưới ánh sáng xanh.",
+      "emoji": "🔬"
+    },
+    {
+      "word": "attribute to",
+      "ipa": "/əˈtrɪbjuːt tə/",
+      "pos": "phr v",
+      "vi": "quy cho, cho là do",
+      "example_en": "Researchers attribute the fall in crime to better education and employment.",
+      "example_vi": "Các nhà nghiên cứu quy sự sụt giảm tội phạm cho giáo dục và việc làm tốt hơn.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "correlate",
+      "ipa": "/ˈkɒrəleɪt/",
+      "pos": "v",
+      "vi": "có tương quan",
+      "example_en": "The data show that income levels strongly correlate with life expectancy.",
+      "example_vi": "Dữ liệu cho thấy mức thu nhập có tương quan mạnh với tuổi thọ.",
+      "emoji": "📈"
+    },
+    {
+      "word": "undermine",
+      "ipa": "/ˌʌndəˈmaɪn/",
+      "pos": "v",
+      "vi": "làm suy yếu, phá hoại",
+      "example_en": "Constant criticism can seriously undermine a student's confidence.",
+      "example_vi": "Sự chỉ trích liên tục có thể làm suy yếu nghiêm trọng sự tự tin của học sinh.",
+      "emoji": "🕳️"
+    },
+    {
+      "word": "facilitate",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "pos": "v",
+      "vi": "tạo điều kiện, hỗ trợ",
+      "example_en": "New technology has greatly facilitated communication between distant offices.",
+      "example_vi": "Công nghệ mới đã tạo điều kiện rất lớn cho việc liên lạc giữa các văn phòng xa nhau.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "underpin",
+      "ipa": "/ˌʌndəˈpɪn/",
+      "pos": "v",
+      "vi": "làm nền tảng, củng cố",
+      "example_en": "A strong sense of trust underpins any successful business partnership.",
+      "example_vi": "Một niềm tin vững chắc là nền tảng cho mọi quan hệ đối tác kinh doanh thành công.",
+      "emoji": "🧱"
+    },
+    {
+      "word": "hypothesise",
+      "ipa": "/haɪˈpɒθəsaɪz/",
+      "pos": "v",
+      "vi": "đưa ra giả thuyết",
+      "example_en": "Scientists hypothesise that the disease is spread through contaminated water.",
+      "example_vi": "Các nhà khoa học đưa ra giả thuyết rằng căn bệnh lây lan qua nguồn nước ô nhiễm.",
+      "emoji": "💡"
+    },
+    {
+      "word": "constitute",
+      "ipa": "/ˈkɒnstɪtjuːt/",
+      "pos": "v",
+      "vi": "cấu thành, tạo thành",
+      "example_en": "Women now constitute nearly half of the workforce in this industry.",
+      "example_vi": "Phụ nữ hiện chiếm gần một nửa lực lượng lao động trong ngành này.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "derive from",
+      "ipa": "/dɪˈraɪv frəm/",
+      "pos": "phr v",
+      "vi": "bắt nguồn từ, xuất phát từ",
+      "example_en": "Many English words derive from Latin and Greek roots.",
+      "example_vi": "Nhiều từ tiếng Anh bắt nguồn từ gốc Latinh và Hy Lạp.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "mitigate",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "pos": "v",
+      "vi": "làm giảm nhẹ",
+      "example_en": "Planting more trees can help mitigate the effects of air pollution.",
+      "example_vi": "Trồng thêm cây có thể giúp làm giảm nhẹ tác động của ô nhiễm không khí.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "exacerbate",
+      "ipa": "/ɪɡˈzæsəbeɪt/",
+      "pos": "v",
+      "vi": "làm trầm trọng thêm",
+      "example_en": "Cutting the health budget will only exacerbate the current crisis.",
+      "example_vi": "Cắt giảm ngân sách y tế sẽ chỉ làm trầm trọng thêm cuộc khủng hoảng hiện nay.",
+      "emoji": "🔥"
+    },
+    {
+      "word": "substantiate",
+      "ipa": "/səbˈstænʃieɪt/",
+      "pos": "v",
+      "vi": "chứng minh bằng bằng chứng",
+      "example_en": "The journalist could not substantiate the claims with reliable evidence.",
+      "example_vi": "Nhà báo không thể chứng minh những cáo buộc đó bằng bằng chứng đáng tin cậy.",
+      "emoji": "📑"
+    },
+    {
+      "word": "advocate",
+      "ipa": "/ˈædvəkeɪt/",
+      "pos": "v",
+      "vi": "ủng hộ, cổ vũ",
+      "example_en": "Many experts advocate a complete ban on single-use plastics.",
+      "example_vi": "Nhiều chuyên gia ủng hộ việc cấm hoàn toàn nhựa dùng một lần.",
+      "emoji": "📢"
+    },
+    {
+      "word": "implement",
+      "ipa": "/ˈɪmplɪment/",
+      "pos": "v",
+      "vi": "thực thi, triển khai",
+      "example_en": "The government plans to implement the new policy next year.",
+      "example_vi": "Chính phủ dự định triển khai chính sách mới vào năm tới.",
+      "emoji": "⚙️"
+    },
+    {
+      "word": "yield",
+      "ipa": "/jiːld/",
+      "pos": "v",
+      "vi": "tạo ra, mang lại (kết quả)",
+      "example_en": "The study yielded surprising results that challenged earlier theories.",
+      "example_vi": "Nghiên cứu mang lại những kết quả bất ngờ, thách thức các lý thuyết trước đó.",
+      "emoji": "🌾"
+    },
+    {
+      "word": "reinforce",
+      "ipa": "/ˌriːɪnˈfɔːs/",
+      "pos": "v",
+      "vi": "củng cố, tăng cường",
+      "example_en": "These findings reinforce the idea that sleep is vital for memory.",
+      "example_vi": "Những phát hiện này củng cố quan điểm rằng giấc ngủ rất quan trọng cho trí nhớ.",
+      "emoji": "🏗️"
+    },
+    {
+      "word": "encompass",
+      "ipa": "/ɪnˈkʌmpəs/",
+      "pos": "v",
+      "vi": "bao gồm, bao quát",
+      "example_en": "The term 'media' encompasses newspapers, television and social networks.",
+      "example_vi": "Thuật ngữ 'truyền thông' bao gồm báo chí, truyền hình và mạng xã hội.",
+      "emoji": "🔵"
+    },
+    {
+      "word": "distinguish between",
+      "ipa": "/dɪˈstɪŋɡwɪʃ bɪˈtwiːn/",
+      "pos": "phr v",
+      "vi": "phân biệt giữa",
+      "example_en": "Students must learn to distinguish between fact and opinion in essays.",
+      "example_vi": "Học sinh phải học cách phân biệt giữa sự thật và ý kiến trong bài luận.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "give rise to",
+      "ipa": "/ɡɪv raɪz tə/",
+      "pos": "phr",
+      "vi": "làm nảy sinh, dẫn đến",
+      "example_en": "Rapid urban growth has given rise to serious housing shortages.",
+      "example_vi": "Sự tăng trưởng đô thị nhanh đã làm nảy sinh tình trạng thiếu nhà ở nghiêm trọng.",
+      "emoji": "🌋"
+    }
+  ]
+}

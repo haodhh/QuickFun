@@ -1,0 +1,195 @@
+{
+  "id": 3057,
+  "slug": "awl-7",
+  "title_en": "Argument & Viewpoint",
+  "title_vi": "Lập luận & quan điểm",
+  "emoji": "🗣️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "argue",
+      "ipa": "/ˈɑːɡjuː/",
+      "pos": "v",
+      "vi": "lập luận, cho rằng",
+      "example_en": "In her essay, the author argues that social media reshapes how young people form opinions.",
+      "example_vi": "Trong bài luận, tác giả lập luận rằng mạng xã hội định hình lại cách người trẻ hình thành quan điểm.",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "claim",
+      "ipa": "/kleɪm/",
+      "pos": "v, n",
+      "vi": "khẳng định, luận điểm",
+      "example_en": "The study claims that regular reading significantly improves critical thinking skills.",
+      "example_vi": "Nghiên cứu khẳng định rằng việc đọc thường xuyên cải thiện đáng kể kỹ năng tư duy phản biện.",
+      "emoji": "📢"
+    },
+    {
+      "word": "assert",
+      "ipa": "/əˈsɜːt/",
+      "pos": "v",
+      "vi": "quả quyết, khẳng định mạnh mẽ",
+      "example_en": "The professor asserts that economic growth alone cannot guarantee social equality.",
+      "example_vi": "Vị giáo sư quả quyết rằng chỉ riêng tăng trưởng kinh tế không thể bảo đảm sự bình đẳng xã hội.",
+      "emoji": "☝️"
+    },
+    {
+      "word": "perspective",
+      "ipa": "/pəˈspektɪv/",
+      "pos": "n",
+      "vi": "góc nhìn, quan điểm",
+      "example_en": "Considering the issue from a historical perspective helps us understand its complexity.",
+      "example_vi": "Xem xét vấn đề từ góc nhìn lịch sử giúp chúng ta hiểu được sự phức tạp của nó.",
+      "emoji": "👓"
+    },
+    {
+      "word": "standpoint",
+      "ipa": "/ˈstændpɔɪnt/",
+      "pos": "n",
+      "vi": "lập trường, quan điểm",
+      "example_en": "From an ethical standpoint, the experiment raises several serious concerns.",
+      "example_vi": "Từ lập trường đạo đức, thí nghiệm này làm nảy sinh nhiều lo ngại nghiêm trọng.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "contend",
+      "ipa": "/kənˈtend/",
+      "pos": "v",
+      "vi": "cho rằng, lập luận (kiên định)",
+      "example_en": "Some economists contend that raising the minimum wage reduces overall employment.",
+      "example_vi": "Một số nhà kinh tế cho rằng việc tăng lương tối thiểu làm giảm tổng số việc làm.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "justify",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "pos": "v",
+      "vi": "biện minh, chứng minh là hợp lý",
+      "example_en": "The researchers justify their method by citing several earlier successful studies.",
+      "example_vi": "Các nhà nghiên cứu biện minh cho phương pháp của mình bằng cách trích dẫn nhiều nghiên cứu thành công trước đó.",
+      "emoji": "✅"
+    },
+    {
+      "word": "reasoning",
+      "ipa": "/ˈriːzənɪŋ/",
+      "pos": "n",
+      "vi": "lập luận, cách suy luận",
+      "example_en": "The conclusion is flawed because the reasoning behind it relies on weak evidence.",
+      "example_vi": "Kết luận bị sai lệch vì lập luận đằng sau nó dựa trên bằng chứng yếu.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "rationale",
+      "ipa": "/ˌræʃəˈnɑːl/",
+      "pos": "n",
+      "vi": "cơ sở lý luận, lý do căn bản",
+      "example_en": "The report clearly explains the rationale for adopting the new teaching policy.",
+      "example_vi": "Bản báo cáo giải thích rõ cơ sở lý luận cho việc áp dụng chính sách giảng dạy mới.",
+      "emoji": "📐"
+    },
+    {
+      "word": "objection",
+      "ipa": "/əbˈdʒekʃn/",
+      "pos": "n",
+      "vi": "sự phản đối, ý kiến bác bỏ",
+      "example_en": "A common objection to the theory is that it ignores cultural differences.",
+      "example_vi": "Một phản đối phổ biến đối với lý thuyết này là nó bỏ qua sự khác biệt văn hóa.",
+      "emoji": "🙅"
+    },
+    {
+      "word": "counterargument",
+      "ipa": "/ˈkaʊntərˌɑːɡjumənt/",
+      "pos": "n",
+      "vi": "lập luận phản bác",
+      "example_en": "A strong essay anticipates the reader's counterargument and responds to it convincingly.",
+      "example_vi": "Một bài luận tốt dự đoán trước lập luận phản bác của người đọc và đáp lại một cách thuyết phục.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "persuade",
+      "ipa": "/pəˈsweɪd/",
+      "pos": "v",
+      "vi": "thuyết phục",
+      "example_en": "The writer uses statistics and real examples to persuade readers of her position.",
+      "example_vi": "Tác giả dùng số liệu và ví dụ thực tế để thuyết phục người đọc về quan điểm của mình.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "advocate",
+      "ipa": "/ˈædvəkeɪt/",
+      "pos": "v, n",
+      "vi": "ủng hộ, người ủng hộ",
+      "example_en": "Many scientists advocate stricter regulations to reduce industrial pollution.",
+      "example_vi": "Nhiều nhà khoa học ủng hộ những quy định chặt chẽ hơn để giảm ô nhiễm công nghiệp.",
+      "emoji": "📣"
+    },
+    {
+      "word": "maintain",
+      "ipa": "/meɪnˈteɪn/",
+      "pos": "v",
+      "vi": "khẳng định, giữ quan điểm",
+      "example_en": "The author maintains that technology has done more good than harm to education.",
+      "example_vi": "Tác giả giữ quan điểm rằng công nghệ mang lại lợi ích nhiều hơn tác hại cho giáo dục.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "refute",
+      "ipa": "/rɪˈfjuːt/",
+      "pos": "v",
+      "vi": "bác bỏ, phản bác (bằng chứng cứ)",
+      "example_en": "Recent data clearly refute the claim that the policy improved living standards.",
+      "example_vi": "Dữ liệu gần đây bác bỏ rõ ràng luận điểm cho rằng chính sách đã cải thiện mức sống.",
+      "emoji": "❌"
+    },
+    {
+      "word": "concede",
+      "ipa": "/kənˈsiːd/",
+      "pos": "v",
+      "vi": "thừa nhận (điểm đối lập)",
+      "example_en": "The author concedes that her sample was small, but defends her overall conclusion.",
+      "example_vi": "Tác giả thừa nhận rằng mẫu khảo sát của mình nhỏ, nhưng vẫn bảo vệ kết luận chung.",
+      "emoji": "🤲"
+    },
+    {
+      "word": "bias",
+      "ipa": "/ˈbaɪəs/",
+      "pos": "n",
+      "vi": "thiên kiến, sự thiên vị",
+      "example_en": "Researchers must reduce personal bias to keep their findings objective and reliable.",
+      "example_vi": "Các nhà nghiên cứu phải giảm thiên kiến cá nhân để giữ cho kết quả khách quan và đáng tin cậy.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "subjective",
+      "ipa": "/səbˈdʒektɪv/",
+      "pos": "adj",
+      "vi": "chủ quan",
+      "example_en": "Beauty is largely subjective, so critics often disagree about the same painting.",
+      "example_vi": "Cái đẹp phần lớn mang tính chủ quan, nên các nhà phê bình thường bất đồng về cùng một bức tranh.",
+      "emoji": "👤"
+    },
+    {
+      "word": "valid",
+      "ipa": "/ˈvælɪd/",
+      "pos": "adj",
+      "vi": "hợp lý, có căn cứ",
+      "example_en": "Her argument is valid because each point is supported by solid evidence.",
+      "example_vi": "Lập luận của cô ấy hợp lý vì mỗi luận điểm đều được chứng minh bằng bằng chứng vững chắc.",
+      "emoji": "✔️"
+    },
+    {
+      "word": "plausible",
+      "ipa": "/ˈplɔːzəbl/",
+      "pos": "adj",
+      "vi": "có vẻ hợp lý, đáng tin",
+      "example_en": "Although the explanation sounds plausible, it still lacks convincing experimental support.",
+      "example_vi": "Mặc dù lời giải thích nghe có vẻ hợp lý, nó vẫn thiếu bằng chứng thực nghiệm thuyết phục.",
+      "emoji": "🤔"
+    }
+  ]
+}

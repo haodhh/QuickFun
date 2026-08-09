@@ -1,0 +1,195 @@
+{
+  "id": 3034,
+  "slug": "business-4",
+  "title_en": "Strategy & Markets",
+  "title_vi": "Chiến lược & thị trường",
+  "emoji": "♟️",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "market share",
+      "ipa": "/ˈmɑːkɪt ʃeə/",
+      "pos": "n",
+      "vi": "thị phần",
+      "example_en": "After launching the cheaper model, the company gained a significant market share from its rivals.",
+      "example_vi": "Sau khi ra mắt mẫu giá rẻ hơn, công ty đã giành được thị phần đáng kể từ các đối thủ.",
+      "emoji": "📊"
+    },
+    {
+      "word": "competitive advantage",
+      "ipa": "/kəmˈpetətɪv ədˈvɑːntɪdʒ/",
+      "pos": "n",
+      "vi": "lợi thế cạnh tranh",
+      "example_en": "Their skilled workforce gives the firm a lasting competitive advantage over larger corporations.",
+      "example_vi": "Lực lượng lao động lành nghề mang lại cho công ty một lợi thế cạnh tranh bền vững so với các tập đoàn lớn hơn.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "benchmarking",
+      "ipa": "/ˈbentʃmɑːkɪŋ/",
+      "pos": "n",
+      "vi": "so sánh chuẩn (đo điểm chuẩn)",
+      "example_en": "Through benchmarking against industry leaders, the team identified where their processes were falling behind.",
+      "example_vi": "Thông qua việc so sánh chuẩn với các doanh nghiệp dẫn đầu ngành, nhóm đã xác định được nơi quy trình của họ đang tụt hậu.",
+      "emoji": "📏"
+    },
+    {
+      "word": "value proposition",
+      "ipa": "/ˈvæljuː ˌprɒpəˈzɪʃn/",
+      "pos": "n",
+      "vi": "đề xuất giá trị",
+      "example_en": "A clear value proposition explains why customers should choose your product over a competitor's.",
+      "example_vi": "Một đề xuất giá trị rõ ràng giải thích vì sao khách hàng nên chọn sản phẩm của bạn thay vì của đối thủ.",
+      "emoji": "💎"
+    },
+    {
+      "word": "barriers to entry",
+      "ipa": "/ˈbæriəz tə ˈentri/",
+      "pos": "phr (n)",
+      "vi": "rào cản gia nhập",
+      "example_en": "High capital costs create significant barriers to entry that keep smaller start-ups out of the market.",
+      "example_vi": "Chi phí vốn cao tạo ra những rào cản gia nhập đáng kể, khiến các start-up nhỏ không thể tham gia thị trường.",
+      "emoji": "🚧"
+    },
+    {
+      "word": "economies of scale",
+      "ipa": "/ɪˌkɒnəmiz əv ˈskeɪl/",
+      "pos": "n",
+      "vi": "lợi thế kinh tế theo quy mô",
+      "example_en": "By producing millions of units, the manufacturer benefits from economies of scale and lower unit costs.",
+      "example_vi": "Bằng cách sản xuất hàng triệu đơn vị, nhà sản xuất được hưởng lợi thế kinh tế theo quy mô và chi phí trên mỗi đơn vị thấp hơn.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "market segmentation",
+      "ipa": "/ˈmɑːkɪt ˌseɡmenˈteɪʃn/",
+      "pos": "n",
+      "vi": "phân khúc thị trường",
+      "example_en": "Careful market segmentation allowed the brand to tailor its message to each group of buyers.",
+      "example_vi": "Việc phân khúc thị trường kỹ lưỡng đã cho phép thương hiệu điều chỉnh thông điệp cho từng nhóm người mua.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "core competency",
+      "ipa": "/kɔː ˈkɒmpɪtənsi/",
+      "pos": "n",
+      "vi": "năng lực cốt lõi",
+      "example_en": "The company decided to outsource logistics and focus on its core competency in software design.",
+      "example_vi": "Công ty quyết định thuê ngoài khâu hậu cần và tập trung vào năng lực cốt lõi của mình là thiết kế phần mềm.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "differentiation",
+      "ipa": "/ˌdɪfərenʃiˈeɪʃn/",
+      "pos": "n",
+      "vi": "sự khác biệt hóa",
+      "example_en": "In a crowded market, product differentiation is essential if you want customers to notice you.",
+      "example_vi": "Trong một thị trường đông đúc, sự khác biệt hóa sản phẩm là điều thiết yếu nếu bạn muốn khách hàng chú ý đến mình.",
+      "emoji": "✨"
+    },
+    {
+      "word": "disruptive innovation",
+      "ipa": "/dɪsˈrʌptɪv ˌɪnəˈveɪʃn/",
+      "pos": "n",
+      "vi": "đổi mới đột phá",
+      "example_en": "Streaming services were a disruptive innovation that transformed how people consume films and music.",
+      "example_vi": "Các dịch vụ phát trực tuyến là một đổi mới đột phá đã thay đổi cách mọi người thưởng thức phim ảnh và âm nhạc.",
+      "emoji": "💥"
+    },
+    {
+      "word": "first-mover advantage",
+      "ipa": "/ˌfɜːst ˈmuːvər ədˈvɑːntɪdʒ/",
+      "pos": "n",
+      "vi": "lợi thế người đi đầu",
+      "example_en": "By entering the market early, the company secured a first-mover advantage that competitors struggled to erode.",
+      "example_vi": "Bằng cách gia nhập thị trường sớm, công ty đã có được lợi thế người đi đầu mà các đối thủ khó lòng xói mòn.",
+      "emoji": "🥇"
+    },
+    {
+      "word": "market penetration",
+      "ipa": "/ˈmɑːkɪt ˌpenɪˈtreɪʃn/",
+      "pos": "n",
+      "vi": "thâm nhập thị trường",
+      "example_en": "Aggressive pricing helped the brand achieve rapid market penetration in Southeast Asia.",
+      "example_vi": "Chiến lược định giá quyết liệt đã giúp thương hiệu thâm nhập thị trường nhanh chóng ở Đông Nam Á.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "SWOT analysis",
+      "ipa": "/ˌswɒt əˈnæləsɪs/",
+      "pos": "n",
+      "vi": "phân tích SWOT",
+      "example_en": "Before drafting the strategy, the managers carried out a SWOT analysis to map their strengths and threats.",
+      "example_vi": "Trước khi phác thảo chiến lược, các nhà quản lý đã tiến hành phân tích SWOT để xác định điểm mạnh và các mối đe dọa.",
+      "emoji": "🔲"
+    },
+    {
+      "word": "positioning",
+      "ipa": "/pəˈzɪʃənɪŋ/",
+      "pos": "n",
+      "vi": "định vị (thương hiệu)",
+      "example_en": "The brand's premium positioning justifies its higher prices in the eyes of loyal customers.",
+      "example_vi": "Việc định vị cao cấp của thương hiệu giúp biện minh cho mức giá cao hơn trong mắt khách hàng trung thành.",
+      "emoji": "📍"
+    },
+    {
+      "word": "supply and demand",
+      "ipa": "/səˌplaɪ ənd dɪˈmɑːnd/",
+      "pos": "phr (n)",
+      "vi": "cung và cầu",
+      "example_en": "When supply and demand are out of balance, prices tend to rise or fall sharply.",
+      "example_vi": "Khi cung và cầu mất cân bằng, giá cả thường tăng hoặc giảm mạnh.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "niche market",
+      "ipa": "/ˌniːʃ ˈmɑːkɪt/",
+      "pos": "n",
+      "vi": "thị trường ngách",
+      "example_en": "Rather than competing with giants, the founders targeted a profitable niche market for handmade goods.",
+      "example_vi": "Thay vì cạnh tranh với các ông lớn, những người sáng lập đã nhắm đến một thị trường ngách sinh lời cho hàng thủ công.",
+      "emoji": "🎣"
+    },
+    {
+      "word": "saturation",
+      "ipa": "/ˌsætʃəˈreɪʃn/",
+      "pos": "n",
+      "vi": "sự bão hòa (thị trường)",
+      "example_en": "Market saturation meant there was little room left for new smartphone brands to grow.",
+      "example_vi": "Sự bão hòa thị trường đồng nghĩa với việc còn rất ít dư địa cho các thương hiệu điện thoại mới phát triển.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "forecasting",
+      "ipa": "/ˈfɔːkɑːstɪŋ/",
+      "pos": "n",
+      "vi": "dự báo",
+      "example_en": "Accurate sales forecasting helps the company manage its inventory and avoid costly shortages.",
+      "example_vi": "Việc dự báo doanh số chính xác giúp công ty quản lý hàng tồn kho và tránh tình trạng thiếu hụt tốn kém.",
+      "emoji": "🔮"
+    },
+    {
+      "word": "commodity",
+      "ipa": "/kəˈmɒdəti/",
+      "pos": "n",
+      "vi": "hàng hóa (cơ bản)",
+      "example_en": "When a product becomes a commodity, competition shifts almost entirely to price.",
+      "example_vi": "Khi một sản phẩm trở thành hàng hóa cơ bản, sự cạnh tranh gần như chuyển hoàn toàn sang giá cả.",
+      "emoji": "🛢️"
+    },
+    {
+      "word": "market trend",
+      "ipa": "/ˈmɑːkɪt trend/",
+      "pos": "n",
+      "vi": "xu hướng thị trường",
+      "example_en": "Analysts study emerging market trends to predict which sectors will grow next year.",
+      "example_vi": "Các nhà phân tích nghiên cứu những xu hướng thị trường mới nổi để dự đoán lĩnh vực nào sẽ tăng trưởng vào năm tới.",
+      "emoji": "📈"
+    }
+  ]
+}

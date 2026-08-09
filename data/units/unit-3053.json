@@ -1,0 +1,195 @@
+{
+  "id": 3053,
+  "slug": "awl-3",
+  "title_en": "Process & Change",
+  "title_vi": "Quá trình & thay đổi",
+  "emoji": "🔄",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "awl",
+  "groupEn": "Academic Word List",
+  "group": "Từ học thuật (AWL)",
+  "groupEmoji": "📚",
+  "words": [
+    {
+      "word": "process",
+      "ipa": "/ˈprəʊses/",
+      "pos": "n",
+      "vi": "quá trình",
+      "example_en": "Scientists carefully documented each step of the biological process.",
+      "example_vi": "Các nhà khoa học ghi chép cẩn thận từng bước của quá trình sinh học.",
+      "emoji": "⚙️"
+    },
+    {
+      "word": "develop",
+      "ipa": "/dɪˈveləp/",
+      "pos": "v",
+      "vi": "phát triển, hình thành",
+      "example_en": "Researchers hope to develop a more effective treatment within a decade.",
+      "example_vi": "Các nhà nghiên cứu hy vọng phát triển một phương pháp điều trị hiệu quả hơn trong một thập kỷ.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "evolve",
+      "ipa": "/ɪˈvɒlv/",
+      "pos": "v",
+      "vi": "tiến hóa, phát triển dần",
+      "example_en": "Language tends to evolve gradually as societies change over time.",
+      "example_vi": "Ngôn ngữ có xu hướng tiến hóa dần khi xã hội thay đổi theo thời gian.",
+      "emoji": "🧬"
+    },
+    {
+      "word": "transform",
+      "ipa": "/trænsˈfɔːm/",
+      "pos": "v",
+      "vi": "biến đổi, chuyển hóa",
+      "example_en": "Digital technology has transformed the way we access information.",
+      "example_vi": "Công nghệ số đã biến đổi cách chúng ta tiếp cận thông tin.",
+      "emoji": "🦋"
+    },
+    {
+      "word": "transition",
+      "ipa": "/trænˈzɪʃn/",
+      "pos": "n",
+      "vi": "sự chuyển tiếp, giai đoạn chuyển đổi",
+      "example_en": "The country's transition to renewable energy will take many years.",
+      "example_vi": "Sự chuyển đổi của quốc gia sang năng lượng tái tạo sẽ mất nhiều năm.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "modify",
+      "ipa": "/ˈmɒdɪfaɪ/",
+      "pos": "v",
+      "vi": "điều chỉnh, sửa đổi",
+      "example_en": "The team modified their approach after analysing the initial results.",
+      "example_vi": "Nhóm nghiên cứu đã điều chỉnh phương pháp sau khi phân tích kết quả ban đầu.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "adapt",
+      "ipa": "/əˈdæpt/",
+      "pos": "v",
+      "vi": "thích nghi, điều chỉnh cho phù hợp",
+      "example_en": "Organisms must adapt to survive in a changing environment.",
+      "example_vi": "Các sinh vật phải thích nghi để tồn tại trong một môi trường thay đổi.",
+      "emoji": "🦎"
+    },
+    {
+      "word": "gradual",
+      "ipa": "/ˈɡrædʒuəl/",
+      "pos": "adj",
+      "vi": "dần dần, từ từ",
+      "example_en": "The data revealed a gradual rise in global temperatures.",
+      "example_vi": "Dữ liệu cho thấy sự gia tăng dần dần của nhiệt độ toàn cầu.",
+      "emoji": "📈"
+    },
+    {
+      "word": "shift",
+      "ipa": "/ʃɪft/",
+      "pos": "n",
+      "vi": "sự thay đổi, chuyển dịch",
+      "example_en": "There has been a noticeable shift in public attitudes towards recycling.",
+      "example_vi": "Đã có một sự chuyển dịch rõ rệt trong thái độ của công chúng đối với việc tái chế.",
+      "emoji": "↔️"
+    },
+    {
+      "word": "emerge",
+      "ipa": "/ɪˈmɜːdʒ/",
+      "pos": "v",
+      "vi": "xuất hiện, nổi lên",
+      "example_en": "New patterns began to emerge as the experiment progressed.",
+      "example_vi": "Những quy luật mới bắt đầu xuất hiện khi thí nghiệm tiến triển.",
+      "emoji": "🌅"
+    },
+    {
+      "word": "progress",
+      "ipa": "/ˈprəʊɡres/",
+      "pos": "n",
+      "vi": "sự tiến bộ, tiến triển",
+      "example_en": "Significant progress has been made in cancer research recently.",
+      "example_vi": "Những tiến bộ đáng kể đã đạt được trong nghiên cứu ung thư gần đây.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "phase",
+      "ipa": "/feɪz/",
+      "pos": "n",
+      "vi": "giai đoạn, pha",
+      "example_en": "The project entered its final phase after three years of work.",
+      "example_vi": "Dự án bước vào giai đoạn cuối sau ba năm thực hiện.",
+      "emoji": "🌗"
+    },
+    {
+      "word": "stage",
+      "ipa": "/steɪdʒ/",
+      "pos": "n",
+      "vi": "giai đoạn, bước",
+      "example_en": "At an early stage, the disease often shows no clear symptoms.",
+      "example_vi": "Ở giai đoạn đầu, căn bệnh thường không biểu hiện triệu chứng rõ ràng.",
+      "emoji": "🪜"
+    },
+    {
+      "word": "undergo",
+      "ipa": "/ˌʌndəˈɡəʊ/",
+      "pos": "v",
+      "vi": "trải qua, chịu (sự thay đổi)",
+      "example_en": "The samples undergo several tests before the results are confirmed.",
+      "example_vi": "Các mẫu vật trải qua nhiều thử nghiệm trước khi kết quả được xác nhận.",
+      "emoji": "🔬"
+    },
+    {
+      "word": "fluctuate",
+      "ipa": "/ˈflʌktʃueɪt/",
+      "pos": "v",
+      "vi": "dao động, biến động",
+      "example_en": "Prices tend to fluctuate depending on supply and demand.",
+      "example_vi": "Giá cả có xu hướng dao động tùy thuộc vào cung và cầu.",
+      "emoji": "📉"
+    },
+    {
+      "word": "accelerate",
+      "ipa": "/əkˈseləreɪt/",
+      "pos": "v",
+      "vi": "tăng tốc, đẩy nhanh",
+      "example_en": "Rising temperatures could accelerate the melting of polar ice.",
+      "example_vi": "Nhiệt độ tăng có thể đẩy nhanh quá trình tan chảy của băng ở hai cực.",
+      "emoji": "⏩"
+    },
+    {
+      "word": "decline",
+      "ipa": "/dɪˈklaɪn/",
+      "pos": "v",
+      "vi": "suy giảm, giảm sút",
+      "example_en": "Bird populations have declined sharply over the past century.",
+      "example_vi": "Số lượng chim đã suy giảm mạnh trong thế kỷ qua.",
+      "emoji": "📉"
+    },
+    {
+      "word": "stabilise",
+      "ipa": "/ˈsteɪbəlaɪz/",
+      "pos": "v",
+      "vi": "ổn định, làm ổn định",
+      "example_en": "The economy began to stabilise after the government intervened.",
+      "example_vi": "Nền kinh tế bắt đầu ổn định sau khi chính phủ can thiệp.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "convert",
+      "ipa": "/kənˈvɜːt/",
+      "pos": "v",
+      "vi": "chuyển đổi, biến đổi thành",
+      "example_en": "Plants convert sunlight into energy through photosynthesis.",
+      "example_vi": "Thực vật chuyển đổi ánh sáng mặt trời thành năng lượng thông qua quang hợp.",
+      "emoji": "🔋"
+    },
+    {
+      "word": "mechanism",
+      "ipa": "/ˈmekənɪzəm/",
+      "pos": "n",
+      "vi": "cơ chế",
+      "example_en": "Scientists are still investigating the mechanism behind the reaction.",
+      "example_vi": "Các nhà khoa học vẫn đang tìm hiểu cơ chế đằng sau phản ứng này.",
+      "emoji": "🔩"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": 102,
+  "slug": "abc-pronouns",
+  "title_en": "Pronouns",
+  "title_vi": "Đại từ",
+  "emoji": "🙋",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "I",
+      "ipa": "/aɪ/",
+      "pos": "pron",
+      "vi": "tôi",
+      "example_en": "I am happy.",
+      "example_vi": "Tôi vui.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "you",
+      "ipa": "/juː/",
+      "pos": "pron",
+      "vi": "bạn",
+      "example_en": "You are my friend.",
+      "example_vi": "Bạn là bạn của tôi.",
+      "emoji": "👉"
+    },
+    {
+      "word": "he",
+      "ipa": "/hiː/",
+      "pos": "pron",
+      "vi": "anh ấy",
+      "example_en": "He is tall.",
+      "example_vi": "Anh ấy cao.",
+      "emoji": "👦"
+    },
+    {
+      "word": "she",
+      "ipa": "/ʃiː/",
+      "pos": "pron",
+      "vi": "cô ấy",
+      "example_en": "She is my mum.",
+      "example_vi": "Cô ấy là mẹ tôi.",
+      "emoji": "👧"
+    },
+    {
+      "word": "it",
+      "ipa": "/ɪt/",
+      "pos": "pron",
+      "vi": "nó",
+      "example_en": "It is a cat.",
+      "example_vi": "Nó là một con mèo.",
+      "emoji": "🐱"
+    },
+    {
+      "word": "we",
+      "ipa": "/wiː/",
+      "pos": "pron",
+      "vi": "chúng tôi",
+      "example_en": "We are here.",
+      "example_vi": "Chúng tôi ở đây.",
+      "emoji": "👫"
+    },
+    {
+      "word": "they",
+      "ipa": "/ðeɪ/",
+      "pos": "pron",
+      "vi": "họ",
+      "example_en": "They are happy.",
+      "example_vi": "Họ vui.",
+      "emoji": "👥"
+    },
+    {
+      "word": "me",
+      "ipa": "/miː/",
+      "pos": "pron",
+      "vi": "tôi (tân ngữ)",
+      "example_en": "Look at me.",
+      "example_vi": "Nhìn tôi này.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "him",
+      "ipa": "/hɪm/",
+      "pos": "pron",
+      "vi": "anh ấy (tân ngữ)",
+      "example_en": "I see him.",
+      "example_vi": "Tôi thấy anh ấy.",
+      "emoji": "👦"
+    },
+    {
+      "word": "her",
+      "ipa": "/hɜː/",
+      "pos": "pron",
+      "vi": "cô ấy (tân ngữ)",
+      "example_en": "I love her.",
+      "example_vi": "Tôi yêu cô ấy.",
+      "emoji": "👩"
+    },
+    {
+      "word": "us",
+      "ipa": "/ʌs/",
+      "pos": "pron",
+      "vi": "chúng tôi (tân ngữ)",
+      "example_en": "Come with us.",
+      "example_vi": "Đi với chúng tôi.",
+      "emoji": "👫"
+    },
+    {
+      "word": "them",
+      "ipa": "/ðem/",
+      "pos": "pron",
+      "vi": "họ (tân ngữ)",
+      "example_en": "I know them.",
+      "example_vi": "Tôi biết họ.",
+      "emoji": "👥"
+    },
+    {
+      "word": "my",
+      "ipa": "/maɪ/",
+      "pos": "det",
+      "vi": "của tôi",
+      "example_en": "This is my book.",
+      "example_vi": "Đây là sách của tôi.",
+      "emoji": "📖"
+    },
+    {
+      "word": "your",
+      "ipa": "/jɔː/",
+      "pos": "det",
+      "vi": "của bạn",
+      "example_en": "Your bag is big.",
+      "example_vi": "Túi của bạn to.",
+      "emoji": "🎒"
+    },
+    {
+      "word": "his",
+      "ipa": "/hɪz/",
+      "pos": "det",
+      "vi": "của anh ấy",
+      "example_en": "His car is red.",
+      "example_vi": "Xe của anh ấy màu đỏ.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "its",
+      "ipa": "/ɪts/",
+      "pos": "det",
+      "vi": "của nó",
+      "example_en": "The dog eats its food.",
+      "example_vi": "Con chó ăn thức ăn của nó.",
+      "emoji": "🐕"
+    },
+    {
+      "word": "our",
+      "ipa": "/ˈaʊə/",
+      "pos": "det",
+      "vi": "của chúng tôi",
+      "example_en": "Our house is small.",
+      "example_vi": "Nhà của chúng tôi nhỏ.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "their",
+      "ipa": "/ðeə/",
+      "pos": "det",
+      "vi": "của họ",
+      "example_en": "Their dog is big.",
+      "example_vi": "Con chó của họ to.",
+      "emoji": "🐶"
+    },
+    {
+      "word": "mine",
+      "ipa": "/maɪn/",
+      "pos": "pron",
+      "vi": "cái của tôi",
+      "example_en": "This book is mine.",
+      "example_vi": "Cuốn sách này là của tôi.",
+      "emoji": "✋"
+    },
+    {
+      "word": "yours",
+      "ipa": "/jɔːz/",
+      "pos": "pron",
+      "vi": "cái của bạn",
+      "example_en": "This pen is yours.",
+      "example_vi": "Cây bút này là của bạn.",
+      "emoji": "🖊️"
+    },
+    {
+      "word": "this",
+      "ipa": "/ðɪs/",
+      "pos": "pron",
+      "vi": "cái này",
+      "example_en": "This is my dog.",
+      "example_vi": "Đây là con chó của tôi.",
+      "emoji": "👇"
+    },
+    {
+      "word": "that",
+      "ipa": "/ðæt/",
+      "pos": "pron",
+      "vi": "cái kia, cái đó",
+      "example_en": "That is your car.",
+      "example_vi": "Kia là xe của bạn.",
+      "emoji": "👉"
+    },
+    {
+      "word": "these",
+      "ipa": "/ðiːz/",
+      "pos": "pron",
+      "vi": "những cái này",
+      "example_en": "These are my books.",
+      "example_vi": "Đây là những cuốn sách của tôi.",
+      "emoji": "👇"
+    },
+    {
+      "word": "those",
+      "ipa": "/ðəʊz/",
+      "pos": "pron",
+      "vi": "những cái kia, những cái đó",
+      "example_en": "Those are big dogs.",
+      "example_vi": "Kia là những con chó to.",
+      "emoji": "👉"
+    }
+  ]
+}

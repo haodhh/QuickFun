@@ -1,0 +1,195 @@
+{
+  "id": 3028,
+  "slug": "toeic-8",
+  "title_en": "Business Travel",
+  "title_vi": "Công tác & du lịch công vụ",
+  "emoji": "✈️",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "business trip",
+      "ipa": "/ˈbɪznəs trɪp/",
+      "pos": "n",
+      "vi": "chuyến công tác",
+      "example_en": "My manager is going on a business trip to Singapore next week.",
+      "example_vi": "Sếp của tôi sẽ đi công tác ở Singapore vào tuần tới.",
+      "emoji": "💼"
+    },
+    {
+      "word": "flight booking",
+      "ipa": "/flaɪt ˈbʊkɪŋ/",
+      "pos": "n",
+      "vi": "việc đặt vé máy bay",
+      "example_en": "The assistant handled the flight booking for the whole team.",
+      "example_vi": "Trợ lý đã lo việc đặt vé máy bay cho cả nhóm.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "boarding pass",
+      "ipa": "/ˈbɔːdɪŋ pɑːs/",
+      "pos": "n",
+      "vi": "thẻ lên máy bay",
+      "example_en": "You can save your boarding pass on your phone.",
+      "example_vi": "Bạn có thể lưu thẻ lên máy bay trên điện thoại.",
+      "emoji": "🎫"
+    },
+    {
+      "word": "itinerary",
+      "ipa": "/aɪˈtɪnərəri/",
+      "pos": "n",
+      "vi": "lịch trình",
+      "example_en": "The travel agency emailed us a detailed itinerary for the trip.",
+      "example_vi": "Công ty du lịch đã gửi email cho chúng tôi lịch trình chi tiết cho chuyến đi.",
+      "emoji": "🗺️"
+    },
+    {
+      "word": "accommodation",
+      "ipa": "/əˌkɒməˈdeɪʃn/",
+      "pos": "n",
+      "vi": "chỗ ở",
+      "example_en": "The company pays for our accommodation during business trips.",
+      "example_vi": "Công ty chi trả chỗ ở cho chúng tôi trong các chuyến công tác.",
+      "emoji": "🏨"
+    },
+    {
+      "word": "check-in",
+      "ipa": "/ˈtʃek ɪn/",
+      "pos": "n",
+      "vi": "làm thủ tục nhận phòng",
+      "example_en": "Hotel check-in usually starts at two in the afternoon.",
+      "example_vi": "Thủ tục nhận phòng khách sạn thường bắt đầu lúc hai giờ chiều.",
+      "emoji": "✅"
+    },
+    {
+      "word": "per diem",
+      "ipa": "/pɜː ˈdiːem/",
+      "pos": "n",
+      "vi": "phụ cấp công tác hằng ngày",
+      "example_en": "Employees receive a per diem to cover meals while travelling.",
+      "example_vi": "Nhân viên nhận phụ cấp hằng ngày để trang trải bữa ăn khi đi công tác.",
+      "emoji": "💵"
+    },
+    {
+      "word": "hotel reservation",
+      "ipa": "/həʊˈtel ˌrezəˈveɪʃn/",
+      "pos": "n",
+      "vi": "việc đặt phòng khách sạn",
+      "example_en": "I made a hotel reservation for three nights near the office.",
+      "example_vi": "Tôi đã đặt phòng khách sạn ba đêm gần văn phòng.",
+      "emoji": "🛎️"
+    },
+    {
+      "word": "visa",
+      "ipa": "/ˈviːzə/",
+      "pos": "n",
+      "vi": "thị thực",
+      "example_en": "You should apply for a business visa well before your trip.",
+      "example_vi": "Bạn nên xin thị thực công tác từ rất sớm trước chuyến đi.",
+      "emoji": "📄"
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpɑːspɔːt/",
+      "pos": "n",
+      "vi": "hộ chiếu",
+      "example_en": "Please check that your passport is still valid before flying.",
+      "example_vi": "Hãy kiểm tra hộ chiếu của bạn còn hiệu lực trước khi bay.",
+      "emoji": "🛂"
+    },
+    {
+      "word": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "pos": "n",
+      "vi": "hành lý",
+      "example_en": "I always pack my luggage light for short business trips.",
+      "example_vi": "Tôi luôn xếp hành lý gọn nhẹ cho các chuyến công tác ngắn.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "departure",
+      "ipa": "/dɪˈpɑːtʃə/",
+      "pos": "n",
+      "vi": "sự khởi hành",
+      "example_en": "Please arrive at the airport two hours before departure.",
+      "example_vi": "Vui lòng đến sân bay hai giờ trước khi khởi hành.",
+      "emoji": "🛫"
+    },
+    {
+      "word": "arrival",
+      "ipa": "/əˈraɪvl/",
+      "pos": "n",
+      "vi": "sự đến nơi",
+      "example_en": "A driver will meet you at arrival and take you to the hotel.",
+      "example_vi": "Một tài xế sẽ đón bạn khi đến nơi và đưa bạn về khách sạn.",
+      "emoji": "🛬"
+    },
+    {
+      "word": "trade fair",
+      "ipa": "/ˈtreɪd feə/",
+      "pos": "n",
+      "vi": "hội chợ thương mại",
+      "example_en": "Our company will present new products at the trade fair in Berlin.",
+      "example_vi": "Công ty chúng tôi sẽ giới thiệu sản phẩm mới tại hội chợ thương mại ở Berlin.",
+      "emoji": "🏬"
+    },
+    {
+      "word": "car rental",
+      "ipa": "/kɑː ˈrentl/",
+      "pos": "n",
+      "vi": "dịch vụ thuê xe",
+      "example_en": "We booked a car rental so we could drive to the meeting.",
+      "example_vi": "Chúng tôi đã đặt dịch vụ thuê xe để có thể lái đến cuộc họp.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "jet lag",
+      "ipa": "/ˈdʒet læɡ/",
+      "pos": "n",
+      "vi": "mệt mỏi do lệch múi giờ",
+      "example_en": "After the long flight, she suffered from jet lag for two days.",
+      "example_vi": "Sau chuyến bay dài, cô ấy bị mệt mỏi do lệch múi giờ suốt hai ngày.",
+      "emoji": "😴"
+    },
+    {
+      "word": "layover",
+      "ipa": "/ˈleɪəʊvə/",
+      "pos": "n",
+      "vi": "thời gian chờ nối chuyến",
+      "example_en": "We had a three-hour layover in Dubai on the way to Rome.",
+      "example_vi": "Chúng tôi có ba giờ chờ nối chuyến ở Dubai trên đường đến Rome.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "round trip",
+      "ipa": "/ˌraʊnd ˈtrɪp/",
+      "pos": "n",
+      "vi": "chuyến khứ hồi",
+      "example_en": "A round trip ticket is often cheaper than two one-way tickets.",
+      "example_vi": "Vé khứ hồi thường rẻ hơn hai vé một chiều.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "travel agency",
+      "ipa": "/ˈtrævl ˌeɪdʒənsi/",
+      "pos": "n",
+      "vi": "công ty du lịch",
+      "example_en": "The travel agency arranged everything from flights to hotels.",
+      "example_vi": "Công ty du lịch đã sắp xếp mọi thứ từ chuyến bay đến khách sạn.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "shuttle bus",
+      "ipa": "/ˈʃʌtl bʌs/",
+      "pos": "n",
+      "vi": "xe buýt đưa đón",
+      "example_en": "A free shuttle bus runs between the airport and the hotel.",
+      "example_vi": "Có xe buýt đưa đón miễn phí chạy giữa sân bay và khách sạn.",
+      "emoji": "🚌"
+    }
+  ]
+}

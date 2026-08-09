@@ -1,0 +1,227 @@
+{
+  "id": 110,
+  "slug": "abc-survival",
+  "title_en": "Survival Phrases",
+  "title_vi": "Câu giao tiếp sinh tồn",
+  "emoji": "💬",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "Hello!",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Xin chào!",
+      "example_en": "A: Hello! B: Hello! Nice day, right?",
+      "example_vi": "A: Xin chào! B: Xin chào! Hôm nay đẹp trời nhỉ?",
+      "emoji": "👋"
+    },
+    {
+      "word": "Good morning.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Chào buổi sáng.",
+      "example_en": "A: Good morning. B: Good morning! Did you sleep well?",
+      "example_vi": "A: Chào buổi sáng. B: Chào buổi sáng! Bạn ngủ ngon chứ?",
+      "emoji": "🌅"
+    },
+    {
+      "word": "Good night.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Chúc ngủ ngon.",
+      "example_en": "A: I'm tired. Good night. B: Good night!",
+      "example_vi": "A: Mình mệt rồi. Chúc ngủ ngon. B: Ngủ ngon nhé!",
+      "emoji": "🌙"
+    },
+    {
+      "word": "How are you?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Bạn khỏe không?",
+      "example_en": "A: How are you? B: I'm good, thanks!",
+      "example_vi": "A: Bạn khỏe không? B: Mình khỏe, cảm ơn!",
+      "emoji": "😊"
+    },
+    {
+      "word": "I'm fine, thank you.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Mình khỏe, cảm ơn bạn.",
+      "example_en": "A: How are you? B: I'm fine, thank you.",
+      "example_vi": "A: Bạn khỏe không? B: Mình khỏe, cảm ơn bạn.",
+      "emoji": "🙂"
+    },
+    {
+      "word": "Nice to meet you.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Rất vui được gặp bạn.",
+      "example_en": "A: I'm Lan. B: Nice to meet you, Lan!",
+      "example_vi": "A: Mình là Lan. B: Rất vui được gặp bạn, Lan!",
+      "emoji": "🤝"
+    },
+    {
+      "word": "What's your name?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Bạn tên là gì?",
+      "example_en": "A: What's your name? B: My name is Nam.",
+      "example_vi": "A: Bạn tên là gì? B: Mình tên là Nam.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "My name is...",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Tên mình là...",
+      "example_en": "A: Hi! My name is Mai. B: Hi Mai!",
+      "example_vi": "A: Chào! Tên mình là Mai. B: Chào Mai!",
+      "emoji": "📛"
+    },
+    {
+      "word": "Where are you from?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Bạn đến từ đâu?",
+      "example_en": "A: Where are you from? B: I'm from Vietnam.",
+      "example_vi": "A: Bạn đến từ đâu? B: Mình đến từ Việt Nam.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "How old are you?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Bạn bao nhiêu tuổi?",
+      "example_en": "A: How old are you? B: I'm ten years old.",
+      "example_vi": "A: Bạn bao nhiêu tuổi? B: Mình mười tuổi.",
+      "emoji": "🎂"
+    },
+    {
+      "word": "Excuse me.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Xin lỗi (để gọi/nhờ).",
+      "example_en": "A: Excuse me. Is this seat free? B: Yes, it is.",
+      "example_vi": "A: Xin lỗi. Ghế này trống chứ? B: Vâng, trống ạ.",
+      "emoji": "🙇"
+    },
+    {
+      "word": "I'm sorry.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Mình xin lỗi.",
+      "example_en": "A: You are late. B: I'm sorry.",
+      "example_vi": "A: Bạn đến muộn rồi. B: Mình xin lỗi.",
+      "emoji": "😔"
+    },
+    {
+      "word": "Thank you very much.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Cảm ơn bạn rất nhiều.",
+      "example_en": "A: Here is your gift. B: Thank you very much!",
+      "example_vi": "A: Quà cho bạn đây. B: Cảm ơn bạn rất nhiều!",
+      "emoji": "🙏"
+    },
+    {
+      "word": "You're welcome.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Không có gì.",
+      "example_en": "A: Thank you! B: You're welcome.",
+      "example_vi": "A: Cảm ơn bạn! B: Không có gì.",
+      "emoji": "😌"
+    },
+    {
+      "word": "How much is it?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Cái này bao nhiêu tiền?",
+      "example_en": "A: How much is it? B: It is two dollars.",
+      "example_vi": "A: Cái này bao nhiêu tiền? B: Hai đô la ạ.",
+      "emoji": "💰"
+    },
+    {
+      "word": "Can you help me?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Bạn giúp mình được không?",
+      "example_en": "A: Can you help me? B: Sure!",
+      "example_vi": "A: Bạn giúp mình được không? B: Được chứ!",
+      "emoji": "🆘"
+    },
+    {
+      "word": "I don't understand.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Mình không hiểu.",
+      "example_en": "A: Do you see? B: Sorry, I don't understand.",
+      "example_vi": "A: Bạn hiểu chứ? B: Xin lỗi, mình không hiểu.",
+      "emoji": "😕"
+    },
+    {
+      "word": "Please speak slowly.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Xin nói chậm thôi.",
+      "example_en": "A: Please speak slowly. B: OK, sorry!",
+      "example_vi": "A: Xin nói chậm thôi. B: Được, xin lỗi nhé!",
+      "emoji": "🐢"
+    },
+    {
+      "word": "Where is the toilet?",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Nhà vệ sinh ở đâu?",
+      "example_en": "A: Where is the toilet? B: It's over there.",
+      "example_vi": "A: Nhà vệ sinh ở đâu? B: Ở đằng kia.",
+      "emoji": "🚻"
+    },
+    {
+      "word": "See you later.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Hẹn gặp lại.",
+      "example_en": "A: I must go now. See you later! B: Bye!",
+      "example_vi": "A: Mình phải đi giờ. Hẹn gặp lại! B: Tạm biệt!",
+      "emoji": "👋"
+    },
+    {
+      "word": "I don't know.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Mình không biết.",
+      "example_en": "A: Where is Nam? B: I don't know.",
+      "example_vi": "A: Nam ở đâu? B: Mình không biết.",
+      "emoji": "🤷"
+    },
+    {
+      "word": "No problem.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Không sao đâu.",
+      "example_en": "A: I'm sorry! B: No problem.",
+      "example_vi": "A: Mình xin lỗi! B: Không sao đâu.",
+      "emoji": "👍"
+    },
+    {
+      "word": "Let's go.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Đi thôi.",
+      "example_en": "A: Are you ready? B: Yes. Let's go!",
+      "example_vi": "A: Bạn sẵn sàng chưa? B: Rồi. Đi thôi!",
+      "emoji": "🚶"
+    },
+    {
+      "word": "Just a moment.",
+      "ipa": "",
+      "pos": "cụm",
+      "vi": "Chờ một chút.",
+      "example_en": "A: Can we go now? B: Just a moment.",
+      "example_vi": "A: Mình đi được chưa? B: Chờ một chút.",
+      "emoji": "⏳"
+    }
+  ]
+}

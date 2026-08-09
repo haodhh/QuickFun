@@ -10,6 +10,9 @@
   var DATA = (window.VOCAB_DATA && window.VOCAB_DATA.units) ? window.VOCAB_DATA.units : [];
   DATA.sort(function (a, b) { return a.id - b.id; });
 
+  var GRAMMAR = (window.GRAMMAR_DATA && window.GRAMMAR_DATA.lessons) ? window.GRAMMAR_DATA.lessons : [];
+  GRAMMAR.sort(function (a, b) { return a.id - b.id; });
+
   var main = document.getElementById("main");
   var DAY = 86400000;
 
@@ -24,6 +27,12 @@
   var learned  = LS.get("qf_learned", {});   // "unitId::word" -> true
   var quizBest = LS.get("qf_quiz", {});       // unitId -> best %
   var testBest = LS.get("qf_test_best", 0);   // best % on comprehensive test
+  var gramDone = LS.get("qf_grammar_done", {}); // grammar lessonId -> true
+  var gramQuiz = LS.get("qf_grammar_quiz", {}); // grammar lessonId -> best %
+  var gramSrs = LS.get("qf_gram_srs", {});        // "lessonId::qIndex" -> {level,due,reps,lapses,isNew}
+  var gramSrsDaily = LS.get("qf_gram_srs_daily", { date: "", newToday: 0 });
+  var gramTestBest = LS.get("qf_gram_test_best", {}); // scope ("all"|"1"|"2"|"3") -> best %
+  if (typeof gramTestBest === "number") gramTestBest = gramTestBest ? { all: gramTestBest } : {};
   var srs      = LS.get("qf_srs", {});        // key -> {level,due,reps,lapses}
   var srsDaily = LS.get("qf_srs_daily", { date: "", newToday: 0 });
   // Pronunciation always uses the Google voice (site runs online on Pages);
@@ -83,7 +92,7 @@
   }
 
   /* --- Backup / restore / reset (progress lives only in this browser) --- */
-  var PROGRESS_KEYS = ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_theme", "qf_tts_lang", "qf_last", "qf_recent"];
+  var PROGRESS_KEYS = ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_theme", "qf_tts_lang", "qf_last", "qf_recent", "qf_grammar_done", "qf_grammar_quiz", "qf_gram_srs", "qf_gram_srs_daily", "qf_gram_test_best"];
   function exportProgress() {
     try {
       var dump = { app: "quickfun", version: 1, exportedAt: new Date().toISOString(), data: {} };
@@ -112,7 +121,7 @@
   }
   function resetProgress() {
     if (!window.confirm("Xóa toàn bộ tiến độ học (từ đã thuộc, lịch ôn, điểm)? Không thể hoàn tác.")) return;
-    ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_last", "qf_recent"].forEach(function (k) { localStorage.removeItem(k); });
+    ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_last", "qf_recent", "qf_grammar_done", "qf_grammar_quiz", "qf_gram_srs", "qf_gram_srs_daily", "qf_gram_test_best"].forEach(function (k) { localStorage.removeItem(k); });
     toast("Đã xóa tiến độ · đang tải lại…");
     setTimeout(function () { location.hash = "#/"; location.reload(); }, 700);
   }
@@ -205,26 +214,12 @@
    * ------------------------------------------------------------------ */
   function applyTheme(mode) {
     document.documentElement.setAttribute("data-theme", mode);
-    var btn = document.getElementById("btn-theme");
-    if (btn) btn.textContent = (mode === "dark") ? "☀️" : "🌙";
   }
-  (function initTheme() {
-    var saved = LS.get("qf_theme", "auto");
-    if (saved === "auto") {
-      applyTheme("auto");
-      var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
-      var b = document.getElementById("btn-theme"); if (b) b.textContent = prefersDark ? "☀️" : "🌙";
-    } else applyTheme(saved);
-  })();
-  document.getElementById("btn-theme").addEventListener("click", function () {
-    var cur = document.documentElement.getAttribute("data-theme"), next;
-    if (cur === "dark") next = "light";
-    else if (cur === "light") next = "dark";
-    else { var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches; next = prefersDark ? "light" : "dark"; }
-    applyTheme(next); LS.set("qf_theme", next);
-  });
+  applyTheme(LS.get("qf_theme", "auto"));
   document.getElementById("btn-search").addEventListener("click", function () { location.hash = "#/search"; });
-  document.getElementById("btn-settings").addEventListener("click", function () { location.hash = "#/settings"; });
+  document.getElementById("btn-settings").addEventListener("click", function () { openSettings(); });
+  document.getElementById("nav-vocab").addEventListener("click", function () { location.hash = "#/"; });
+  document.getElementById("nav-grammar").addEventListener("click", function () { location.hash = "#/grammar"; });
 
   /* ------------------------------------------------------------------ *
    * Progress ring
@@ -240,6 +235,28 @@
   /* ================================================================== *
    * HOME
    * ================================================================== */
+  function unitTier(u) { return u.tier || "theme"; }
+  function unitTag(u) {
+    if (!u.tier || u.tier === "theme") return "Unit " + u.id;
+    if (u.tier === "abc") return "ABC";
+    return u.level || u.tier; // specialized sets show their CEFR level
+  }
+  function groupCount(list) { var s = {}; list.forEach(function (u) { s[u.groupKey || u.group || "?"] = 1; }); return Object.keys(s).length; }
+  function unitCardHTML(u) {
+    var lc = unitLearnedCount(u), up = pct(lc, u.words.length);
+    return '<button class="unit-card" data-goto="' + u.id + '">' +
+      (u.tier === "special" ? "" : '<span class="u-no">' + esc(unitTag(u)) + '</span>') +
+      '<span class="u-emoji">' + (u.emoji || "📘") + '</span>' +
+      '<span class="u-title">' + esc(u.title_en) + '</span>' +
+      '<span class="u-sub">' + esc(u.title_vi) + '</span>' +
+      '<span class="u-meta">' + lc + '/' + u.words.length + ' từ · ' + up + '%</span>' +
+      '<span class="bar"><i style="width:' + up + '%"></i></span>' +
+    '</button>';
+  }
+  var VOCAB_TIERS = [
+    { key: "theme", chip: "📚 Chủ đề", title: "Bộ chủ đề (A1–B1)" },
+    { key: "special", chip: "🎯 Chuyên biệt", title: "Bộ chuyên biệt theo mục đích" }
+  ];
   function viewHome() {
     var tw = totalWords(), tl = totalLearned(), p = pct(tl, tw);
     var rq = reviewQueue();
@@ -249,7 +266,7 @@
     wrap.appendChild(el(
       '<section class="hero"><div class="hero-top"><div>' +
         '<h1>Xin chào 👋</h1>' +
-        '<p>Học nhanh 1000+ từ vựng tiếng Anh theo 20 chủ đề. Chọn chủ đề, hoặc ôn tập ngay bên dưới.</p>' +
+        '<p>Học từ vựng tiếng Anh theo <b>20 chủ đề</b> đời sống, cùng các <b>bộ chuyên biệt</b> (Du lịch, TOEIC, IELTS…). Chọn ở dưới hoặc ôn tập ngay.</p>' +
       '</div>' + ringHTML(p) + '</div>' +
       '<div class="hero-stats">' +
         '<div class="hero-stat"><b>' + tl + '</b><span>từ đã thuộc</span></div>' +
@@ -266,7 +283,7 @@
         '<button class="continue-card" data-cont>' +
           '<span class="cc-emoji">▶️</span>' +
           '<span class="cc-main"><small>Tiếp tục học</small>' +
-          '<b>Unit ' + lu.id + ': ' + esc(lu.title_en) + '</b>' +
+          '<b>' + unitTag(lu) + ': ' + esc(lu.title_en) + '</b>' +
           '<span class="cc-tab">' + (TAB_LABEL[last.tab] || "Học") + ' · ' + esc(lu.title_vi) + '</span></span>' +
           '<span class="cc-go">→</span>' +
         '</button>'
@@ -302,30 +319,66 @@
       '<button class="review-card test" data-go="test">' +
         '<span class="rc-emoji">🎯</span>' +
         '<span class="rc-title">Kiểm tra tổng hợp</span>' +
-        '<span class="rc-sub">' + (testBest ? ('Kỷ lục: ' + testBest + '%') : 'Đánh giá kiến thức cả 20 chủ đề') + '</span>' +
+        '<span class="rc-sub">' + (testBest ? ('Kỷ lục: ' + testBest + '%') : 'Đánh giá kiến thức trên tất cả chủ đề') + '</span>' +
       '</button>'
     ));
     wrap.appendChild(rc);
     rc.addEventListener("click", function (e) { var b = e.target.closest("[data-go]"); if (b) location.hash = "#/" + b.getAttribute("data-go"); });
 
-    // Units
-    wrap.appendChild(el('<div class="section-head"><h2>Chủ đề</h2><span class="muted">' + DATA.length + ' units</span></div>'));
-    var grid = el('<div class="unit-grid"></div>');
-    DATA.forEach(function (u) {
-      var lc = unitLearnedCount(u), up = pct(lc, u.words.length);
-      grid.appendChild(el(
-        '<button class="unit-card" data-goto="' + u.id + '">' +
-          '<span class="u-no">Unit ' + u.id + '</span>' +
-          '<span class="u-emoji">' + (u.emoji || "📘") + '</span>' +
-          '<span class="u-title">' + esc(u.title_en) + '</span>' +
-          '<span class="u-sub">' + esc(u.title_vi) + '</span>' +
-          '<span class="u-meta">' + lc + '/' + u.words.length + ' từ · ' + up + '%</span>' +
-          '<span class="bar"><i style="width:' + up + '%"></i></span>' +
-        '</button>'
-      ));
-    });
-    wrap.appendChild(grid);
-    grid.addEventListener("click", function (e) { var b = e.target.closest("[data-goto]"); if (b) location.hash = "#/u/" + b.getAttribute("data-goto"); });
+    // Units — split into tiers (Cấp 0 · ABC / Bộ chủ đề)
+    var byTier = {};
+    VOCAB_TIERS.forEach(function (t) { byTier[t.key] = DATA.filter(function (u) { return unitTier(u) === t.key; }); });
+    var vtier = LS.get("qf_vocab_tier", "theme");
+    if (!byTier[vtier] || !byTier[vtier].length) vtier = "theme";
+
+    var chips = el(
+      '<div class="mode-chips" role="tablist">' +
+        VOCAB_TIERS.filter(function (t) { return byTier[t.key].length; }).map(function (t) {
+          var cnt = t.key === "special" ? groupCount(byTier[t.key]) : byTier[t.key].length;
+          return '<button class="chip" role="tab" data-vtier="' + t.key + '">' + t.chip + ' (' + cnt + ')</button>';
+        }).join("") +
+      '</div>'
+    );
+    wrap.appendChild(chips);
+    var container = el('<div id="vtier-body"></div>');
+    wrap.appendChild(container);
+
+    function paintUnits(tk) {
+      var tier = VOCAB_TIERS.filter(function (t) { return t.key === tk; })[0] || VOCAB_TIERS[0];
+      var list = byTier[tk] || [];
+      var totalW = list.reduce(function (s, u) { return s + u.words.length; }, 0);
+      chips.querySelectorAll(".chip").forEach(function (b) { b.setAttribute("aria-selected", b.getAttribute("data-vtier") === tk ? "true" : "false"); });
+      container.innerHTML = "";
+      if (tk === "special") {
+        var groups = [], byKey = {};
+        list.forEach(function (u) {
+          var k = u.groupKey || u.group || "other";
+          if (!byKey[k]) { byKey[k] = { en: u.groupEn || "", vi: u.group || "", emoji: u.groupEmoji || "🎯", level: u.level || "", units: [] }; groups.push(byKey[k]); }
+          byKey[k].units.push(u);
+        });
+        container.appendChild(el('<div class="section-head"><h2>' + esc(tier.title) + '</h2><span class="muted">' + groups.length + ' nhóm · ' + list.length + ' chủ đề · ' + totalW + ' từ</span></div>'));
+        groups.forEach(function (g) {
+          var gdone = g.units.reduce(function (s, u) { return s + unitLearnedCount(u); }, 0);
+          var gtot = g.units.reduce(function (s, u) { return s + u.words.length; }, 0);
+          container.appendChild(el(
+            '<div class="group-head"><span class="gh-emoji">' + g.emoji + '</span>' +
+              '<span class="gh-main"><b>' + esc(g.en) + '</b><small>' + esc(g.vi) + ' · ' + gdone + '/' + gtot + ' từ</small></span>' +
+              '<span class="level-badge">' + esc(g.level) + '</span></div>'
+          ));
+          var gg = el('<div class="unit-grid"></div>');
+          g.units.forEach(function (u) { gg.appendChild(el(unitCardHTML(u))); });
+          container.appendChild(gg);
+        });
+      } else {
+        container.appendChild(el('<div class="section-head"><h2>' + esc(tier.title) + '</h2><span class="muted">' + list.length + ' chủ đề · ' + totalW + ' từ</span></div>'));
+        var gg = el('<div class="unit-grid"></div>');
+        list.forEach(function (u) { gg.appendChild(el(unitCardHTML(u))); });
+        container.appendChild(gg);
+      }
+    }
+    container.addEventListener("click", function (e) { var b = e.target.closest("[data-goto]"); if (b) location.hash = "#/u/" + b.getAttribute("data-goto"); });
+    chips.addEventListener("click", function (e) { var b = e.target.closest("[data-vtier]"); if (!b) return; vtier = b.getAttribute("data-vtier"); LS.set("qf_vocab_tier", vtier); paintUnits(vtier); });
+    paintUnits(vtier);
 
     render(wrap);
   }
@@ -344,8 +397,8 @@
     wrap.appendChild(el('<button class="crumb" data-home>← Tất cả chủ đề</button>'));
     wrap.appendChild(el(
       '<div class="unit-hero"><div class="big-emoji">' + (u.emoji || "📘") + '</div>' +
-      '<div><h1>Unit ' + u.id + ': ' + esc(u.title_en) + '</h1>' +
-      '<div class="sub">' + esc(u.title_vi) + ' · ' + u.words.length + ' từ' + (u.phrases && u.phrases.length ? ' · ' + u.phrases.length + ' cụm từ' : '') + '</div></div></div>'
+      '<div><h1>' + unitTag(u) + ': ' + esc(u.title_en) + '</h1>' +
+      '<div class="sub">' + (u.group ? esc(u.group) + ' · ' : '') + esc(u.title_vi) + ' · ' + u.words.length + ' từ' + (u.phrases && u.phrases.length ? ' · ' + u.phrases.length + ' cụm từ' : '') + '</div></div></div>'
     ));
     var tabs = el(
       '<div class="tabs" role="tablist">' +
@@ -402,13 +455,17 @@
           '<div class="word-card' + (done ? " done" : "") + '">' +
             '<div class="word-top"><div class="word-emoji">' + (w.emoji || "•") + '</div><div class="word-main">' +
               '<div class="word-headline"><span class="word-en">' + esc(w.word) + '</span>' +
-                '<span class="pos">' + esc(w.pos) + '</span><span class="word-ipa">' + esc(w.ipa) + '</span></div>' +
+                '<span class="pos">' + esc(w.pos) + '</span><span class="word-ipa">' + esc(w.ipa) + '</span>' +
+                '<button class="pill-btn speak-inline" data-speak-word title="Nghe phát âm từ" aria-label="Nghe phát âm từ">🔊</button></div>' +
               '<div class="word-vi">' + esc(w.vi) + '</div>' +
               (w.example_en ? '<div class="word-ex"><div class="en">' + esc(w.example_en) + '</div><div class="vi">' + esc(w.example_vi || "") + '</div></div>' : "") +
-              '<div class="word-actions"><button class="pill-btn toggle' + (done ? " on" : "") + '" data-toggle>' + (done ? "✓ Đã thuộc" : "Đánh dấu thuộc") + '</button>' + speakerHTML() + '</div>' +
+              '<div class="word-actions"><button class="pill-btn toggle' + (done ? " on" : "") + '" data-toggle>' + (done ? "✓ Đã thuộc" : "Đánh dấu thuộc") + '</button>' +
+                (w.example_en ? '<button class="pill-btn speak-btn" data-speak-ex title="Nghe câu ví dụ" aria-label="Nghe câu ví dụ">🔊 Câu</button>' : "") +
+              '</div>' +
             '</div></div></div>'
         );
-        card.querySelector("[data-speak]").addEventListener("click", function () { speak(w.word); });
+        card.querySelector("[data-speak-word]").addEventListener("click", function () { speak(w.word); });
+        var exBtn = card.querySelector("[data-speak-ex]"); if (exBtn) exBtn.addEventListener("click", function () { speak(w.example_en); });
         card.querySelector("[data-toggle]").addEventListener("click", function () {
           var nd = !isLearned(u.id, w.word); setLearned(u.id, w.word, nd);
           card.classList.toggle("done", nd);
@@ -889,7 +946,7 @@
         var row = el(
           '<button class="bd-row" data-u="' + r.u.id + '">' +
             '<span class="bd-emoji">' + (r.u.emoji || "📘") + '</span>' +
-            '<span class="bd-name">Unit ' + r.u.id + ' · ' + esc(r.u.title_en) + '</span>' +
+            '<span class="bd-name">' + unitTag(r.u) + ' · ' + esc(r.u.title_en) + '</span>' +
             '<span class="bd-bar"><i class="' + cls + '" style="width:' + r.p + '%"></i></span>' +
             '<span class="bd-score ' + cls + '">' + r.c + '/' + r.t + '</span>' +
           '</button>'
@@ -946,53 +1003,600 @@
   /* ================================================================== *
    * SETTINGS (pronunciation)
    * ================================================================== */
-  function optionCard(val, on, title, desc) {
+  function optionCard(val, on, emoji, label) {
     return el('<button class="opt-card' + (on ? " on" : "") + '" data-opt="' + val + '">' +
-      '<span class="oc-check">' + (on ? "●" : "○") + '</span>' +
-      '<span class="oc-main"><b>' + title + '</b><small>' + desc + '</small></span></button>');
+      '<span class="oc-emoji">' + emoji + '</span><span class="oc-label">' + label + '</span></button>');
   }
-  function viewSettings() {
-    var wrap = el('<div class="fade-in narrow-sm"></div>');
-    wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
-    wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">⚙️</div><div><h1>Cài đặt</h1><div class="sub">Chọn chất giọng phát âm</div></div></div>'));
+  function themeCards() {
+    var saved = LS.get("qf_theme", "auto");
+    var box = el('<div class="set-group opt-row"></div>');
+    box.appendChild(optionCard("light", saved === "light", "☀️", "Sáng"));
+    box.appendChild(optionCard("dark", saved === "dark", "🌙", "Tối"));
+    box.appendChild(optionCard("auto", saved === "auto", "🖥️", "Tự động"));
+    box.addEventListener("click", function (e) {
+      var b = e.target.closest("[data-opt]"); if (!b) return;
+      var val = b.getAttribute("data-opt"); applyTheme(val); LS.set("qf_theme", val);
+      box.querySelectorAll(".opt-card").forEach(function (c) { c.classList.toggle("on", c.getAttribute("data-opt") === val); });
+    });
+    return box;
+  }
 
-    wrap.appendChild(el('<div class="section-head"><h2>Chất giọng</h2></div>'));
-    var accBox = el('<div class="set-group"></div>');
-    accBox.appendChild(optionCard("en-GB", ttsLang === "en-GB", "🇬🇧 Anh - Anh", "British English (en-GB)"));
-    accBox.appendChild(optionCard("en-US", ttsLang === "en-US", "🇺🇸 Anh - Mỹ", "American English (en-US)"));
-    wrap.appendChild(accBox);
+  function modalEsc(e) { if (e.key === "Escape") closeModal(); }
+  function closeModal() {
+    var m = document.getElementById("qf-modal");
+    if (m) m.remove();
+    document.removeEventListener("keydown", modalEsc);
+  }
 
-    wrap.appendChild(el('<div class="section-head"><h2>Nghe thử</h2></div>'));
-    var test = el('<div class="btn-row"><button class="btn primary" id="s-t1">🔊 “beautiful”</button><button class="btn ghost" id="s-t2">🔊 “Nice to meet you”</button></div>');
-    wrap.appendChild(test);
-
-    wrap.appendChild(el('<p class="muted" style="margin-top:14px;font-size:12.5px;line-height:1.6">Phát âm dùng giọng Google Dịch (tự nhiên hơn, cần kết nối mạng). Khi mất mạng, ứng dụng sẽ tạm dùng giọng của thiết bị.</p>'));
-
-    wrap.appendChild(el('<div class="section-head"><h2>Tiến độ học</h2></div>'));
-    var backup = el(
-      '<div class="set-group">' +
-        '<button class="btn ghost" id="s-export">⬇️ Tải file sao lưu tiến độ</button>' +
-        '<button class="btn ghost" id="s-import">⬆️ Khôi phục từ file sao lưu</button>' +
-        '<input type="file" id="s-file" accept="application/json,.json" hidden />' +
-        '<button class="btn danger" id="s-reset">🗑️ Xóa toàn bộ tiến độ</button>' +
+  function openSettings() {
+    closeModal();
+    var overlay = el('<div class="modal-overlay" id="qf-modal"></div>');
+    var panel = el(
+      '<div class="modal fade-in" role="dialog" aria-modal="true" aria-label="Cài đặt">' +
+        '<div class="modal-head"><h2>⚙️ Cài đặt</h2><button class="modal-close" id="m-close" aria-label="Đóng">✕</button></div>' +
+        '<div class="modal-body"></div>' +
       '</div>'
     );
-    wrap.appendChild(backup);
-    wrap.appendChild(el('<p class="muted" style="margin-top:14px;font-size:12.5px;line-height:1.6">Tiến độ (từ đã thuộc, lịch ôn tập, điểm số, vị trí đang học…) được lưu <b>trong trình duyệt này</b> — tự động khôi phục mỗi lần bạn quay lại. Nếu đổi máy/trình duyệt hoặc xóa dữ liệu duyệt web, hãy dùng <b>Sao lưu → Khôi phục</b> để mang tiến độ đi theo.</p>'));
+    var body = panel.querySelector(".modal-body");
 
-    render(wrap);
-    wrap.querySelector("[data-home]").addEventListener("click", function () { location.hash = "#/"; });
-    accBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsLang = b.getAttribute("data-opt"); LS.set("qf_tts_lang", ttsLang); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
+    body.appendChild(el('<div class="section-head"><h2>Giao diện</h2></div>'));
+    body.appendChild(themeCards());
+
+    body.appendChild(el('<div class="section-head"><h2>Chất giọng</h2></div>'));
+    var accBox = el('<div class="set-group opt-row"></div>');
+    accBox.appendChild(optionCard("en-GB", ttsLang === "en-GB", "🇬🇧", "Anh - Anh"));
+    accBox.appendChild(optionCard("en-US", ttsLang === "en-US", "🇺🇸", "Anh - Mỹ"));
+    body.appendChild(accBox);
+    accBox.addEventListener("click", function (e) {
+      var b = e.target.closest("[data-opt]"); if (!b) return;
+      ttsLang = b.getAttribute("data-opt"); LS.set("qf_tts_lang", ttsLang);
+      accBox.querySelectorAll(".opt-card").forEach(function (c) { c.classList.toggle("on", c.getAttribute("data-opt") === ttsLang); });
+      setTimeout(function () { speak("beautiful"); }, 60);
+    });
+
+    body.appendChild(el('<div class="section-head"><h2>Nghe thử</h2></div>'));
+    var test = el('<div class="btn-row"><button class="btn primary" id="s-t1">🔊 “beautiful”</button><button class="btn ghost" id="s-t2">🔊 “Nice to meet you”</button></div>');
+    body.appendChild(test);
     test.querySelector("#s-t1").addEventListener("click", function () { speak("beautiful"); });
     test.querySelector("#s-t2").addEventListener("click", function () { speak("Nice to meet you"); });
+
+    body.appendChild(el('<div class="section-head"><h2>Tiến độ học</h2></div>'));
+    var backup = el(
+      '<div class="set-group opt-row">' +
+        '<button class="opt-card act" id="s-export"><span class="oc-emoji">⬇️</span><span class="oc-label">Sao lưu</span></button>' +
+        '<button class="opt-card act" id="s-import"><span class="oc-emoji">⬆️</span><span class="oc-label">Khôi phục</span></button>' +
+        '<button class="opt-card act act-danger" id="s-reset"><span class="oc-emoji">🗑️</span><span class="oc-label">Xóa hết</span></button>' +
+        '<input type="file" id="s-file" accept="application/json,.json" hidden />' +
+      '</div>'
+    );
+    body.appendChild(backup);
+    body.appendChild(el('<p class="muted" style="margin-top:10px;font-size:12px;line-height:1.5">Tiến độ lưu trong trình duyệt này. Đổi máy hoặc xóa dữ liệu web thì dùng Sao lưu → Khôi phục.</p>'));
     backup.querySelector("#s-export").addEventListener("click", exportProgress);
     backup.querySelector("#s-import").addEventListener("click", function () { backup.querySelector("#s-file").click(); });
     backup.querySelector("#s-file").addEventListener("change", function (e) { if (e.target.files && e.target.files[0]) importProgress(e.target.files[0]); });
     backup.querySelector("#s-reset").addEventListener("click", resetProgress);
+
+    overlay.appendChild(panel);
+    document.body.appendChild(overlay);
+    panel.querySelector("#m-close").addEventListener("click", closeModal);
+    overlay.addEventListener("click", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", modalEsc);
   }
 
   function renderNotFound() {
     render(el('<div class="empty fade-in"><span class="big">🧭</span>Không tìm thấy trang.<br><button class="btn primary" style="margin-top:14px" onclick="location.hash=\'#/\'">Về trang chủ</button></div>'));
+  }
+
+  /* ================================================================== *
+   * GRAMMAR — lessons (theory) + practice quiz
+   * ================================================================== */
+  function findLesson(id) { for (var i = 0; i < GRAMMAR.length; i++) if (GRAMMAR[i].id === id) return GRAMMAR[i]; return null; }
+  function grammarDoneCount() { return GRAMMAR.reduce(function (s, l) { return s + (gramDone[l.id] ? 1 : 0); }, 0); }
+  // Bucket a lesson by the lower bound of its CEFR level ("A2-B1" -> "A2"),
+  // then group into 3 tiers (Cấp 3 merges B1 & B2).
+  function lessonLevel(l) { return String(l.level).split("-")[0]; }
+  var GRAM_TIERS = [
+    { key: "1", chip: "Cấp 1", title: "Cấp 1 · A1", sub: "Mới bắt đầu", levels: ["A1"] },
+    { key: "2", chip: "Cấp 2", title: "Cấp 2 · A2", sub: "Sơ cấp", levels: ["A2"] },
+    { key: "3", chip: "Cấp 3", title: "Cấp 3 · B1–B2", sub: "Trung cấp trở lên", levels: ["B1", "B2"] }
+  ];
+  function lessonTierKey(l) {
+    var lv = lessonLevel(l);
+    for (var i = 0; i < GRAM_TIERS.length; i++) if (GRAM_TIERS[i].levels.indexOf(lv) !== -1) return GRAM_TIERS[i].key;
+    return GRAM_TIERS[0].key;
+  }
+  function gramCardHTML(l) {
+    var isDone = !!gramDone[l.id], best = gramQuiz[l.id];
+    return '<button class="unit-card' + (isDone ? " done" : "") + '" data-gid="' + l.id + '">' +
+        (isDone ? '<span class="u-check">✓</span>' : '') +
+        '<span class="u-level">' + esc(l.level) + '</span>' +
+        '<span class="u-emoji">' + (l.emoji || "📝") + '</span>' +
+        '<span class="u-title">' + esc(l.title_vi) + '</span>' +
+        '<span class="u-sub">' + esc(l.title_en) + '</span>' +
+        '<span class="u-meta">' + (best != null ? ("Luyện tập: " + best + "%") : (l.quiz ? l.quiz.length + " câu luyện tập" : "")) + '</span>' +
+      '</button>';
+  }
+
+  function viewGrammarHome() {
+    if (!GRAMMAR.length) {
+      render(el('<div class="empty fade-in"><span class="big">📭</span>Chưa có bài ngữ pháp nào.</div>'));
+      return;
+    }
+    var total = GRAMMAR.length, done = grammarDoneCount();
+    var byTier = {};
+    GRAM_TIERS.forEach(function (t) { byTier[t.key] = GRAMMAR.filter(function (l) { return lessonTierKey(l) === t.key; }); });
+    var cur = LS.get("qf_grammar_level", "1"); if (!byTier[cur]) cur = "1";
+
+    var wrap = el('<div class="fade-in"></div>');
+    wrap.appendChild(el(
+      '<section class="hero gram"><div class="hero-top"><div>' +
+        '<h1>Ngữ pháp tiếng Anh 📝</h1>' +
+        '<p>Nắm chắc các chủ điểm cốt lõi: lý thuyết ngắn gọn, công thức rõ ràng, có bài luyện tập ngay sau mỗi bài.</p>' +
+      '</div>' + ringHTML(pct(done, total)) + '</div>' +
+      '<div class="hero-stats">' +
+        '<div class="hero-stat"><b>' + done + '</b><span>bài đã học</span></div>' +
+        '<div class="hero-stat"><b>' + total + '</b><span>tổng số bài</span></div>' +
+      '</div></section>'
+    ));
+
+    // Ôn tập ngắt quãng + Kiểm tra tổng hợp (ngữ pháp)
+    var grq = gramReviewQueue(); var gdue = grq.dueCount + grq.freshCount;
+    wrap.appendChild(el('<div class="section-head"><h2>Ôn tập &amp; đánh giá</h2></div>'));
+    var rc = el('<div class="review-cards"></div>');
+    rc.appendChild(el(
+      '<button class="review-card srs" data-go="grammar/review">' +
+        '<span class="rc-emoji">🔁</span>' +
+        '<span class="rc-title">Ôn tập ngắt quãng</span>' +
+        '<span class="rc-sub">' + (gdue > 0 ? (gdue + ' câu cần ôn hôm nay') : 'Đã ôn xong hôm nay 🎉') + '</span>' +
+        (gdue > 0 ? '<span class="rc-badge">' + gdue + '</span>' : '') +
+      '</button>'
+    ));
+    rc.appendChild(el(
+      '<button class="review-card test" data-go="grammar/test">' +
+        '<span class="rc-emoji">🎯</span>' +
+        '<span class="rc-title">Kiểm tra tổng hợp</span>' +
+        '<span class="rc-sub">' + (gramBest("all") ? ('Kỷ lục: ' + gramBest("all") + '%') : ('Đánh giá theo từng cấp')) + '</span>' +
+      '</button>'
+    ));
+    wrap.appendChild(rc);
+    rc.addEventListener("click", function (e) { var b = e.target.closest("[data-go]"); if (b) location.hash = "#/" + b.getAttribute("data-go"); });
+
+    var chips = el(
+      '<div class="mode-chips" role="tablist" style="margin-top:2px">' +
+        GRAM_TIERS.map(function (t) {
+          return '<button class="chip" role="tab" data-tier="' + t.key + '">' + t.chip + ' (' + byTier[t.key].length + ')</button>';
+        }).join("") +
+      '</div>'
+    );
+    wrap.appendChild(chips);
+
+    var head = el('<div class="section-head"><h2 id="gram-level-title"></h2><span class="muted" id="gram-level-count"></span></div>');
+    wrap.appendChild(head);
+    var grid = el('<div class="unit-grid"></div>');
+    wrap.appendChild(grid);
+
+    function paint(key) {
+      var tier = GRAM_TIERS.filter(function (t) { return t.key === key; })[0] || GRAM_TIERS[0];
+      var list = byTier[key] || [];
+      var doneN = list.reduce(function (s, l) { return s + (gramDone[l.id] ? 1 : 0); }, 0);
+      chips.querySelectorAll(".chip").forEach(function (b) { b.setAttribute("aria-selected", b.getAttribute("data-tier") === key ? "true" : "false"); });
+      head.querySelector("#gram-level-title").textContent = tier.title + " (" + tier.sub + ")";
+      head.querySelector("#gram-level-count").textContent = doneN + "/" + list.length + " đã học";
+      grid.innerHTML = "";
+      list.forEach(function (l) { grid.appendChild(el(gramCardHTML(l))); });
+    }
+    grid.addEventListener("click", function (e) { var b = e.target.closest("[data-gid]"); if (b) location.hash = "#/grammar/" + b.getAttribute("data-gid"); });
+    chips.addEventListener("click", function (e) { var b = e.target.closest("[data-tier]"); if (!b) return; cur = b.getAttribute("data-tier"); LS.set("qf_grammar_level", cur); paint(cur); });
+
+    paint(cur);
+    render(wrap);
+  }
+
+  function viewGrammarLesson(id, tab) {
+    var l = findLesson(id);
+    if (!l) { renderNotFound(); return; }
+    if (tab !== "practice") tab = "learn";
+
+    var wrap = el('<div class="fade-in narrow"></div>');
+    wrap.appendChild(el('<button class="crumb" data-back>← Tất cả bài ngữ pháp</button>'));
+    wrap.appendChild(el(
+      '<div class="unit-hero"><div class="big-emoji">' + (l.emoji || "📝") + '</div>' +
+      '<div><h1>' + esc(l.title_vi) + ' <span class="level-badge">' + esc(l.level) + '</span></h1>' +
+      '<div class="sub">' + esc(l.title_en) + '</div></div></div>'
+    ));
+    var tabs = el(
+      '<div class="tabs" role="tablist">' +
+        '<button class="tab" role="tab" data-tab="learn">📖 Lý thuyết</button>' +
+        '<button class="tab" role="tab" data-tab="practice">🎓 Luyện tập' + (l.quiz && l.quiz.length ? " (" + l.quiz.length + ")" : "") + '</button>' +
+      '</div>'
+    );
+    wrap.appendChild(tabs);
+    var body = el('<div id="gram-body"></div>');
+    wrap.appendChild(body);
+
+    tabs.querySelectorAll(".tab").forEach(function (t) {
+      t.setAttribute("aria-selected", t.getAttribute("data-tab") === tab ? "true" : "false");
+      t.addEventListener("click", function () { location.hash = "#/grammar/" + l.id + "/" + t.getAttribute("data-tab"); });
+    });
+    wrap.querySelector("[data-back]").addEventListener("click", function () { location.hash = "#/grammar"; });
+    render(wrap);
+
+    if (tab === "practice") renderGrammarQuiz(l, body);
+    else renderGrammarTheory(l, body);
+  }
+
+  function renderGrammarTheory(l, body) {
+    body.innerHTML = "";
+    var frag = el('<div></div>');
+    if (l.intro) frag.appendChild(el('<p class="gram-intro">' + esc(l.intro) + '</p>'));
+
+    if (l.usage && l.usage.length) {
+      frag.appendChild(el('<div class="section-head"><h2>Cách dùng</h2></div>'));
+      var ul = el('<ul class="gram-list"></ul>');
+      l.usage.forEach(function (s) { ul.appendChild(el('<li>' + esc(s) + '</li>')); });
+      frag.appendChild(ul);
+    }
+
+    if (l.formulas && l.formulas.length) {
+      frag.appendChild(el('<div class="section-head"><h2>Công thức &amp; ví dụ</h2></div>'));
+      var fw = el('<div class="gram-block"></div>');
+      l.formulas.forEach(function (f) {
+        var card = el(
+          '<div class="formula">' +
+            '<div class="f-label">' + esc(f.label) + '</div>' +
+            '<div class="f-form">' + esc(f.form) + '</div>' +
+            (f.example_en ?
+              '<div class="f-ex">' + speakerHTML() +
+                '<div class="f-ex-text"><div class="en">' + esc(f.example_en) + '</div>' +
+                (f.example_vi ? '<div class="vi">' + esc(f.example_vi) + '</div>' : "") + '</div>' +
+              '</div>' : "") +
+          '</div>'
+        );
+        var sp = card.querySelector("[data-speak]");
+        if (sp) sp.addEventListener("click", function () { speak(f.example_en); });
+        fw.appendChild(card);
+      });
+      frag.appendChild(fw);
+    }
+
+    if (l.notes && l.notes.length) {
+      frag.appendChild(el('<div class="section-head"><h2>Lưu ý</h2></div>'));
+      var nl = el('<ul class="gram-list note-list"></ul>');
+      l.notes.forEach(function (s) { nl.appendChild(el('<li>' + esc(s) + '</li>')); });
+      frag.appendChild(nl);
+    }
+
+    var isDone = !!gramDone[l.id];
+    var hasQuiz = l.quiz && l.quiz.length;
+    var done = el(
+      '<div class="gram-done">' +
+        '<span class="gd-text" id="gd-text">' + (isDone ? "✅ Bạn đã đánh dấu học xong bài này." : "Đã nắm được bài này? Đánh dấu để theo dõi tiến độ.") + '</span>' +
+        '<button class="btn ' + (isDone ? "success" : "primary") + '" id="gd-toggle">' + (isDone ? "✓ Đã học" : "Đánh dấu đã học") + '</button>' +
+        (hasQuiz ? '<button class="btn ghost" id="gd-practice">🎓 Luyện tập ngay</button>' : "") +
+      '</div>'
+    );
+    frag.appendChild(done);
+    body.appendChild(frag);
+
+    done.querySelector("#gd-toggle").addEventListener("click", function () {
+      var nd = !gramDone[l.id];
+      if (nd) gramDone[l.id] = true; else delete gramDone[l.id];
+      LS.set("qf_grammar_done", gramDone);
+      var btn = done.querySelector("#gd-toggle");
+      btn.className = "btn " + (nd ? "success" : "primary");
+      btn.textContent = nd ? "✓ Đã học" : "Đánh dấu đã học";
+      done.querySelector("#gd-text").textContent = nd ? "✅ Bạn đã đánh dấu học xong bài này." : "Đã nắm được bài này? Đánh dấu để theo dõi tiến độ.";
+      toast(nd ? "✓ Đã đánh dấu học xong" : "Đã bỏ đánh dấu");
+    });
+    var gp = done.querySelector("#gd-practice");
+    if (gp) gp.addEventListener("click", function () { location.hash = "#/grammar/" + l.id + "/practice"; });
+  }
+
+  function renderGrammarQuiz(l, body) {
+    body.innerHTML = "";
+    if (!l.quiz || !l.quiz.length) {
+      body.appendChild(el('<div class="empty"><span class="big">🙂</span>Bài này chưa có phần luyện tập.</div>'));
+      return;
+    }
+    var questions = shuffle(l.quiz).map(function (q) {
+      return { q: q.q, correct: q.answer, explain: q.explain || "", options: shuffle(q.options.slice()) };
+    });
+    var idx = 0, score = 0, answered = false;
+    var wrap = el('<div class="quiz-wrap"></div>'); body.appendChild(wrap);
+
+    function paint() {
+      answered = false; var q = questions[idx]; wrap.innerHTML = "";
+      wrap.appendChild(el('<div class="quiz-head"><span>Câu ' + (idx + 1) + ' / ' + questions.length + '</span><span>Điểm: <b id="gq-score">' + score + '</b></span></div>'));
+      var card = el('<div class="quiz-q"><div class="prompt-label">Chọn đáp án đúng</div><div class="prompt" style="font-size:18px">' + esc(q.q) + '</div></div>');
+      wrap.appendChild(card);
+      var opts = el('<div class="opts"></div>');
+      q.options.forEach(function (opt) {
+        var b = el('<button class="opt">' + esc(opt) + '</button>');
+        b.addEventListener("click", function () { choose(b, opt, q, opts, card); });
+        opts.appendChild(b);
+      });
+      wrap.appendChild(opts);
+      var nb = el('<button class="btn primary block" id="gq-next" disabled>' + (idx + 1 < questions.length ? "Câu tiếp theo →" : "Xem kết quả") + '</button>');
+      nb.addEventListener("click", function () { if (idx + 1 < questions.length) { idx++; paint(); } else finish(); });
+      wrap.appendChild(nb);
+    }
+    function choose(btn, opt, q, opts, card) {
+      if (answered) return; answered = true;
+      var correct = opt === q.correct;
+      if (correct) { score++; btn.classList.add("correct"); btn.innerHTML = esc(opt) + '<span class="tick">✓</span>'; var sc = wrap.querySelector("#gq-score"); if (sc) sc.textContent = score; }
+      else {
+        btn.classList.add("wrong"); btn.innerHTML = esc(opt) + '<span class="tick">✗</span>';
+        opts.querySelectorAll(".opt").forEach(function (o) { if (o.textContent === q.correct) { o.classList.add("correct"); o.innerHTML = esc(q.correct) + '<span class="tick">✓</span>'; } });
+      }
+      opts.querySelectorAll(".opt").forEach(function (o) { o.disabled = true; });
+      if (q.explain) card.appendChild(el('<div class="q-explain' + (correct ? "" : " bad") + '">' + (correct ? "✓ " : "✗ ") + esc(q.explain) + '</div>'));
+      wrap.querySelector("#gq-next").disabled = false;
+    }
+    function finish() {
+      var p = pct(score, questions.length);
+      var best = gramQuiz[l.id] || 0, isRecord = p >= best && p > 0;
+      if (p > best) { gramQuiz[l.id] = p; LS.set("qf_grammar_quiz", gramQuiz); best = p; }
+      var msg = p === 100 ? "Xuất sắc! Trọn vẹn 🎉" : p >= 70 ? "Tốt lắm! 💪" : "Cố gắng ôn thêm nhé 🌱";
+      wrap.innerHTML = "";
+      var res = el(
+        '<div class="quiz-result"><div class="score">' + score + '/' + questions.length + '</div>' +
+        '<div class="msg">' + msg + ' · ' + p + '%' + (isRecord ? " · Kỷ lục mới!" : (best ? " · Kỷ lục: " + best + "%" : "")) + '</div>' +
+        '<div class="btn-row" style="justify-content:center"><button class="btn primary" id="gq-retry">Làm lại</button>' +
+        '<button class="btn ghost" id="gq-learn">📖 Xem lý thuyết</button></div></div>'
+      );
+      wrap.appendChild(res);
+      res.querySelector("#gq-retry").addEventListener("click", function () { renderGrammarQuiz(l, body); });
+      res.querySelector("#gq-learn").addEventListener("click", function () { location.hash = "#/grammar/" + l.id + "/learn"; });
+    }
+    paint();
+  }
+
+  /* Primary section nav highlight (Vocabulary / Grammar) */
+  function setActiveNav(section) {
+    var v = document.getElementById("nav-vocab"), g = document.getElementById("nav-grammar");
+    if (v) v.setAttribute("aria-selected", section === "grammar" ? "false" : "true");
+    if (g) g.setAttribute("aria-selected", section === "grammar" ? "true" : "false");
+  }
+
+  /* ================================================================== *
+   * GRAMMAR — spaced repetition + comprehensive test (over quiz questions)
+   * ================================================================== */
+  function gramAllQuestions() {
+    var out = [];
+    GRAMMAR.forEach(function (l) { (l.quiz || []).forEach(function (q, i) { out.push({ l: l, q: q, i: i, key: l.id + "::" + i }); }); });
+    return out;
+  }
+  function gramSrsSave() { LS.set("qf_gram_srs", gramSrs); LS.set("qf_gram_srs_daily", gramSrsDaily); }
+  function gramResetDailyIfNeeded() { if (gramSrsDaily.date !== todayStr()) { gramSrsDaily = { date: todayStr(), newToday: 0 }; LS.set("qf_gram_srs_daily", gramSrsDaily); } }
+  function gramSrsGrade(key, correct) {
+    var s = gramSrs[key] || { level: 0, due: 0, reps: 0, lapses: 0, isNew: true };
+    if (s.isNew) { gramResetDailyIfNeeded(); gramSrsDaily.newToday++; }
+    s.isNew = false; s.reps++;
+    if (!correct) { s.level = 0; s.lapses++; s.due = now() + SRS_INTERVALS[0]; }
+    else { s.level = Math.min(s.level + 1, SRS_INTERVALS.length - 1); s.due = now() + SRS_INTERVALS[s.level]; }
+    gramSrs[key] = s; gramSrsSave();
+  }
+  function gramReviewQueue() {
+    gramResetDailyIfNeeded();
+    var refs = gramAllQuestions(), t = now();
+    var due = refs.filter(function (r) { return gramSrs[r.key] && !gramSrs[r.key].isNew && gramSrs[r.key].due <= t; });
+    var freshAll = refs.filter(function (r) { return !gramSrs[r.key]; });
+    var room = Math.max(0, NEW_PER_DAY - gramSrsDaily.newToday);
+    var fresh = shuffle(freshAll).slice(0, room);
+    return { due: due, fresh: fresh, dueCount: due.length, freshCount: fresh.length };
+  }
+  function gramSrsStats() {
+    var refs = gramAllQuestions(), learning = 0, mature = 0, seen = 0;
+    refs.forEach(function (r) { var s = gramSrs[r.key]; if (s && !s.isNew) { seen++; if (s.level >= 4) mature++; else learning++; } });
+    return { seen: seen, learning: learning, mature: mature, total: refs.length };
+  }
+
+  function viewGrammarReview() {
+    var rq = gramReviewQueue();
+    var queue = shuffle(rq.due).concat(rq.fresh);
+    var wrap = el('<div class="fade-in narrow"></div>');
+    wrap.appendChild(el('<button class="crumb" data-back>← Ngữ pháp</button>'));
+    render(wrap);
+    wrap.querySelector("[data-back]").addEventListener("click", function () { location.hash = "#/grammar"; });
+
+    if (!queue.length) {
+      var st = gramSrsStats();
+      wrap.appendChild(el(
+        '<div class="empty"><span class="big">🎉</span>Tuyệt vời! Hôm nay bạn không còn câu ngữ pháp nào cần ôn.' +
+        '<div class="srs-stats"><span>👁️ Đã ôn: <b>' + st.seen + '</b></span><span>🌱 Đang nhớ: <b>' + st.learning + '</b></span><span>🌳 Nhớ chắc: <b>' + st.mature + '</b></span></div>' +
+        '<div class="btn-row" style="justify-content:center;margin-top:16px"><button class="btn primary" onclick="location.hash=\'#/grammar/test\'">🎯 Làm bài kiểm tra ngữ pháp</button>' +
+        '<button class="btn ghost" onclick="location.hash=\'#/grammar\'">Về ngữ pháp</button></div></div>'
+      ));
+      return;
+    }
+
+    var doneCount = 0, lastCorrect = null;
+    var head = el('<div class="unit-hero"><div class="big-emoji">🔁</div><div><h1>Ôn tập ngữ pháp</h1><div class="sub" id="grv-sub"></div></div></div>');
+    wrap.appendChild(head);
+    var barWrap = el('<div class="bar" style="margin:4px 0 16px"><i id="grv-bar" style="width:0%"></i></div>');
+    wrap.appendChild(barWrap);
+    var pane = el('<div id="grv-pane"></div>');
+    wrap.appendChild(pane);
+
+    function updateHead() {
+      head.querySelector("#grv-sub").textContent = "Còn " + queue.length + " câu · đã ôn " + doneCount;
+      barWrap.querySelector("#grv-bar").style.width = pct(doneCount, doneCount + queue.length) + "%";
+    }
+    function paint() {
+      if (!queue.length) { finish(); return; }
+      updateHead(); lastCorrect = null;
+      var ref = queue[0], l = ref.l, qq = ref.q, isNew = !gramSrs[ref.key] || gramSrs[ref.key].isNew;
+      var opts = shuffle(qq.options.slice());
+      pane.innerHTML = "";
+      var card = el(
+        '<div class="quiz-q">' +
+          '<div>' + (isNew ? '<span class="rv-tag new">Câu mới</span>' : '<span class="rv-tag due">Ôn lại</span>') + '</div>' +
+          '<div class="prompt-label" style="margin-top:8px">' + esc(l.title_vi) + ' · ' + esc(l.level) + '</div>' +
+          '<div class="prompt" style="font-size:18px">' + esc(qq.q) + '</div>' +
+        '</div>'
+      );
+      pane.appendChild(card);
+      var optsEl = el('<div class="opts"></div>');
+      opts.forEach(function (opt) { var b = el('<button class="opt">' + esc(opt) + '</button>'); b.addEventListener("click", function () { choose(b, opt, ref, qq, optsEl, card); }); optsEl.appendChild(b); });
+      pane.appendChild(optsEl);
+      var nb = el('<button class="btn primary block" id="grv-next" disabled>Câu tiếp theo →</button>');
+      nb.addEventListener("click", advance);
+      pane.appendChild(nb);
+    }
+    function choose(btn, opt, ref, qq, optsEl, card) {
+      if (lastCorrect !== null) return;
+      var correct = opt === qq.answer; lastCorrect = correct;
+      if (correct) { btn.classList.add("correct"); btn.innerHTML = esc(opt) + '<span class="tick">✓</span>'; }
+      else { btn.classList.add("wrong"); btn.innerHTML = esc(opt) + '<span class="tick">✗</span>'; optsEl.querySelectorAll(".opt").forEach(function (o) { if (o.textContent === qq.answer) { o.classList.add("correct"); o.innerHTML = esc(qq.answer) + '<span class="tick">✓</span>'; } }); }
+      optsEl.querySelectorAll(".opt").forEach(function (o) { o.disabled = true; });
+      if (qq.explain) card.appendChild(el('<div class="q-explain' + (correct ? "" : " bad") + '">' + (correct ? "✓ " : "✗ ") + esc(qq.explain) + '</div>'));
+      gramSrsGrade(ref.key, correct);
+      pane.querySelector("#grv-next").disabled = false;
+    }
+    function advance() {
+      var cur = queue.shift();
+      if (lastCorrect === false) queue.push(cur); else doneCount++;
+      paint();
+    }
+    function finish() {
+      var st2 = gramSrsStats();
+      pane.innerHTML = "";
+      head.querySelector("#grv-sub").textContent = "Hoàn thành!";
+      barWrap.querySelector("#grv-bar").style.width = "100%";
+      pane.appendChild(el(
+        '<div class="quiz-result"><div class="score">🎉</div><div class="msg">Đã ôn xong ' + doneCount + ' câu hôm nay!</div>' +
+        '<div class="srs-stats" style="justify-content:center"><span>🌱 Đang nhớ: <b>' + st2.learning + '</b></span><span>🌳 Nhớ chắc: <b>' + st2.mature + '</b></span></div>' +
+        '<div class="btn-row" style="justify-content:center;margin-top:16px"><button class="btn primary" id="grv-again">Ôn tiếp</button><button class="btn ghost" id="grv-home">Về ngữ pháp</button></div></div>'
+      ));
+      pane.querySelector("#grv-again").addEventListener("click", function () { viewGrammarReview(); });
+      pane.querySelector("#grv-home").addEventListener("click", function () { location.hash = "#/grammar"; });
+    }
+    paint();
+  }
+
+  function gramBest(scope) { return (gramTestBest && gramTestBest[scope]) || 0; }
+  function gramScopeRefs(scope) {
+    var all = gramAllQuestions();
+    return scope === "all" ? all : all.filter(function (r) { return lessonTierKey(r.l) === scope; });
+  }
+
+  function viewGrammarTest() {
+    var wrap = el('<div class="fade-in narrow"></div>');
+    wrap.appendChild(el('<button class="crumb" data-back>← Ngữ pháp</button>'));
+    wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">🎯</div><div><h1>Kiểm tra ngữ pháp</h1><div class="sub">Chọn phạm vi và số câu</div></div></div>'));
+
+    var SCOPES = [{ key: "all", label: "Tất cả" }].concat(GRAM_TIERS.map(function (t) { return { key: t.key, label: t.chip }; }));
+    var counts = {}; SCOPES.forEach(function (s) { counts[s.key] = gramScopeRefs(s.key).length; });
+    var scope = "all";
+
+    var chips = el('<div class="mode-chips" role="tablist">' +
+      SCOPES.map(function (s) { return '<button class="chip" role="tab" data-scope="' + s.key + '">' + s.label + ' (' + counts[s.key] + ')</button>'; }).join("") +
+    '</div>');
+    wrap.appendChild(chips);
+
+    var cfg = el(
+      '<div class="test-config">' +
+        '<p id="gt-scope-info"></p>' +
+        '<div class="test-lens">' +
+          '<button class="btn ghost" data-n="15">15 câu</button>' +
+          '<button class="btn primary" data-n="25">25 câu</button>' +
+          '<button class="btn ghost" data-n="40">40 câu</button>' +
+        '</div>' +
+        '<p class="muted" id="gt-best" style="margin-top:14px"></p>' +
+      '</div>'
+    );
+    wrap.appendChild(cfg);
+
+    function refresh() {
+      chips.querySelectorAll(".chip").forEach(function (b) { b.setAttribute("aria-selected", b.getAttribute("data-scope") === scope ? "true" : "false"); });
+      var label = (SCOPES.filter(function (s) { return s.key === scope; })[0] || {}).label;
+      cfg.querySelector("#gt-scope-info").textContent = "Phạm vi: " + label + " · " + counts[scope] + " câu. Chọn số câu rút ngẫu nhiên:";
+      var best = gramBest(scope);
+      cfg.querySelector("#gt-best").innerHTML = best ? ("Kỷ lục " + label + ": <b>" + best + "%</b>") : "";
+    }
+    chips.addEventListener("click", function (e) { var b = e.target.closest("[data-scope]"); if (!b) return; scope = b.getAttribute("data-scope"); refresh(); });
+    cfg.addEventListener("click", function (e) { var b = e.target.closest("[data-n]"); if (b) startGramTest(parseInt(b.getAttribute("data-n"), 10), scope); });
+    wrap.querySelector("[data-back]").addEventListener("click", function () { location.hash = "#/grammar"; });
+    refresh();
+    render(wrap);
+  }
+
+  function startGramTest(n, scope) {
+    scope = scope || "all";
+    var refs = shuffle(gramScopeRefs(scope));
+    n = Math.min(n, refs.length);
+    var picked = refs.slice(0, n).map(function (r) {
+      return { lessonId: r.l.id, lessonVi: r.l.title_vi, level: r.l.level, q: r.q.q, answer: r.q.answer, explain: r.q.explain || "", options: shuffle(r.q.options.slice()) };
+    });
+    var idx = 0, score = 0, answered = false;
+    var wrap = el('<div class="fade-in narrow"></div>');
+    wrap.appendChild(el('<button class="crumb" data-back>← Thoát</button>'));
+    var pane = el('<div></div>'); wrap.appendChild(pane);
+    wrap.querySelector("[data-back]").addEventListener("click", function () { if (confirm("Thoát bài kiểm tra? Kết quả chưa lưu.")) location.hash = "#/grammar"; });
+    render(wrap);
+
+    function paint() {
+      answered = false; var q = picked[idx]; pane.innerHTML = "";
+      var qwrap = el('<div class="quiz-wrap"></div>'); pane.appendChild(qwrap);
+      qwrap.appendChild(el('<div class="quiz-head"><span>Câu ' + (idx + 1) + ' / ' + picked.length + ' · ' + esc(q.lessonVi) + '</span><span>Điểm: <b id="gt-score">' + score + '</b></span></div>'));
+      var card = el('<div class="quiz-q"><div class="prompt-label">Chọn đáp án đúng</div><div class="prompt" style="font-size:18px">' + esc(q.q) + '</div></div>');
+      qwrap.appendChild(card);
+      var opts = el('<div class="opts"></div>');
+      q.options.forEach(function (opt) { var b = el('<button class="opt">' + esc(opt) + '</button>'); b.addEventListener("click", function () { choose(b, opt, q, opts, card); }); opts.appendChild(b); });
+      qwrap.appendChild(opts);
+      var nb = el('<button class="btn primary block" id="gt-next" disabled>' + (idx + 1 < picked.length ? "Câu tiếp theo →" : "Xem kết quả") + '</button>');
+      nb.addEventListener("click", function () { if (idx + 1 < picked.length) { idx++; paint(); } else finish(); });
+      qwrap.appendChild(nb);
+      function choose(btn, opt, q, opts, card) {
+        if (answered) return; answered = true; q._got = (opt === q.answer);
+        if (q._got) { score++; btn.classList.add("correct"); btn.innerHTML = esc(opt) + '<span class="tick">✓</span>'; var sc = qwrap.querySelector("#gt-score"); if (sc) sc.textContent = score; }
+        else { btn.classList.add("wrong"); btn.innerHTML = esc(opt) + '<span class="tick">✗</span>'; opts.querySelectorAll(".opt").forEach(function (o) { if (o.textContent === q.answer) { o.classList.add("correct"); o.innerHTML = esc(q.answer) + '<span class="tick">✓</span>'; } }); }
+        opts.querySelectorAll(".opt").forEach(function (o) { o.disabled = true; });
+        if (q.explain) card.appendChild(el('<div class="q-explain' + (q._got ? "" : " bad") + '">' + (q._got ? "✓ " : "✗ ") + esc(q.explain) + '</div>'));
+        qwrap.querySelector("#gt-next").disabled = false;
+      }
+    }
+    function finish() {
+      var p = pct(score, picked.length);
+      var best = gramBest(scope);
+      if (p > best) { gramTestBest[scope] = p; LS.set("qf_gram_test_best", gramTestBest); best = p; }
+      var byLesson = {};
+      picked.forEach(function (q) { var b = byLesson[q.lessonId] || (byLesson[q.lessonId] = { c: 0, t: 0, vi: q.lessonVi }); b.t++; if (q._got) b.c++; });
+      var rows = Object.keys(byLesson).map(function (id) { var b = byLesson[id]; return { id: parseInt(id, 10), vi: b.vi, c: b.c, t: b.t, p: pct(b.c, b.t) }; });
+      rows.sort(function (a, b) { return a.p - b.p; });
+      var msg = p >= 90 ? "Xuất sắc! 🏆" : p >= 70 ? "Khá tốt! 💪" : p >= 50 ? "Ổn, cần ôn thêm 🌱" : "Hãy ôn lại nhé 📚";
+
+      pane.innerHTML = "";
+      pane.appendChild(el(
+        '<div class="quiz-result"><div class="score">' + score + '/' + picked.length + '</div>' +
+        '<div class="msg">' + msg + ' · ' + p + '%' + (p >= best && p > 0 ? ' · Kỷ lục mới!' : ' · Kỷ lục: ' + best + '%') + '</div></div>'
+      ));
+      pane.appendChild(el('<div class="section-head"><h2>Kết quả theo bài</h2><span class="muted">yếu nhất trước</span></div>'));
+      var table = el('<div class="breakdown"></div>');
+      rows.forEach(function (r) {
+        var cls = r.p >= 80 ? "good" : r.p >= 50 ? "mid" : "bad";
+        table.appendChild(el(
+          '<button class="bd-row" data-gid="' + r.id + '">' +
+            '<span class="bd-emoji">📝</span>' +
+            '<span class="bd-name">' + esc(r.vi) + '</span>' +
+            '<span class="bd-bar"><i class="' + cls + '" style="width:' + r.p + '%"></i></span>' +
+            '<span class="bd-score ' + cls + '">' + r.c + '/' + r.t + '</span>' +
+          '</button>'
+        ));
+      });
+      pane.appendChild(table);
+      table.addEventListener("click", function (e) { var b = e.target.closest("[data-gid]"); if (b) location.hash = "#/grammar/" + b.getAttribute("data-gid") + "/learn"; });
+
+      var actions = el('<div class="btn-row" style="margin-top:18px">' +
+        '<button class="btn primary" id="gt-retry">Làm lại</button>' +
+        (rows.length ? '<button class="btn danger" id="gt-weak">📖 Ôn bài yếu nhất</button>' : '') +
+        '<button class="btn ghost" id="gt-home">Về ngữ pháp</button></div>');
+      pane.appendChild(actions);
+      actions.querySelector("#gt-retry").addEventListener("click", function () { startGramTest(picked.length, scope); });
+      actions.querySelector("#gt-home").addEventListener("click", function () { location.hash = "#/grammar"; });
+      if (rows.length) actions.querySelector("#gt-weak").addEventListener("click", function () { location.hash = "#/grammar/" + rows[0].id + "/learn"; });
+    }
+    paint();
   }
 
   /* ------------------------------------------------------------------ *
@@ -1002,11 +1606,18 @@
 
   function router() {
     var h = location.hash.replace(/^#\/?/, ""); var parts = h.split("/").filter(Boolean);
+    setActiveNav(parts[0] === "grammar" ? "grammar" : "vocab");
     if (parts.length === 0) return viewHome();
     if (parts[0] === "search") return viewSearch();
-    if (parts[0] === "settings") return viewSettings();
+    if (parts[0] === "settings") { openSettings(); return viewHome(); }
     if (parts[0] === "review") return viewReview();
     if (parts[0] === "test") return viewTest();
+    if (parts[0] === "grammar") {
+      if (parts[1] === "review") return viewGrammarReview();
+      if (parts[1] === "test") return viewGrammarTest();
+      if (parts[1]) { var gid = parseInt(parts[1], 10); if (isNaN(gid)) return renderNotFound(); return viewGrammarLesson(gid, parts[2] || "learn"); }
+      return viewGrammarHome();
+    }
     if (parts[0] === "u" && parts[1]) { var id = parseInt(parts[1], 10); if (isNaN(id)) return renderNotFound(); return viewUnit(id, parts[2] || "learn"); }
     return viewHome();
   }

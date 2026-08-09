@@ -1,0 +1,195 @@
+{
+  "id": 3036,
+  "slug": "business-6",
+  "title_en": "Marketing & Branding",
+  "title_vi": "Marketing & thương hiệu",
+  "emoji": "📣",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "brand awareness",
+      "ipa": "/ˌbrænd əˈweənəs/",
+      "pos": "n",
+      "vi": "mức độ nhận biết thương hiệu",
+      "example_en": "The company launched a social media campaign to boost brand awareness among younger consumers.",
+      "example_vi": "Công ty đã triển khai một chiến dịch trên mạng xã hội để nâng cao mức độ nhận biết thương hiệu trong nhóm người tiêu dùng trẻ.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "target audience",
+      "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/",
+      "pos": "n",
+      "vi": "đối tượng khách hàng mục tiêu",
+      "example_en": "Before designing the ad, we clearly defined our target audience as urban professionals aged 25 to 35.",
+      "example_vi": "Trước khi thiết kế quảng cáo, chúng tôi đã xác định rõ đối tượng mục tiêu là dân văn phòng thành thị từ 25 đến 35 tuổi.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "conversion rate",
+      "ipa": "/kənˈvɜːʃn reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ chuyển đổi",
+      "example_en": "By simplifying the checkout page, we improved the conversion rate by nearly fifteen percent.",
+      "example_vi": "Bằng cách đơn giản hóa trang thanh toán, chúng tôi đã cải thiện tỷ lệ chuyển đổi gần mười lăm phần trăm.",
+      "emoji": "📈"
+    },
+    {
+      "word": "lead generation",
+      "ipa": "/liːd ˌdʒenəˈreɪʃn/",
+      "pos": "n",
+      "vi": "việc thu hút khách hàng tiềm năng",
+      "example_en": "Our lead generation strategy relies heavily on free webinars and downloadable guides.",
+      "example_vi": "Chiến lược thu hút khách hàng tiềm năng của chúng tôi dựa nhiều vào hội thảo trực tuyến miễn phí và các cẩm nang tải về.",
+      "emoji": "🧲"
+    },
+    {
+      "word": "brand loyalty",
+      "ipa": "/ˌbrænd ˈlɔɪəlti/",
+      "pos": "n",
+      "vi": "lòng trung thành với thương hiệu",
+      "example_en": "Excellent customer service is one of the main reasons behind their strong brand loyalty.",
+      "example_vi": "Dịch vụ khách hàng xuất sắc là một trong những lý do chính tạo nên lòng trung thành thương hiệu mạnh mẽ của họ.",
+      "emoji": "💚"
+    },
+    {
+      "word": "market research",
+      "ipa": "/ˈmɑːkɪt rɪˈsɜːtʃ/",
+      "pos": "n",
+      "vi": "nghiên cứu thị trường",
+      "example_en": "Thorough market research revealed that customers wanted a more affordable version of the product.",
+      "example_vi": "Nghiên cứu thị trường kỹ lưỡng cho thấy khách hàng muốn có một phiên bản sản phẩm giá cả phải chăng hơn.",
+      "emoji": "📊"
+    },
+    {
+      "word": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "pos": "n",
+      "vi": "chiến dịch (quảng cáo)",
+      "example_en": "The advertising campaign ran across television, radio and billboards for three months.",
+      "example_vi": "Chiến dịch quảng cáo chạy trên truyền hình, radio và biển quảng cáo suốt ba tháng.",
+      "emoji": "📣"
+    },
+    {
+      "word": "customer retention",
+      "ipa": "/ˈkʌstəmə rɪˈtenʃn/",
+      "pos": "n",
+      "vi": "việc giữ chân khách hàng",
+      "example_en": "Loyalty rewards are a cost-effective way to improve customer retention over the long term.",
+      "example_vi": "Phần thưởng cho khách hàng thân thiết là cách tiết kiệm chi phí để cải thiện việc giữ chân khách hàng về lâu dài.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "return on ad spend",
+      "ipa": "/rɪˌtɜːn ɒn ˈæd spend/",
+      "pos": "n",
+      "vi": "lợi nhuận trên chi phí quảng cáo (ROAS)",
+      "example_en": "For every dollar invested, the campaign delivered a return on ad spend of four dollars.",
+      "example_vi": "Với mỗi đô la đầu tư, chiến dịch mang lại lợi nhuận trên chi phí quảng cáo là bốn đô la.",
+      "emoji": "💰"
+    },
+    {
+      "word": "word of mouth",
+      "ipa": "/ˌwɜːd əv ˈmaʊθ/",
+      "pos": "phr",
+      "vi": "sự truyền miệng",
+      "example_en": "The restaurant became popular mainly through word of mouth rather than paid advertising.",
+      "example_vi": "Nhà hàng trở nên nổi tiếng chủ yếu nhờ truyền miệng chứ không phải quảng cáo trả tiền.",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "call to action",
+      "ipa": "/ˌkɔːl tu ˈækʃn/",
+      "pos": "n",
+      "vi": "lời kêu gọi hành động",
+      "example_en": "Every good landing page ends with a clear call to action, such as 'Sign up today'.",
+      "example_vi": "Mỗi trang đích tốt đều kết thúc bằng một lời kêu gọi hành động rõ ràng, chẳng hạn như 'Đăng ký ngay hôm nay'.",
+      "emoji": "👉"
+    },
+    {
+      "word": "sales funnel",
+      "ipa": "/ˌseɪlz ˈfʌnl/",
+      "pos": "n",
+      "vi": "phễu bán hàng",
+      "example_en": "Understanding each stage of the sales funnel helps us turn casual visitors into paying customers.",
+      "example_vi": "Hiểu rõ từng giai đoạn của phễu bán hàng giúp chúng tôi biến khách vãng lai thành khách hàng trả tiền.",
+      "emoji": "🌪️"
+    },
+    {
+      "word": "rebranding",
+      "ipa": "/ˌriːˈbrændɪŋ/",
+      "pos": "n",
+      "vi": "việc tái định vị thương hiệu",
+      "example_en": "After the rebranding, the company adopted a new logo, colour scheme and slogan.",
+      "example_vi": "Sau khi tái định vị thương hiệu, công ty đã áp dụng logo, bảng màu và khẩu hiệu mới.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "endorsement",
+      "ipa": "/ɪnˈdɔːsmənt/",
+      "pos": "n",
+      "vi": "sự chứng thực, quảng bá (của người nổi tiếng)",
+      "example_en": "A celebrity endorsement can dramatically increase sales, but it also carries certain risks.",
+      "example_vi": "Sự chứng thực của người nổi tiếng có thể làm tăng mạnh doanh số, nhưng cũng đi kèm những rủi ro nhất định.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "demographic",
+      "ipa": "/ˌdeməˈɡræfɪk/",
+      "pos": "n",
+      "vi": "nhóm nhân khẩu học",
+      "example_en": "The product is aimed at a younger demographic that spends most of its time online.",
+      "example_vi": "Sản phẩm nhắm đến nhóm nhân khẩu học trẻ tuổi dành phần lớn thời gian trực tuyến.",
+      "emoji": "👥"
+    },
+    {
+      "word": "brand equity",
+      "ipa": "/ˌbrænd ˈekwəti/",
+      "pos": "n",
+      "vi": "giá trị thương hiệu",
+      "example_en": "Decades of consistent quality have given the company enormous brand equity.",
+      "example_vi": "Nhiều thập kỷ duy trì chất lượng ổn định đã mang lại cho công ty giá trị thương hiệu khổng lồ.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "viral marketing",
+      "ipa": "/ˌvaɪrəl ˈmɑːkɪtɪŋ/",
+      "pos": "n",
+      "vi": "tiếp thị lan truyền",
+      "example_en": "Their viral marketing video was shared millions of times within just a few days.",
+      "example_vi": "Video tiếp thị lan truyền của họ được chia sẻ hàng triệu lần chỉ trong vài ngày.",
+      "emoji": "🦠"
+    },
+    {
+      "word": "click-through rate",
+      "ipa": "/ˈklɪk θruː reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ nhấp chuột (CTR)",
+      "example_en": "A catchy headline can significantly raise the click-through rate of an email campaign.",
+      "example_vi": "Một tiêu đề bắt mắt có thể làm tăng đáng kể tỷ lệ nhấp chuột của một chiến dịch email.",
+      "emoji": "🖱️"
+    },
+    {
+      "word": "influencer",
+      "ipa": "/ˈɪnfluənsə/",
+      "pos": "n",
+      "vi": "người có sức ảnh hưởng",
+      "example_en": "The brand partnered with a popular influencer to reach a wider online audience.",
+      "example_vi": "Thương hiệu đã hợp tác với một người có sức ảnh hưởng nổi tiếng để tiếp cận lượng khán giả trực tuyến rộng hơn.",
+      "emoji": "📱"
+    },
+    {
+      "word": "unique selling point",
+      "ipa": "/juˌniːk ˈselɪŋ pɔɪnt/",
+      "pos": "n",
+      "vi": "điểm bán hàng độc nhất (USP)",
+      "example_en": "Our unique selling point is that every item is handmade from fully recycled materials.",
+      "example_vi": "Điểm bán hàng độc nhất của chúng tôi là mọi sản phẩm đều được làm thủ công từ vật liệu tái chế hoàn toàn.",
+      "emoji": "💎"
+    }
+  ]
+}

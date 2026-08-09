@@ -1,0 +1,195 @@
+{
+  "id": 3016,
+  "slug": "travel-6",
+  "title_en": "At the Restaurant",
+  "title_vi": "Ở nhà hàng",
+  "emoji": "🍽️",
+  "tier": "special",
+  "level": "A2–B1",
+  "groupKey": "travel",
+  "groupEn": "Travel & Everyday",
+  "group": "Du lịch & giao tiếp",
+  "groupEmoji": "✈️",
+  "words": [
+    {
+      "word": "menu",
+      "ipa": "/ˈmenjuː/",
+      "pos": "n",
+      "vi": "thực đơn",
+      "example_en": "Can I see the menu, please?",
+      "example_vi": "Cho tôi xem thực đơn được không?",
+      "emoji": "📋"
+    },
+    {
+      "word": "starter",
+      "ipa": "/ˈstɑːtə/",
+      "pos": "n",
+      "vi": "món khai vị",
+      "example_en": "For my starter, I'll have the tomato soup.",
+      "example_vi": "Cho món khai vị, tôi sẽ dùng súp cà chua.",
+      "emoji": "🥗"
+    },
+    {
+      "word": "main course",
+      "ipa": "/ˌmeɪn ˈkɔːs/",
+      "pos": "n",
+      "vi": "món chính",
+      "example_en": "What would you like for your main course?",
+      "example_vi": "Bạn muốn dùng gì cho món chính?",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "dessert",
+      "ipa": "/dɪˈzɜːt/",
+      "pos": "n",
+      "vi": "món tráng miệng",
+      "example_en": "We had ice cream for dessert.",
+      "example_vi": "Chúng tôi ăn kem cho món tráng miệng.",
+      "emoji": "🍰"
+    },
+    {
+      "word": "waiter",
+      "ipa": "/ˈweɪtə/",
+      "pos": "n",
+      "vi": "phục vụ nam (bồi bàn nam)",
+      "example_en": "The waiter brought us the menu.",
+      "example_vi": "Người phục vụ mang thực đơn cho chúng tôi.",
+      "emoji": "🤵"
+    },
+    {
+      "word": "waitress",
+      "ipa": "/ˈweɪtrəs/",
+      "pos": "n",
+      "vi": "phục vụ nữ (bồi bàn nữ)",
+      "example_en": "The waitress asked what we wanted to drink.",
+      "example_vi": "Nữ phục vụ hỏi chúng tôi muốn uống gì.",
+      "emoji": "💁‍♀️"
+    },
+    {
+      "word": "order",
+      "ipa": "/ˈɔːdə/",
+      "pos": "v",
+      "vi": "gọi món",
+      "example_en": "Are you ready to order your food?",
+      "example_vi": "Bạn đã sẵn sàng gọi món chưa?",
+      "emoji": "📝"
+    },
+    {
+      "word": "reserve a table",
+      "ipa": "/rɪˌzɜːv ə ˈteɪbl/",
+      "pos": "phr",
+      "vi": "đặt bàn",
+      "example_en": "I'd like to reserve a table for tonight.",
+      "example_vi": "Tôi muốn đặt bàn cho tối nay.",
+      "emoji": "📅"
+    },
+    {
+      "word": "bill",
+      "ipa": "/bɪl/",
+      "pos": "n",
+      "vi": "hóa đơn (tính tiền)",
+      "example_en": "Can we have the bill, please?",
+      "example_vi": "Cho chúng tôi xin hóa đơn được không?",
+      "emoji": "🧾"
+    },
+    {
+      "word": "napkin",
+      "ipa": "/ˈnæpkɪn/",
+      "pos": "n",
+      "vi": "khăn ăn",
+      "example_en": "She put a napkin on her lap before eating.",
+      "example_vi": "Cô ấy đặt khăn ăn lên đùi trước khi ăn.",
+      "emoji": "🧻"
+    },
+    {
+      "word": "cutlery",
+      "ipa": "/ˈkʌtləri/",
+      "pos": "n",
+      "vi": "bộ dao thìa nĩa",
+      "example_en": "The waiter put clean cutlery on the table.",
+      "example_vi": "Người phục vụ đặt bộ dao thìa nĩa sạch lên bàn.",
+      "emoji": "🍴"
+    },
+    {
+      "word": "vegetarian",
+      "ipa": "/ˌvedʒəˈteəriən/",
+      "pos": "n, adj",
+      "vi": "người ăn chay; (thuộc) đồ chay",
+      "example_en": "My sister is a vegetarian, so she doesn't eat meat.",
+      "example_vi": "Chị tôi ăn chay, nên chị ấy không ăn thịt.",
+      "emoji": "🥦"
+    },
+    {
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "pos": "adj",
+      "vi": "cay",
+      "example_en": "This curry is too spicy for me.",
+      "example_vi": "Món cà ri này quá cay đối với tôi.",
+      "emoji": "🌶️"
+    },
+    {
+      "word": "still water",
+      "ipa": "/ˌstɪl ˈwɔːtə/",
+      "pos": "n",
+      "vi": "nước (khoáng) không ga",
+      "example_en": "I'll have a bottle of still water, please.",
+      "example_vi": "Cho tôi một chai nước không ga.",
+      "emoji": "💧"
+    },
+    {
+      "word": "sparkling water",
+      "ipa": "/ˌspɑːklɪŋ ˈwɔːtə/",
+      "pos": "n",
+      "vi": "nước (khoáng) có ga",
+      "example_en": "She ordered a glass of sparkling water.",
+      "example_vi": "Cô ấy gọi một ly nước có ga.",
+      "emoji": "🫧"
+    },
+    {
+      "word": "side dish",
+      "ipa": "/ˈsaɪd dɪʃ/",
+      "pos": "n",
+      "vi": "món ăn kèm",
+      "example_en": "I'll have chips as a side dish.",
+      "example_vi": "Tôi sẽ dùng khoai tây chiên làm món ăn kèm.",
+      "emoji": "🍟"
+    },
+    {
+      "word": "dish of the day",
+      "ipa": "/ˌdɪʃ əv ðə ˈdeɪ/",
+      "pos": "n",
+      "vi": "món đặc biệt trong ngày",
+      "example_en": "The dish of the day is grilled fish.",
+      "example_vi": "Món đặc biệt trong ngày là cá nướng.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "tap water",
+      "ipa": "/ˈtæp wɔːtə/",
+      "pos": "n",
+      "vi": "nước máy (nước vòi)",
+      "example_en": "Could I just have some tap water, please?",
+      "example_vi": "Cho tôi xin ít nước máy thôi được không?",
+      "emoji": "🚰"
+    },
+    {
+      "word": "table for two",
+      "ipa": "/ˌteɪbl fə ˈtuː/",
+      "pos": "phr",
+      "vi": "bàn cho hai người",
+      "example_en": "We booked a table for two at eight o'clock.",
+      "example_vi": "Chúng tôi đã đặt một bàn cho hai người lúc tám giờ.",
+      "emoji": "🪑"
+    },
+    {
+      "word": "tasty",
+      "ipa": "/ˈteɪsti/",
+      "pos": "adj",
+      "vi": "ngon",
+      "example_en": "The pizza was really tasty.",
+      "example_vi": "Chiếc pizza thật sự rất ngon.",
+      "emoji": "😋"
+    }
+  ]
+}

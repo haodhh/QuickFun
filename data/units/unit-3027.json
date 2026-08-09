@@ -1,0 +1,195 @@
+{
+  "id": 3027,
+  "slug": "toeic-7",
+  "title_en": "Customer Service",
+  "title_vi": "Dịch vụ khách hàng",
+  "emoji": "☎️",
+  "tier": "special",
+  "level": "B1–B2",
+  "groupKey": "toeic",
+  "groupEn": "TOEIC / Office",
+  "group": "TOEIC & công sở",
+  "groupEmoji": "🏢",
+  "words": [
+    {
+      "word": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "pos": "n",
+      "vi": "lời phàn nàn, khiếu nại",
+      "example_en": "The manager listened carefully to every customer complaint.",
+      "example_vi": "Người quản lý lắng nghe cẩn thận mọi lời phàn nàn của khách hàng.",
+      "emoji": "😤"
+    },
+    {
+      "word": "warranty",
+      "ipa": "/ˈwɒrənti/",
+      "pos": "n",
+      "vi": "chế độ bảo hành",
+      "example_en": "This laptop comes with a two-year warranty.",
+      "example_vi": "Chiếc laptop này đi kèm chế độ bảo hành hai năm.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "helpline",
+      "ipa": "/ˈhelplaɪn/",
+      "pos": "n",
+      "vi": "đường dây hỗ trợ",
+      "example_en": "If you have a problem, please call our free helpline.",
+      "example_vi": "Nếu bạn gặp vấn đề, vui lòng gọi đường dây hỗ trợ miễn phí của chúng tôi.",
+      "emoji": "☎️"
+    },
+    {
+      "word": "inquiry",
+      "ipa": "/ɪnˈkwaɪəri/",
+      "pos": "n",
+      "vi": "yêu cầu thông tin, thắc mắc",
+      "example_en": "We received several inquiries about the new delivery service.",
+      "example_vi": "Chúng tôi nhận được vài thắc mắc về dịch vụ giao hàng mới.",
+      "emoji": "❓"
+    },
+    {
+      "word": "customer satisfaction",
+      "ipa": "/ˌkʌstəmə ˌsætɪsˈfækʃn/",
+      "pos": "phr",
+      "vi": "sự hài lòng của khách hàng",
+      "example_en": "The company runs surveys to measure customer satisfaction.",
+      "example_vi": "Công ty thực hiện các khảo sát để đo sự hài lòng của khách hàng.",
+      "emoji": "😊"
+    },
+    {
+      "word": "loyalty program",
+      "ipa": "/ˈlɔɪəlti ˌprəʊɡræm/",
+      "pos": "phr",
+      "vi": "chương trình khách hàng thân thiết",
+      "example_en": "Members of the loyalty program earn points on every purchase.",
+      "example_vi": "Thành viên của chương trình khách hàng thân thiết được tích điểm cho mỗi lần mua.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "review",
+      "ipa": "/rɪˈvjuː/",
+      "pos": "n",
+      "vi": "bài đánh giá, nhận xét",
+      "example_en": "Before buying online, I always read the customer reviews.",
+      "example_vi": "Trước khi mua online, tôi luôn đọc các bài đánh giá của khách hàng.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "apologize",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "pos": "v",
+      "vi": "xin lỗi",
+      "example_en": "The staff apologized for the delay and offered a discount.",
+      "example_vi": "Nhân viên đã xin lỗi vì sự chậm trễ và tặng một khoản giảm giá.",
+      "emoji": "🙏"
+    },
+    {
+      "word": "resolve an issue",
+      "ipa": "/rɪˈzɒlv ən ˈɪʃuː/",
+      "pos": "phr",
+      "vi": "giải quyết một vấn đề",
+      "example_en": "Our team works hard to resolve every issue within 24 hours.",
+      "example_vi": "Đội của chúng tôi cố gắng giải quyết mọi vấn đề trong vòng 24 giờ.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "support ticket",
+      "ipa": "/səˈpɔːt ˌtɪkɪt/",
+      "pos": "phr",
+      "vi": "phiếu yêu cầu hỗ trợ",
+      "example_en": "Please open a support ticket and we will reply soon.",
+      "example_vi": "Vui lòng tạo một phiếu yêu cầu hỗ trợ và chúng tôi sẽ sớm phản hồi.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "callback",
+      "ipa": "/ˈkɔːlbæk/",
+      "pos": "n",
+      "vi": "cuộc gọi lại",
+      "example_en": "The agent promised a callback within thirty minutes.",
+      "example_vi": "Nhân viên hứa sẽ có một cuộc gọi lại trong vòng ba mươi phút.",
+      "emoji": "📞"
+    },
+    {
+      "word": "FAQ",
+      "ipa": "/ˌef eɪ ˈkjuː/",
+      "pos": "n",
+      "vi": "câu hỏi thường gặp",
+      "example_en": "You can find the answer in the FAQ section of our website.",
+      "example_vi": "Bạn có thể tìm câu trả lời trong mục câu hỏi thường gặp trên trang web của chúng tôi.",
+      "emoji": "📋"
+    },
+    {
+      "word": "exchange",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "pos": "v",
+      "vi": "đổi (hàng)",
+      "example_en": "You can exchange the shirt for a bigger size within a week.",
+      "example_vi": "Bạn có thể đổi chiếc áo lấy cỡ lớn hơn trong vòng một tuần.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "customer retention",
+      "ipa": "/ˌkʌstəmə rɪˈtenʃn/",
+      "pos": "phr",
+      "vi": "việc giữ chân khách hàng",
+      "example_en": "Good service is the key to strong customer retention.",
+      "example_vi": "Dịch vụ tốt là chìa khóa để giữ chân khách hàng hiệu quả.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "live chat",
+      "ipa": "/ˌlaɪv ˈtʃæt/",
+      "pos": "phr",
+      "vi": "trò chuyện trực tuyến",
+      "example_en": "I asked about my order using the live chat on their site.",
+      "example_vi": "Tôi hỏi về đơn hàng của mình bằng công cụ trò chuyện trực tuyến trên trang của họ.",
+      "emoji": "💬"
+    },
+    {
+      "word": "escalate",
+      "ipa": "/ˈeskəleɪt/",
+      "pos": "v",
+      "vi": "chuyển lên cấp cao hơn",
+      "example_en": "If we cannot help you, we will escalate the problem to a manager.",
+      "example_vi": "Nếu không thể giúp bạn, chúng tôi sẽ chuyển vấn đề lên quản lý.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "after-sales service",
+      "ipa": "/ˌɑːftə seɪlz ˈsɜːvɪs/",
+      "pos": "phr",
+      "vi": "dịch vụ hậu mãi",
+      "example_en": "Their excellent after-sales service keeps customers coming back.",
+      "example_vi": "Dịch vụ hậu mãi tuyệt vời của họ khiến khách hàng quay lại.",
+      "emoji": "🛠️"
+    },
+    {
+      "word": "courteous",
+      "ipa": "/ˈkɜːtiəs/",
+      "pos": "adj",
+      "vi": "lịch sự, nhã nhặn",
+      "example_en": "The receptionist was always courteous and helpful.",
+      "example_vi": "Nhân viên lễ tân luôn lịch sự và sẵn sàng giúp đỡ.",
+      "emoji": "🎩"
+    },
+    {
+      "word": "waiting time",
+      "ipa": "/ˈweɪtɪŋ taɪm/",
+      "pos": "phr",
+      "vi": "thời gian chờ",
+      "example_en": "The average waiting time on the phone is under five minutes.",
+      "example_vi": "Thời gian chờ trung bình qua điện thoại là dưới năm phút.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "goodwill",
+      "ipa": "/ˌɡʊdˈwɪl/",
+      "pos": "n",
+      "vi": "thiện chí",
+      "example_en": "As a gesture of goodwill, they gave her a free replacement.",
+      "example_vi": "Như một cử chỉ thiện chí, họ tặng cô ấy một sản phẩm thay thế miễn phí.",
+      "emoji": "💛"
+    }
+  ]
+}

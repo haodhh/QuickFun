@@ -1,0 +1,195 @@
+{
+  "id": 3046,
+  "slug": "ielts-6",
+  "title_en": "Education & Learning",
+  "title_vi": "Giáo dục & học tập",
+  "emoji": "🎓",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "ielts",
+  "groupEn": "IELTS Academic",
+  "group": "Luyện thi IELTS",
+  "groupEmoji": "🎓",
+  "words": [
+    {
+      "word": "curriculum",
+      "ipa": "/kəˈrɪkjələm/",
+      "pos": "n",
+      "vi": "chương trình giảng dạy",
+      "example_en": "The new curriculum places greater emphasis on problem-solving skills.",
+      "example_vi": "Chương trình giảng dạy mới chú trọng hơn vào kỹ năng giải quyết vấn đề.",
+      "emoji": "📚"
+    },
+    {
+      "word": "tuition fees",
+      "ipa": "/tjuˈɪʃn fiːz/",
+      "pos": "n",
+      "vi": "học phí",
+      "example_en": "Many students take out loans to cover their rising tuition fees.",
+      "example_vi": "Nhiều sinh viên phải vay tiền để trang trải học phí ngày càng tăng.",
+      "emoji": "💰"
+    },
+    {
+      "word": "higher education",
+      "ipa": "/ˌhaɪər edʒuˈkeɪʃn/",
+      "pos": "n",
+      "vi": "giáo dục đại học",
+      "example_en": "Access to higher education has expanded significantly over the past decade.",
+      "example_vi": "Cơ hội tiếp cận giáo dục đại học đã mở rộng đáng kể trong thập kỷ qua.",
+      "emoji": "🎓"
+    },
+    {
+      "word": "vocational training",
+      "ipa": "/vəʊˈkeɪʃənl ˈtreɪnɪŋ/",
+      "pos": "n",
+      "vi": "đào tạo nghề",
+      "example_en": "Vocational training equips young people with practical, job-ready skills.",
+      "example_vi": "Đào tạo nghề trang bị cho người trẻ những kỹ năng thực tiễn, sẵn sàng cho công việc.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "academic performance",
+      "ipa": "/ˌækəˈdemɪk pəˈfɔːməns/",
+      "pos": "n",
+      "vi": "thành tích học tập",
+      "example_en": "A lack of sleep can seriously affect a student's academic performance.",
+      "example_vi": "Thiếu ngủ có thể ảnh hưởng nghiêm trọng đến thành tích học tập của học sinh.",
+      "emoji": "📊"
+    },
+    {
+      "word": "rote learning",
+      "ipa": "/rəʊt ˈlɜːnɪŋ/",
+      "pos": "n",
+      "vi": "học vẹt, học thuộc lòng",
+      "example_en": "Critics argue that rote learning discourages genuine understanding.",
+      "example_vi": "Những người chỉ trích cho rằng học vẹt cản trở sự hiểu biết thực sự.",
+      "emoji": "🦜"
+    },
+    {
+      "word": "critical thinking",
+      "ipa": "/ˌkrɪtɪkl ˈθɪŋkɪŋ/",
+      "pos": "n",
+      "vi": "tư duy phản biện",
+      "example_en": "Universities aim to develop students' critical thinking rather than mere memorisation.",
+      "example_vi": "Các trường đại học hướng đến phát triển tư duy phản biện của sinh viên thay vì chỉ ghi nhớ.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "lifelong learning",
+      "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+      "pos": "n",
+      "vi": "học tập suốt đời",
+      "example_en": "In a fast-changing economy, lifelong learning is essential for career progression.",
+      "example_vi": "Trong một nền kinh tế thay đổi nhanh, học tập suốt đời là điều thiết yếu cho sự thăng tiến nghề nghiệp.",
+      "emoji": "♾️"
+    },
+    {
+      "word": "scholarship",
+      "ipa": "/ˈskɒləʃɪp/",
+      "pos": "n",
+      "vi": "học bổng",
+      "example_en": "She won a full scholarship to study engineering abroad.",
+      "example_vi": "Cô ấy giành được học bổng toàn phần để du học ngành kỹ thuật.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "undergraduate",
+      "ipa": "/ˌʌndəˈɡrædʒuət/",
+      "pos": "n",
+      "vi": "sinh viên đại học (chưa tốt nghiệp)",
+      "example_en": "As an undergraduate, he spent most of his time in the library.",
+      "example_vi": "Khi còn là sinh viên đại học, anh ấy dành phần lớn thời gian ở thư viện.",
+      "emoji": "🎒"
+    },
+    {
+      "word": "compulsory education",
+      "ipa": "/kəmˈpʌlsəri edʒuˈkeɪʃn/",
+      "pos": "n",
+      "vi": "giáo dục bắt buộc",
+      "example_en": "In most countries, compulsory education continues until the age of sixteen.",
+      "example_vi": "Ở hầu hết các quốc gia, giáo dục bắt buộc kéo dài đến năm mười sáu tuổi.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "distance learning",
+      "ipa": "/ˈdɪstəns ˈlɜːnɪŋ/",
+      "pos": "n",
+      "vi": "học từ xa",
+      "example_en": "Distance learning allows people in remote areas to earn a degree online.",
+      "example_vi": "Học từ xa cho phép người dân ở vùng xa xôi lấy bằng cấp qua mạng.",
+      "emoji": "💻"
+    },
+    {
+      "word": "extracurricular activities",
+      "ipa": "/ˌekstrəkəˈrɪkjələr ækˈtɪvətiz/",
+      "pos": "n",
+      "vi": "hoạt động ngoại khóa",
+      "example_en": "Extracurricular activities such as sports and music help students develop teamwork.",
+      "example_vi": "Các hoạt động ngoại khóa như thể thao và âm nhạc giúp học sinh phát triển tinh thần làm việc nhóm.",
+      "emoji": "⚽"
+    },
+    {
+      "word": "literacy rate",
+      "ipa": "/ˈlɪtərəsi reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ biết chữ",
+      "example_en": "Government investment in schools has steadily raised the country's literacy rate.",
+      "example_vi": "Đầu tư của chính phủ vào trường học đã dần nâng cao tỷ lệ biết chữ của đất nước.",
+      "emoji": "📖"
+    },
+    {
+      "word": "teaching methodology",
+      "ipa": "/ˈtiːtʃɪŋ ˌmeθəˈdɒlədʒi/",
+      "pos": "n",
+      "vi": "phương pháp giảng dạy",
+      "example_en": "Modern teaching methodology encourages interaction rather than passive listening.",
+      "example_vi": "Phương pháp giảng dạy hiện đại khuyến khích tương tác thay vì nghe thụ động.",
+      "emoji": "👩‍🏫"
+    },
+    {
+      "word": "student retention",
+      "ipa": "/ˈstjuːdnt rɪˈtenʃn/",
+      "pos": "n",
+      "vi": "tỷ lệ giữ chân sinh viên",
+      "example_en": "The college introduced mentoring programmes to improve student retention.",
+      "example_vi": "Trường cao đẳng đã đưa ra các chương trình cố vấn để cải thiện tỷ lệ giữ chân sinh viên.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "peer pressure",
+      "ipa": "/pɪə ˈpreʃə/",
+      "pos": "n",
+      "vi": "áp lực từ bạn bè đồng trang lứa",
+      "example_en": "Teenagers often make poor choices because of peer pressure.",
+      "example_vi": "Thanh thiếu niên thường đưa ra lựa chọn sai lầm vì áp lực từ bạn bè đồng trang lứa.",
+      "emoji": "👥"
+    },
+    {
+      "word": "academic qualifications",
+      "ipa": "/ˌækəˈdemɪk ˌkwɒlɪfɪˈkeɪʃnz/",
+      "pos": "n",
+      "vi": "bằng cấp học thuật",
+      "example_en": "Employers increasingly value practical experience alongside academic qualifications.",
+      "example_vi": "Các nhà tuyển dụng ngày càng coi trọng kinh nghiệm thực tế bên cạnh bằng cấp học thuật.",
+      "emoji": "📜"
+    },
+    {
+      "word": "dropout rate",
+      "ipa": "/ˈdrɒpaʊt reɪt/",
+      "pos": "n",
+      "vi": "tỷ lệ bỏ học",
+      "example_en": "Financial hardship is a major cause of the high dropout rate at universities.",
+      "example_vi": "Khó khăn tài chính là nguyên nhân chính dẫn đến tỷ lệ bỏ học cao ở các trường đại học.",
+      "emoji": "📉"
+    },
+    {
+      "word": "cognitive development",
+      "ipa": "/ˈkɒɡnətɪv dɪˈveləpmənt/",
+      "pos": "n",
+      "vi": "sự phát triển nhận thức",
+      "example_en": "Early childhood education plays a crucial role in cognitive development.",
+      "example_vi": "Giáo dục mầm non đóng vai trò quan trọng trong sự phát triển nhận thức.",
+      "emoji": "🧩"
+    }
+  ]
+}

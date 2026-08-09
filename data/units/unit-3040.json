@@ -1,0 +1,195 @@
+{
+  "id": 3040,
+  "slug": "business-10",
+  "title_en": "Leadership & Management",
+  "title_vi": "Quản trị & lãnh đạo",
+  "emoji": "👔",
+  "tier": "special",
+  "level": "B2–C1",
+  "groupKey": "business",
+  "groupEn": "Business English",
+  "group": "Thương mại & kinh doanh",
+  "groupEmoji": "💼",
+  "words": [
+    {
+      "word": "delegation",
+      "ipa": "/ˌdel.ɪˈɡeɪ.ʃən/",
+      "pos": "n",
+      "vi": "sự uỷ quyền, giao việc",
+      "example_en": "Effective delegation allows managers to focus on strategy while trusting their team to handle day-to-day tasks.",
+      "example_vi": "Việc uỷ quyền hiệu quả giúp nhà quản lý tập trung vào chiến lược trong khi tin tưởng giao cho nhóm xử lý các công việc hằng ngày.",
+      "emoji": "📋"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊn.təˈbɪl.ə.ti/",
+      "pos": "n",
+      "vi": "trách nhiệm giải trình",
+      "example_en": "Strong leaders foster a culture of accountability, where everyone takes ownership of their results.",
+      "example_vi": "Những nhà lãnh đạo giỏi nuôi dưỡng văn hoá trách nhiệm giải trình, nơi mọi người tự chịu trách nhiệm về kết quả của mình.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "employee engagement",
+      "ipa": "/ɪmˌplɔɪ.iː ɪnˈɡeɪdʒ.mənt/",
+      "pos": "phr",
+      "vi": "sự gắn kết của nhân viên",
+      "example_en": "Companies with high employee engagement tend to report lower turnover and greater profitability.",
+      "example_vi": "Các công ty có mức độ gắn kết nhân viên cao thường có tỷ lệ nghỉ việc thấp hơn và lợi nhuận cao hơn.",
+      "emoji": "🙌"
+    },
+    {
+      "word": "performance review",
+      "ipa": "/pəˈfɔː.məns rɪˌvjuː/",
+      "pos": "phr",
+      "vi": "đánh giá hiệu suất làm việc",
+      "example_en": "During her annual performance review, the manager praised her leadership and set new goals for the coming year.",
+      "example_vi": "Trong buổi đánh giá hiệu suất hằng năm, người quản lý khen ngợi khả năng lãnh đạo của cô và đặt ra các mục tiêu mới cho năm tới.",
+      "emoji": "📊"
+    },
+    {
+      "word": "key performance indicator",
+      "ipa": "/ˌkiː pəˈfɔː.məns ˈɪn.dɪ.keɪ.tə/",
+      "pos": "phr",
+      "vi": "chỉ số hiệu suất chính (KPI)",
+      "example_en": "Sales revenue is the key performance indicator we use to measure the success of each regional team.",
+      "example_vi": "Doanh thu bán hàng là chỉ số hiệu suất chính mà chúng tôi dùng để đo lường thành công của mỗi nhóm khu vực.",
+      "emoji": "🎯"
+    },
+    {
+      "word": "onboarding",
+      "ipa": "/ˈɒnˌbɔː.dɪŋ/",
+      "pos": "n",
+      "vi": "quá trình hội nhập nhân viên mới",
+      "example_en": "A well-structured onboarding process helps new hires feel confident and productive within their first few weeks.",
+      "example_vi": "Một quy trình hội nhập bài bản giúp nhân viên mới cảm thấy tự tin và làm việc hiệu quả ngay trong vài tuần đầu.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "mentoring",
+      "ipa": "/ˈmen.tər.ɪŋ/",
+      "pos": "n",
+      "vi": "sự cố vấn, dìu dắt",
+      "example_en": "Through regular mentoring, senior staff pass on valuable skills and guide junior colleagues in their careers.",
+      "example_vi": "Thông qua việc cố vấn thường xuyên, nhân viên kỳ cựu truyền lại những kỹ năng quý giá và dìu dắt đồng nghiệp trẻ trong sự nghiệp.",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "word": "team building",
+      "ipa": "/ˈtiːm ˌbɪl.dɪŋ/",
+      "pos": "phr",
+      "vi": "xây dựng tinh thần đồng đội",
+      "example_en": "The company organises regular team-building activities to strengthen trust and collaboration among staff.",
+      "example_vi": "Công ty tổ chức các hoạt động xây dựng đội ngũ thường xuyên để củng cố sự tin tưởng và hợp tác giữa các nhân viên.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "decision-making",
+      "ipa": "/dɪˈsɪʒ.ən ˌmeɪ.kɪŋ/",
+      "pos": "n",
+      "vi": "việc ra quyết định",
+      "example_en": "Good managers involve their teams in decision-making to ensure that everyone feels heard and committed.",
+      "example_vi": "Nhà quản lý giỏi để nhóm tham gia vào việc ra quyết định nhằm đảm bảo mọi người đều cảm thấy được lắng nghe và gắn kết.",
+      "emoji": "🤔"
+    },
+    {
+      "word": "empowerment",
+      "ipa": "/ɪmˈpaʊə.mənt/",
+      "pos": "n",
+      "vi": "sự trao quyền",
+      "example_en": "Employee empowerment gives staff the authority and confidence to solve problems without constant approval.",
+      "example_vi": "Việc trao quyền cho nhân viên giúp họ có thẩm quyền và sự tự tin để giải quyết vấn đề mà không cần phê duyệt liên tục.",
+      "emoji": "💪"
+    },
+    {
+      "word": "corporate culture",
+      "ipa": "/ˌkɔː.pər.ət ˈkʌl.tʃə/",
+      "pos": "phr",
+      "vi": "văn hoá doanh nghiệp",
+      "example_en": "A positive corporate culture can attract top talent and keep employees loyal for years.",
+      "example_vi": "Một văn hoá doanh nghiệp tích cực có thể thu hút nhân tài hàng đầu và giữ chân nhân viên trung thành trong nhiều năm.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "succession planning",
+      "ipa": "/səkˈseʃ.ən ˌplæn.ɪŋ/",
+      "pos": "phr",
+      "vi": "lập kế hoạch kế nhiệm",
+      "example_en": "Effective succession planning ensures the business runs smoothly when senior leaders retire or move on.",
+      "example_vi": "Việc lập kế hoạch kế nhiệm hiệu quả đảm bảo doanh nghiệp vận hành suôn sẻ khi các lãnh đạo cấp cao nghỉ hưu hoặc rời đi.",
+      "emoji": "👑"
+    },
+    {
+      "word": "micromanagement",
+      "ipa": "/ˌmaɪ.krəʊˈmæn.ɪdʒ.mənt/",
+      "pos": "n",
+      "vi": "quản lý vi mô (quản lý quá chi tiết)",
+      "example_en": "Excessive micromanagement can frustrate skilled employees and stifle their creativity.",
+      "example_vi": "Việc quản lý vi mô quá mức có thể khiến những nhân viên giỏi bực bội và kìm hãm sự sáng tạo của họ.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "workflow",
+      "ipa": "/ˈwɜːk.fləʊ/",
+      "pos": "n",
+      "vi": "quy trình làm việc",
+      "example_en": "By automating repetitive tasks, we streamlined the workflow and cut project delivery time in half.",
+      "example_vi": "Bằng cách tự động hoá các tác vụ lặp đi lặp lại, chúng tôi đã tinh gọn quy trình làm việc và giảm một nửa thời gian bàn giao dự án.",
+      "emoji": "🔄"
+    },
+    {
+      "word": "productivity",
+      "ipa": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+      "pos": "n",
+      "vi": "năng suất",
+      "example_en": "Flexible working hours have significantly boosted productivity across the whole department.",
+      "example_vi": "Giờ làm việc linh hoạt đã cải thiện đáng kể năng suất của toàn bộ phòng ban.",
+      "emoji": "⚡"
+    },
+    {
+      "word": "restructuring",
+      "ipa": "/ˌriːˈstrʌk.tʃər.ɪŋ/",
+      "pos": "n",
+      "vi": "tái cấu trúc",
+      "example_en": "After the merger, the company underwent a major restructuring to eliminate overlapping roles.",
+      "example_vi": "Sau vụ sáp nhập, công ty đã trải qua một cuộc tái cấu trúc lớn để loại bỏ các vị trí chồng chéo.",
+      "emoji": "🏗️"
+    },
+    {
+      "word": "downsizing",
+      "ipa": "/ˈdaʊnˌsaɪ.zɪŋ/",
+      "pos": "n",
+      "vi": "cắt giảm nhân sự/quy mô",
+      "example_en": "The economic downturn forced several firms into downsizing, laying off hundreds of employees.",
+      "example_vi": "Suy thoái kinh tế buộc một số công ty phải cắt giảm nhân sự, sa thải hàng trăm nhân viên.",
+      "emoji": "📉"
+    },
+    {
+      "word": "morale",
+      "ipa": "/məˈrɑːl/",
+      "pos": "n",
+      "vi": "tinh thần (làm việc)",
+      "example_en": "Recognising employees' achievements publicly can do wonders for team morale.",
+      "example_vi": "Việc công khai ghi nhận thành tích của nhân viên có thể cải thiện đáng kể tinh thần của cả nhóm.",
+      "emoji": "🔋"
+    },
+    {
+      "word": "leadership style",
+      "ipa": "/ˈliː.də.ʃɪp ˌstaɪl/",
+      "pos": "phr",
+      "vi": "phong cách lãnh đạo",
+      "example_en": "Her democratic leadership style encourages open discussion before any major decision is made.",
+      "example_vi": "Phong cách lãnh đạo dân chủ của cô khuyến khích thảo luận cởi mở trước khi đưa ra bất kỳ quyết định lớn nào.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "conflict resolution",
+      "ipa": "/ˈkɒn.flɪkt ˌrez.əˈluː.ʃən/",
+      "pos": "phr",
+      "vi": "giải quyết xung đột",
+      "example_en": "Strong conflict resolution skills help managers turn workplace disagreements into productive discussions.",
+      "example_vi": "Kỹ năng giải quyết xung đột tốt giúp nhà quản lý biến những bất đồng nơi công sở thành các cuộc thảo luận hữu ích.",
+      "emoji": "🕊️"
+    }
+  ]
+}

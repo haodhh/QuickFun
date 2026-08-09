@@ -1,0 +1,218 @@
+{
+  "id": 108,
+  "slug": "abc-adverbs",
+  "title_en": "Adverbs & Degree",
+  "title_vi": "Trạng từ & mức độ",
+  "emoji": "📶",
+  "tier": "abc",
+  "level": "A1",
+  "words": [
+    {
+      "word": "very",
+      "ipa": "/ˈveri/",
+      "pos": "adv",
+      "vi": "rất",
+      "example_en": "She is very happy.",
+      "example_vi": "Cô ấy rất vui.",
+      "emoji": "😄"
+    },
+    {
+      "word": "really",
+      "ipa": "/ˈrɪəli/",
+      "pos": "adv",
+      "vi": "thật sự, rất",
+      "example_en": "I really like tea.",
+      "example_vi": "Tôi thật sự thích trà.",
+      "emoji": "💯"
+    },
+    {
+      "word": "too",
+      "ipa": "/tuː/",
+      "pos": "adv",
+      "vi": "quá; cũng",
+      "example_en": "It is too hot.",
+      "example_vi": "Trời quá nóng.",
+      "emoji": "🔥"
+    },
+    {
+      "word": "well",
+      "ipa": "/wel/",
+      "pos": "adv",
+      "vi": "tốt, giỏi",
+      "example_en": "She sings well.",
+      "example_vi": "Cô ấy hát hay.",
+      "emoji": "👍"
+    },
+    {
+      "word": "always",
+      "ipa": "/ˈɔːlweɪz/",
+      "pos": "adv",
+      "vi": "luôn luôn",
+      "example_en": "I always drink water.",
+      "example_vi": "Tôi luôn uống nước.",
+      "emoji": "♾️"
+    },
+    {
+      "word": "usually",
+      "ipa": "/ˈjuːʒuəli/",
+      "pos": "adv",
+      "vi": "thường thường",
+      "example_en": "I usually walk to school.",
+      "example_vi": "Tôi thường đi bộ đến trường.",
+      "emoji": "📅"
+    },
+    {
+      "word": "often",
+      "ipa": "/ˈɒf(ə)n/",
+      "pos": "adv",
+      "vi": "thường xuyên",
+      "example_en": "We often play football.",
+      "example_vi": "Chúng tôi thường chơi bóng đá.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "sometimes",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "pos": "adv",
+      "vi": "thỉnh thoảng",
+      "example_en": "Sometimes I read books.",
+      "example_vi": "Thỉnh thoảng tôi đọc sách.",
+      "emoji": "🔀"
+    },
+    {
+      "word": "never",
+      "ipa": "/ˈnevə/",
+      "pos": "adv",
+      "vi": "không bao giờ",
+      "example_en": "I never eat meat.",
+      "example_vi": "Tôi không bao giờ ăn thịt.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "now",
+      "ipa": "/naʊ/",
+      "pos": "adv",
+      "vi": "bây giờ",
+      "example_en": "Come here now.",
+      "example_vi": "Đến đây ngay bây giờ.",
+      "emoji": "⏰"
+    },
+    {
+      "word": "then",
+      "ipa": "/ðen/",
+      "pos": "adv",
+      "vi": "sau đó, lúc đó",
+      "example_en": "We eat, then we sleep.",
+      "example_vi": "Chúng tôi ăn, sau đó đi ngủ.",
+      "emoji": "⏭️"
+    },
+    {
+      "word": "only",
+      "ipa": "/ˈəʊnli/",
+      "pos": "adv",
+      "vi": "chỉ",
+      "example_en": "I have only one pen.",
+      "example_vi": "Tôi chỉ có một cây bút.",
+      "emoji": "1️⃣"
+    },
+    {
+      "word": "just",
+      "ipa": "/dʒʌst/",
+      "pos": "adv",
+      "vi": "vừa mới; chỉ",
+      "example_en": "I just ate lunch.",
+      "example_vi": "Tôi vừa ăn trưa xong.",
+      "emoji": "⏱️"
+    },
+    {
+      "word": "maybe",
+      "ipa": "/ˈmeɪbi/",
+      "pos": "adv",
+      "vi": "có lẽ",
+      "example_en": "Maybe it will rain.",
+      "example_vi": "Có lẽ trời sẽ mưa.",
+      "emoji": "🤔"
+    },
+    {
+      "word": "here",
+      "ipa": "/hɪə/",
+      "pos": "adv",
+      "vi": "ở đây",
+      "example_en": "My bag is here.",
+      "example_vi": "Cái túi của tôi ở đây.",
+      "emoji": "📍"
+    },
+    {
+      "word": "there",
+      "ipa": "/ðeə/",
+      "pos": "adv",
+      "vi": "ở đó",
+      "example_en": "Your book is there.",
+      "example_vi": "Cuốn sách của bạn ở đó.",
+      "emoji": "👉"
+    },
+    {
+      "word": "up",
+      "ipa": "/ʌp/",
+      "pos": "adv",
+      "vi": "lên trên",
+      "example_en": "Look up at the sky.",
+      "example_vi": "Nhìn lên bầu trời.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "down",
+      "ipa": "/daʊn/",
+      "pos": "adv",
+      "vi": "xuống dưới",
+      "example_en": "Sit down, please.",
+      "example_vi": "Xin mời ngồi xuống.",
+      "emoji": "⬇️"
+    },
+    {
+      "word": "together",
+      "ipa": "/təˈɡeðə/",
+      "pos": "adv",
+      "vi": "cùng nhau",
+      "example_en": "We work together.",
+      "example_vi": "Chúng tôi làm việc cùng nhau.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "early",
+      "ipa": "/ˈɜːli/",
+      "pos": "adv",
+      "vi": "sớm",
+      "example_en": "I wake up early.",
+      "example_vi": "Tôi thức dậy sớm.",
+      "emoji": "🌅"
+    },
+    {
+      "word": "late",
+      "ipa": "/leɪt/",
+      "pos": "adv",
+      "vi": "muộn, trễ",
+      "example_en": "He came home late.",
+      "example_vi": "Anh ấy về nhà muộn.",
+      "emoji": "🌙"
+    },
+    {
+      "word": "slowly",
+      "ipa": "/ˈsləʊli/",
+      "pos": "adv",
+      "vi": "chậm rãi",
+      "example_en": "Please speak slowly.",
+      "example_vi": "Xin hãy nói chậm.",
+      "emoji": "🐢"
+    },
+    {
+      "word": "quickly",
+      "ipa": "/ˈkwɪkli/",
+      "pos": "adv",
+      "vi": "nhanh chóng",
+      "example_en": "She runs quickly.",
+      "example_vi": "Cô ấy chạy nhanh.",
+      "emoji": "🐇"
+    }
+  ]
+}
