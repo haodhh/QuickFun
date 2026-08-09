@@ -2,10 +2,12 @@
 
 Web app học từ vựng tiếng Anh theo **20 chủ đề**, chạy tĩnh (không cần server) — mở trên điện thoại hay máy tính để học mọi lúc, mọi nơi.
 
-- 📖 **Học**: danh sách từ có phiên âm IPA, nghĩa tiếng Việt, câu ví dụ Anh–Việt, nút nghe phát âm, đánh dấu "đã thuộc".
+- 📖 **Học**: danh sách từ có phiên âm IPA, nghĩa tiếng Việt, câu ví dụ Anh–Việt, nút nghe phát âm, đánh dấu "đã thuộc" — kèm mục **🔗 Cụm từ & collocation** (240 cụm) cho mỗi chủ đề.
 - 🃏 **Flashcard**: lật thẻ, xáo trộn, đánh dấu thuộc/chưa thuộc.
-- ✍️ **Kiểm tra**: quiz trắc nghiệm tự sinh (Anh→Việt và Việt→Anh), chấm điểm, lưu kỷ lục.
-- 🔎 **Tìm kiếm**: tra nhanh trong toàn bộ ~744 từ (theo từ tiếng Anh, nghĩa, hoặc câu ví dụ).
+- 🎓 **Luyện tập** (3 dạng): **Trắc nghiệm** (Anh↔Việt), **Điền từ** (điền từ còn thiếu vào câu), **Nghe & viết** (nghe phát âm rồi gõ lại).
+- 🔁 **Ôn tập ngắt quãng (SRS)**: gom từ cần ôn của **tất cả** chủ đề theo thuật toán lặp lại ngắt quãng (SM-2 rút gọn), giới hạn 20 từ mới/ngày, tự lên lịch ôn.
+- 🎯 **Kiểm tra tổng hợp**: bài đánh giá rút ngẫu nhiên từ cả 20 chủ đề (20/30/40 câu), chấm điểm và **phân tích điểm mạnh–yếu theo từng chủ đề** để biết cần ôn gì.
+- 🔎 **Tìm kiếm**: tra nhanh trong toàn bộ 744 từ (theo từ tiếng Anh, nghĩa, hoặc câu ví dụ).
 - 🌙 Giao diện sáng/tối, tối ưu cho điện thoại, lưu tiến độ ngay trong trình duyệt (localStorage).
 
 > **Về nội dung / bản quyền:** App này lấy cảm hứng từ *cấu trúc 20 chủ đề* của cuốn
@@ -86,14 +88,15 @@ Lệnh này kiểm tra tính hợp lệ của từng file rồi gom lại thành
 ## Cấu trúc thư mục
 
 ```
-index.html          # Trang chính
-css/style.css       # Giao diện (sáng/tối, mobile-first)
-js/app.js           # Toàn bộ logic (router, học, flashcard, quiz, tìm kiếm)
-js/data.js          # Dữ liệu đã gộp (tự sinh — đừng sửa tay)
-data/units/*.json   # Nguồn dữ liệu từ vựng (sửa ở đây)
-build.js            # Gộp JSON -> js/data.js
-server.js           # Server tĩnh để xem thử ở máy
-ref/                # Ảnh chụp sách cá nhân (không đưa lên repo công khai)
+index.html                  # Trang chính
+css/style.css               # Giao diện (sáng/tối, mobile-first)
+js/app.js                   # Toàn bộ logic (router, học, flashcard, luyện tập, SRS, kiểm tra, tìm kiếm)
+js/data.js                  # Dữ liệu đã gộp (tự sinh — đừng sửa tay)
+data/units/unit-XX.json     # Nguồn từ vựng của mỗi chủ đề (sửa ở đây)
+data/units/unit-XX.phrases.json  # Cụm từ / collocation của mỗi chủ đề
+build.js                    # Gộp JSON (+ phrases) -> js/data.js
+server.js                   # Server tĩnh để xem thử ở máy
+ref/                        # Ảnh chụp sách cá nhân (không đưa lên repo công khai)
 ```
 
 Chúc bạn học vui! 🎉

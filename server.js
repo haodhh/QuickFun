@@ -26,7 +26,10 @@ http.createServer((req, res) => {
   if (!filePath.startsWith(ROOT)) { res.writeHead(403); res.end("Forbidden"); return; }
   fs.readFile(filePath, (err, data) => {
     if (err) { res.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" }); res.end("404 Not Found"); return; }
-    res.writeHead(200, { "Content-Type": MIME[path.extname(filePath).toLowerCase()] || "application/octet-stream" });
+    res.writeHead(200, {
+      "Content-Type": MIME[path.extname(filePath).toLowerCase()] || "application/octet-stream",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    });
     res.end(data);
   });
 }).listen(PORT, () => console.log("Serving " + ROOT + " at http://localhost:" + PORT));

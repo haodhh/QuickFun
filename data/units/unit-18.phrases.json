@@ -1,0 +1,74 @@
+[
+  {
+    "en": "How is the weather?",
+    "vi": "Thời tiết thế nào?",
+    "example_en": "How is the weather in Da Nang today?",
+    "example_vi": "Thời tiết ở Đà Nẵng hôm nay thế nào?"
+  },
+  {
+    "en": "a sunny day",
+    "vi": "một ngày nắng",
+    "example_en": "It is a sunny day, so let's go to the beach.",
+    "example_vi": "Hôm nay là một ngày nắng, nên hãy ra biển đi."
+  },
+  {
+    "en": "heavy rain",
+    "vi": "mưa to, mưa lớn",
+    "example_en": "There was heavy rain all night.",
+    "example_vi": "Trời mưa to suốt cả đêm."
+  },
+  {
+    "en": "the weather forecast",
+    "vi": "bản tin dự báo thời tiết",
+    "example_en": "The weather forecast says it will be hot tomorrow.",
+    "example_vi": "Bản tin dự báo thời tiết nói ngày mai trời sẽ nóng."
+  },
+  {
+    "en": "it looks like rain",
+    "vi": "trời có vẻ sắp mưa",
+    "example_en": "Take an umbrella, it looks like rain.",
+    "example_vi": "Mang theo ô đi, trời có vẻ sắp mưa."
+  },
+  {
+    "en": "clear up",
+    "vi": "quang mây, trời trở nên đẹp",
+    "example_en": "The sky will clear up in the afternoon.",
+    "example_vi": "Bầu trời sẽ quang mây vào buổi chiều."
+  },
+  {
+    "en": "warm up",
+    "vi": "ấm dần lên",
+    "example_en": "The weather starts to warm up in March.",
+    "example_vi": "Thời tiết bắt đầu ấm dần lên vào tháng Ba."
+  },
+  {
+    "en": "cool down",
+    "vi": "dịu mát đi, hạ nhiệt",
+    "example_en": "It will cool down after the rain.",
+    "example_vi": "Trời sẽ dịu mát đi sau cơn mưa."
+  },
+  {
+    "en": "a strong wind",
+    "vi": "một cơn gió mạnh",
+    "example_en": "A strong wind blew my hat away.",
+    "example_vi": "Một cơn gió mạnh thổi bay chiếc mũ của tôi."
+  },
+  {
+    "en": "under the weather",
+    "vi": "thấy hơi mệt, không khỏe trong người",
+    "example_en": "I feel a bit under the weather, so I will stay home.",
+    "example_vi": "Tôi thấy hơi mệt trong người, nên tôi sẽ ở nhà."
+  },
+  {
+    "en": "get caught in the rain",
+    "vi": "bị dính mưa, mắc mưa",
+    "example_en": "We got caught in the rain on the way home.",
+    "example_vi": "Chúng tôi bị dính mưa trên đường về nhà."
+  },
+  {
+    "en": "the calm before the storm",
+    "vi": "sự yên tĩnh trước cơn bão",
+    "example_en": "The quiet office felt like the calm before the storm.",
+    "example_vi": "Văn phòng yên ắng cho ta cảm giác như sự yên tĩnh trước cơn bão."
+  }
+]
