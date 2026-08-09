@@ -72,6 +72,51 @@
     return out;
   }
 
+  /* --- Resume: remember last-visited unit/tab + recent units --- */
+  var TAB_LABEL = { learn: "Học", cards: "Flashcard", practice: "Luyện tập" };
+  function recordVisit(unitId, tab) {
+    LS.set("qf_last", { u: unitId, tab: tab || "learn", ts: now() });
+    var recent = LS.get("qf_recent", []) || [];
+    recent = recent.filter(function (x) { return x !== unitId; });
+    recent.unshift(unitId);
+    LS.set("qf_recent", recent.slice(0, 8));
+  }
+
+  /* --- Backup / restore / reset (progress lives only in this browser) --- */
+  var PROGRESS_KEYS = ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_theme", "qf_tts_lang", "qf_last", "qf_recent"];
+  function exportProgress() {
+    try {
+      var dump = { app: "quickfun", version: 1, exportedAt: new Date().toISOString(), data: {} };
+      PROGRESS_KEYS.forEach(function (k) { var v = localStorage.getItem(k); if (v != null) dump.data[k] = v; });
+      var blob = new Blob([JSON.stringify(dump, null, 2)], { type: "application/json" });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement("a"); a.href = url; a.download = "quickfun-tien-do.json";
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1500);
+      toast("Đã tạo file sao lưu");
+    } catch (e) { toast("Không tạo được file sao lưu"); }
+  }
+  function importProgress(file) {
+    var reader = new FileReader();
+    reader.onload = function () {
+      try {
+        var obj = JSON.parse(reader.result);
+        if (!obj || obj.app !== "quickfun" || !obj.data) { toast("File sao lưu không hợp lệ"); return; }
+        var n = 0;
+        Object.keys(obj.data).forEach(function (k) { if (/^qf_/.test(k)) { localStorage.setItem(k, obj.data[k]); n++; } });
+        toast("Đã khôi phục " + n + " mục · đang tải lại…");
+        setTimeout(function () { location.reload(); }, 700);
+      } catch (e) { toast("Không đọc được file"); }
+    };
+    reader.readAsText(file);
+  }
+  function resetProgress() {
+    if (!window.confirm("Xóa toàn bộ tiến độ học (từ đã thuộc, lịch ôn, điểm)? Không thể hoàn tác.")) return;
+    ["qf_learned", "qf_quiz", "qf_test_best", "qf_srs", "qf_srs_daily", "qf_last", "qf_recent"].forEach(function (k) { localStorage.removeItem(k); });
+    toast("Đã xóa tiến độ · đang tải lại…");
+    setTimeout(function () { location.hash = "#/"; location.reload(); }, 700);
+  }
+
   var toastTimer;
   function toast(msg) {
     var t = document.getElementById("qf-toast");
@@ -213,6 +258,35 @@
       '</div></section>'
     ));
 
+    // Continue where you left off
+    var last = LS.get("qf_last", null);
+    if (last && findUnit(last.u)) {
+      var lu = findUnit(last.u);
+      var contCard = el(
+        '<button class="continue-card" data-cont>' +
+          '<span class="cc-emoji">▶️</span>' +
+          '<span class="cc-main"><small>Tiếp tục học</small>' +
+          '<b>Unit ' + lu.id + ': ' + esc(lu.title_en) + '</b>' +
+          '<span class="cc-tab">' + (TAB_LABEL[last.tab] || "Học") + ' · ' + esc(lu.title_vi) + '</span></span>' +
+          '<span class="cc-go">→</span>' +
+        '</button>'
+      );
+      contCard.addEventListener("click", function () { location.hash = "#/u/" + lu.id + "/" + (last.tab || "learn"); });
+      wrap.appendChild(contCard);
+    }
+
+    // Recently studied units
+    var recent = (LS.get("qf_recent", []) || []).map(findUnit).filter(Boolean);
+    if (recent.length >= 2) {
+      wrap.appendChild(el('<div class="section-head"><h2>Gần đây</h2></div>'));
+      var rrow = el('<div class="recent-row"></div>');
+      recent.slice(0, 8).forEach(function (u) {
+        rrow.appendChild(el('<button class="recent-chip" data-goto2="' + u.id + '"><span>' + (u.emoji || "📘") + '</span>' + esc(u.title_en) + '</button>'));
+      });
+      rrow.addEventListener("click", function (e) { var b = e.target.closest("[data-goto2]"); if (b) location.hash = "#/u/" + b.getAttribute("data-goto2"); });
+      wrap.appendChild(rrow);
+    }
+
     // Review + Test cards
     wrap.appendChild(el('<div class="section-head"><h2>Ôn tập &amp; đánh giá</h2></div>'));
     var rc = el('<div class="review-cards"></div>');
@@ -264,6 +338,7 @@
     if (!u) { renderNotFound(); return; }
     if (tab === "quiz") tab = "practice"; // back-compat
     tab = tab || "learn";
+    recordVisit(u.id, tab);
 
     var wrap = el('<div class="fade-in"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Tất cả chủ đề</button>'));
@@ -891,13 +966,29 @@
     var test = el('<div class="btn-row"><button class="btn primary" id="s-t1">🔊 “beautiful”</button><button class="btn ghost" id="s-t2">🔊 “Nice to meet you”</button></div>');
     wrap.appendChild(test);
 
-    wrap.appendChild(el('<p class="muted" style="margin-top:18px;font-size:12.5px;line-height:1.6">Phát âm dùng giọng Google Dịch (tự nhiên hơn, cần kết nối mạng). Khi mất mạng, ứng dụng sẽ tạm dùng giọng của thiết bị.</p>'));
+    wrap.appendChild(el('<p class="muted" style="margin-top:14px;font-size:12.5px;line-height:1.6">Phát âm dùng giọng Google Dịch (tự nhiên hơn, cần kết nối mạng). Khi mất mạng, ứng dụng sẽ tạm dùng giọng của thiết bị.</p>'));
+
+    wrap.appendChild(el('<div class="section-head"><h2>Tiến độ học</h2></div>'));
+    var backup = el(
+      '<div class="set-group">' +
+        '<button class="btn ghost" id="s-export">⬇️ Tải file sao lưu tiến độ</button>' +
+        '<button class="btn ghost" id="s-import">⬆️ Khôi phục từ file sao lưu</button>' +
+        '<input type="file" id="s-file" accept="application/json,.json" hidden />' +
+        '<button class="btn danger" id="s-reset">🗑️ Xóa toàn bộ tiến độ</button>' +
+      '</div>'
+    );
+    wrap.appendChild(backup);
+    wrap.appendChild(el('<p class="muted" style="margin-top:14px;font-size:12.5px;line-height:1.6">Tiến độ (từ đã thuộc, lịch ôn tập, điểm số, vị trí đang học…) được lưu <b>trong trình duyệt này</b> — tự động khôi phục mỗi lần bạn quay lại. Nếu đổi máy/trình duyệt hoặc xóa dữ liệu duyệt web, hãy dùng <b>Sao lưu → Khôi phục</b> để mang tiến độ đi theo.</p>'));
 
     render(wrap);
     wrap.querySelector("[data-home]").addEventListener("click", function () { location.hash = "#/"; });
     accBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsLang = b.getAttribute("data-opt"); LS.set("qf_tts_lang", ttsLang); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
     test.querySelector("#s-t1").addEventListener("click", function () { speak("beautiful"); });
     test.querySelector("#s-t2").addEventListener("click", function () { speak("Nice to meet you"); });
+    backup.querySelector("#s-export").addEventListener("click", exportProgress);
+    backup.querySelector("#s-import").addEventListener("click", function () { backup.querySelector("#s-file").click(); });
+    backup.querySelector("#s-file").addEventListener("change", function (e) { if (e.target.files && e.target.files[0]) importProgress(e.target.files[0]); });
+    backup.querySelector("#s-reset").addEventListener("click", resetProgress);
   }
 
   function renderNotFound() {

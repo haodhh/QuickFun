@@ -386,6 +386,19 @@ h1,h2,h3 { line-height: 1.25; margin: 0; }
 .bd-score { font-size: 13px; font-weight: 800; text-align: right; }
 .bd-score.good { color: var(--green); } .bd-score.mid { color: var(--amber); } .bd-score.bad { color: var(--red); }
 
+/* ---------- Continue / recent ---------- */
+.continue-card { display: flex; align-items: center; gap: 14px; width: 100%; text-align: left; border: 1px solid var(--border); background: var(--surface); border-radius: var(--radius); padding: 14px 16px; cursor: pointer; color: var(--text); box-shadow: var(--shadow); margin-bottom: 18px; transition: transform .1s, border-color .15s, box-shadow .15s; }
+.continue-card:hover { border-color: var(--blue); transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+.continue-card .cc-emoji { font-size: 24px; flex: 0 0 auto; }
+.continue-card .cc-main { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.continue-card .cc-main small { color: var(--text-faint); font-size: 11px; text-transform: uppercase; letter-spacing: .4px; }
+.continue-card .cc-main b { font-size: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.continue-card .cc-tab { color: var(--text-soft); font-size: 12.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.continue-card .cc-go { color: var(--blue); font-size: 20px; font-weight: 800; flex: 0 0 auto; }
+.recent-row { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 8px; -webkit-overflow-scrolling: touch; }
+.recent-chip { flex: 0 0 auto; display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 999px; padding: 7px 12px; font-size: 12.5px; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.recent-chip:hover { border-color: var(--blue); }
+
 /* ---------- Settings ---------- */
 .set-group { display: flex; flex-direction: column; gap: 10px; margin-bottom: 6px; }
 .opt-card { display: flex; align-items: center; gap: 12px; text-align: left; background: var(--surface); border: 1.5px solid var(--border); border-radius: 14px; padding: 14px 16px; cursor: pointer; color: var(--text); transition: border-color .12s, background .12s; }

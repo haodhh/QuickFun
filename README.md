@@ -9,7 +9,9 @@ Web app học từ vựng tiếng Anh theo **20 chủ đề**, chạy tĩnh (kh�
 - 🎯 **Kiểm tra tổng hợp**: bài đánh giá rút ngẫu nhiên từ cả 20 chủ đề (20/30/40 câu), chấm điểm và **phân tích điểm mạnh–yếu theo từng chủ đề** để biết cần ôn gì.
 - 🔎 **Tìm kiếm**: tra nhanh trong toàn bộ 744 từ (theo từ tiếng Anh, nghĩa, hoặc câu ví dụ).
 - 🔊 **Phát âm**: vào ⚙️ **Cài đặt** để chọn nguồn phát âm — *Giọng thiết bị* (Web Speech, offline) hoặc *Giọng Google Dịch* (tự nhiên hơn, cần mạng) — và chất giọng Anh-Anh / Anh-Mỹ. Nếu Google không tải được, app tự chuyển về giọng thiết bị.
-- 🌙 Giao diện sáng/tối, tối ưu cho điện thoại, lưu tiến độ ngay trong trình duyệt (localStorage).
+- ▶️ **Học tiếp**: tự nhớ bài/tab đang học dở (nút “Tiếp tục học” + danh sách “Gần đây” ở trang chủ).
+- 💾 **Lưu & mang theo tiến độ**: mọi tiến độ lưu trong trình duyệt (localStorage) — từ đã thuộc, lịch ôn tập, điểm số, vị trí đang học — tự khôi phục khi quay lại. Trong ⚙️ Cài đặt có **Sao lưu → file** và **Khôi phục từ file** để chuyển tiến độ sang máy/trình duyệt khác (vì localStorage chỉ nằm trong 1 trình duyệt và sẽ mất nếu xóa dữ liệu duyệt web).
+- 🌙 Giao diện sáng/tối, tối ưu cho điện thoại.
 
 > Về “Giọng Google Dịch”: dùng endpoint phát âm công khai `translate_tts` của Google Translate (không phải API chính thức, không cần key). Nó cần Internet và về lý thuyết có thể bị Google giới hạn; khi đó app tự dùng lại giọng thiết bị. Nếu cần giọng chuẩn & ổn định 100% kể cả offline, có thể chuyển sang phương án tải sẵn file MP3 (xem phần cuối).
 
