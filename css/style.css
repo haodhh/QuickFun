@@ -386,6 +386,16 @@ h1,h2,h3 { line-height: 1.25; margin: 0; }
 .bd-score { font-size: 13px; font-weight: 800; text-align: right; }
 .bd-score.good { color: var(--green); } .bd-score.mid { color: var(--amber); } .bd-score.bad { color: var(--red); }
 
+/* ---------- Settings ---------- */
+.set-group { display: flex; flex-direction: column; gap: 10px; margin-bottom: 6px; }
+.opt-card { display: flex; align-items: center; gap: 12px; text-align: left; background: var(--surface); border: 1.5px solid var(--border); border-radius: 14px; padding: 14px 16px; cursor: pointer; color: var(--text); transition: border-color .12s, background .12s; }
+.opt-card:hover { border-color: var(--blue); }
+.opt-card.on { border-color: var(--blue); background: var(--blue-050); }
+.opt-card .oc-check { font-size: 18px; color: var(--blue); flex: 0 0 auto; }
+.opt-card .oc-main { display: flex; flex-direction: column; min-width: 0; }
+.opt-card .oc-main b { font-size: 15px; }
+.opt-card .oc-main small { color: var(--text-soft); font-size: 12.5px; }
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
 }

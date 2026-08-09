@@ -26,6 +26,8 @@
   var testBest = LS.get("qf_test_best", 0);   // best % on comprehensive test
   var srs      = LS.get("qf_srs", {});        // key -> {level,due,reps,lapses}
   var srsDaily = LS.get("qf_srs_daily", { date: "", newToday: 0 });
+  var ttsSource = LS.get("qf_tts", "device"); // "device" | "google"
+  var ttsLang   = LS.get("qf_tts_lang", "en-GB"); // "en-GB" | "en-US"
   var NEW_PER_DAY = 20;
   var SRS_INTERVALS = [10 * 60000, 1 * DAY, 3 * DAY, 7 * DAY, 14 * DAY, 30 * DAY, 90 * DAY, 180 * DAY];
 
@@ -107,7 +109,7 @@
   }
 
   /* ------------------------------------------------------------------ *
-   * Pronunciation (Web Speech API — offline)
+   * Pronunciation — device voice (Web Speech) or Google Translate TTS
    * ------------------------------------------------------------------ */
   var speechOK = ("speechSynthesis" in window) && ("SpeechSynthesisUtterance" in window);
   var voices = [];
@@ -115,20 +117,40 @@
   if (speechOK) { loadVoices(); if (typeof window.speechSynthesis.onvoiceschanged !== "undefined") window.speechSynthesis.onvoiceschanged = loadVoices; }
   function pickVoice() {
     if (!voices.length) loadVoices();
-    var pref = ["en-gb", "en_gb", "en-us", "en_us", "en"];
+    var pref = (ttsLang === "en-US") ? ["en-us", "en_us", "en-gb", "en_gb", "en"] : ["en-gb", "en_gb", "en-us", "en_us", "en"];
     for (var p = 0; p < pref.length; p++) for (var i = 0; i < voices.length; i++)
       if (voices[i].lang && voices[i].lang.toLowerCase().indexOf(pref[p]) === 0) return voices[i];
     return null;
   }
-  function speak(text) {
+  var currentAudio = null;
+  function stopSpeak() {
+    try { if (speechOK) window.speechSynthesis.cancel(); } catch (e) {}
+    if (currentAudio) { try { currentAudio.pause(); } catch (e) {} currentAudio = null; }
+  }
+  function speakDevice(text) {
     if (!speechOK) { toast("Trình duyệt không hỗ trợ phát âm"); return; }
     try {
-      window.speechSynthesis.cancel();
+      stopSpeak();
       var u = new SpeechSynthesisUtterance(text);
-      var v = pickVoice(); if (v) { u.voice = v; u.lang = v.lang; } else u.lang = "en-GB";
+      var v = pickVoice(); if (v) { u.voice = v; u.lang = v.lang; } else u.lang = ttsLang || "en-GB";
       u.rate = 0.92; window.speechSynthesis.speak(u);
     } catch (e) { toast("Không phát âm được"); }
   }
+  // Google Translate's public tw-ob TTS endpoint. Not an official API — used only as
+  // an <audio> source (playback needs no CORS). Falls back to the device voice on any error.
+  function speakGoogle(text) {
+    stopSpeak();
+    var tl = (ttsLang === "en-US") ? "en-US" : (ttsLang === "en-GB" ? "en-GB" : "en");
+    var url = "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=" +
+      encodeURIComponent(tl) + "&q=" + encodeURIComponent(text);
+    try {
+      var a = new Audio(url); currentAudio = a;
+      a.onerror = function () { speakDevice(text); };
+      var pr = a.play();
+      if (pr && pr.catch) pr.catch(function () { speakDevice(text); });
+    } catch (e) { speakDevice(text); }
+  }
+  function speak(text) { if (ttsSource === "google") speakGoogle(text); else speakDevice(text); }
   function speakerHTML(cls) { return '<button class="pill-btn speak-btn ' + (cls || "") + '" data-speak title="Nghe phát âm" aria-label="Nghe phát âm">🔊</button>'; }
 
   /* ------------------------------------------------------------------ *
@@ -155,6 +177,7 @@
     applyTheme(next); LS.set("qf_theme", next);
   });
   document.getElementById("btn-search").addEventListener("click", function () { location.hash = "#/search"; });
+  document.getElementById("btn-settings").addEventListener("click", function () { location.hash = "#/settings"; });
 
   /* ------------------------------------------------------------------ *
    * Progress ring
@@ -843,6 +866,45 @@
     paint(""); setTimeout(function () { input.focus(); }, 30);
   }
 
+  /* ================================================================== *
+   * SETTINGS (pronunciation)
+   * ================================================================== */
+  function optionCard(val, on, title, desc) {
+    return el('<button class="opt-card' + (on ? " on" : "") + '" data-opt="' + val + '">' +
+      '<span class="oc-check">' + (on ? "●" : "○") + '</span>' +
+      '<span class="oc-main"><b>' + title + '</b><small>' + desc + '</small></span></button>');
+  }
+  function viewSettings() {
+    var wrap = el('<div class="fade-in"></div>');
+    wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
+    wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">⚙️</div><div><h1>Cài đặt</h1><div class="sub">Tùy chỉnh giọng phát âm</div></div></div>'));
+
+    wrap.appendChild(el('<div class="section-head"><h2>Nguồn phát âm</h2></div>'));
+    var srcBox = el('<div class="set-group"></div>');
+    srcBox.appendChild(optionCard("device", ttsSource === "device", "📴 Giọng thiết bị", "Miễn phí, chạy offline. Chất lượng tùy máy."));
+    srcBox.appendChild(optionCard("google", ttsSource === "google", "🌐 Giọng Google Dịch", "Nghe tự nhiên hơn. Cần kết nối mạng."));
+    wrap.appendChild(srcBox);
+
+    wrap.appendChild(el('<div class="section-head"><h2>Chất giọng</h2></div>'));
+    var accBox = el('<div class="set-group"></div>');
+    accBox.appendChild(optionCard("en-GB", ttsLang === "en-GB", "🇬🇧 Anh - Anh", "British English (en-GB)"));
+    accBox.appendChild(optionCard("en-US", ttsLang === "en-US", "🇺🇸 Anh - Mỹ", "American English (en-US)"));
+    wrap.appendChild(accBox);
+
+    wrap.appendChild(el('<div class="section-head"><h2>Nghe thử</h2></div>'));
+    var test = el('<div class="btn-row"><button class="btn primary" id="s-t1">🔊 “beautiful”</button><button class="btn ghost" id="s-t2">🔊 “Nice to meet you”</button></div>');
+    wrap.appendChild(test);
+
+    wrap.appendChild(el('<p class="muted" style="margin-top:18px;font-size:12.5px;line-height:1.6">Lưu ý: “Giọng Google Dịch” dùng endpoint phát âm công khai của Google Translate — <b>không phải API chính thức</b>, cần mạng và có thể bị giới hạn. Khi không tải được, ứng dụng tự động chuyển về giọng thiết bị.</p>'));
+
+    render(wrap);
+    wrap.querySelector("[data-home]").addEventListener("click", function () { location.hash = "#/"; });
+    srcBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsSource = b.getAttribute("data-opt"); LS.set("qf_tts", ttsSource); toast(ttsSource === "google" ? "Đã bật giọng Google Dịch" : "Đã dùng giọng thiết bị"); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
+    accBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsLang = b.getAttribute("data-opt"); LS.set("qf_tts_lang", ttsLang); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
+    test.querySelector("#s-t1").addEventListener("click", function () { speak("beautiful"); });
+    test.querySelector("#s-t2").addEventListener("click", function () { speak("Nice to meet you"); });
+  }
+
   function renderNotFound() {
     render(el('<div class="empty fade-in"><span class="big">🧭</span>Không tìm thấy trang.<br><button class="btn primary" style="margin-top:14px" onclick="location.hash=\'#/\'">Về trang chủ</button></div>'));
   }
@@ -856,6 +918,7 @@
     var h = location.hash.replace(/^#\/?/, ""); var parts = h.split("/").filter(Boolean);
     if (parts.length === 0) return viewHome();
     if (parts[0] === "search") return viewSearch();
+    if (parts[0] === "settings") return viewSettings();
     if (parts[0] === "review") return viewReview();
     if (parts[0] === "test") return viewTest();
     if (parts[0] === "u" && parts[1]) { var id = parseInt(parts[1], 10); if (isNaN(id)) return renderNotFound(); return viewUnit(id, parts[2] || "learn"); }
