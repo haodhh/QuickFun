@@ -26,7 +26,9 @@
   var testBest = LS.get("qf_test_best", 0);   // best % on comprehensive test
   var srs      = LS.get("qf_srs", {});        // key -> {level,due,reps,lapses}
   var srsDaily = LS.get("qf_srs_daily", { date: "", newToday: 0 });
-  var ttsSource = LS.get("qf_tts", "device"); // "device" | "google"
+  // Pronunciation always uses the Google voice (site runs online on Pages);
+  // it auto-falls back to the device voice only if Google can't be reached.
+  var ttsSource = "google";
   var ttsLang   = LS.get("qf_tts_lang", "en-GB"); // "en-GB" | "en-US"
   var NEW_PER_DAY = 20;
   var SRS_INTERVALS = [10 * 60000, 1 * DAY, 3 * DAY, 7 * DAY, 14 * DAY, 30 * DAY, 90 * DAY, 180 * DAY];
@@ -877,13 +879,7 @@
   function viewSettings() {
     var wrap = el('<div class="fade-in"></div>');
     wrap.appendChild(el('<button class="crumb" data-home>← Trang chủ</button>'));
-    wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">⚙️</div><div><h1>Cài đặt</h1><div class="sub">Tùy chỉnh giọng phát âm</div></div></div>'));
-
-    wrap.appendChild(el('<div class="section-head"><h2>Nguồn phát âm</h2></div>'));
-    var srcBox = el('<div class="set-group"></div>');
-    srcBox.appendChild(optionCard("device", ttsSource === "device", "📴 Giọng thiết bị", "Miễn phí, chạy offline. Chất lượng tùy máy."));
-    srcBox.appendChild(optionCard("google", ttsSource === "google", "🌐 Giọng Google Dịch", "Nghe tự nhiên hơn. Cần kết nối mạng."));
-    wrap.appendChild(srcBox);
+    wrap.appendChild(el('<div class="unit-hero"><div class="big-emoji">⚙️</div><div><h1>Cài đặt</h1><div class="sub">Chọn chất giọng phát âm</div></div></div>'));
 
     wrap.appendChild(el('<div class="section-head"><h2>Chất giọng</h2></div>'));
     var accBox = el('<div class="set-group"></div>');
@@ -895,11 +891,10 @@
     var test = el('<div class="btn-row"><button class="btn primary" id="s-t1">🔊 “beautiful”</button><button class="btn ghost" id="s-t2">🔊 “Nice to meet you”</button></div>');
     wrap.appendChild(test);
 
-    wrap.appendChild(el('<p class="muted" style="margin-top:18px;font-size:12.5px;line-height:1.6">Lưu ý: “Giọng Google Dịch” dùng endpoint phát âm công khai của Google Translate — <b>không phải API chính thức</b>, cần mạng và có thể bị giới hạn. Khi không tải được, ứng dụng tự động chuyển về giọng thiết bị.</p>'));
+    wrap.appendChild(el('<p class="muted" style="margin-top:18px;font-size:12.5px;line-height:1.6">Phát âm dùng giọng Google Dịch (tự nhiên hơn, cần kết nối mạng). Khi mất mạng, ứng dụng sẽ tạm dùng giọng của thiết bị.</p>'));
 
     render(wrap);
     wrap.querySelector("[data-home]").addEventListener("click", function () { location.hash = "#/"; });
-    srcBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsSource = b.getAttribute("data-opt"); LS.set("qf_tts", ttsSource); toast(ttsSource === "google" ? "Đã bật giọng Google Dịch" : "Đã dùng giọng thiết bị"); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
     accBox.addEventListener("click", function (e) { var b = e.target.closest("[data-opt]"); if (!b) return; ttsLang = b.getAttribute("data-opt"); LS.set("qf_tts_lang", ttsLang); viewSettings(); setTimeout(function () { speak("beautiful"); }, 60); });
     test.querySelector("#s-t1").addEventListener("click", function () { speak("beautiful"); });
     test.querySelector("#s-t2").addEventListener("click", function () { speak("Nice to meet you"); });

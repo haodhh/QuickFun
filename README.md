@@ -60,6 +60,14 @@ Chỉ là các file tĩnh (HTML/CSS/JS) nên không cần cấu hình build gì 
 
 ---
 
+## Đưa lên GitLab Pages
+
+Repo đã có sẵn file `.gitlab-ci.yml`. Chỉ cần đẩy code lên GitLab (nhánh mặc định),
+pipeline sẽ tự copy site vào thư mục `public/` và xuất bản. Sau khi pipeline chạy xong,
+xem đường dẫn tại **Deploy → Pages** (thường là `https://<tên>.gitlab.io/<repo>/`).
+
+---
+
 ## Thêm / sửa từ vựng
 
 Nội dung nằm ở các file JSON trong `data/units/unit-01.json` … `unit-20.json`.

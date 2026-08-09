@@ -1,0 +1,13 @@
+# Deploy this static site to GitLab Pages.
+# GitLab serves whatever ends up in the "public/" artifact directory.
+pages:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - mkdir -p public
+    - cp -r index.html css js public/
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
