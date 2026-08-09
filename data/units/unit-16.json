@@ -1,0 +1,360 @@
+{
+  "id": 16,
+  "slug": "countries-nationalities-language",
+  "title_en": "Countries, Nationalities and Language",
+  "title_vi": "Quốc gia, quốc tịch & ngôn ngữ",
+  "emoji": "🌍",
+  "words": [
+    {
+      "word": "Country",
+      "ipa": "/ˈkʌntri/",
+      "pos": "n",
+      "vi": "quốc gia, đất nước",
+      "example_en": "Vietnam is a beautiful country.",
+      "example_vi": "Việt Nam là một đất nước xinh đẹp.",
+      "emoji": "🗺️"
+    },
+    {
+      "word": "Nationality",
+      "ipa": "/ˌnæʃəˈnæləti/",
+      "pos": "n",
+      "vi": "quốc tịch",
+      "example_en": "What is your nationality?",
+      "example_vi": "Quốc tịch của bạn là gì?",
+      "emoji": "🛂"
+    },
+    {
+      "word": "Language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "pos": "n",
+      "vi": "ngôn ngữ",
+      "example_en": "English is a very useful language.",
+      "example_vi": "Tiếng Anh là một ngôn ngữ rất hữu ích.",
+      "emoji": "💬"
+    },
+    {
+      "word": "Vietnam",
+      "ipa": "/ˌvjetˈnæm/",
+      "pos": "n",
+      "vi": "Việt Nam",
+      "example_en": "I was born in Vietnam.",
+      "example_vi": "Tôi sinh ra ở Việt Nam.",
+      "emoji": "🇻🇳"
+    },
+    {
+      "word": "Vietnamese",
+      "ipa": "/ˌvjetnəˈmiːz/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Việt",
+      "example_en": "She speaks Vietnamese at home.",
+      "example_vi": "Cô ấy nói tiếng Việt ở nhà.",
+      "emoji": "🇻🇳"
+    },
+    {
+      "word": "England",
+      "ipa": "/ˈɪŋɡlənd/",
+      "pos": "n",
+      "vi": "nước Anh",
+      "example_en": "London is the capital of England.",
+      "example_vi": "London là thủ đô của nước Anh.",
+      "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    {
+      "word": "English",
+      "ipa": "/ˈɪŋɡlɪʃ/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Anh",
+      "example_en": "We study English at school every day.",
+      "example_vi": "Chúng tôi học tiếng Anh ở trường mỗi ngày.",
+      "emoji": "🇬🇧"
+    },
+    {
+      "word": "America",
+      "ipa": "/əˈmerɪkə/",
+      "pos": "n",
+      "vi": "nước Mỹ",
+      "example_en": "My uncle lives in America.",
+      "example_vi": "Chú của tôi sống ở Mỹ.",
+      "emoji": "🇺🇸"
+    },
+    {
+      "word": "American",
+      "ipa": "/əˈmerɪkən/",
+      "pos": "adj",
+      "vi": "(người) Mỹ",
+      "example_en": "My new teacher is American.",
+      "example_vi": "Giáo viên mới của tôi là người Mỹ.",
+      "emoji": "🇺🇸"
+    },
+    {
+      "word": "France",
+      "ipa": "/frɑːns/",
+      "pos": "n",
+      "vi": "nước Pháp",
+      "example_en": "We visited France last summer.",
+      "example_vi": "Chúng tôi đã đến Pháp mùa hè năm ngoái.",
+      "emoji": "🇫🇷"
+    },
+    {
+      "word": "French",
+      "ipa": "/frentʃ/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Pháp",
+      "example_en": "He is learning to speak French.",
+      "example_vi": "Anh ấy đang học nói tiếng Pháp.",
+      "emoji": "🇫🇷"
+    },
+    {
+      "word": "China",
+      "ipa": "/ˈtʃaɪnə/",
+      "pos": "n",
+      "vi": "Trung Quốc",
+      "example_en": "China is a very big country.",
+      "example_vi": "Trung Quốc là một đất nước rất lớn.",
+      "emoji": "🇨🇳"
+    },
+    {
+      "word": "Chinese",
+      "ipa": "/ˌtʃaɪˈniːz/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Trung",
+      "example_en": "Many people speak Chinese.",
+      "example_vi": "Rất nhiều người nói tiếng Trung.",
+      "emoji": "🇨🇳"
+    },
+    {
+      "word": "Japan",
+      "ipa": "/dʒəˈpæn/",
+      "pos": "n",
+      "vi": "Nhật Bản",
+      "example_en": "I want to travel to Japan.",
+      "example_vi": "Tôi muốn đi du lịch Nhật Bản.",
+      "emoji": "🇯🇵"
+    },
+    {
+      "word": "Japanese",
+      "ipa": "/ˌdʒæpəˈniːz/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Nhật",
+      "example_en": "My friend is Japanese.",
+      "example_vi": "Bạn của tôi là người Nhật.",
+      "emoji": "🇯🇵"
+    },
+    {
+      "word": "Korea",
+      "ipa": "/kəˈriːə/",
+      "pos": "n",
+      "vi": "Hàn Quốc",
+      "example_en": "K-pop comes from Korea.",
+      "example_vi": "K-pop đến từ Hàn Quốc.",
+      "emoji": "🇰🇷"
+    },
+    {
+      "word": "Korean",
+      "ipa": "/kəˈriːən/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Hàn",
+      "example_en": "She is learning Korean online.",
+      "example_vi": "Cô ấy đang học tiếng Hàn trên mạng.",
+      "emoji": "🇰🇷"
+    },
+    {
+      "word": "Spain",
+      "ipa": "/speɪn/",
+      "pos": "n",
+      "vi": "Tây Ban Nha",
+      "example_en": "The food in Spain is delicious.",
+      "example_vi": "Món ăn ở Tây Ban Nha rất ngon.",
+      "emoji": "🇪🇸"
+    },
+    {
+      "word": "Spanish",
+      "ipa": "/ˈspænɪʃ/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Tây Ban Nha",
+      "example_en": "Spanish is easy for me to learn.",
+      "example_vi": "Tiếng Tây Ban Nha dễ học đối với tôi.",
+      "emoji": "🇪🇸"
+    },
+    {
+      "word": "Germany",
+      "ipa": "/ˈdʒɜːməni/",
+      "pos": "n",
+      "vi": "nước Đức",
+      "example_en": "Germany makes very good cars.",
+      "example_vi": "Nước Đức sản xuất những chiếc xe rất tốt.",
+      "emoji": "🇩🇪"
+    },
+    {
+      "word": "German",
+      "ipa": "/ˈdʒɜːmən/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Đức",
+      "example_en": "My boss is German.",
+      "example_vi": "Sếp của tôi là người Đức.",
+      "emoji": "🇩🇪"
+    },
+    {
+      "word": "Italy",
+      "ipa": "/ˈɪtəli/",
+      "pos": "n",
+      "vi": "nước Ý",
+      "example_en": "Pizza comes from Italy.",
+      "example_vi": "Pizza đến từ nước Ý.",
+      "emoji": "🇮🇹"
+    },
+    {
+      "word": "Italian",
+      "ipa": "/ɪˈtæliən/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Ý",
+      "example_en": "This restaurant serves Italian food.",
+      "example_vi": "Nhà hàng này phục vụ món ăn Ý.",
+      "emoji": "🇮🇹"
+    },
+    {
+      "word": "Russia",
+      "ipa": "/ˈrʌʃə/",
+      "pos": "n",
+      "vi": "nước Nga",
+      "example_en": "Winter in Russia is very cold.",
+      "example_vi": "Mùa đông ở Nga rất lạnh.",
+      "emoji": "🇷🇺"
+    },
+    {
+      "word": "Russian",
+      "ipa": "/ˈrʌʃn/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Nga",
+      "example_en": "Russian is a difficult language.",
+      "example_vi": "Tiếng Nga là một ngôn ngữ khó.",
+      "emoji": "🇷🇺"
+    },
+    {
+      "word": "Thailand",
+      "ipa": "/ˈtaɪlænd/",
+      "pos": "n",
+      "vi": "Thái Lan",
+      "example_en": "Thailand has many beautiful beaches.",
+      "example_vi": "Thái Lan có nhiều bãi biển đẹp.",
+      "emoji": "🇹🇭"
+    },
+    {
+      "word": "Thai",
+      "ipa": "/taɪ/",
+      "pos": "adj",
+      "vi": "(người/tiếng) Thái",
+      "example_en": "I love spicy Thai food.",
+      "example_vi": "Tôi thích món ăn Thái cay.",
+      "emoji": "🇹🇭"
+    },
+    {
+      "word": "Australia",
+      "ipa": "/ɒˈstreɪliə/",
+      "pos": "n",
+      "vi": "nước Úc",
+      "example_en": "Kangaroos live in Australia.",
+      "example_vi": "Chuột túi sống ở Úc.",
+      "emoji": "🇦🇺"
+    },
+    {
+      "word": "Australian",
+      "ipa": "/ɒˈstreɪliən/",
+      "pos": "adj",
+      "vi": "(người) Úc",
+      "example_en": "My roommate is Australian.",
+      "example_vi": "Bạn cùng phòng của tôi là người Úc.",
+      "emoji": "🇦🇺"
+    },
+    {
+      "word": "Canada",
+      "ipa": "/ˈkænədə/",
+      "pos": "n",
+      "vi": "Canada",
+      "example_en": "It snows a lot in Canada.",
+      "example_vi": "Trời tuyết rất nhiều ở Canada.",
+      "emoji": "🇨🇦"
+    },
+    {
+      "word": "Brazil",
+      "ipa": "/brəˈzɪl/",
+      "pos": "n",
+      "vi": "Bra-xin",
+      "example_en": "Brazil is famous for football.",
+      "example_vi": "Bra-xin nổi tiếng về bóng đá.",
+      "emoji": "🇧🇷"
+    },
+    {
+      "word": "India",
+      "ipa": "/ˈɪndiə/",
+      "pos": "n",
+      "vi": "Ấn Độ",
+      "example_en": "India has more than one billion people.",
+      "example_vi": "Ấn Độ có hơn một tỷ người.",
+      "emoji": "🇮🇳"
+    },
+    {
+      "word": "Indian",
+      "ipa": "/ˈɪndiən/",
+      "pos": "adj",
+      "vi": "(người) Ấn Độ",
+      "example_en": "We ate at an Indian restaurant.",
+      "example_vi": "Chúng tôi đã ăn ở một nhà hàng Ấn Độ.",
+      "emoji": "🇮🇳"
+    },
+    {
+      "word": "Foreign",
+      "ipa": "/ˈfɒrən/",
+      "pos": "adj",
+      "vi": "(thuộc) nước ngoài",
+      "example_en": "I would like to learn a foreign language.",
+      "example_vi": "Tôi muốn học một ngôn ngữ nước ngoài.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "Foreigner",
+      "ipa": "/ˈfɒrənə(r)/",
+      "pos": "n",
+      "vi": "người nước ngoài",
+      "example_en": "Many foreigners visit our city.",
+      "example_vi": "Nhiều người nước ngoài đến thăm thành phố chúng tôi.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "Speak",
+      "ipa": "/spiːk/",
+      "pos": "v",
+      "vi": "nói (ngôn ngữ)",
+      "example_en": "Can you speak two languages?",
+      "example_vi": "Bạn có thể nói hai ngôn ngữ không?",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "Passport",
+      "ipa": "/ˈpɑːspɔːt/",
+      "pos": "n",
+      "vi": "hộ chiếu",
+      "example_en": "Show your passport at the airport.",
+      "example_vi": "Hãy trình hộ chiếu ở sân bay.",
+      "emoji": "📔"
+    },
+    {
+      "word": "Capital",
+      "ipa": "/ˈkæpɪtl/",
+      "pos": "n",
+      "vi": "thủ đô",
+      "example_en": "Hanoi is the capital of Vietnam.",
+      "example_vi": "Hà Nội là thủ đô của Việt Nam.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "Flag",
+      "ipa": "/flæɡ/",
+      "pos": "n",
+      "vi": "lá cờ",
+      "example_en": "Every country has its own flag.",
+      "example_vi": "Mỗi quốc gia có lá cờ riêng.",
+      "emoji": "🚩"
+    }
+  ]
+}

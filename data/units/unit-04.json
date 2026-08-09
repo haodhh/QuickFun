@@ -1,0 +1,324 @@
+{
+  "id": 4,
+  "slug": "family",
+  "title_en": "Family",
+  "title_vi": "Gia đình",
+  "emoji": "👨‍👩‍👧‍👦",
+  "words": [
+    {
+      "word": "Family",
+      "ipa": "/ˈfæməli/",
+      "pos": "n",
+      "vi": "gia đình",
+      "example_en": "My family is small but happy.",
+      "example_vi": "Gia đình tôi nhỏ nhưng hạnh phúc.",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "word": "Mother",
+      "ipa": "/ˈmʌðə(r)/",
+      "pos": "n",
+      "vi": "mẹ",
+      "example_en": "My mother cooks dinner every evening.",
+      "example_vi": "Mẹ tôi nấu bữa tối mỗi buổi chiều.",
+      "emoji": "👩"
+    },
+    {
+      "word": "Father",
+      "ipa": "/ˈfɑːðə(r)/",
+      "pos": "n",
+      "vi": "bố",
+      "example_en": "My father drives me to school.",
+      "example_vi": "Bố tôi chở tôi đến trường.",
+      "emoji": "👨"
+    },
+    {
+      "word": "Parents",
+      "ipa": "/ˈpeərənts/",
+      "pos": "n",
+      "vi": "bố mẹ",
+      "example_en": "My parents love each other very much.",
+      "example_vi": "Bố mẹ tôi yêu nhau rất nhiều.",
+      "emoji": "👫"
+    },
+    {
+      "word": "Son",
+      "ipa": "/sʌn/",
+      "pos": "n",
+      "vi": "con trai",
+      "example_en": "They have one son and two daughters.",
+      "example_vi": "Họ có một con trai và hai con gái.",
+      "emoji": "👦"
+    },
+    {
+      "word": "Daughter",
+      "ipa": "/ˈdɔːtə(r)/",
+      "pos": "n",
+      "vi": "con gái",
+      "example_en": "Their daughter is only five years old.",
+      "example_vi": "Con gái của họ chỉ mới năm tuổi.",
+      "emoji": "👧"
+    },
+    {
+      "word": "Brother",
+      "ipa": "/ˈbrʌðə(r)/",
+      "pos": "n",
+      "vi": "anh, em trai",
+      "example_en": "My brother plays football with me.",
+      "example_vi": "Anh trai tôi chơi bóng đá với tôi.",
+      "emoji": "👦"
+    },
+    {
+      "word": "Sister",
+      "ipa": "/ˈsɪstə(r)/",
+      "pos": "n",
+      "vi": "chị, em gái",
+      "example_en": "My sister and I share a room.",
+      "example_vi": "Chị gái tôi và tôi ở chung một phòng.",
+      "emoji": "👧"
+    },
+    {
+      "word": "Baby",
+      "ipa": "/ˈbeɪbi/",
+      "pos": "n",
+      "vi": "em bé",
+      "example_en": "The baby is sleeping in the bed.",
+      "example_vi": "Em bé đang ngủ trên giường.",
+      "emoji": "👶"
+    },
+    {
+      "word": "Grandmother",
+      "ipa": "/ˈɡrænmʌðə(r)/",
+      "pos": "n",
+      "vi": "bà",
+      "example_en": "My grandmother tells us old stories.",
+      "example_vi": "Bà tôi kể cho chúng tôi những câu chuyện xưa.",
+      "emoji": "👵"
+    },
+    {
+      "word": "Grandfather",
+      "ipa": "/ˈɡrænfɑːðə(r)/",
+      "pos": "n",
+      "vi": "ông",
+      "example_en": "My grandfather reads the newspaper every day.",
+      "example_vi": "Ông tôi đọc báo mỗi ngày.",
+      "emoji": "👴"
+    },
+    {
+      "word": "Grandparents",
+      "ipa": "/ˈɡrænpeərənts/",
+      "pos": "n",
+      "vi": "ông bà",
+      "example_en": "We visit our grandparents on Sunday.",
+      "example_vi": "Chúng tôi thăm ông bà vào Chủ nhật.",
+      "emoji": "👴👵"
+    },
+    {
+      "word": "Grandchild",
+      "ipa": "/ˈɡræntʃaɪld/",
+      "pos": "n",
+      "vi": "cháu",
+      "example_en": "She has three grandchildren now.",
+      "example_vi": "Bây giờ bà ấy có ba đứa cháu.",
+      "emoji": "🧒"
+    },
+    {
+      "word": "Husband",
+      "ipa": "/ˈhʌzbənd/",
+      "pos": "n",
+      "vi": "chồng",
+      "example_en": "Her husband works in a bank.",
+      "example_vi": "Chồng của cô ấy làm việc ở ngân hàng.",
+      "emoji": "🤵"
+    },
+    {
+      "word": "Wife",
+      "ipa": "/waɪf/",
+      "pos": "n",
+      "vi": "vợ",
+      "example_en": "His wife is a good teacher.",
+      "example_vi": "Vợ anh ấy là một giáo viên giỏi.",
+      "emoji": "👰"
+    },
+    {
+      "word": "Uncle",
+      "ipa": "/ˈʌŋkl/",
+      "pos": "n",
+      "vi": "chú, bác, cậu",
+      "example_en": "My uncle lives in another city.",
+      "example_vi": "Chú tôi sống ở một thành phố khác.",
+      "emoji": "🧔"
+    },
+    {
+      "word": "Aunt",
+      "ipa": "/ɑːnt/",
+      "pos": "n",
+      "vi": "cô, dì, bác gái",
+      "example_en": "My aunt makes very good cakes.",
+      "example_vi": "Cô tôi làm bánh rất ngon.",
+      "emoji": "👩"
+    },
+    {
+      "word": "Cousin",
+      "ipa": "/ˈkʌzn/",
+      "pos": "n",
+      "vi": "anh chị em họ",
+      "example_en": "My cousin and I are the same age.",
+      "example_vi": "Anh họ tôi và tôi cùng tuổi.",
+      "emoji": "🧑"
+    },
+    {
+      "word": "Nephew",
+      "ipa": "/ˈnefjuː/",
+      "pos": "n",
+      "vi": "cháu trai",
+      "example_en": "My nephew loves to play video games.",
+      "example_vi": "Cháu trai tôi thích chơi trò chơi điện tử.",
+      "emoji": "👦"
+    },
+    {
+      "word": "Niece",
+      "ipa": "/niːs/",
+      "pos": "n",
+      "vi": "cháu gái",
+      "example_en": "My niece has a new pink dress.",
+      "example_vi": "Cháu gái tôi có một chiếc váy hồng mới.",
+      "emoji": "👧"
+    },
+    {
+      "word": "Child",
+      "ipa": "/tʃaɪld/",
+      "pos": "n",
+      "vi": "đứa trẻ",
+      "example_en": "Every child needs love and care.",
+      "example_vi": "Mỗi đứa trẻ đều cần tình yêu và sự chăm sóc.",
+      "emoji": "🧒"
+    },
+    {
+      "word": "Kid",
+      "ipa": "/kɪd/",
+      "pos": "n",
+      "vi": "trẻ con",
+      "example_en": "The kids are playing in the garden.",
+      "example_vi": "Bọn trẻ đang chơi trong vườn.",
+      "emoji": "🧒"
+    },
+    {
+      "word": "Twins",
+      "ipa": "/twɪnz/",
+      "pos": "n",
+      "vi": "sinh đôi",
+      "example_en": "The twins look exactly the same.",
+      "example_vi": "Hai đứa sinh đôi trông giống hệt nhau.",
+      "emoji": "👯"
+    },
+    {
+      "word": "Relatives",
+      "ipa": "/ˈrelətɪvz/",
+      "pos": "n",
+      "vi": "họ hàng",
+      "example_en": "All our relatives come at New Year.",
+      "example_vi": "Tất cả họ hàng của chúng tôi đến vào dịp Tết.",
+      "emoji": "👪"
+    },
+    {
+      "word": "Married",
+      "ipa": "/ˈmærid/",
+      "pos": "adj",
+      "vi": "đã kết hôn",
+      "example_en": "My sister is married to a doctor.",
+      "example_vi": "Chị tôi kết hôn với một bác sĩ.",
+      "emoji": "💍"
+    },
+    {
+      "word": "Single",
+      "ipa": "/ˈsɪŋɡl/",
+      "pos": "adj",
+      "vi": "độc thân",
+      "example_en": "My uncle is still single.",
+      "example_vi": "Chú tôi vẫn còn độc thân.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "Young",
+      "ipa": "/jʌŋ/",
+      "pos": "adj",
+      "vi": "trẻ",
+      "example_en": "My parents are still young and active.",
+      "example_vi": "Bố mẹ tôi vẫn còn trẻ và năng động.",
+      "emoji": "🧒"
+    },
+    {
+      "word": "Old",
+      "ipa": "/əʊld/",
+      "pos": "adj",
+      "vi": "già",
+      "example_en": "My grandparents are quite old now.",
+      "example_vi": "Ông bà tôi bây giờ khá già rồi.",
+      "emoji": "👴"
+    },
+    {
+      "word": "Love",
+      "ipa": "/lʌv/",
+      "pos": "v",
+      "vi": "yêu, thương",
+      "example_en": "I love my family very much.",
+      "example_vi": "Tôi yêu gia đình mình rất nhiều.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "Live",
+      "ipa": "/lɪv/",
+      "pos": "v",
+      "vi": "sống",
+      "example_en": "We live together in a big house.",
+      "example_vi": "Chúng tôi sống cùng nhau trong một ngôi nhà lớn.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "Home",
+      "ipa": "/həʊm/",
+      "pos": "n",
+      "vi": "nhà, tổ ấm",
+      "example_en": "There is no place like home.",
+      "example_vi": "Không nơi nào bằng nhà mình.",
+      "emoji": "🏡"
+    },
+    {
+      "word": "Together",
+      "ipa": "/təˈɡeðə(r)/",
+      "pos": "adv",
+      "vi": "cùng nhau",
+      "example_en": "We eat dinner together every night.",
+      "example_vi": "Chúng tôi ăn tối cùng nhau mỗi đêm.",
+      "emoji": "🤗"
+    },
+    {
+      "word": "Take care of",
+      "ipa": "/ˌteɪk ˈkeər əv/",
+      "pos": "phr",
+      "vi": "chăm sóc",
+      "example_en": "My mother takes care of the whole family.",
+      "example_vi": "Mẹ tôi chăm sóc cả gia đình.",
+      "emoji": "🤱"
+    },
+    {
+      "word": "Grow up",
+      "ipa": "/ˌɡrəʊ ˈʌp/",
+      "pos": "phr",
+      "vi": "lớn lên",
+      "example_en": "I grew up in a small village.",
+      "example_vi": "Tôi lớn lên ở một ngôi làng nhỏ.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "Pet",
+      "ipa": "/pet/",
+      "pos": "n",
+      "vi": "thú cưng",
+      "example_en": "Our family has a pet dog named Lucky.",
+      "example_vi": "Gia đình tôi có một chú chó cưng tên Lucky.",
+      "emoji": "🐶"
+    }
+  ]
+}

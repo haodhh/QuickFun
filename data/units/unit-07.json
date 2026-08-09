@@ -1,0 +1,342 @@
+{
+  "id": 7,
+  "slug": "education",
+  "title_en": "Education",
+  "title_vi": "Giáo dục",
+  "emoji": "🎓",
+  "words": [
+    {
+      "word": "School",
+      "ipa": "/skuːl/",
+      "pos": "n",
+      "vi": "trường học",
+      "example_en": "My brother goes to school every morning.",
+      "example_vi": "Em trai tôi đến trường mỗi buổi sáng.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "Teacher",
+      "ipa": "/ˈtiːtʃə(r)/",
+      "pos": "n",
+      "vi": "giáo viên",
+      "example_en": "Our teacher is very kind and patient.",
+      "example_vi": "Giáo viên của chúng tôi rất tốt bụng và kiên nhẫn.",
+      "emoji": "👩‍🏫"
+    },
+    {
+      "word": "Student",
+      "ipa": "/ˈstjuːdnt/",
+      "pos": "n",
+      "vi": "học sinh, sinh viên",
+      "example_en": "There are thirty students in my class.",
+      "example_vi": "Có ba mươi học sinh trong lớp tôi.",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "word": "Class",
+      "ipa": "/klɑːs/",
+      "pos": "n",
+      "vi": "lớp học",
+      "example_en": "The class starts at eight o'clock.",
+      "example_vi": "Lớp học bắt đầu lúc tám giờ.",
+      "emoji": "👨‍🏫"
+    },
+    {
+      "word": "Classroom",
+      "ipa": "/ˈklɑːsruːm/",
+      "pos": "n",
+      "vi": "phòng học",
+      "example_en": "Our classroom is bright and clean.",
+      "example_vi": "Phòng học của chúng tôi sáng sủa và sạch sẽ.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "Book",
+      "ipa": "/bʊk/",
+      "pos": "n",
+      "vi": "sách",
+      "example_en": "I read one book every week.",
+      "example_vi": "Tôi đọc một cuốn sách mỗi tuần.",
+      "emoji": "📖"
+    },
+    {
+      "word": "Pen",
+      "ipa": "/pen/",
+      "pos": "n",
+      "vi": "bút mực",
+      "example_en": "Can I borrow your blue pen?",
+      "example_vi": "Tôi mượn cây bút xanh của bạn được không?",
+      "emoji": "🖊️"
+    },
+    {
+      "word": "Pencil",
+      "ipa": "/ˈpensl/",
+      "pos": "n",
+      "vi": "bút chì",
+      "example_en": "She draws pictures with a pencil.",
+      "example_vi": "Cô ấy vẽ tranh bằng bút chì.",
+      "emoji": "✏️"
+    },
+    {
+      "word": "Notebook",
+      "ipa": "/ˈnəʊtbʊk/",
+      "pos": "n",
+      "vi": "vở, sổ tay",
+      "example_en": "I write new words in my notebook.",
+      "example_vi": "Tôi viết từ mới vào vở của mình.",
+      "emoji": "📓"
+    },
+    {
+      "word": "Desk",
+      "ipa": "/desk/",
+      "pos": "n",
+      "vi": "bàn học",
+      "example_en": "There is a lamp on my desk.",
+      "example_vi": "Có một cái đèn trên bàn học của tôi.",
+      "emoji": "🪑"
+    },
+    {
+      "word": "Board",
+      "ipa": "/bɔːd/",
+      "pos": "n",
+      "vi": "bảng",
+      "example_en": "The teacher writes the date on the board.",
+      "example_vi": "Giáo viên viết ngày tháng lên bảng.",
+      "emoji": "📋"
+    },
+    {
+      "word": "Lesson",
+      "ipa": "/ˈlesn/",
+      "pos": "n",
+      "vi": "bài học",
+      "example_en": "Today's lesson is about animals.",
+      "example_vi": "Bài học hôm nay nói về động vật.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Homework",
+      "ipa": "/ˈhəʊmwɜːk/",
+      "pos": "n",
+      "vi": "bài tập về nhà",
+      "example_en": "I finish my homework after dinner.",
+      "example_vi": "Tôi làm xong bài tập về nhà sau bữa tối.",
+      "emoji": "📝"
+    },
+    {
+      "word": "Learn",
+      "ipa": "/lɜːn/",
+      "pos": "v",
+      "vi": "học, học hỏi",
+      "example_en": "I want to learn English this year.",
+      "example_vi": "Năm nay tôi muốn học tiếng Anh.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "Study",
+      "ipa": "/ˈstʌdi/",
+      "pos": "v",
+      "vi": "học tập, nghiên cứu",
+      "example_en": "She studies math every evening.",
+      "example_vi": "Cô ấy học toán mỗi buổi tối.",
+      "emoji": "📖"
+    },
+    {
+      "word": "Teach",
+      "ipa": "/tiːtʃ/",
+      "pos": "v",
+      "vi": "dạy",
+      "example_en": "My mother teaches young children.",
+      "example_vi": "Mẹ tôi dạy trẻ nhỏ.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "Read",
+      "ipa": "/riːd/",
+      "pos": "v",
+      "vi": "đọc",
+      "example_en": "We read a story in class today.",
+      "example_vi": "Hôm nay chúng tôi đọc một câu chuyện trong lớp.",
+      "emoji": "👓"
+    },
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "pos": "v",
+      "vi": "viết",
+      "example_en": "Please write your name at the top.",
+      "example_vi": "Hãy viết tên của bạn ở phía trên.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "Answer",
+      "ipa": "/ˈɑːnsə(r)/",
+      "pos": "n",
+      "vi": "câu trả lời",
+      "example_en": "Your answer is correct.",
+      "example_vi": "Câu trả lời của bạn đúng rồi.",
+      "emoji": "✅"
+    },
+    {
+      "word": "Question",
+      "ipa": "/ˈkwestʃən/",
+      "pos": "n",
+      "vi": "câu hỏi",
+      "example_en": "Can I ask you a question?",
+      "example_vi": "Tôi có thể hỏi bạn một câu được không?",
+      "emoji": "❓"
+    },
+    {
+      "word": "Exam",
+      "ipa": "/ɪɡˈzæm/",
+      "pos": "n",
+      "vi": "kỳ thi, bài thi",
+      "example_en": "We have an English exam on Friday.",
+      "example_vi": "Chúng tôi có một bài thi tiếng Anh vào thứ Sáu.",
+      "emoji": "📄"
+    },
+    {
+      "word": "Test",
+      "ipa": "/test/",
+      "pos": "n",
+      "vi": "bài kiểm tra",
+      "example_en": "The test was short but hard.",
+      "example_vi": "Bài kiểm tra ngắn nhưng khó.",
+      "emoji": "🧪"
+    },
+    {
+      "word": "Grade",
+      "ipa": "/ɡreɪd/",
+      "pos": "n",
+      "vi": "điểm số, khối lớp",
+      "example_en": "She got a good grade in science.",
+      "example_vi": "Cô ấy được điểm cao môn khoa học.",
+      "emoji": "🅰️"
+    },
+    {
+      "word": "Subject",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "pos": "n",
+      "vi": "môn học",
+      "example_en": "My favourite subject is history.",
+      "example_vi": "Môn học yêu thích của tôi là lịch sử.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Library",
+      "ipa": "/ˈlaɪbrəri/",
+      "pos": "n",
+      "vi": "thư viện",
+      "example_en": "The library is quiet in the afternoon.",
+      "example_vi": "Thư viện yên tĩnh vào buổi chiều.",
+      "emoji": "📚"
+    },
+    {
+      "word": "University",
+      "ipa": "/ˌjuːnɪˈvɜːsəti/",
+      "pos": "n",
+      "vi": "trường đại học",
+      "example_en": "He wants to study at a good university.",
+      "example_vi": "Anh ấy muốn học ở một trường đại học tốt.",
+      "emoji": "🎓"
+    },
+    {
+      "word": "Uniform",
+      "ipa": "/ˈjuːnɪfɔːm/",
+      "pos": "n",
+      "vi": "đồng phục",
+      "example_en": "All students wear a school uniform.",
+      "example_vi": "Tất cả học sinh đều mặc đồng phục.",
+      "emoji": "👔"
+    },
+    {
+      "word": "Dictionary",
+      "ipa": "/ˈdɪkʃənri/",
+      "pos": "n",
+      "vi": "từ điển",
+      "example_en": "I use a dictionary to find new words.",
+      "example_vi": "Tôi dùng từ điển để tra từ mới.",
+      "emoji": "📔"
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "pos": "n",
+      "vi": "cặp sách, túi",
+      "example_en": "My school bag is heavy today.",
+      "example_vi": "Cặp sách của tôi hôm nay nặng.",
+      "emoji": "🎒"
+    },
+    {
+      "word": "Ruler",
+      "ipa": "/ˈruːlə(r)/",
+      "pos": "n",
+      "vi": "thước kẻ",
+      "example_en": "Use a ruler to draw a straight line.",
+      "example_vi": "Dùng thước kẻ để vẽ một đường thẳng.",
+      "emoji": "📏"
+    },
+    {
+      "word": "Eraser",
+      "ipa": "/ɪˈreɪzə(r)/",
+      "pos": "n",
+      "vi": "cục tẩy",
+      "example_en": "I need an eraser to fix my mistake.",
+      "example_vi": "Tôi cần cục tẩy để sửa lỗi sai.",
+      "emoji": "🧽"
+    },
+    {
+      "word": "Homeroom",
+      "ipa": "/ˈhəʊmruːm/",
+      "pos": "n",
+      "vi": "lớp chủ nhiệm",
+      "example_en": "We meet our homeroom teacher every day.",
+      "example_vi": "Chúng tôi gặp giáo viên chủ nhiệm mỗi ngày.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "Understand",
+      "ipa": "/ˌʌndəˈstænd/",
+      "pos": "v",
+      "vi": "hiểu",
+      "example_en": "I understand the lesson now.",
+      "example_vi": "Bây giờ tôi đã hiểu bài học rồi.",
+      "emoji": "💡"
+    },
+    {
+      "word": "Practise",
+      "ipa": "/ˈpræktɪs/",
+      "pos": "v",
+      "vi": "luyện tập, thực hành",
+      "example_en": "You should practise speaking every day.",
+      "example_vi": "Bạn nên luyện nói mỗi ngày.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "Difficult",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "pos": "adj",
+      "vi": "khó",
+      "example_en": "This question is too difficult for me.",
+      "example_vi": "Câu hỏi này quá khó với tôi.",
+      "emoji": "😣"
+    },
+    {
+      "word": "Easy",
+      "ipa": "/ˈiːzi/",
+      "pos": "adj",
+      "vi": "dễ",
+      "example_en": "The homework was easy tonight.",
+      "example_vi": "Bài tập tối nay dễ.",
+      "emoji": "😊"
+    },
+    {
+      "word": "Clever",
+      "ipa": "/ˈklevə(r)/",
+      "pos": "adj",
+      "vi": "thông minh",
+      "example_en": "She is a clever and hard-working girl.",
+      "example_vi": "Cô ấy là một cô gái thông minh và chăm chỉ.",
+      "emoji": "🤓"
+    }
+  ]
+}

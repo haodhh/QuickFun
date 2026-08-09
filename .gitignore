@@ -1,0 +1,10 @@
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.log
+
+# Node (only used for the local preview server / build script)
+node_modules/
+
+# Original book photos — keep these OUT of the public repo (personal scans).
+ref/

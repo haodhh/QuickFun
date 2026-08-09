@@ -1,0 +1,351 @@
+{
+  "id": 13,
+  "slug": "fashion",
+  "title_en": "Fashion",
+  "title_vi": "Thời trang",
+  "emoji": "👗",
+  "words": [
+    {
+      "word": "Clothes",
+      "ipa": "/kləʊðz/",
+      "pos": "n",
+      "vi": "quần áo",
+      "example_en": "I put my clothes in the wardrobe.",
+      "example_vi": "Tôi để quần áo trong tủ.",
+      "emoji": "👚"
+    },
+    {
+      "word": "Shirt",
+      "ipa": "/ʃɜːt/",
+      "pos": "n",
+      "vi": "áo sơ mi",
+      "example_en": "He wears a white shirt to work.",
+      "example_vi": "Anh ấy mặc áo sơ mi trắng đi làm.",
+      "emoji": "👔"
+    },
+    {
+      "word": "T-shirt",
+      "ipa": "/ˈtiː ʃɜːt/",
+      "pos": "n",
+      "vi": "áo phông",
+      "example_en": "This blue T-shirt is very soft.",
+      "example_vi": "Chiếc áo phông màu xanh này rất mềm.",
+      "emoji": "👕"
+    },
+    {
+      "word": "Dress",
+      "ipa": "/dres/",
+      "pos": "n",
+      "vi": "đầm, váy liền",
+      "example_en": "She bought a red dress for the party.",
+      "example_vi": "Cô ấy mua một chiếc đầm đỏ cho bữa tiệc.",
+      "emoji": "👗"
+    },
+    {
+      "word": "Skirt",
+      "ipa": "/skɜːt/",
+      "pos": "n",
+      "vi": "chân váy",
+      "example_en": "My sister likes short skirts.",
+      "example_vi": "Chị tôi thích chân váy ngắn.",
+      "emoji": "👚"
+    },
+    {
+      "word": "Trousers",
+      "ipa": "/ˈtraʊzəz/",
+      "pos": "n",
+      "vi": "quần dài",
+      "example_en": "These trousers are too long for me.",
+      "example_vi": "Chiếc quần dài này quá dài với tôi.",
+      "emoji": "👖"
+    },
+    {
+      "word": "Jeans",
+      "ipa": "/dʒiːnz/",
+      "pos": "n",
+      "vi": "quần bò",
+      "example_en": "I wear jeans every weekend.",
+      "example_vi": "Tôi mặc quần bò mỗi cuối tuần.",
+      "emoji": "👖"
+    },
+    {
+      "word": "Jacket",
+      "ipa": "/ˈdʒækɪt/",
+      "pos": "n",
+      "vi": "áo khoác",
+      "example_en": "Take a jacket, it is cold outside.",
+      "example_vi": "Mang theo áo khoác đi, bên ngoài lạnh đấy.",
+      "emoji": "🧥"
+    },
+    {
+      "word": "Coat",
+      "ipa": "/kəʊt/",
+      "pos": "n",
+      "vi": "áo choàng, áo măng tô",
+      "example_en": "She wears a long coat in winter.",
+      "example_vi": "Cô ấy mặc áo choàng dài vào mùa đông.",
+      "emoji": "🧥"
+    },
+    {
+      "word": "Sweater",
+      "ipa": "/ˈswetə(r)/",
+      "pos": "n",
+      "vi": "áo len",
+      "example_en": "This warm sweater is my favourite.",
+      "example_vi": "Chiếc áo len ấm này là món yêu thích của tôi.",
+      "emoji": "🧶"
+    },
+    {
+      "word": "Shoes",
+      "ipa": "/ʃuːz/",
+      "pos": "n",
+      "vi": "giày",
+      "example_en": "My new shoes are black and white.",
+      "example_vi": "Đôi giày mới của tôi màu đen trắng.",
+      "emoji": "👟"
+    },
+    {
+      "word": "Boots",
+      "ipa": "/buːts/",
+      "pos": "n",
+      "vi": "giày bốt, ủng",
+      "example_en": "I wear boots when it rains.",
+      "example_vi": "Tôi đi ủng khi trời mưa.",
+      "emoji": "👢"
+    },
+    {
+      "word": "Socks",
+      "ipa": "/sɒks/",
+      "pos": "n",
+      "vi": "tất, vớ",
+      "example_en": "He lost one of his socks.",
+      "example_vi": "Anh ấy làm mất một chiếc tất.",
+      "emoji": "🧦"
+    },
+    {
+      "word": "Hat",
+      "ipa": "/hæt/",
+      "pos": "n",
+      "vi": "mũ",
+      "example_en": "Please wear a hat in the sun.",
+      "example_vi": "Hãy đội mũ khi ra nắng.",
+      "emoji": "🎩"
+    },
+    {
+      "word": "Cap",
+      "ipa": "/kæp/",
+      "pos": "n",
+      "vi": "mũ lưỡi trai",
+      "example_en": "The boy wears a blue cap.",
+      "example_vi": "Cậu bé đội mũ lưỡi trai màu xanh.",
+      "emoji": "🧢"
+    },
+    {
+      "word": "Scarf",
+      "ipa": "/skɑːf/",
+      "pos": "n",
+      "vi": "khăn quàng cổ",
+      "example_en": "She has a soft red scarf.",
+      "example_vi": "Cô ấy có một chiếc khăn quàng đỏ mềm.",
+      "emoji": "🧣"
+    },
+    {
+      "word": "Gloves",
+      "ipa": "/ɡlʌvz/",
+      "pos": "n",
+      "vi": "găng tay",
+      "example_en": "My hands are warm in these gloves.",
+      "example_vi": "Tay tôi ấm khi đeo găng này.",
+      "emoji": "🧤"
+    },
+    {
+      "word": "Belt",
+      "ipa": "/belt/",
+      "pos": "n",
+      "vi": "thắt lưng",
+      "example_en": "He needs a new leather belt.",
+      "example_vi": "Anh ấy cần một chiếc thắt lưng da mới.",
+      "emoji": "🩲"
+    },
+    {
+      "word": "Tie",
+      "ipa": "/taɪ/",
+      "pos": "n",
+      "vi": "cà vạt",
+      "example_en": "My father wears a tie to the office.",
+      "example_vi": "Bố tôi đeo cà vạt đến văn phòng.",
+      "emoji": "👔"
+    },
+    {
+      "word": "Glasses",
+      "ipa": "/ˈɡlɑːsɪz/",
+      "pos": "n",
+      "vi": "kính mắt",
+      "example_en": "She reads with her glasses on.",
+      "example_vi": "Cô ấy đọc sách khi đeo kính.",
+      "emoji": "👓"
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "pos": "n",
+      "vi": "túi xách",
+      "example_en": "Her bag is full of books.",
+      "example_vi": "Túi của cô ấy đầy sách.",
+      "emoji": "👜"
+    },
+    {
+      "word": "Ring",
+      "ipa": "/rɪŋ/",
+      "pos": "n",
+      "vi": "nhẫn",
+      "example_en": "She wears a gold ring.",
+      "example_vi": "Cô ấy đeo một chiếc nhẫn vàng.",
+      "emoji": "💍"
+    },
+    {
+      "word": "Watch",
+      "ipa": "/wɒtʃ/",
+      "pos": "n",
+      "vi": "đồng hồ đeo tay",
+      "example_en": "My watch is old but nice.",
+      "example_vi": "Đồng hồ của tôi cũ nhưng đẹp.",
+      "emoji": "⌚"
+    },
+    {
+      "word": "Uniform",
+      "ipa": "/ˈjuːnɪfɔːm/",
+      "pos": "n",
+      "vi": "đồng phục",
+      "example_en": "Students wear a uniform at my school.",
+      "example_vi": "Học sinh mặc đồng phục ở trường tôi.",
+      "emoji": "🎽"
+    },
+    {
+      "word": "Pyjamas",
+      "ipa": "/pəˈdʒɑːməz/",
+      "pos": "n",
+      "vi": "đồ ngủ",
+      "example_en": "I wear soft pyjamas at night.",
+      "example_vi": "Tôi mặc đồ ngủ mềm vào ban đêm.",
+      "emoji": "🩳"
+    },
+    {
+      "word": "Fashion",
+      "ipa": "/ˈfæʃn/",
+      "pos": "n",
+      "vi": "thời trang",
+      "example_en": "She loves reading about fashion.",
+      "example_vi": "Cô ấy thích đọc về thời trang.",
+      "emoji": "👗"
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "pos": "n",
+      "vi": "phong cách",
+      "example_en": "I like his simple style.",
+      "example_vi": "Tôi thích phong cách giản dị của anh ấy.",
+      "emoji": "✨"
+    },
+    {
+      "word": "Size",
+      "ipa": "/saɪz/",
+      "pos": "n",
+      "vi": "kích cỡ",
+      "example_en": "What size are these shoes?",
+      "example_vi": "Đôi giày này cỡ bao nhiêu?",
+      "emoji": "📏"
+    },
+    {
+      "word": "Colour",
+      "ipa": "/ˈkʌlə(r)/",
+      "pos": "n",
+      "vi": "màu sắc",
+      "example_en": "My favourite colour is green.",
+      "example_vi": "Màu yêu thích của tôi là màu xanh lá.",
+      "emoji": "🎨"
+    },
+    {
+      "word": "Cotton",
+      "ipa": "/ˈkɒtn/",
+      "pos": "n",
+      "vi": "vải cotton",
+      "example_en": "This shirt is made of cotton.",
+      "example_vi": "Chiếc áo này làm từ vải cotton.",
+      "emoji": "🌿"
+    },
+    {
+      "word": "Wear",
+      "ipa": "/weə(r)/",
+      "pos": "v",
+      "vi": "mặc, đeo",
+      "example_en": "I wear a coat when it is cold.",
+      "example_vi": "Tôi mặc áo khoác khi trời lạnh.",
+      "emoji": "🧥"
+    },
+    {
+      "word": "Put on",
+      "ipa": "/pʊt ɒn/",
+      "pos": "phr",
+      "vi": "mặc vào, đeo vào",
+      "example_en": "Put on your shoes, we are late.",
+      "example_vi": "Mang giày vào đi, chúng ta muộn rồi.",
+      "emoji": "👟"
+    },
+    {
+      "word": "Take off",
+      "ipa": "/teɪk ɒf/",
+      "pos": "phr",
+      "vi": "cởi ra",
+      "example_en": "Please take off your hat inside.",
+      "example_vi": "Hãy bỏ mũ ra khi ở trong nhà.",
+      "emoji": "🎩"
+    },
+    {
+      "word": "Try on",
+      "ipa": "/traɪ ɒn/",
+      "pos": "phr",
+      "vi": "mặc thử",
+      "example_en": "Can I try on this jacket?",
+      "example_vi": "Tôi mặc thử chiếc áo khoác này được không?",
+      "emoji": "🧥"
+    },
+    {
+      "word": "Fit",
+      "ipa": "/fɪt/",
+      "pos": "v",
+      "vi": "vừa vặn",
+      "example_en": "These jeans fit me well.",
+      "example_vi": "Chiếc quần bò này vừa vặn với tôi.",
+      "emoji": "👖"
+    },
+    {
+      "word": "Smart",
+      "ipa": "/smɑːt/",
+      "pos": "adj",
+      "vi": "lịch sự, chỉnh tề",
+      "example_en": "He looks smart in that suit.",
+      "example_vi": "Anh ấy trông lịch sự trong bộ vest đó.",
+      "emoji": "🤵"
+    },
+    {
+      "word": "Casual",
+      "ipa": "/ˈkæʒuəl/",
+      "pos": "adj",
+      "vi": "thường ngày, giản dị",
+      "example_en": "I like casual clothes on weekends.",
+      "example_vi": "Tôi thích mặc đồ giản dị vào cuối tuần.",
+      "emoji": "👕"
+    },
+    {
+      "word": "Tight",
+      "ipa": "/taɪt/",
+      "pos": "adj",
+      "vi": "chật, bó",
+      "example_en": "This shirt is too tight for me.",
+      "example_vi": "Chiếc áo này quá chật với tôi.",
+      "emoji": "👕"
+    }
+  ]
+}

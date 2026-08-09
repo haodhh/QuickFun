@@ -1,0 +1,342 @@
+{
+  "id": 12,
+  "slug": "cinema",
+  "title_en": "Cinema",
+  "title_vi": "Điện ảnh",
+  "emoji": "🎬",
+  "words": [
+    {
+      "word": "Film",
+      "ipa": "/fɪlm/",
+      "pos": "n",
+      "vi": "phim",
+      "example_en": "We watched a funny film last night.",
+      "example_vi": "Chúng tôi đã xem một bộ phim hài tối qua.",
+      "emoji": "🎞️"
+    },
+    {
+      "word": "Movie",
+      "ipa": "/ˈmuːvi/",
+      "pos": "n",
+      "vi": "phim (điện ảnh)",
+      "example_en": "This movie is very popular with children.",
+      "example_vi": "Bộ phim này rất được trẻ em yêu thích.",
+      "emoji": "🎬"
+    },
+    {
+      "word": "Cinema",
+      "ipa": "/ˈsɪnəmə/",
+      "pos": "n",
+      "vi": "rạp chiếu phim",
+      "example_en": "Let's go to the cinema on Saturday.",
+      "example_vi": "Chúng ta hãy đi xem phim ở rạp vào thứ Bảy nhé.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "pos": "n",
+      "vi": "vé",
+      "example_en": "I bought two tickets for the new movie.",
+      "example_vi": "Tôi đã mua hai vé cho bộ phim mới.",
+      "emoji": "🎫"
+    },
+    {
+      "word": "Screen",
+      "ipa": "/skriːn/",
+      "pos": "n",
+      "vi": "màn ảnh",
+      "example_en": "The cinema screen is huge and bright.",
+      "example_vi": "Màn ảnh trong rạp rất lớn và sáng.",
+      "emoji": "🖥️"
+    },
+    {
+      "word": "Actor",
+      "ipa": "/ˈæktə(r)/",
+      "pos": "n",
+      "vi": "diễn viên (nam)",
+      "example_en": "He is a famous actor from America.",
+      "example_vi": "Anh ấy là một diễn viên nổi tiếng đến từ Mỹ.",
+      "emoji": "👨‍🎤"
+    },
+    {
+      "word": "Actress",
+      "ipa": "/ˈæktrəs/",
+      "pos": "n",
+      "vi": "diễn viên (nữ)",
+      "example_en": "The young actress won a big award.",
+      "example_vi": "Nữ diễn viên trẻ đã giành một giải thưởng lớn.",
+      "emoji": "👩‍🎤"
+    },
+    {
+      "word": "Star",
+      "ipa": "/stɑː(r)/",
+      "pos": "n",
+      "vi": "ngôi sao (điện ảnh)",
+      "example_en": "The movie star arrived in a black car.",
+      "example_vi": "Ngôi sao điện ảnh đến trong một chiếc xe màu đen.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "Director",
+      "ipa": "/dəˈrektə(r)/",
+      "pos": "n",
+      "vi": "đạo diễn",
+      "example_en": "The director talked about his new film.",
+      "example_vi": "Đạo diễn nói về bộ phim mới của mình.",
+      "emoji": "🎬"
+    },
+    {
+      "word": "Scene",
+      "ipa": "/siːn/",
+      "pos": "n",
+      "vi": "cảnh (phim)",
+      "example_en": "My favourite scene is at the beach.",
+      "example_vi": "Cảnh yêu thích của tôi là ở bãi biển.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "Character",
+      "ipa": "/ˈkærəktə(r)/",
+      "pos": "n",
+      "vi": "nhân vật",
+      "example_en": "The main character is a brave girl.",
+      "example_vi": "Nhân vật chính là một cô gái dũng cảm.",
+      "emoji": "🧑"
+    },
+    {
+      "word": "Plot",
+      "ipa": "/plɒt/",
+      "pos": "n",
+      "vi": "cốt truyện",
+      "example_en": "The plot of this film is easy to follow.",
+      "example_vi": "Cốt truyện của bộ phim này dễ theo dõi.",
+      "emoji": "📜"
+    },
+    {
+      "word": "Comedy",
+      "ipa": "/ˈkɒmədi/",
+      "pos": "n",
+      "vi": "phim hài",
+      "example_en": "I love a good comedy on the weekend.",
+      "example_vi": "Tôi thích xem một bộ phim hài hay vào cuối tuần.",
+      "emoji": "😂"
+    },
+    {
+      "word": "Horror",
+      "ipa": "/ˈhɒrə(r)/",
+      "pos": "n",
+      "vi": "phim kinh dị",
+      "example_en": "She never watches horror films at night.",
+      "example_vi": "Cô ấy không bao giờ xem phim kinh dị vào ban đêm.",
+      "emoji": "👻"
+    },
+    {
+      "word": "Action",
+      "ipa": "/ˈækʃn/",
+      "pos": "n",
+      "vi": "phim hành động",
+      "example_en": "This action film is full of fast cars.",
+      "example_vi": "Bộ phim hành động này đầy những chiếc xe chạy nhanh.",
+      "emoji": "💥"
+    },
+    {
+      "word": "Cartoon",
+      "ipa": "/kɑːˈtuːn/",
+      "pos": "n",
+      "vi": "phim hoạt hình",
+      "example_en": "My little brother watches cartoons every morning.",
+      "example_vi": "Em trai tôi xem phim hoạt hình mỗi sáng.",
+      "emoji": "🐭"
+    },
+    {
+      "word": "Animation",
+      "ipa": "/ˌænɪˈmeɪʃn/",
+      "pos": "n",
+      "vi": "phim hoạt họa",
+      "example_en": "The animation in this movie is beautiful.",
+      "example_vi": "Phần hoạt họa trong bộ phim này rất đẹp.",
+      "emoji": "🎨"
+    },
+    {
+      "word": "Drama",
+      "ipa": "/ˈdrɑːmə/",
+      "pos": "n",
+      "vi": "phim chính kịch",
+      "example_en": "The drama made many people cry.",
+      "example_vi": "Bộ phim chính kịch đã khiến nhiều người khóc.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "Romance",
+      "ipa": "/rəʊˈmæns/",
+      "pos": "n",
+      "vi": "phim lãng mạn",
+      "example_en": "She enjoys a sweet romance film.",
+      "example_vi": "Cô ấy thích một bộ phim lãng mạn ngọt ngào.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "Popcorn",
+      "ipa": "/ˈpɒpkɔːn/",
+      "pos": "n",
+      "vi": "bỏng ngô",
+      "example_en": "We always eat popcorn at the cinema.",
+      "example_vi": "Chúng tôi luôn ăn bỏng ngô ở rạp phim.",
+      "emoji": "🍿"
+    },
+    {
+      "word": "Seat",
+      "ipa": "/siːt/",
+      "pos": "n",
+      "vi": "chỗ ngồi",
+      "example_en": "Our seats are in the middle row.",
+      "example_vi": "Chỗ ngồi của chúng tôi ở hàng giữa.",
+      "emoji": "💺"
+    },
+    {
+      "word": "Watch",
+      "ipa": "/wɒtʃ/",
+      "pos": "v",
+      "vi": "xem",
+      "example_en": "Let's watch a movie at home tonight.",
+      "example_vi": "Tối nay chúng ta xem phim ở nhà nhé.",
+      "emoji": "👀"
+    },
+    {
+      "word": "Trailer",
+      "ipa": "/ˈtreɪlə(r)/",
+      "pos": "n",
+      "vi": "đoạn giới thiệu phim",
+      "example_en": "The trailer looks really exciting.",
+      "example_vi": "Đoạn giới thiệu phim trông thật hấp dẫn.",
+      "emoji": "🎬"
+    },
+    {
+      "word": "Review",
+      "ipa": "/rɪˈvjuː/",
+      "pos": "n",
+      "vi": "bài đánh giá",
+      "example_en": "I read a good review of the film.",
+      "example_vi": "Tôi đã đọc một bài đánh giá hay về bộ phim.",
+      "emoji": "⭐"
+    },
+    {
+      "word": "Sequel",
+      "ipa": "/ˈsiːkwəl/",
+      "pos": "n",
+      "vi": "phần tiếp theo",
+      "example_en": "The sequel is even better than the first film.",
+      "example_vi": "Phần tiếp theo còn hay hơn cả phần đầu.",
+      "emoji": "🔁"
+    },
+    {
+      "word": "Hero",
+      "ipa": "/ˈhɪərəʊ/",
+      "pos": "n",
+      "vi": "anh hùng, nhân vật chính diện",
+      "example_en": "The hero saves the town at the end.",
+      "example_vi": "Người anh hùng cứu cả thị trấn ở phần cuối.",
+      "emoji": "🦸"
+    },
+    {
+      "word": "Villain",
+      "ipa": "/ˈvɪlən/",
+      "pos": "n",
+      "vi": "nhân vật phản diện",
+      "example_en": "The villain wants to take all the gold.",
+      "example_vi": "Kẻ phản diện muốn lấy hết số vàng.",
+      "emoji": "😈"
+    },
+    {
+      "word": "Script",
+      "ipa": "/skrɪpt/",
+      "pos": "n",
+      "vi": "kịch bản",
+      "example_en": "The actors read the script together.",
+      "example_vi": "Các diễn viên cùng nhau đọc kịch bản.",
+      "emoji": "📃"
+    },
+    {
+      "word": "Subtitle",
+      "ipa": "/ˈsʌbtaɪtl/",
+      "pos": "n",
+      "vi": "phụ đề",
+      "example_en": "I watch English films with subtitles.",
+      "example_vi": "Tôi xem phim tiếng Anh có phụ đề.",
+      "emoji": "💬"
+    },
+    {
+      "word": "Soundtrack",
+      "ipa": "/ˈsaʊndtræk/",
+      "pos": "n",
+      "vi": "nhạc phim",
+      "example_en": "The soundtrack of this movie is amazing.",
+      "example_vi": "Nhạc phim của bộ phim này thật tuyệt vời.",
+      "emoji": "🎵"
+    },
+    {
+      "word": "Award",
+      "ipa": "/əˈwɔːd/",
+      "pos": "n",
+      "vi": "giải thưởng",
+      "example_en": "The film won an award for best story.",
+      "example_vi": "Bộ phim đã giành giải thưởng cho cốt truyện hay nhất.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "Audience",
+      "ipa": "/ˈɔːdiəns/",
+      "pos": "n",
+      "vi": "khán giả",
+      "example_en": "The whole audience laughed at the joke.",
+      "example_vi": "Cả khán phòng cười trước câu nói đùa.",
+      "emoji": "👥"
+    },
+    {
+      "word": "Producer",
+      "ipa": "/prəˈdjuːsə(r)/",
+      "pos": "n",
+      "vi": "nhà sản xuất",
+      "example_en": "The producer found the money for the film.",
+      "example_vi": "Nhà sản xuất đã tìm nguồn tiền cho bộ phim.",
+      "emoji": "🎥"
+    },
+    {
+      "word": "Role",
+      "ipa": "/rəʊl/",
+      "pos": "n",
+      "vi": "vai diễn",
+      "example_en": "She played the role of a young queen.",
+      "example_vi": "Cô ấy đóng vai một nữ hoàng trẻ tuổi.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "Thriller",
+      "ipa": "/ˈθrɪlə(r)/",
+      "pos": "n",
+      "vi": "phim gay cấn, phim giật gân",
+      "example_en": "This thriller kept me awake all night.",
+      "example_vi": "Bộ phim giật gân này khiến tôi thức cả đêm.",
+      "emoji": "🔪"
+    },
+    {
+      "word": "Special effects",
+      "ipa": "/ˌspeʃl ɪˈfekts/",
+      "pos": "n",
+      "vi": "hiệu ứng đặc biệt, kỹ xảo",
+      "example_en": "The special effects in this space film are great.",
+      "example_vi": "Kỹ xảo trong bộ phim vũ trụ này rất tuyệt.",
+      "emoji": "✨"
+    },
+    {
+      "word": "Blockbuster",
+      "ipa": "/ˈblɒkbʌstə(r)/",
+      "pos": "n",
+      "vi": "phim bom tấn",
+      "example_en": "The new blockbuster made a lot of money.",
+      "example_vi": "Bộ phim bom tấn mới đã thu về rất nhiều tiền.",
+      "emoji": "💰"
+    }
+  ]
+}

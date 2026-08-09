@@ -1,0 +1,351 @@
+{
+  "id": 11,
+  "slug": "the-media",
+  "title_en": "The Media",
+  "title_vi": "Truyền thông",
+  "emoji": "📺",
+  "words": [
+    {
+      "word": "Television",
+      "ipa": "/ˈtelɪvɪʒn/",
+      "pos": "n",
+      "vi": "tivi, truyền hình",
+      "example_en": "We watch television together every evening.",
+      "example_vi": "Chúng tôi cùng xem tivi mỗi tối.",
+      "emoji": "📺"
+    },
+    {
+      "word": "News",
+      "ipa": "/njuːz/",
+      "pos": "n",
+      "vi": "tin tức",
+      "example_en": "I listen to the news before work.",
+      "example_vi": "Tôi nghe tin tức trước khi đi làm.",
+      "emoji": "📰"
+    },
+    {
+      "word": "Newspaper",
+      "ipa": "/ˈnjuːzpeɪpə(r)/",
+      "pos": "n",
+      "vi": "báo, tờ báo",
+      "example_en": "My father reads a newspaper every morning.",
+      "example_vi": "Bố tôi đọc báo mỗi sáng.",
+      "emoji": "📰"
+    },
+    {
+      "word": "Radio",
+      "ipa": "/ˈreɪdiəʊ/",
+      "pos": "n",
+      "vi": "đài, radio",
+      "example_en": "She plays the radio while she cooks.",
+      "example_vi": "Cô ấy bật radio khi nấu ăn.",
+      "emoji": "📻"
+    },
+    {
+      "word": "Internet",
+      "ipa": "/ˈɪntənet/",
+      "pos": "n",
+      "vi": "internet, mạng",
+      "example_en": "I find a lot of information on the internet.",
+      "example_vi": "Tôi tìm được nhiều thông tin trên internet.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "Magazine",
+      "ipa": "/ˌmæɡəˈziːn/",
+      "pos": "n",
+      "vi": "tạp chí",
+      "example_en": "This magazine has great photos of nature.",
+      "example_vi": "Tạp chí này có những bức ảnh thiên nhiên tuyệt đẹp.",
+      "emoji": "📖"
+    },
+    {
+      "word": "Channel",
+      "ipa": "/ˈtʃænl/",
+      "pos": "n",
+      "vi": "kênh",
+      "example_en": "Can you change the channel, please?",
+      "example_vi": "Bạn đổi kênh giúp mình được không?",
+      "emoji": "📡"
+    },
+    {
+      "word": "Program",
+      "ipa": "/ˈprəʊɡræm/",
+      "pos": "n",
+      "vi": "chương trình",
+      "example_en": "My favourite program starts at eight.",
+      "example_vi": "Chương trình yêu thích của tôi bắt đầu lúc tám giờ.",
+      "emoji": "🎬"
+    },
+    {
+      "word": "Website",
+      "ipa": "/ˈwebsaɪt/",
+      "pos": "n",
+      "vi": "trang web",
+      "example_en": "You can read the article on our website.",
+      "example_vi": "Bạn có thể đọc bài viết trên trang web của chúng tôi.",
+      "emoji": "💻"
+    },
+    {
+      "word": "Media",
+      "ipa": "/ˈmiːdiə/",
+      "pos": "n",
+      "vi": "truyền thông, phương tiện truyền thông",
+      "example_en": "The media reported the big storm.",
+      "example_vi": "Truyền thông đã đưa tin về cơn bão lớn.",
+      "emoji": "📢"
+    },
+    {
+      "word": "Reporter",
+      "ipa": "/rɪˈpɔːtə(r)/",
+      "pos": "n",
+      "vi": "phóng viên",
+      "example_en": "The reporter asked the players many questions.",
+      "example_vi": "Phóng viên đã hỏi các cầu thủ nhiều câu hỏi.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Journalist",
+      "ipa": "/ˈdʒɜːnəlɪst/",
+      "pos": "n",
+      "vi": "nhà báo",
+      "example_en": "She wants to be a journalist one day.",
+      "example_vi": "Cô ấy muốn trở thành nhà báo một ngày nào đó.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "Article",
+      "ipa": "/ˈɑːtɪkl/",
+      "pos": "n",
+      "vi": "bài báo, bài viết",
+      "example_en": "I read a short article about healthy food.",
+      "example_vi": "Tôi đã đọc một bài viết ngắn về thực phẩm lành mạnh.",
+      "emoji": "📄"
+    },
+    {
+      "word": "Advertisement",
+      "ipa": "/ədˈvɜːtɪsmənt/",
+      "pos": "n",
+      "vi": "quảng cáo",
+      "example_en": "There is a funny advertisement on TV tonight.",
+      "example_vi": "Có một quảng cáo hài hước trên tivi tối nay.",
+      "emoji": "📣"
+    },
+    {
+      "word": "Interview",
+      "ipa": "/ˈɪntəvjuː/",
+      "pos": "n",
+      "vi": "cuộc phỏng vấn",
+      "example_en": "The singer gave a long interview yesterday.",
+      "example_vi": "Ca sĩ đã có một cuộc phỏng vấn dài hôm qua.",
+      "emoji": "🎙️"
+    },
+    {
+      "word": "Headline",
+      "ipa": "/ˈhedlaɪn/",
+      "pos": "n",
+      "vi": "tiêu đề, dòng tít",
+      "example_en": "The headline says the price of oil is rising.",
+      "example_vi": "Tiêu đề nói rằng giá dầu đang tăng.",
+      "emoji": "📰"
+    },
+    {
+      "word": "Broadcast",
+      "ipa": "/ˈbrɔːdkɑːst/",
+      "pos": "v",
+      "vi": "phát sóng",
+      "example_en": "They broadcast the match live on Sunday.",
+      "example_vi": "Họ phát sóng trực tiếp trận đấu vào Chủ nhật.",
+      "emoji": "📡"
+    },
+    {
+      "word": "Weather forecast",
+      "ipa": "/ˈweðə fɔːkɑːst/",
+      "pos": "n",
+      "vi": "dự báo thời tiết",
+      "example_en": "The weather forecast says it will rain tomorrow.",
+      "example_vi": "Dự báo thời tiết nói rằng ngày mai trời sẽ mưa.",
+      "emoji": "🌦️"
+    },
+    {
+      "word": "Social media",
+      "ipa": "/ˈsəʊʃl ˈmiːdiə/",
+      "pos": "n",
+      "vi": "mạng xã hội",
+      "example_en": "Many young people spend hours on social media.",
+      "example_vi": "Nhiều người trẻ dành hàng giờ trên mạng xã hội.",
+      "emoji": "📱"
+    },
+    {
+      "word": "Online",
+      "ipa": "/ˌɒnˈlaɪn/",
+      "pos": "adv",
+      "vi": "trực tuyến, trên mạng",
+      "example_en": "I read the news online every day.",
+      "example_vi": "Tôi đọc tin tức trên mạng mỗi ngày.",
+      "emoji": "🌐"
+    },
+    {
+      "word": "Podcast",
+      "ipa": "/ˈpɒdkɑːst/",
+      "pos": "n",
+      "vi": "podcast, chương trình âm thanh",
+      "example_en": "I listen to an English podcast on the bus.",
+      "example_vi": "Tôi nghe một podcast tiếng Anh trên xe buýt.",
+      "emoji": "🎧"
+    },
+    {
+      "word": "Blog",
+      "ipa": "/blɒɡ/",
+      "pos": "n",
+      "vi": "blog, nhật ký trên mạng",
+      "example_en": "She writes a travel blog about Vietnam.",
+      "example_vi": "Cô ấy viết một blog du lịch về Việt Nam.",
+      "emoji": "📝"
+    },
+    {
+      "word": "Post",
+      "ipa": "/pəʊst/",
+      "pos": "v",
+      "vi": "đăng bài",
+      "example_en": "He likes to post photos of his food.",
+      "example_vi": "Anh ấy thích đăng ảnh đồ ăn của mình.",
+      "emoji": "📮"
+    },
+    {
+      "word": "Comment",
+      "ipa": "/ˈkɒment/",
+      "pos": "n",
+      "vi": "bình luận",
+      "example_en": "She left a kind comment on my video.",
+      "example_vi": "Cô ấy để lại một bình luận tử tế dưới video của tôi.",
+      "emoji": "💬"
+    },
+    {
+      "word": "Share",
+      "ipa": "/ʃeə(r)/",
+      "pos": "v",
+      "vi": "chia sẻ",
+      "example_en": "Please share this story with your friends.",
+      "example_vi": "Hãy chia sẻ câu chuyện này với bạn bè của bạn.",
+      "emoji": "🔗"
+    },
+    {
+      "word": "Audience",
+      "ipa": "/ˈɔːdiəns/",
+      "pos": "n",
+      "vi": "khán giả",
+      "example_en": "The audience clapped after the show.",
+      "example_vi": "Khán giả vỗ tay sau buổi biểu diễn.",
+      "emoji": "👥"
+    },
+    {
+      "word": "Viewer",
+      "ipa": "/ˈvjuːə(r)/",
+      "pos": "n",
+      "vi": "người xem",
+      "example_en": "Millions of viewers watched the final game.",
+      "example_vi": "Hàng triệu người xem đã theo dõi trận chung kết.",
+      "emoji": "👀"
+    },
+    {
+      "word": "Press",
+      "ipa": "/pres/",
+      "pos": "n",
+      "vi": "báo chí",
+      "example_en": "The press waited outside the hotel.",
+      "example_vi": "Báo chí đợi bên ngoài khách sạn.",
+      "emoji": "🗞️"
+    },
+    {
+      "word": "Information",
+      "ipa": "/ˌɪnfəˈmeɪʃn/",
+      "pos": "n",
+      "vi": "thông tin",
+      "example_en": "This app gives useful information about buses.",
+      "example_vi": "Ứng dụng này cung cấp thông tin hữu ích về xe buýt.",
+      "emoji": "ℹ️"
+    },
+    {
+      "word": "Message",
+      "ipa": "/ˈmesɪdʒ/",
+      "pos": "n",
+      "vi": "tin nhắn",
+      "example_en": "I sent her a short message this morning.",
+      "example_vi": "Tôi đã gửi cho cô ấy một tin nhắn ngắn sáng nay.",
+      "emoji": "✉️"
+    },
+    {
+      "word": "Documentary",
+      "ipa": "/ˌdɒkjuˈmentri/",
+      "pos": "n",
+      "vi": "phim tài liệu",
+      "example_en": "We watched a documentary about the ocean.",
+      "example_vi": "Chúng tôi đã xem một bộ phim tài liệu về đại dương.",
+      "emoji": "🎥"
+    },
+    {
+      "word": "Subscribe",
+      "ipa": "/səbˈskraɪb/",
+      "pos": "v",
+      "vi": "đăng ký, theo dõi",
+      "example_en": "Please subscribe to our channel for more videos.",
+      "example_vi": "Hãy đăng ký kênh của chúng tôi để xem thêm video.",
+      "emoji": "🔔"
+    },
+    {
+      "word": "Editor",
+      "ipa": "/ˈedɪtə(r)/",
+      "pos": "n",
+      "vi": "biên tập viên",
+      "example_en": "The editor checks every story before it is printed.",
+      "example_vi": "Biên tập viên kiểm tra mọi bài viết trước khi in.",
+      "emoji": "🖊️"
+    },
+    {
+      "word": "Publish",
+      "ipa": "/ˈpʌblɪʃ/",
+      "pos": "v",
+      "vi": "xuất bản, đăng tải",
+      "example_en": "They will publish the report next week.",
+      "example_vi": "Họ sẽ đăng tải bản báo cáo vào tuần tới.",
+      "emoji": "📤"
+    },
+    {
+      "word": "Screen",
+      "ipa": "/skriːn/",
+      "pos": "n",
+      "vi": "màn hình",
+      "example_en": "The new phone has a very big screen.",
+      "example_vi": "Chiếc điện thoại mới có màn hình rất lớn.",
+      "emoji": "📱"
+    },
+    {
+      "word": "Microphone",
+      "ipa": "/ˈmaɪkrəfəʊn/",
+      "pos": "n",
+      "vi": "micro",
+      "example_en": "The host spoke into the microphone.",
+      "example_vi": "Người dẫn chương trình nói vào micro.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Breaking news",
+      "ipa": "/ˌbreɪkɪŋ ˈnjuːz/",
+      "pos": "n",
+      "vi": "tin nóng",
+      "example_en": "The show stopped for some breaking news.",
+      "example_vi": "Chương trình dừng lại để đưa tin nóng.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "Camera",
+      "ipa": "/ˈkæmərə/",
+      "pos": "n",
+      "vi": "máy quay, máy ảnh",
+      "example_en": "The camera was in front of the reporter.",
+      "example_vi": "Chiếc máy quay ở phía trước phóng viên.",
+      "emoji": "📷"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": 9,
+  "slug": "town-and-countryside",
+  "title_en": "The Town and the Countryside",
+  "title_vi": "Thành thị & nông thôn",
+  "emoji": "🏙️",
+  "words": [
+    {
+      "word": "Town",
+      "ipa": "/taʊn/",
+      "pos": "n",
+      "vi": "thị trấn",
+      "example_en": "My town is small but very nice.",
+      "example_vi": "Thị trấn của tôi nhỏ nhưng rất đẹp.",
+      "emoji": "🏘️"
+    },
+    {
+      "word": "City",
+      "ipa": "/ˈsɪti/",
+      "pos": "n",
+      "vi": "thành phố",
+      "example_en": "We live in a big city.",
+      "example_vi": "Chúng tôi sống ở một thành phố lớn.",
+      "emoji": "🏙️"
+    },
+    {
+      "word": "Village",
+      "ipa": "/ˈvɪlɪdʒ/",
+      "pos": "n",
+      "vi": "làng",
+      "example_en": "My grandmother lives in a quiet village.",
+      "example_vi": "Bà tôi sống ở một ngôi làng yên tĩnh.",
+      "emoji": "🏡"
+    },
+    {
+      "word": "Countryside",
+      "ipa": "/ˈkʌntrisaɪd/",
+      "pos": "n",
+      "vi": "nông thôn",
+      "example_en": "The air in the countryside is fresh.",
+      "example_vi": "Không khí ở nông thôn trong lành.",
+      "emoji": "🌄"
+    },
+    {
+      "word": "Street",
+      "ipa": "/striːt/",
+      "pos": "n",
+      "vi": "đường phố",
+      "example_en": "The street is busy in the morning.",
+      "example_vi": "Đường phố đông đúc vào buổi sáng.",
+      "emoji": "🛣️"
+    },
+    {
+      "word": "Road",
+      "ipa": "/rəʊd/",
+      "pos": "n",
+      "vi": "con đường",
+      "example_en": "This road goes to the sea.",
+      "example_vi": "Con đường này dẫn ra biển.",
+      "emoji": "🛤️"
+    },
+    {
+      "word": "Building",
+      "ipa": "/ˈbɪldɪŋ/",
+      "pos": "n",
+      "vi": "tòa nhà",
+      "example_en": "That tall building is a hotel.",
+      "example_vi": "Tòa nhà cao đó là một khách sạn.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "House",
+      "ipa": "/haʊs/",
+      "pos": "n",
+      "vi": "ngôi nhà",
+      "example_en": "They have a house near the river.",
+      "example_vi": "Họ có một ngôi nhà gần sông.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "Shop",
+      "ipa": "/ʃɒp/",
+      "pos": "n",
+      "vi": "cửa hàng",
+      "example_en": "I bought bread at the shop.",
+      "example_vi": "Tôi mua bánh mì ở cửa hàng.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːkɪt/",
+      "pos": "n",
+      "vi": "chợ",
+      "example_en": "My mother buys fish at the market.",
+      "example_vi": "Mẹ tôi mua cá ở chợ.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "Park",
+      "ipa": "/pɑːk/",
+      "pos": "n",
+      "vi": "công viên",
+      "example_en": "We play football in the park.",
+      "example_vi": "Chúng tôi chơi bóng đá trong công viên.",
+      "emoji": "🏞️"
+    },
+    {
+      "word": "School",
+      "ipa": "/skuːl/",
+      "pos": "n",
+      "vi": "trường học",
+      "example_en": "The school is close to my home.",
+      "example_vi": "Trường học gần nhà tôi.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "Hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "pos": "n",
+      "vi": "bệnh viện",
+      "example_en": "The new hospital is very big.",
+      "example_vi": "Bệnh viện mới rất lớn.",
+      "emoji": "🏥"
+    },
+    {
+      "word": "Bank",
+      "ipa": "/bæŋk/",
+      "pos": "n",
+      "vi": "ngân hàng",
+      "example_en": "I keep my money in the bank.",
+      "example_vi": "Tôi giữ tiền trong ngân hàng.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "Restaurant",
+      "ipa": "/ˈrestrɒnt/",
+      "pos": "n",
+      "vi": "nhà hàng",
+      "example_en": "We had lunch at a nice restaurant.",
+      "example_vi": "Chúng tôi ăn trưa ở một nhà hàng đẹp.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "Library",
+      "ipa": "/ˈlaɪbrəri/",
+      "pos": "n",
+      "vi": "thư viện",
+      "example_en": "She reads books in the library.",
+      "example_vi": "Cô ấy đọc sách trong thư viện.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Church",
+      "ipa": "/tʃɜːtʃ/",
+      "pos": "n",
+      "vi": "nhà thờ",
+      "example_en": "The old church is very beautiful.",
+      "example_vi": "Nhà thờ cổ rất đẹp.",
+      "emoji": "⛪"
+    },
+    {
+      "word": "Bridge",
+      "ipa": "/brɪdʒ/",
+      "pos": "n",
+      "vi": "cây cầu",
+      "example_en": "We walk over the bridge every day.",
+      "example_vi": "Chúng tôi đi qua cây cầu mỗi ngày.",
+      "emoji": "🌉"
+    },
+    {
+      "word": "Square",
+      "ipa": "/skweə(r)/",
+      "pos": "n",
+      "vi": "quảng trường",
+      "example_en": "People meet in the town square.",
+      "example_vi": "Mọi người gặp nhau ở quảng trường thị trấn.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "Corner",
+      "ipa": "/ˈkɔːnə(r)/",
+      "pos": "n",
+      "vi": "góc phố",
+      "example_en": "The café is on the corner.",
+      "example_vi": "Quán cà phê ở góc phố.",
+      "emoji": "📍"
+    },
+    {
+      "word": "Farm",
+      "ipa": "/fɑːm/",
+      "pos": "n",
+      "vi": "trang trại",
+      "example_en": "My uncle works on a farm.",
+      "example_vi": "Chú tôi làm việc ở một trang trại.",
+      "emoji": "🚜"
+    },
+    {
+      "word": "Field",
+      "ipa": "/fiːld/",
+      "pos": "n",
+      "vi": "cánh đồng",
+      "example_en": "The green field is full of rice.",
+      "example_vi": "Cánh đồng xanh đầy lúa.",
+      "emoji": "🌾"
+    },
+    {
+      "word": "River",
+      "ipa": "/ˈrɪvə(r)/",
+      "pos": "n",
+      "vi": "dòng sông",
+      "example_en": "Children swim in the river.",
+      "example_vi": "Bọn trẻ bơi trong dòng sông.",
+      "emoji": "🏞️"
+    },
+    {
+      "word": "Lake",
+      "ipa": "/leɪk/",
+      "pos": "n",
+      "vi": "hồ",
+      "example_en": "We sat by the quiet lake.",
+      "example_vi": "Chúng tôi ngồi bên hồ nước yên tĩnh.",
+      "emoji": "🏔️"
+    },
+    {
+      "word": "Mountain",
+      "ipa": "/ˈmaʊntən/",
+      "pos": "n",
+      "vi": "núi",
+      "example_en": "The mountain is very high.",
+      "example_vi": "Ngọn núi rất cao.",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "Hill",
+      "ipa": "/hɪl/",
+      "pos": "n",
+      "vi": "đồi",
+      "example_en": "Their house is on a small hill.",
+      "example_vi": "Nhà họ nằm trên một ngọn đồi nhỏ.",
+      "emoji": "🌄"
+    },
+    {
+      "word": "Forest",
+      "ipa": "/ˈfɒrɪst/",
+      "pos": "n",
+      "vi": "rừng",
+      "example_en": "Many birds live in the forest.",
+      "example_vi": "Nhiều loài chim sống trong rừng.",
+      "emoji": "🌲"
+    },
+    {
+      "word": "Tree",
+      "ipa": "/triː/",
+      "pos": "n",
+      "vi": "cây",
+      "example_en": "There is a big tree in the garden.",
+      "example_vi": "Có một cây lớn trong vườn.",
+      "emoji": "🌳"
+    },
+    {
+      "word": "Garden",
+      "ipa": "/ˈɡɑːdn/",
+      "pos": "n",
+      "vi": "khu vườn",
+      "example_en": "My mother grows flowers in the garden.",
+      "example_vi": "Mẹ tôi trồng hoa trong vườn.",
+      "emoji": "🌷"
+    },
+    {
+      "word": "Traffic",
+      "ipa": "/ˈtræfɪk/",
+      "pos": "n",
+      "vi": "giao thông",
+      "example_en": "There is heavy traffic in the city.",
+      "example_vi": "Giao thông trong thành phố rất đông.",
+      "emoji": "🚦"
+    },
+    {
+      "word": "Noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "pos": "adj",
+      "vi": "ồn ào",
+      "example_en": "The city centre is very noisy.",
+      "example_vi": "Trung tâm thành phố rất ồn ào.",
+      "emoji": "🔊"
+    },
+    {
+      "word": "Quiet",
+      "ipa": "/ˈkwaɪət/",
+      "pos": "adj",
+      "vi": "yên tĩnh",
+      "example_en": "The village is calm and quiet.",
+      "example_vi": "Ngôi làng thanh bình và yên tĩnh.",
+      "emoji": "🤫"
+    },
+    {
+      "word": "Busy",
+      "ipa": "/ˈbɪzi/",
+      "pos": "adj",
+      "vi": "nhộn nhịp",
+      "example_en": "The market is busy on Sunday.",
+      "example_vi": "Chợ nhộn nhịp vào Chủ nhật.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "pos": "adj",
+      "vi": "đông đúc",
+      "example_en": "The bus is crowded every morning.",
+      "example_vi": "Xe buýt đông đúc mỗi buổi sáng.",
+      "emoji": "👥"
+    },
+    {
+      "word": "Modern",
+      "ipa": "/ˈmɒdn/",
+      "pos": "adj",
+      "vi": "hiện đại",
+      "example_en": "This is a modern city with tall buildings.",
+      "example_vi": "Đây là một thành phố hiện đại với nhiều tòa nhà cao.",
+      "emoji": "🏙️"
+    },
+    {
+      "word": "Factory",
+      "ipa": "/ˈfæktri/",
+      "pos": "n",
+      "vi": "nhà máy",
+      "example_en": "My father works in a car factory.",
+      "example_vi": "Bố tôi làm việc trong một nhà máy ô tô.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "Neighbour",
+      "ipa": "/ˈneɪbə(r)/",
+      "pos": "n",
+      "vi": "hàng xóm",
+      "example_en": "My neighbour is very kind.",
+      "example_vi": "Hàng xóm của tôi rất tốt bụng.",
+      "emoji": "👋"
+    },
+    {
+      "word": "Live",
+      "ipa": "/lɪv/",
+      "pos": "v",
+      "vi": "sống, cư trú",
+      "example_en": "I live in a small town.",
+      "example_vi": "Tôi sống ở một thị trấn nhỏ.",
+      "emoji": "🏠"
+    }
+  ]
+}

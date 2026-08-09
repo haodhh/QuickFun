@@ -1,0 +1,342 @@
+{
+  "id": 15,
+  "slug": "crime",
+  "title_en": "Crime",
+  "title_vi": "Tội phạm",
+  "emoji": "🚔",
+  "words": [
+    {
+      "word": "Crime",
+      "ipa": "/kraɪm/",
+      "pos": "n",
+      "vi": "tội phạm, tội ác",
+      "example_en": "Stealing a car is a serious crime.",
+      "example_vi": "Trộm xe hơi là một tội nghiêm trọng.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "Police",
+      "ipa": "/pəˈliːs/",
+      "pos": "n",
+      "vi": "cảnh sát",
+      "example_en": "Call the police if you see the thief.",
+      "example_vi": "Hãy gọi cảnh sát nếu bạn thấy tên trộm.",
+      "emoji": "👮"
+    },
+    {
+      "word": "Thief",
+      "ipa": "/θiːf/",
+      "pos": "n",
+      "vi": "kẻ trộm",
+      "example_en": "The thief took my phone on the bus.",
+      "example_vi": "Tên trộm đã lấy điện thoại của tôi trên xe buýt.",
+      "emoji": "🦹"
+    },
+    {
+      "word": "Steal",
+      "ipa": "/stiːl/",
+      "pos": "v",
+      "vi": "ăn trộm, lấy cắp",
+      "example_en": "Someone tried to steal my bike last night.",
+      "example_vi": "Ai đó đã cố trộm xe đạp của tôi tối qua.",
+      "emoji": "💰"
+    },
+    {
+      "word": "Rob",
+      "ipa": "/rɒb/",
+      "pos": "v",
+      "vi": "cướp",
+      "example_en": "Two men tried to rob the small shop.",
+      "example_vi": "Hai người đàn ông đã cố cướp cửa hàng nhỏ.",
+      "emoji": "🔫"
+    },
+    {
+      "word": "Prison",
+      "ipa": "/ˈprɪzn/",
+      "pos": "n",
+      "vi": "nhà tù",
+      "example_en": "He spent five years in prison.",
+      "example_vi": "Anh ta đã ở tù năm năm.",
+      "emoji": "⛓️"
+    },
+    {
+      "word": "Criminal",
+      "ipa": "/ˈkrɪmɪnl/",
+      "pos": "n",
+      "vi": "tội phạm (người)",
+      "example_en": "The police are looking for a dangerous criminal.",
+      "example_vi": "Cảnh sát đang truy tìm một tên tội phạm nguy hiểm.",
+      "emoji": "🕵️"
+    },
+    {
+      "word": "Victim",
+      "ipa": "/ˈvɪktɪm/",
+      "pos": "n",
+      "vi": "nạn nhân",
+      "example_en": "The victim called for help.",
+      "example_vi": "Nạn nhân đã kêu cứu.",
+      "emoji": "😰"
+    },
+    {
+      "word": "Arrest",
+      "ipa": "/əˈrest/",
+      "pos": "v",
+      "vi": "bắt giữ",
+      "example_en": "The police arrested the man at his house.",
+      "example_vi": "Cảnh sát đã bắt giữ người đàn ông tại nhà anh ta.",
+      "emoji": "🚓"
+    },
+    {
+      "word": "Guilty",
+      "ipa": "/ˈɡɪlti/",
+      "pos": "adj",
+      "vi": "có tội",
+      "example_en": "The court found her guilty.",
+      "example_vi": "Tòa án đã kết luận cô ấy có tội.",
+      "emoji": "😔"
+    },
+    {
+      "word": "Innocent",
+      "ipa": "/ˈɪnəsnt/",
+      "pos": "adj",
+      "vi": "vô tội",
+      "example_en": "He says he is innocent.",
+      "example_vi": "Anh ấy nói rằng mình vô tội.",
+      "emoji": "😇"
+    },
+    {
+      "word": "Court",
+      "ipa": "/kɔːt/",
+      "pos": "n",
+      "vi": "tòa án",
+      "example_en": "The man went to court on Monday.",
+      "example_vi": "Người đàn ông ra tòa vào thứ Hai.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "Judge",
+      "ipa": "/dʒʌdʒ/",
+      "pos": "n",
+      "vi": "thẩm phán",
+      "example_en": "The judge listened to both sides.",
+      "example_vi": "Vị thẩm phán lắng nghe cả hai bên.",
+      "emoji": "👨‍⚖️"
+    },
+    {
+      "word": "Lawyer",
+      "ipa": "/ˈlɔɪə(r)/",
+      "pos": "n",
+      "vi": "luật sư",
+      "example_en": "My lawyer will help me in court.",
+      "example_vi": "Luật sư của tôi sẽ giúp tôi tại tòa.",
+      "emoji": "💼"
+    },
+    {
+      "word": "Witness",
+      "ipa": "/ˈwɪtnəs/",
+      "pos": "n",
+      "vi": "nhân chứng",
+      "example_en": "A witness saw the accident.",
+      "example_vi": "Một nhân chứng đã thấy vụ tai nạn.",
+      "emoji": "👀"
+    },
+    {
+      "word": "Murder",
+      "ipa": "/ˈmɜːdə(r)/",
+      "pos": "n",
+      "vi": "vụ giết người",
+      "example_en": "The police are investigating a murder.",
+      "example_vi": "Cảnh sát đang điều tra một vụ giết người.",
+      "emoji": "🔪"
+    },
+    {
+      "word": "Murderer",
+      "ipa": "/ˈmɜːdərə(r)/",
+      "pos": "n",
+      "vi": "kẻ giết người",
+      "example_en": "The murderer ran away from the city.",
+      "example_vi": "Kẻ giết người đã bỏ chạy khỏi thành phố.",
+      "emoji": "🩸"
+    },
+    {
+      "word": "Robbery",
+      "ipa": "/ˈrɒbəri/",
+      "pos": "n",
+      "vi": "vụ cướp",
+      "example_en": "There was a bank robbery this morning.",
+      "example_vi": "Sáng nay có một vụ cướp ngân hàng.",
+      "emoji": "🏦"
+    },
+    {
+      "word": "Theft",
+      "ipa": "/θeft/",
+      "pos": "n",
+      "vi": "trộm cắp",
+      "example_en": "Car theft is common in big cities.",
+      "example_vi": "Trộm xe hơi rất phổ biến ở các thành phố lớn.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "Burglar",
+      "ipa": "/ˈbɜːɡlə(r)/",
+      "pos": "n",
+      "vi": "kẻ đột nhập nhà",
+      "example_en": "A burglar broke into our house at night.",
+      "example_vi": "Một kẻ trộm đã đột nhập vào nhà chúng tôi ban đêm.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "Prisoner",
+      "ipa": "/ˈprɪznə(r)/",
+      "pos": "n",
+      "vi": "tù nhân",
+      "example_en": "The prisoner ate breakfast in his cell.",
+      "example_vi": "Người tù ăn sáng trong phòng giam của mình.",
+      "emoji": "🧑‍🦲"
+    },
+    {
+      "word": "Gun",
+      "ipa": "/ɡʌn/",
+      "pos": "n",
+      "vi": "súng",
+      "example_en": "The robber had a gun in his bag.",
+      "example_vi": "Tên cướp có một khẩu súng trong túi.",
+      "emoji": "🔫"
+    },
+    {
+      "word": "Weapon",
+      "ipa": "/ˈwepən/",
+      "pos": "n",
+      "vi": "vũ khí",
+      "example_en": "The police did not find any weapon.",
+      "example_vi": "Cảnh sát không tìm thấy vũ khí nào.",
+      "emoji": "🗡️"
+    },
+    {
+      "word": "Fine",
+      "ipa": "/faɪn/",
+      "pos": "n",
+      "vi": "tiền phạt",
+      "example_en": "He paid a fine for driving too fast.",
+      "example_vi": "Anh ấy đã nộp tiền phạt vì lái xe quá nhanh.",
+      "emoji": "💵"
+    },
+    {
+      "word": "Jail",
+      "ipa": "/dʒeɪl/",
+      "pos": "n",
+      "vi": "nhà giam",
+      "example_en": "The thief went to jail for one year.",
+      "example_vi": "Tên trộm đã ngồi tù một năm.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "Detective",
+      "ipa": "/dɪˈtektɪv/",
+      "pos": "n",
+      "vi": "thám tử",
+      "example_en": "The detective asked many questions.",
+      "example_vi": "Vị thám tử đã hỏi rất nhiều câu.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "Illegal",
+      "ipa": "/ɪˈliːɡl/",
+      "pos": "adj",
+      "vi": "bất hợp pháp",
+      "example_en": "It is illegal to sell these drugs.",
+      "example_vi": "Việc bán những loại thuốc này là bất hợp pháp.",
+      "emoji": "🚫"
+    },
+    {
+      "word": "Punish",
+      "ipa": "/ˈpʌnɪʃ/",
+      "pos": "v",
+      "vi": "trừng phạt",
+      "example_en": "The law will punish dangerous drivers.",
+      "example_vi": "Luật pháp sẽ trừng phạt những tài xế nguy hiểm.",
+      "emoji": "👊"
+    },
+    {
+      "word": "Escape",
+      "ipa": "/ɪˈskeɪp/",
+      "pos": "v",
+      "vi": "trốn thoát",
+      "example_en": "Two prisoners tried to escape at night.",
+      "example_vi": "Hai tù nhân đã cố trốn thoát vào ban đêm.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Dangerous",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "pos": "adj",
+      "vi": "nguy hiểm",
+      "example_en": "This part of the city is dangerous at night.",
+      "example_vi": "Khu này của thành phố rất nguy hiểm vào ban đêm.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "Kidnap",
+      "ipa": "/ˈkɪdnæp/",
+      "pos": "v",
+      "vi": "bắt cóc",
+      "example_en": "The men tried to kidnap a rich boy.",
+      "example_vi": "Bọn chúng đã cố bắt cóc một cậu bé nhà giàu.",
+      "emoji": "🚐"
+    },
+    {
+      "word": "Smuggle",
+      "ipa": "/ˈsmʌɡl/",
+      "pos": "v",
+      "vi": "buôn lậu",
+      "example_en": "They tried to smuggle gold across the border.",
+      "example_vi": "Họ đã cố buôn lậu vàng qua biên giới.",
+      "emoji": "📦"
+    },
+    {
+      "word": "Suspect",
+      "ipa": "/ˈsʌspekt/",
+      "pos": "n",
+      "vi": "nghi phạm",
+      "example_en": "The police have one suspect.",
+      "example_vi": "Cảnh sát có một nghi phạm.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "Evidence",
+      "ipa": "/ˈevɪdəns/",
+      "pos": "n",
+      "vi": "bằng chứng",
+      "example_en": "There is not enough evidence against him.",
+      "example_vi": "Không có đủ bằng chứng chống lại anh ta.",
+      "emoji": "🔎"
+    },
+    {
+      "word": "Attack",
+      "ipa": "/əˈtæk/",
+      "pos": "v",
+      "vi": "tấn công",
+      "example_en": "A dog attacked the postman.",
+      "example_vi": "Một con chó đã tấn công người đưa thư.",
+      "emoji": "👊"
+    },
+    {
+      "word": "Guard",
+      "ipa": "/ɡɑːd/",
+      "pos": "n",
+      "vi": "lính canh, bảo vệ",
+      "example_en": "A guard stands at the prison gate.",
+      "example_vi": "Một lính canh đứng ở cổng nhà tù.",
+      "emoji": "💂"
+    },
+    {
+      "word": "Handcuffs",
+      "ipa": "/ˈhændkʌfs/",
+      "pos": "n",
+      "vi": "còng tay",
+      "example_en": "The officer put handcuffs on the thief.",
+      "example_vi": "Viên cảnh sát đã còng tay tên trộm.",
+      "emoji": "🔗"
+    }
+  ]
+}

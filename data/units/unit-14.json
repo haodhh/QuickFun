@@ -1,0 +1,342 @@
+{
+  "id": 14,
+  "slug": "shops-and-shopping",
+  "title_en": "Shops and Shopping",
+  "title_vi": "Cửa hàng & mua sắm",
+  "emoji": "🛍️",
+  "words": [
+    {
+      "word": "Shop",
+      "ipa": "/ʃɒp/",
+      "pos": "n",
+      "vi": "cửa hàng",
+      "example_en": "There is a small shop near my house.",
+      "example_vi": "Có một cửa hàng nhỏ gần nhà tôi.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "Store",
+      "ipa": "/stɔː(r)/",
+      "pos": "n",
+      "vi": "cửa hàng lớn",
+      "example_en": "The store opens at nine o'clock.",
+      "example_vi": "Cửa hàng mở cửa lúc chín giờ.",
+      "emoji": "🏬"
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːkɪt/",
+      "pos": "n",
+      "vi": "chợ",
+      "example_en": "We buy fresh fruit at the market.",
+      "example_vi": "Chúng tôi mua trái cây tươi ở chợ.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "Supermarket",
+      "ipa": "/ˈsuːpəmɑːkɪt/",
+      "pos": "n",
+      "vi": "siêu thị",
+      "example_en": "My mother goes to the supermarket on Sunday.",
+      "example_vi": "Mẹ tôi đi siêu thị vào Chủ nhật.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "Bakery",
+      "ipa": "/ˈbeɪkəri/",
+      "pos": "n",
+      "vi": "tiệm bánh",
+      "example_en": "The bakery smells of fresh bread.",
+      "example_vi": "Tiệm bánh thơm mùi bánh mì mới.",
+      "emoji": "🥖"
+    },
+    {
+      "word": "Bookshop",
+      "ipa": "/ˈbʊkʃɒp/",
+      "pos": "n",
+      "vi": "hiệu sách",
+      "example_en": "I found a good novel at the bookshop.",
+      "example_vi": "Tôi tìm được một cuốn tiểu thuyết hay ở hiệu sách.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Pharmacy",
+      "ipa": "/ˈfɑːməsi/",
+      "pos": "n",
+      "vi": "hiệu thuốc",
+      "example_en": "I bought medicine at the pharmacy.",
+      "example_vi": "Tôi mua thuốc ở hiệu thuốc.",
+      "emoji": "💊"
+    },
+    {
+      "word": "Shopping",
+      "ipa": "/ˈʃɒpɪŋ/",
+      "pos": "n",
+      "vi": "việc mua sắm",
+      "example_en": "I do my shopping every Saturday.",
+      "example_vi": "Tôi đi mua sắm mỗi thứ Bảy.",
+      "emoji": "🛍️"
+    },
+    {
+      "word": "Customer",
+      "ipa": "/ˈkʌstəmə(r)/",
+      "pos": "n",
+      "vi": "khách hàng",
+      "example_en": "The shop was full of customers.",
+      "example_vi": "Cửa hàng đông khách hàng.",
+      "emoji": "🧑"
+    },
+    {
+      "word": "Shop assistant",
+      "ipa": "/ˈʃɒp əsɪstənt/",
+      "pos": "n",
+      "vi": "nhân viên bán hàng",
+      "example_en": "The shop assistant helped me find a shirt.",
+      "example_vi": "Nhân viên bán hàng giúp tôi tìm một chiếc áo.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "pos": "n",
+      "vi": "giá",
+      "example_en": "The price of this bag is high.",
+      "example_vi": "Giá của chiếc túi này khá cao.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "Money",
+      "ipa": "/ˈmʌni/",
+      "pos": "n",
+      "vi": "tiền",
+      "example_en": "I don't have much money today.",
+      "example_vi": "Hôm nay tôi không có nhiều tiền.",
+      "emoji": "💰"
+    },
+    {
+      "word": "Cash",
+      "ipa": "/kæʃ/",
+      "pos": "n",
+      "vi": "tiền mặt",
+      "example_en": "Can I pay in cash?",
+      "example_vi": "Tôi trả bằng tiền mặt được không?",
+      "emoji": "💵"
+    },
+    {
+      "word": "Card",
+      "ipa": "/kɑːd/",
+      "pos": "n",
+      "vi": "thẻ (thanh toán)",
+      "example_en": "I paid with my card.",
+      "example_vi": "Tôi thanh toán bằng thẻ.",
+      "emoji": "💳"
+    },
+    {
+      "word": "Change",
+      "ipa": "/tʃeɪndʒ/",
+      "pos": "n",
+      "vi": "tiền thối lại",
+      "example_en": "The cashier gave me my change.",
+      "example_vi": "Thu ngân đưa lại tiền thối cho tôi.",
+      "emoji": "🪙"
+    },
+    {
+      "word": "Receipt",
+      "ipa": "/rɪˈsiːt/",
+      "pos": "n",
+      "vi": "hóa đơn",
+      "example_en": "Keep the receipt for later.",
+      "example_vi": "Giữ hóa đơn lại để sau này dùng.",
+      "emoji": "🧾"
+    },
+    {
+      "word": "Bill",
+      "ipa": "/bɪl/",
+      "pos": "n",
+      "vi": "hóa đơn tính tiền",
+      "example_en": "Can we have the bill, please?",
+      "example_vi": "Cho chúng tôi xin hóa đơn nhé?",
+      "emoji": "🧾"
+    },
+    {
+      "word": "Cash register",
+      "ipa": "/ˈkæʃ redʒɪstə(r)/",
+      "pos": "n",
+      "vi": "máy tính tiền",
+      "example_en": "Please pay at the cash register.",
+      "example_vi": "Vui lòng thanh toán ở quầy tính tiền.",
+      "emoji": "💰"
+    },
+    {
+      "word": "Basket",
+      "ipa": "/ˈbɑːskɪt/",
+      "pos": "n",
+      "vi": "giỏ hàng",
+      "example_en": "I put the apples in my basket.",
+      "example_vi": "Tôi bỏ táo vào giỏ hàng.",
+      "emoji": "🧺"
+    },
+    {
+      "word": "Trolley",
+      "ipa": "/ˈtrɒli/",
+      "pos": "n",
+      "vi": "xe đẩy hàng",
+      "example_en": "The trolley is full of food.",
+      "example_vi": "Xe đẩy đầy thức ăn.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "List",
+      "ipa": "/lɪst/",
+      "pos": "n",
+      "vi": "danh sách",
+      "example_en": "I made a shopping list this morning.",
+      "example_vi": "Tôi đã lập danh sách mua sắm sáng nay.",
+      "emoji": "📝"
+    },
+    {
+      "word": "Sale",
+      "ipa": "/seɪl/",
+      "pos": "n",
+      "vi": "đợt giảm giá",
+      "example_en": "These shoes are on sale today.",
+      "example_vi": "Đôi giày này đang giảm giá hôm nay.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "Discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "pos": "n",
+      "vi": "sự giảm giá",
+      "example_en": "I got a ten percent discount.",
+      "example_vi": "Tôi được giảm giá mười phần trăm.",
+      "emoji": "🔖"
+    },
+    {
+      "word": "Cheap",
+      "ipa": "/tʃiːp/",
+      "pos": "adj",
+      "vi": "rẻ",
+      "example_en": "This shop sells cheap clothes.",
+      "example_vi": "Cửa hàng này bán quần áo rẻ.",
+      "emoji": "💲"
+    },
+    {
+      "word": "Expensive",
+      "ipa": "/ɪkˈspensɪv/",
+      "pos": "adj",
+      "vi": "đắt",
+      "example_en": "That watch is too expensive.",
+      "example_vi": "Chiếc đồng hồ đó quá đắt.",
+      "emoji": "💎"
+    },
+    {
+      "word": "Free",
+      "ipa": "/friː/",
+      "pos": "adj",
+      "vi": "miễn phí",
+      "example_en": "The bag was free with the dress.",
+      "example_vi": "Chiếc túi được tặng miễn phí kèm chiếc đầm.",
+      "emoji": "🎁"
+    },
+    {
+      "word": "Buy",
+      "ipa": "/baɪ/",
+      "pos": "v",
+      "vi": "mua",
+      "example_en": "I want to buy some fruit.",
+      "example_vi": "Tôi muốn mua một ít trái cây.",
+      "emoji": "🛒"
+    },
+    {
+      "word": "Sell",
+      "ipa": "/sel/",
+      "pos": "v",
+      "vi": "bán",
+      "example_en": "They sell fresh fish here.",
+      "example_vi": "Họ bán cá tươi ở đây.",
+      "emoji": "🐟"
+    },
+    {
+      "word": "Pay",
+      "ipa": "/peɪ/",
+      "pos": "v",
+      "vi": "trả tiền",
+      "example_en": "How would you like to pay?",
+      "example_vi": "Bạn muốn thanh toán thế nào?",
+      "emoji": "💳"
+    },
+    {
+      "word": "Cost",
+      "ipa": "/kɒst/",
+      "pos": "v",
+      "vi": "có giá là",
+      "example_en": "How much does this cost?",
+      "example_vi": "Cái này giá bao nhiêu?",
+      "emoji": "💷"
+    },
+    {
+      "word": "Spend",
+      "ipa": "/spend/",
+      "pos": "v",
+      "vi": "tiêu (tiền)",
+      "example_en": "I spend too much money on books.",
+      "example_vi": "Tôi tiêu quá nhiều tiền vào sách.",
+      "emoji": "💸"
+    },
+    {
+      "word": "Choose",
+      "ipa": "/tʃuːz/",
+      "pos": "v",
+      "vi": "chọn",
+      "example_en": "Please choose a colour you like.",
+      "example_vi": "Hãy chọn một màu bạn thích.",
+      "emoji": "👉"
+    },
+    {
+      "word": "Return",
+      "ipa": "/rɪˈtɜːn/",
+      "pos": "v",
+      "vi": "trả lại (hàng)",
+      "example_en": "I want to return this shirt.",
+      "example_vi": "Tôi muốn trả lại chiếc áo này.",
+      "emoji": "↩️"
+    },
+    {
+      "word": "Open",
+      "ipa": "/ˈəʊpən/",
+      "pos": "adj",
+      "vi": "mở cửa",
+      "example_en": "The shop is open until ten.",
+      "example_vi": "Cửa hàng mở cửa đến mười giờ.",
+      "emoji": "🔓"
+    },
+    {
+      "word": "Closed",
+      "ipa": "/kləʊzd/",
+      "pos": "adj",
+      "vi": "đóng cửa",
+      "example_en": "The market is closed on Mondays.",
+      "example_vi": "Chợ đóng cửa vào thứ Hai.",
+      "emoji": "🔒"
+    },
+    {
+      "word": "How much",
+      "ipa": "/haʊ mʌtʃ/",
+      "pos": "phr",
+      "vi": "bao nhiêu tiền",
+      "example_en": "How much is this hat?",
+      "example_vi": "Chiếc mũ này giá bao nhiêu?",
+      "emoji": "❓"
+    },
+    {
+      "word": "Go shopping",
+      "ipa": "/ɡəʊ ˈʃɒpɪŋ/",
+      "pos": "phr",
+      "vi": "đi mua sắm",
+      "example_en": "Let's go shopping this afternoon.",
+      "example_vi": "Chiều nay chúng ta đi mua sắm nhé.",
+      "emoji": "🛍️"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": 3,
+  "slug": "jobs",
+  "title_en": "Jobs",
+  "title_vi": "Nghề nghiệp",
+  "emoji": "💼",
+  "words": [
+    {
+      "word": "Job",
+      "ipa": "/dʒɒb/",
+      "pos": "n",
+      "vi": "công việc",
+      "example_en": "She is looking for a new job.",
+      "example_vi": "Cô ấy đang tìm một công việc mới.",
+      "emoji": "💼"
+    },
+    {
+      "word": "Work",
+      "ipa": "/wɜːk/",
+      "pos": "v",
+      "vi": "làm việc",
+      "example_en": "I work from Monday to Friday.",
+      "example_vi": "Tôi làm việc từ thứ Hai đến thứ Sáu.",
+      "emoji": "🛠️"
+    },
+    {
+      "word": "Teacher",
+      "ipa": "/ˈtiːtʃə(r)/",
+      "pos": "n",
+      "vi": "giáo viên",
+      "example_en": "My teacher is very kind and patient.",
+      "example_vi": "Giáo viên của tôi rất tốt bụng và kiên nhẫn.",
+      "emoji": "👩‍🏫"
+    },
+    {
+      "word": "Doctor",
+      "ipa": "/ˈdɒktə(r)/",
+      "pos": "n",
+      "vi": "bác sĩ",
+      "example_en": "The doctor helps sick people every day.",
+      "example_vi": "Bác sĩ giúp những người bị bệnh mỗi ngày.",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "word": "Nurse",
+      "ipa": "/nɜːs/",
+      "pos": "n",
+      "vi": "y tá",
+      "example_en": "The nurse gave me some medicine.",
+      "example_vi": "Y tá đưa cho tôi một ít thuốc.",
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "word": "Farmer",
+      "ipa": "/ˈfɑːmə(r)/",
+      "pos": "n",
+      "vi": "nông dân",
+      "example_en": "The farmer grows rice on his land.",
+      "example_vi": "Người nông dân trồng lúa trên đất của mình.",
+      "emoji": "👨‍🌾"
+    },
+    {
+      "word": "Cook",
+      "ipa": "/kʊk/",
+      "pos": "n",
+      "vi": "đầu bếp",
+      "example_en": "The cook makes soup for the guests.",
+      "example_vi": "Người đầu bếp nấu súp cho khách.",
+      "emoji": "👨‍🍳"
+    },
+    {
+      "word": "Driver",
+      "ipa": "/ˈdraɪvə(r)/",
+      "pos": "n",
+      "vi": "tài xế",
+      "example_en": "The bus driver stops at every corner.",
+      "example_vi": "Tài xế xe buýt dừng lại ở mỗi góc phố.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "Waiter",
+      "ipa": "/ˈweɪtə(r)/",
+      "pos": "n",
+      "vi": "bồi bàn nam",
+      "example_en": "The waiter brought us the menu.",
+      "example_vi": "Người bồi bàn mang cho chúng tôi thực đơn.",
+      "emoji": "🧑‍🍳"
+    },
+    {
+      "word": "Police officer",
+      "ipa": "/pəˈliːs ˌɒfɪsə(r)/",
+      "pos": "n",
+      "vi": "cảnh sát",
+      "example_en": "A police officer keeps the streets safe.",
+      "example_vi": "Cảnh sát giữ cho đường phố an toàn.",
+      "emoji": "👮"
+    },
+    {
+      "word": "Firefighter",
+      "ipa": "/ˈfaɪəfaɪtə(r)/",
+      "pos": "n",
+      "vi": "lính cứu hỏa",
+      "example_en": "The firefighter is very brave.",
+      "example_vi": "Người lính cứu hỏa rất dũng cảm.",
+      "emoji": "🧑‍🚒"
+    },
+    {
+      "word": "Engineer",
+      "ipa": "/ˌendʒɪˈnɪə(r)/",
+      "pos": "n",
+      "vi": "kỹ sư",
+      "example_en": "My brother is an engineer at a car factory.",
+      "example_vi": "Anh trai tôi là kỹ sư ở một nhà máy ô tô.",
+      "emoji": "👷"
+    },
+    {
+      "word": "Worker",
+      "ipa": "/ˈwɜːkə(r)/",
+      "pos": "n",
+      "vi": "công nhân",
+      "example_en": "The workers build houses in the city.",
+      "example_vi": "Các công nhân xây nhà trong thành phố.",
+      "emoji": "👷‍♂️"
+    },
+    {
+      "word": "Student",
+      "ipa": "/ˈstjuːdnt/",
+      "pos": "n",
+      "vi": "học sinh, sinh viên",
+      "example_en": "She is a student at a big university.",
+      "example_vi": "Cô ấy là sinh viên ở một trường đại học lớn.",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "word": "Manager",
+      "ipa": "/ˈmænɪdʒə(r)/",
+      "pos": "n",
+      "vi": "quản lý",
+      "example_en": "The manager talks to the team every morning.",
+      "example_vi": "Người quản lý nói chuyện với nhóm mỗi buổi sáng.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "Boss",
+      "ipa": "/bɒs/",
+      "pos": "n",
+      "vi": "sếp",
+      "example_en": "My boss is happy with my work.",
+      "example_vi": "Sếp của tôi hài lòng với công việc của tôi.",
+      "emoji": "👔"
+    },
+    {
+      "word": "Office",
+      "ipa": "/ˈɒfɪs/",
+      "pos": "n",
+      "vi": "văn phòng",
+      "example_en": "I work in a small office near my home.",
+      "example_vi": "Tôi làm việc trong một văn phòng nhỏ gần nhà.",
+      "emoji": "🏢"
+    },
+    {
+      "word": "Salary",
+      "ipa": "/ˈsæləri/",
+      "pos": "n",
+      "vi": "lương",
+      "example_en": "He gets his salary at the end of the month.",
+      "example_vi": "Anh ấy nhận lương vào cuối tháng.",
+      "emoji": "💰"
+    },
+    {
+      "word": "Artist",
+      "ipa": "/ˈɑːtɪst/",
+      "pos": "n",
+      "vi": "nghệ sĩ",
+      "example_en": "The artist paints beautiful pictures.",
+      "example_vi": "Người nghệ sĩ vẽ những bức tranh đẹp.",
+      "emoji": "🎨"
+    },
+    {
+      "word": "Singer",
+      "ipa": "/ˈsɪŋə(r)/",
+      "pos": "n",
+      "vi": "ca sĩ",
+      "example_en": "The singer has a lovely voice.",
+      "example_vi": "Ca sĩ có một giọng hát dễ thương.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Actor",
+      "ipa": "/ˈæktə(r)/",
+      "pos": "n",
+      "vi": "diễn viên",
+      "example_en": "That actor is famous in many countries.",
+      "example_vi": "Diễn viên đó nổi tiếng ở nhiều nước.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "Writer",
+      "ipa": "/ˈraɪtə(r)/",
+      "pos": "n",
+      "vi": "nhà văn",
+      "example_en": "The writer is working on a new book.",
+      "example_vi": "Nhà văn đang viết một cuốn sách mới.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "Lawyer",
+      "ipa": "/ˈlɔːjə(r)/",
+      "pos": "n",
+      "vi": "luật sư",
+      "example_en": "The lawyer helped us with the contract.",
+      "example_vi": "Luật sư giúp chúng tôi với hợp đồng.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "Dentist",
+      "ipa": "/ˈdentɪst/",
+      "pos": "n",
+      "vi": "nha sĩ",
+      "example_en": "I see the dentist twice a year.",
+      "example_vi": "Tôi đi khám nha sĩ hai lần một năm.",
+      "emoji": "🦷"
+    },
+    {
+      "word": "Pilot",
+      "ipa": "/ˈpaɪlət/",
+      "pos": "n",
+      "vi": "phi công",
+      "example_en": "The pilot flies planes around the world.",
+      "example_vi": "Phi công lái máy bay đi khắp thế giới.",
+      "emoji": "🧑‍✈️"
+    },
+    {
+      "word": "Scientist",
+      "ipa": "/ˈsaɪəntɪst/",
+      "pos": "n",
+      "vi": "nhà khoa học",
+      "example_en": "The scientist studies plants and animals.",
+      "example_vi": "Nhà khoa học nghiên cứu thực vật và động vật.",
+      "emoji": "🔬"
+    },
+    {
+      "word": "Salesperson",
+      "ipa": "/ˈseɪlzpɜːsn/",
+      "pos": "n",
+      "vi": "nhân viên bán hàng",
+      "example_en": "The salesperson showed me many shoes.",
+      "example_vi": "Nhân viên bán hàng cho tôi xem nhiều đôi giày.",
+      "emoji": "🛍️"
+    },
+    {
+      "word": "Secretary",
+      "ipa": "/ˈsekrətri/",
+      "pos": "n",
+      "vi": "thư ký",
+      "example_en": "The secretary answers the phone all day.",
+      "example_vi": "Thư ký trả lời điện thoại cả ngày.",
+      "emoji": "📞"
+    },
+    {
+      "word": "Hairdresser",
+      "ipa": "/ˈheədresə(r)/",
+      "pos": "n",
+      "vi": "thợ làm tóc",
+      "example_en": "The hairdresser cut my hair short.",
+      "example_vi": "Thợ làm tóc cắt tóc tôi ngắn đi.",
+      "emoji": "💇"
+    },
+    {
+      "word": "Mechanic",
+      "ipa": "/məˈkænɪk/",
+      "pos": "n",
+      "vi": "thợ sửa xe",
+      "example_en": "The mechanic fixed my old car.",
+      "example_vi": "Người thợ sửa chữa chiếc xe cũ của tôi.",
+      "emoji": "🔧"
+    },
+    {
+      "word": "Businessman",
+      "ipa": "/ˈbɪznəsmæn/",
+      "pos": "n",
+      "vi": "doanh nhân",
+      "example_en": "The businessman travels a lot for work.",
+      "example_vi": "Doanh nhân đi công tác rất nhiều.",
+      "emoji": "💼"
+    },
+    {
+      "word": "Employee",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "pos": "n",
+      "vi": "nhân viên",
+      "example_en": "The company has many happy employees.",
+      "example_vi": "Công ty có nhiều nhân viên vui vẻ.",
+      "emoji": "🧑‍💼"
+    },
+    {
+      "word": "Uniform",
+      "ipa": "/ˈjuːnɪfɔːm/",
+      "pos": "n",
+      "vi": "đồng phục",
+      "example_en": "The nurses wear a white uniform.",
+      "example_vi": "Các y tá mặc đồng phục màu trắng.",
+      "emoji": "👕"
+    },
+    {
+      "word": "Interview",
+      "ipa": "/ˈɪntəvjuː/",
+      "pos": "n",
+      "vi": "buổi phỏng vấn",
+      "example_en": "I have a job interview tomorrow.",
+      "example_vi": "Tôi có một buổi phỏng vấn việc làm vào ngày mai.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "Busy",
+      "ipa": "/ˈbɪzi/",
+      "pos": "adj",
+      "vi": "bận rộn",
+      "example_en": "He is very busy at work today.",
+      "example_vi": "Hôm nay anh ấy rất bận ở chỗ làm.",
+      "emoji": "😰"
+    },
+    {
+      "word": "Retire",
+      "ipa": "/rɪˈtaɪə(r)/",
+      "pos": "v",
+      "vi": "nghỉ hưu",
+      "example_en": "My grandfather will retire next year.",
+      "example_vi": "Ông tôi sẽ nghỉ hưu vào năm sau.",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": 6,
+  "slug": "food",
+  "title_en": "Food",
+  "title_vi": "Thức ăn & đồ uống",
+  "emoji": "🍽️",
+  "words": [
+    {
+      "word": "Food",
+      "ipa": "/fuːd/",
+      "pos": "n",
+      "vi": "thức ăn",
+      "example_en": "This food is very delicious.",
+      "example_vi": "Món ăn này rất ngon.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "Water",
+      "ipa": "/ˈwɔːtə(r)/",
+      "pos": "n",
+      "vi": "nước",
+      "example_en": "I drink a glass of water every morning.",
+      "example_vi": "Tôi uống một cốc nước mỗi sáng.",
+      "emoji": "💧"
+    },
+    {
+      "word": "Rice",
+      "ipa": "/raɪs/",
+      "pos": "n",
+      "vi": "cơm, gạo",
+      "example_en": "We eat rice with our dinner.",
+      "example_vi": "Chúng tôi ăn cơm trong bữa tối.",
+      "emoji": "🍚"
+    },
+    {
+      "word": "Bread",
+      "ipa": "/bred/",
+      "pos": "n",
+      "vi": "bánh mì",
+      "example_en": "I have bread and eggs for breakfast.",
+      "example_vi": "Tôi ăn bánh mì và trứng vào bữa sáng.",
+      "emoji": "🍞"
+    },
+    {
+      "word": "Egg",
+      "ipa": "/eɡ/",
+      "pos": "n",
+      "vi": "trứng",
+      "example_en": "She cooks two eggs for lunch.",
+      "example_vi": "Cô ấy nấu hai quả trứng cho bữa trưa.",
+      "emoji": "🥚"
+    },
+    {
+      "word": "Milk",
+      "ipa": "/mɪlk/",
+      "pos": "n",
+      "vi": "sữa",
+      "example_en": "Children drink milk to grow strong.",
+      "example_vi": "Trẻ em uống sữa để lớn khỏe.",
+      "emoji": "🥛"
+    },
+    {
+      "word": "Meat",
+      "ipa": "/miːt/",
+      "pos": "n",
+      "vi": "thịt",
+      "example_en": "My father likes to eat meat.",
+      "example_vi": "Bố tôi thích ăn thịt.",
+      "emoji": "🥩"
+    },
+    {
+      "word": "Chicken",
+      "ipa": "/ˈtʃɪkɪn/",
+      "pos": "n",
+      "vi": "thịt gà",
+      "example_en": "We had fried chicken for dinner.",
+      "example_vi": "Chúng tôi đã ăn gà rán vào bữa tối.",
+      "emoji": "🍗"
+    },
+    {
+      "word": "Fish",
+      "ipa": "/fɪʃ/",
+      "pos": "n",
+      "vi": "cá",
+      "example_en": "Fish is good for your health.",
+      "example_vi": "Cá tốt cho sức khỏe của bạn.",
+      "emoji": "🐟"
+    },
+    {
+      "word": "Fruit",
+      "ipa": "/fruːt/",
+      "pos": "n",
+      "vi": "trái cây",
+      "example_en": "I eat fresh fruit every day.",
+      "example_vi": "Tôi ăn trái cây tươi mỗi ngày.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "Apple",
+      "ipa": "/ˈæpl/",
+      "pos": "n",
+      "vi": "quả táo",
+      "example_en": "She eats a red apple after school.",
+      "example_vi": "Cô ấy ăn một quả táo đỏ sau giờ học.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "Banana",
+      "ipa": "/bəˈnɑːnə/",
+      "pos": "n",
+      "vi": "quả chuối",
+      "example_en": "A banana is sweet and yellow.",
+      "example_vi": "Quả chuối ngọt và có màu vàng.",
+      "emoji": "🍌"
+    },
+    {
+      "word": "Orange",
+      "ipa": "/ˈɒrɪndʒ/",
+      "pos": "n",
+      "vi": "quả cam",
+      "example_en": "This orange is very juicy.",
+      "example_vi": "Quả cam này rất mọng nước.",
+      "emoji": "🍊"
+    },
+    {
+      "word": "Vegetable",
+      "ipa": "/ˈvedʒtəbl/",
+      "pos": "n",
+      "vi": "rau củ",
+      "example_en": "Green vegetables are good for you.",
+      "example_vi": "Rau xanh tốt cho bạn.",
+      "emoji": "🥦"
+    },
+    {
+      "word": "Tomato",
+      "ipa": "/təˈmɑːtəʊ/",
+      "pos": "n",
+      "vi": "cà chua",
+      "example_en": "I put a tomato in my salad.",
+      "example_vi": "Tôi cho một quả cà chua vào món salad.",
+      "emoji": "🍅"
+    },
+    {
+      "word": "Potato",
+      "ipa": "/pəˈteɪtəʊ/",
+      "pos": "n",
+      "vi": "khoai tây",
+      "example_en": "We cook potatoes for dinner.",
+      "example_vi": "Chúng tôi nấu khoai tây cho bữa tối.",
+      "emoji": "🥔"
+    },
+    {
+      "word": "Carrot",
+      "ipa": "/ˈkærət/",
+      "pos": "n",
+      "vi": "cà rốt",
+      "example_en": "The carrot is orange and long.",
+      "example_vi": "Củ cà rốt màu cam và dài.",
+      "emoji": "🥕"
+    },
+    {
+      "word": "Soup",
+      "ipa": "/suːp/",
+      "pos": "n",
+      "vi": "món súp, canh",
+      "example_en": "Hot soup is nice on a cold day.",
+      "example_vi": "Súp nóng rất tuyệt vào ngày lạnh.",
+      "emoji": "🍲"
+    },
+    {
+      "word": "Noodle",
+      "ipa": "/ˈnuːdl/",
+      "pos": "n",
+      "vi": "mì, bún",
+      "example_en": "I love a hot bowl of noodles.",
+      "example_vi": "Tôi thích một bát mì nóng.",
+      "emoji": "🍜"
+    },
+    {
+      "word": "Cheese",
+      "ipa": "/tʃiːz/",
+      "pos": "n",
+      "vi": "phô mai",
+      "example_en": "He puts cheese on his bread.",
+      "example_vi": "Anh ấy cho phô mai lên bánh mì.",
+      "emoji": "🧀"
+    },
+    {
+      "word": "Sugar",
+      "ipa": "/ˈʃʊɡə(r)/",
+      "pos": "n",
+      "vi": "đường",
+      "example_en": "I add sugar to my coffee.",
+      "example_vi": "Tôi thêm đường vào cà phê.",
+      "emoji": "🍬"
+    },
+    {
+      "word": "Salt",
+      "ipa": "/sɔːlt/",
+      "pos": "n",
+      "vi": "muối",
+      "example_en": "Please put some salt in the soup.",
+      "example_vi": "Làm ơn cho một ít muối vào canh.",
+      "emoji": "🧂"
+    },
+    {
+      "word": "Coffee",
+      "ipa": "/ˈkɒfi/",
+      "pos": "n",
+      "vi": "cà phê",
+      "example_en": "My mother drinks coffee in the morning.",
+      "example_vi": "Mẹ tôi uống cà phê vào buổi sáng.",
+      "emoji": "☕"
+    },
+    {
+      "word": "Tea",
+      "ipa": "/tiː/",
+      "pos": "n",
+      "vi": "trà",
+      "example_en": "Would you like a cup of tea?",
+      "example_vi": "Bạn có muốn một tách trà không?",
+      "emoji": "🍵"
+    },
+    {
+      "word": "Juice",
+      "ipa": "/dʒuːs/",
+      "pos": "n",
+      "vi": "nước ép",
+      "example_en": "I drink orange juice at breakfast.",
+      "example_vi": "Tôi uống nước cam vào bữa sáng.",
+      "emoji": "🧃"
+    },
+    {
+      "word": "Cake",
+      "ipa": "/keɪk/",
+      "pos": "n",
+      "vi": "bánh ngọt",
+      "example_en": "We eat cake on her birthday.",
+      "example_vi": "Chúng tôi ăn bánh vào ngày sinh nhật của cô ấy.",
+      "emoji": "🍰"
+    },
+    {
+      "word": "Ice cream",
+      "ipa": "/ˈaɪs kriːm/",
+      "pos": "n",
+      "vi": "kem",
+      "example_en": "The children love chocolate ice cream.",
+      "example_vi": "Bọn trẻ thích kem sô cô la.",
+      "emoji": "🍦"
+    },
+    {
+      "word": "Breakfast",
+      "ipa": "/ˈbrekfəst/",
+      "pos": "n",
+      "vi": "bữa sáng",
+      "example_en": "I have breakfast at seven o'clock.",
+      "example_vi": "Tôi ăn sáng lúc bảy giờ.",
+      "emoji": "🍳"
+    },
+    {
+      "word": "Lunch",
+      "ipa": "/lʌntʃ/",
+      "pos": "n",
+      "vi": "bữa trưa",
+      "example_en": "We eat lunch together at noon.",
+      "example_vi": "Chúng tôi ăn trưa cùng nhau vào buổi trưa.",
+      "emoji": "🍱"
+    },
+    {
+      "word": "Dinner",
+      "ipa": "/ˈdɪnə(r)/",
+      "pos": "n",
+      "vi": "bữa tối",
+      "example_en": "My family has dinner at seven.",
+      "example_vi": "Gia đình tôi ăn tối lúc bảy giờ.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "Eat",
+      "ipa": "/iːt/",
+      "pos": "v",
+      "vi": "ăn",
+      "example_en": "I eat an apple every day.",
+      "example_vi": "Tôi ăn một quả táo mỗi ngày.",
+      "emoji": "😋"
+    },
+    {
+      "word": "Drink",
+      "ipa": "/drɪŋk/",
+      "pos": "v",
+      "vi": "uống",
+      "example_en": "Please drink a lot of water.",
+      "example_vi": "Hãy uống nhiều nước.",
+      "emoji": "🥤"
+    },
+    {
+      "word": "Cook",
+      "ipa": "/kʊk/",
+      "pos": "v",
+      "vi": "nấu ăn",
+      "example_en": "My mother cooks dinner for us.",
+      "example_vi": "Mẹ tôi nấu bữa tối cho chúng tôi.",
+      "emoji": "👩‍🍳"
+    },
+    {
+      "word": "Hungry",
+      "ipa": "/ˈhʌŋɡri/",
+      "pos": "adj",
+      "vi": "đói",
+      "example_en": "I am hungry, let's have lunch.",
+      "example_vi": "Tôi đói rồi, chúng ta ăn trưa thôi.",
+      "emoji": "🤤"
+    },
+    {
+      "word": "Thirsty",
+      "ipa": "/ˈθɜːsti/",
+      "pos": "adj",
+      "vi": "khát",
+      "example_en": "I am thirsty and want some water.",
+      "example_vi": "Tôi khát và muốn uống một ít nước.",
+      "emoji": "😓"
+    },
+    {
+      "word": "Delicious",
+      "ipa": "/dɪˈlɪʃəs/",
+      "pos": "adj",
+      "vi": "ngon",
+      "example_en": "This soup is really delicious.",
+      "example_vi": "Món súp này thực sự rất ngon.",
+      "emoji": "😋"
+    },
+    {
+      "word": "Sweet",
+      "ipa": "/swiːt/",
+      "pos": "adj",
+      "vi": "ngọt",
+      "example_en": "This cake is very sweet.",
+      "example_vi": "Chiếc bánh này rất ngọt.",
+      "emoji": "🍭"
+    }
+  ]
+}

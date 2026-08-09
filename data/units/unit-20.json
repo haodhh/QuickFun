@@ -1,0 +1,333 @@
+{
+  "id": 20,
+  "slug": "global-problems",
+  "title_en": "Global Problems",
+  "title_vi": "Các vấn đề toàn cầu",
+  "emoji": "🌐",
+  "words": [
+    {
+      "word": "Problem",
+      "ipa": "/ˈprɒbləm/",
+      "pos": "n",
+      "vi": "vấn đề",
+      "example_en": "Climate change is a big problem.",
+      "example_vi": "Biến đổi khí hậu là một vấn đề lớn.",
+      "emoji": "⚠️"
+    },
+    {
+      "word": "World",
+      "ipa": "/wɜːld/",
+      "pos": "n",
+      "vi": "thế giới",
+      "example_en": "People all over the world care about this.",
+      "example_vi": "Mọi người trên khắp thế giới quan tâm đến điều này.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "Pollution",
+      "ipa": "/pəˈluːʃn/",
+      "pos": "n",
+      "vi": "ô nhiễm",
+      "example_en": "Air pollution is bad for our health.",
+      "example_vi": "Ô nhiễm không khí có hại cho sức khỏe của chúng ta.",
+      "emoji": "🏭"
+    },
+    {
+      "word": "Climate change",
+      "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+      "pos": "n",
+      "vi": "biến đổi khí hậu",
+      "example_en": "Climate change makes summers hotter.",
+      "example_vi": "Biến đổi khí hậu làm mùa hè nóng hơn.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "pos": "n",
+      "vi": "môi trường",
+      "example_en": "We must protect the environment.",
+      "example_vi": "Chúng ta phải bảo vệ môi trường.",
+      "emoji": "🌳"
+    },
+    {
+      "word": "Poverty",
+      "ipa": "/ˈpɒvəti/",
+      "pos": "n",
+      "vi": "nghèo đói",
+      "example_en": "Many families still live in poverty.",
+      "example_vi": "Nhiều gia đình vẫn sống trong cảnh nghèo đói.",
+      "emoji": "🪙"
+    },
+    {
+      "word": "Hunger",
+      "ipa": "/ˈhʌŋɡə(r)/",
+      "pos": "n",
+      "vi": "nạn đói",
+      "example_en": "Hunger is a serious problem in some countries.",
+      "example_vi": "Nạn đói là một vấn đề nghiêm trọng ở một số quốc gia.",
+      "emoji": "🍽️"
+    },
+    {
+      "word": "War",
+      "ipa": "/wɔː(r)/",
+      "pos": "n",
+      "vi": "chiến tranh",
+      "example_en": "War forces many people to leave home.",
+      "example_vi": "Chiến tranh buộc nhiều người phải rời bỏ nhà cửa.",
+      "emoji": "⚔️"
+    },
+    {
+      "word": "Disease",
+      "ipa": "/dɪˈziːz/",
+      "pos": "n",
+      "vi": "bệnh tật",
+      "example_en": "Clean water helps stop disease.",
+      "example_vi": "Nước sạch giúp ngăn chặn bệnh tật.",
+      "emoji": "🦠"
+    },
+    {
+      "word": "Waste",
+      "ipa": "/weɪst/",
+      "pos": "n",
+      "vi": "rác thải",
+      "example_en": "Plastic waste harms the ocean.",
+      "example_vi": "Rác thải nhựa gây hại cho đại dương.",
+      "emoji": "🗑️"
+    },
+    {
+      "word": "Plastic",
+      "ipa": "/ˈplæstɪk/",
+      "pos": "n",
+      "vi": "nhựa",
+      "example_en": "We should use less plastic every day.",
+      "example_vi": "Chúng ta nên dùng ít nhựa hơn mỗi ngày.",
+      "emoji": "🧴"
+    },
+    {
+      "word": "Recycle",
+      "ipa": "/ˌriːˈsaɪkl/",
+      "pos": "v",
+      "vi": "tái chế",
+      "example_en": "We recycle paper and glass at home.",
+      "example_vi": "Chúng tôi tái chế giấy và thủy tinh ở nhà.",
+      "emoji": "♻️"
+    },
+    {
+      "word": "Protect",
+      "ipa": "/prəˈtekt/",
+      "pos": "v",
+      "vi": "bảo vệ",
+      "example_en": "We must protect wild animals.",
+      "example_vi": "Chúng ta phải bảo vệ động vật hoang dã.",
+      "emoji": "🛡️"
+    },
+    {
+      "word": "Save",
+      "ipa": "/seɪv/",
+      "pos": "v",
+      "vi": "tiết kiệm, cứu",
+      "example_en": "Turn off the lights to save energy.",
+      "example_vi": "Hãy tắt đèn để tiết kiệm năng lượng.",
+      "emoji": "💡"
+    },
+    {
+      "word": "Energy",
+      "ipa": "/ˈenədʒi/",
+      "pos": "n",
+      "vi": "năng lượng",
+      "example_en": "Solar energy is clean and cheap.",
+      "example_vi": "Năng lượng mặt trời sạch và rẻ.",
+      "emoji": "⚡"
+    },
+    {
+      "word": "Climate",
+      "ipa": "/ˈklaɪmət/",
+      "pos": "n",
+      "vi": "khí hậu",
+      "example_en": "The climate here is hot and wet.",
+      "example_vi": "Khí hậu ở đây nóng và ẩm.",
+      "emoji": "🌦️"
+    },
+    {
+      "word": "Global warming",
+      "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+      "pos": "n",
+      "vi": "sự nóng lên toàn cầu",
+      "example_en": "Global warming is melting the ice.",
+      "example_vi": "Sự nóng lên toàn cầu đang làm tan băng.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Forest",
+      "ipa": "/ˈfɒrɪst/",
+      "pos": "n",
+      "vi": "rừng",
+      "example_en": "People are cutting down the forest.",
+      "example_vi": "Người ta đang chặt phá rừng.",
+      "emoji": "🌲"
+    },
+    {
+      "word": "Flood",
+      "ipa": "/flʌd/",
+      "pos": "n",
+      "vi": "lũ lụt",
+      "example_en": "The flood destroyed many homes.",
+      "example_vi": "Trận lũ lụt đã phá hủy nhiều ngôi nhà.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "Drought",
+      "ipa": "/draʊt/",
+      "pos": "n",
+      "vi": "hạn hán",
+      "example_en": "The long drought killed the crops.",
+      "example_vi": "Hạn hán kéo dài làm chết mùa màng.",
+      "emoji": "🏜️"
+    },
+    {
+      "word": "Refugee",
+      "ipa": "/ˌrefjuˈdʒiː/",
+      "pos": "n",
+      "vi": "người tị nạn",
+      "example_en": "The refugees needed food and shelter.",
+      "example_vi": "Những người tị nạn cần thức ăn và chỗ ở.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "Homeless",
+      "ipa": "/ˈhəʊmləs/",
+      "pos": "adj",
+      "vi": "vô gia cư",
+      "example_en": "Many homeless people sleep on the street.",
+      "example_vi": "Nhiều người vô gia cư ngủ trên đường phố.",
+      "emoji": "🏚️"
+    },
+    {
+      "word": "Crime",
+      "ipa": "/kraɪm/",
+      "pos": "n",
+      "vi": "tội phạm",
+      "example_en": "The city is working to reduce crime.",
+      "example_vi": "Thành phố đang cố gắng giảm tội phạm.",
+      "emoji": "🚔"
+    },
+    {
+      "word": "Damage",
+      "ipa": "/ˈdæmɪdʒ/",
+      "pos": "v",
+      "vi": "gây hại, làm hư hại",
+      "example_en": "Chemicals can damage the soil.",
+      "example_vi": "Hóa chất có thể làm hư hại đất.",
+      "emoji": "💥"
+    },
+    {
+      "word": "Cause",
+      "ipa": "/kɔːz/",
+      "pos": "v",
+      "vi": "gây ra",
+      "example_en": "Cars cause a lot of air pollution.",
+      "example_vi": "Xe hơi gây ra nhiều ô nhiễm không khí.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "Solve",
+      "ipa": "/sɒlv/",
+      "pos": "v",
+      "vi": "giải quyết",
+      "example_en": "We can solve this problem together.",
+      "example_vi": "Chúng ta có thể giải quyết vấn đề này cùng nhau.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "Reduce",
+      "ipa": "/rɪˈdjuːs/",
+      "pos": "v",
+      "vi": "giảm bớt",
+      "example_en": "We should reduce our use of water.",
+      "example_vi": "Chúng ta nên giảm việc sử dụng nước.",
+      "emoji": "📉"
+    },
+    {
+      "word": "Population",
+      "ipa": "/ˌpɒpjuˈleɪʃn/",
+      "pos": "n",
+      "vi": "dân số",
+      "example_en": "The world population keeps growing.",
+      "example_vi": "Dân số thế giới không ngừng tăng.",
+      "emoji": "👥"
+    },
+    {
+      "word": "Water shortage",
+      "ipa": "/ˈwɔːtə ˌʃɔːtɪdʒ/",
+      "pos": "n",
+      "vi": "thiếu nước",
+      "example_en": "A water shortage hit the whole region.",
+      "example_vi": "Tình trạng thiếu nước ảnh hưởng cả vùng.",
+      "emoji": "🚱"
+    },
+    {
+      "word": "Endangered",
+      "ipa": "/ɪnˈdeɪndʒəd/",
+      "pos": "adj",
+      "vi": "có nguy cơ tuyệt chủng",
+      "example_en": "Tigers are an endangered animal.",
+      "example_vi": "Hổ là một loài động vật có nguy cơ tuyệt chủng.",
+      "emoji": "🐯"
+    },
+    {
+      "word": "Charity",
+      "ipa": "/ˈtʃærəti/",
+      "pos": "n",
+      "vi": "tổ chức từ thiện",
+      "example_en": "She gives money to a children's charity.",
+      "example_vi": "Cô ấy quyên tiền cho một tổ chức từ thiện cho trẻ em.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "Volunteer",
+      "ipa": "/ˌvɒlənˈtɪə(r)/",
+      "pos": "v",
+      "vi": "làm tình nguyện",
+      "example_en": "They volunteer at a food bank on weekends.",
+      "example_vi": "Họ làm tình nguyện tại ngân hàng thực phẩm vào cuối tuần.",
+      "emoji": "🙋"
+    },
+    {
+      "word": "Peace",
+      "ipa": "/piːs/",
+      "pos": "n",
+      "vi": "hòa bình",
+      "example_en": "Everyone hopes for world peace.",
+      "example_vi": "Mọi người đều hy vọng vào hòa bình thế giới.",
+      "emoji": "🕊️"
+    },
+    {
+      "word": "Equal",
+      "ipa": "/ˈiːkwəl/",
+      "pos": "adj",
+      "vi": "bình đẳng",
+      "example_en": "All people should have equal rights.",
+      "example_vi": "Tất cả mọi người nên có quyền bình đẳng.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "Serious",
+      "ipa": "/ˈsɪəriəs/",
+      "pos": "adj",
+      "vi": "nghiêm trọng",
+      "example_en": "Pollution is a serious global problem.",
+      "example_vi": "Ô nhiễm là một vấn đề toàn cầu nghiêm trọng.",
+      "emoji": "😟"
+    },
+    {
+      "word": "Sustainable",
+      "ipa": "/səˈsteɪnəbl/",
+      "pos": "adj",
+      "vi": "bền vững",
+      "example_en": "We need a more sustainable way of life.",
+      "example_vi": "Chúng ta cần một lối sống bền vững hơn.",
+      "emoji": "🌱"
+    }
+  ]
+}

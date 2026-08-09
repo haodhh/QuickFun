@@ -1,0 +1,351 @@
+{
+  "id": 17,
+  "slug": "music-art-literature",
+  "title_en": "Music, Art and Literature",
+  "title_vi": "Âm nhạc, nghệ thuật & văn học",
+  "emoji": "🎨",
+  "words": [
+    {
+      "word": "Music",
+      "ipa": "/ˈmjuːzɪk/",
+      "pos": "n",
+      "vi": "âm nhạc",
+      "example_en": "I listen to music every morning.",
+      "example_vi": "Tôi nghe nhạc mỗi sáng.",
+      "emoji": "🎵"
+    },
+    {
+      "word": "Art",
+      "ipa": "/ɑːt/",
+      "pos": "n",
+      "vi": "nghệ thuật",
+      "example_en": "She loves art and visits many galleries.",
+      "example_vi": "Cô ấy yêu nghệ thuật và thăm nhiều phòng tranh.",
+      "emoji": "🎨"
+    },
+    {
+      "word": "Book",
+      "ipa": "/bʊk/",
+      "pos": "n",
+      "vi": "sách, quyển sách",
+      "example_en": "This book has a happy ending.",
+      "example_vi": "Quyển sách này có một kết thúc vui.",
+      "emoji": "📖"
+    },
+    {
+      "word": "Song",
+      "ipa": "/sɒŋ/",
+      "pos": "n",
+      "vi": "bài hát",
+      "example_en": "This song makes me feel happy.",
+      "example_vi": "Bài hát này làm tôi thấy vui.",
+      "emoji": "🎶"
+    },
+    {
+      "word": "Read",
+      "ipa": "/riːd/",
+      "pos": "v",
+      "vi": "đọc",
+      "example_en": "I read a story before I sleep.",
+      "example_vi": "Tôi đọc một câu chuyện trước khi ngủ.",
+      "emoji": "📖"
+    },
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "pos": "v",
+      "vi": "viết",
+      "example_en": "He wants to write his own book.",
+      "example_vi": "Anh ấy muốn viết cuốn sách của riêng mình.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "Sing",
+      "ipa": "/sɪŋ/",
+      "pos": "v",
+      "vi": "hát",
+      "example_en": "We sing together at every party.",
+      "example_vi": "Chúng tôi hát cùng nhau trong mỗi bữa tiệc.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Draw",
+      "ipa": "/drɔː/",
+      "pos": "v",
+      "vi": "vẽ",
+      "example_en": "My sister can draw a cat very well.",
+      "example_vi": "Em gái tôi có thể vẽ một con mèo rất đẹp.",
+      "emoji": "✏️"
+    },
+    {
+      "word": "Paint",
+      "ipa": "/peɪnt/",
+      "pos": "v",
+      "vi": "vẽ (bằng màu), sơn",
+      "example_en": "The children paint flowers in class.",
+      "example_vi": "Bọn trẻ vẽ hoa trong lớp học.",
+      "emoji": "🖌️"
+    },
+    {
+      "word": "Picture",
+      "ipa": "/ˈpɪktʃə(r)/",
+      "pos": "n",
+      "vi": "bức tranh, hình ảnh",
+      "example_en": "There is a big picture on the wall.",
+      "example_vi": "Có một bức tranh lớn trên tường.",
+      "emoji": "🖼️"
+    },
+    {
+      "word": "Colour",
+      "ipa": "/ˈkʌlə(r)/",
+      "pos": "n",
+      "vi": "màu sắc",
+      "example_en": "Blue is my favourite colour.",
+      "example_vi": "Xanh dương là màu tôi thích nhất.",
+      "emoji": "🎨"
+    },
+    {
+      "word": "Story",
+      "ipa": "/ˈstɔːri/",
+      "pos": "n",
+      "vi": "câu chuyện",
+      "example_en": "Grandma tells us a story at night.",
+      "example_vi": "Bà kể cho chúng tôi một câu chuyện vào buổi tối.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Dance",
+      "ipa": "/dɑːns/",
+      "pos": "v",
+      "vi": "nhảy, múa",
+      "example_en": "They dance when the music starts.",
+      "example_vi": "Họ nhảy múa khi nhạc bắt đầu.",
+      "emoji": "💃"
+    },
+    {
+      "word": "Play",
+      "ipa": "/pleɪ/",
+      "pos": "v",
+      "vi": "chơi (nhạc cụ)",
+      "example_en": "Can you play the guitar?",
+      "example_vi": "Bạn có thể chơi đàn ghi-ta không?",
+      "emoji": "🎸"
+    },
+    {
+      "word": "Voice",
+      "ipa": "/vɔɪs/",
+      "pos": "n",
+      "vi": "giọng hát, giọng nói",
+      "example_en": "The singer has a lovely voice.",
+      "example_vi": "Ca sĩ đó có một giọng hát dễ thương.",
+      "emoji": "🗣️"
+    },
+    {
+      "word": "Singer",
+      "ipa": "/ˈsɪŋə(r)/",
+      "pos": "n",
+      "vi": "ca sĩ",
+      "example_en": "My favourite singer is from Vietnam.",
+      "example_vi": "Ca sĩ tôi thích nhất đến từ Việt Nam.",
+      "emoji": "🎤"
+    },
+    {
+      "word": "Artist",
+      "ipa": "/ˈɑːtɪst/",
+      "pos": "n",
+      "vi": "nghệ sĩ, họa sĩ",
+      "example_en": "The artist paints by the river.",
+      "example_vi": "Người họa sĩ vẽ tranh bên bờ sông.",
+      "emoji": "🧑‍🎨"
+    },
+    {
+      "word": "Writer",
+      "ipa": "/ˈraɪtə(r)/",
+      "pos": "n",
+      "vi": "nhà văn",
+      "example_en": "She dreams of becoming a writer.",
+      "example_vi": "Cô ấy mơ ước trở thành một nhà văn.",
+      "emoji": "✍️"
+    },
+    {
+      "word": "Author",
+      "ipa": "/ˈɔːθə(r)/",
+      "pos": "n",
+      "vi": "tác giả",
+      "example_en": "The author will sign her new book today.",
+      "example_vi": "Tác giả sẽ ký tặng sách mới của cô ấy hôm nay.",
+      "emoji": "🖊️"
+    },
+    {
+      "word": "Musician",
+      "ipa": "/mjuˈzɪʃn/",
+      "pos": "n",
+      "vi": "nhạc sĩ, nhạc công",
+      "example_en": "The musician plays every night at the café.",
+      "example_vi": "Người nhạc công chơi nhạc mỗi tối tại quán cà phê.",
+      "emoji": "🎼"
+    },
+    {
+      "word": "Band",
+      "ipa": "/bænd/",
+      "pos": "n",
+      "vi": "ban nhạc",
+      "example_en": "Their band plays rock music.",
+      "example_vi": "Ban nhạc của họ chơi nhạc rock.",
+      "emoji": "🎸"
+    },
+    {
+      "word": "Guitar",
+      "ipa": "/ɡɪˈtɑː(r)/",
+      "pos": "n",
+      "vi": "đàn ghi-ta",
+      "example_en": "He bought a new guitar last week.",
+      "example_vi": "Anh ấy đã mua một cây đàn ghi-ta mới tuần trước.",
+      "emoji": "🎸"
+    },
+    {
+      "word": "Piano",
+      "ipa": "/piˈænəʊ/",
+      "pos": "n",
+      "vi": "đàn piano",
+      "example_en": "My daughter learns the piano on Sundays.",
+      "example_vi": "Con gái tôi học đàn piano vào Chủ nhật.",
+      "emoji": "🎹"
+    },
+    {
+      "word": "Drum",
+      "ipa": "/drʌm/",
+      "pos": "n",
+      "vi": "trống",
+      "example_en": "The boy hits the drum loudly.",
+      "example_vi": "Cậu bé đánh trống thật to.",
+      "emoji": "🥁"
+    },
+    {
+      "word": "Instrument",
+      "ipa": "/ˈɪnstrəmənt/",
+      "pos": "n",
+      "vi": "nhạc cụ",
+      "example_en": "The violin is a beautiful instrument.",
+      "example_vi": "Đàn vi-ô-lông là một nhạc cụ đẹp.",
+      "emoji": "🎻"
+    },
+    {
+      "word": "Concert",
+      "ipa": "/ˈkɒnsət/",
+      "pos": "n",
+      "vi": "buổi hòa nhạc",
+      "example_en": "We went to a concert last night.",
+      "example_vi": "Chúng tôi đã đi xem hòa nhạc tối qua.",
+      "emoji": "🎶"
+    },
+    {
+      "word": "Museum",
+      "ipa": "/mjuˈziːəm/",
+      "pos": "n",
+      "vi": "bảo tàng",
+      "example_en": "The museum shows old paintings.",
+      "example_vi": "Bảo tàng trưng bày những bức tranh cũ.",
+      "emoji": "🏛️"
+    },
+    {
+      "word": "Painting",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "pos": "n",
+      "vi": "bức tranh (sơn/vẽ màu)",
+      "example_en": "This painting shows a quiet village.",
+      "example_vi": "Bức tranh này vẽ một ngôi làng yên tĩnh.",
+      "emoji": "🖼️"
+    },
+    {
+      "word": "Drawing",
+      "ipa": "/ˈdrɔːɪŋ/",
+      "pos": "n",
+      "vi": "bức vẽ, hình vẽ",
+      "example_en": "Her drawing of a bird is lovely.",
+      "example_vi": "Bức vẽ con chim của cô ấy thật đáng yêu.",
+      "emoji": "🖊️"
+    },
+    {
+      "word": "Poem",
+      "ipa": "/ˈpəʊɪm/",
+      "pos": "n",
+      "vi": "bài thơ",
+      "example_en": "He wrote a short poem for his mother.",
+      "example_vi": "Anh ấy đã viết một bài thơ ngắn tặng mẹ.",
+      "emoji": "📜"
+    },
+    {
+      "word": "Poet",
+      "ipa": "/ˈpəʊɪt/",
+      "pos": "n",
+      "vi": "nhà thơ",
+      "example_en": "The poet reads his words on stage.",
+      "example_vi": "Nhà thơ đọc những vần thơ của mình trên sân khấu.",
+      "emoji": "📜"
+    },
+    {
+      "word": "Novel",
+      "ipa": "/ˈnɒvl/",
+      "pos": "n",
+      "vi": "tiểu thuyết",
+      "example_en": "I am reading a long novel this month.",
+      "example_vi": "Tháng này tôi đang đọc một cuốn tiểu thuyết dài.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Literature",
+      "ipa": "/ˈlɪtrətʃə(r)/",
+      "pos": "n",
+      "vi": "văn học",
+      "example_en": "We study English literature at school.",
+      "example_vi": "Chúng tôi học văn học Anh ở trường.",
+      "emoji": "📚"
+    },
+    {
+      "word": "Melody",
+      "ipa": "/ˈmelədi/",
+      "pos": "n",
+      "vi": "giai điệu",
+      "example_en": "This song has a sweet melody.",
+      "example_vi": "Bài hát này có một giai điệu ngọt ngào.",
+      "emoji": "🎵"
+    },
+    {
+      "word": "Rhythm",
+      "ipa": "/ˈrɪðəm/",
+      "pos": "n",
+      "vi": "nhịp điệu",
+      "example_en": "Clap your hands to the rhythm.",
+      "example_vi": "Hãy vỗ tay theo nhịp điệu.",
+      "emoji": "🥁"
+    },
+    {
+      "word": "Sculpture",
+      "ipa": "/ˈskʌlptʃə(r)/",
+      "pos": "n",
+      "vi": "tác phẩm điêu khắc",
+      "example_en": "There is a stone sculpture in the park.",
+      "example_vi": "Có một tác phẩm điêu khắc bằng đá trong công viên.",
+      "emoji": "🗿"
+    },
+    {
+      "word": "Character",
+      "ipa": "/ˈkærəktə(r)/",
+      "pos": "n",
+      "vi": "nhân vật",
+      "example_en": "My favourite character in the book is brave.",
+      "example_vi": "Nhân vật tôi thích nhất trong sách rất dũng cảm.",
+      "emoji": "🎭"
+    },
+    {
+      "word": "Stage",
+      "ipa": "/steɪdʒ/",
+      "pos": "n",
+      "vi": "sân khấu",
+      "example_en": "The band walked onto the stage.",
+      "example_vi": "Ban nhạc bước lên sân khấu.",
+      "emoji": "🎭"
+    }
+  ]
+}

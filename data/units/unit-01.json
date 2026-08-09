@@ -1,0 +1,351 @@
+{
+  "id": 1,
+  "slug": "parts-of-the-body",
+  "title_en": "Parts of the Body",
+  "title_vi": "Các bộ phận cơ thể",
+  "emoji": "🧍",
+  "words": [
+    {
+      "word": "Body",
+      "ipa": "/ˈbɒdi/",
+      "pos": "n",
+      "vi": "cơ thể",
+      "example_en": "I wash my body every day.",
+      "example_vi": "Tôi tắm rửa cơ thể mỗi ngày.",
+      "emoji": "🧍"
+    },
+    {
+      "word": "Head",
+      "ipa": "/hed/",
+      "pos": "n",
+      "vi": "đầu",
+      "example_en": "He put a hat on his head.",
+      "example_vi": "Anh ấy đội mũ lên đầu.",
+      "emoji": "👤"
+    },
+    {
+      "word": "Hair",
+      "ipa": "/heə(r)/",
+      "pos": "n",
+      "vi": "tóc",
+      "example_en": "Her hair is long and black.",
+      "example_vi": "Tóc của cô ấy dài và đen.",
+      "emoji": "💇"
+    },
+    {
+      "word": "Face",
+      "ipa": "/feɪs/",
+      "pos": "n",
+      "vi": "khuôn mặt",
+      "example_en": "Wash your face in the morning.",
+      "example_vi": "Hãy rửa mặt vào buổi sáng.",
+      "emoji": "😀"
+    },
+    {
+      "word": "Eye",
+      "ipa": "/aɪ/",
+      "pos": "n",
+      "vi": "mắt",
+      "example_en": "She has beautiful brown eyes.",
+      "example_vi": "Cô ấy có đôi mắt nâu đẹp.",
+      "emoji": "👁️"
+    },
+    {
+      "word": "Ear",
+      "ipa": "/ɪə(r)/",
+      "pos": "n",
+      "vi": "tai",
+      "example_en": "Rabbits have long ears.",
+      "example_vi": "Những con thỏ có đôi tai dài.",
+      "emoji": "👂"
+    },
+    {
+      "word": "Nose",
+      "ipa": "/nəʊz/",
+      "pos": "n",
+      "vi": "mũi",
+      "example_en": "My nose is cold in winter.",
+      "example_vi": "Mũi của tôi lạnh vào mùa đông.",
+      "emoji": "👃"
+    },
+    {
+      "word": "Mouth",
+      "ipa": "/maʊθ/",
+      "pos": "n",
+      "vi": "miệng",
+      "example_en": "Open your mouth, please.",
+      "example_vi": "Làm ơn há miệng ra.",
+      "emoji": "👄"
+    },
+    {
+      "word": "Tooth",
+      "ipa": "/tuːθ/",
+      "pos": "n",
+      "vi": "răng",
+      "example_en": "The baby has one small tooth.",
+      "example_vi": "Em bé có một cái răng nhỏ.",
+      "emoji": "🦷"
+    },
+    {
+      "word": "Tongue",
+      "ipa": "/tʌŋ/",
+      "pos": "n",
+      "vi": "lưỡi",
+      "example_en": "The dog's tongue is pink.",
+      "example_vi": "Lưỡi của con chó màu hồng.",
+      "emoji": "👅"
+    },
+    {
+      "word": "Lip",
+      "ipa": "/lɪp/",
+      "pos": "n",
+      "vi": "môi",
+      "example_en": "Her lips are dry today.",
+      "example_vi": "Môi của cô ấy hôm nay bị khô.",
+      "emoji": "💋"
+    },
+    {
+      "word": "Neck",
+      "ipa": "/nek/",
+      "pos": "n",
+      "vi": "cổ",
+      "example_en": "I wear a scarf around my neck.",
+      "example_vi": "Tôi quàng khăn quanh cổ.",
+      "emoji": ""
+    },
+    {
+      "word": "Shoulder",
+      "ipa": "/ˈʃəʊldə(r)/",
+      "pos": "n",
+      "vi": "vai",
+      "example_en": "He carried the bag on his shoulder.",
+      "example_vi": "Anh ấy đeo túi trên vai.",
+      "emoji": ""
+    },
+    {
+      "word": "Arm",
+      "ipa": "/ɑːm/",
+      "pos": "n",
+      "vi": "cánh tay",
+      "example_en": "She broke her arm last week.",
+      "example_vi": "Cô ấy bị gãy tay tuần trước.",
+      "emoji": "💪"
+    },
+    {
+      "word": "Elbow",
+      "ipa": "/ˈelbəʊ/",
+      "pos": "n",
+      "vi": "khuỷu tay",
+      "example_en": "Don't put your elbows on the table.",
+      "example_vi": "Đừng đặt khuỷu tay lên bàn.",
+      "emoji": ""
+    },
+    {
+      "word": "Hand",
+      "ipa": "/hænd/",
+      "pos": "n",
+      "vi": "bàn tay",
+      "example_en": "Wash your hands before you eat.",
+      "example_vi": "Hãy rửa tay trước khi ăn.",
+      "emoji": "✋"
+    },
+    {
+      "word": "Finger",
+      "ipa": "/ˈfɪŋɡə(r)/",
+      "pos": "n",
+      "vi": "ngón tay",
+      "example_en": "I have ten fingers.",
+      "example_vi": "Tôi có mười ngón tay.",
+      "emoji": "👆"
+    },
+    {
+      "word": "Thumb",
+      "ipa": "/θʌm/",
+      "pos": "n",
+      "vi": "ngón cái",
+      "example_en": "The baby holds my thumb tightly.",
+      "example_vi": "Em bé nắm chặt ngón cái của tôi.",
+      "emoji": "👍"
+    },
+    {
+      "word": "Chest",
+      "ipa": "/tʃest/",
+      "pos": "n",
+      "vi": "ngực",
+      "example_en": "The doctor listened to my chest.",
+      "example_vi": "Bác sĩ nghe ngực của tôi.",
+      "emoji": ""
+    },
+    {
+      "word": "Stomach",
+      "ipa": "/ˈstʌmək/",
+      "pos": "n",
+      "vi": "bụng, dạ dày",
+      "example_en": "My stomach hurts after lunch.",
+      "example_vi": "Bụng của tôi đau sau bữa trưa.",
+      "emoji": ""
+    },
+    {
+      "word": "Back",
+      "ipa": "/bæk/",
+      "pos": "n",
+      "vi": "lưng",
+      "example_en": "My back is tired from work.",
+      "example_vi": "Lưng của tôi mỏi vì làm việc.",
+      "emoji": ""
+    },
+    {
+      "word": "Leg",
+      "ipa": "/leɡ/",
+      "pos": "n",
+      "vi": "chân",
+      "example_en": "Cats have four legs.",
+      "example_vi": "Con mèo có bốn chân.",
+      "emoji": "🦵"
+    },
+    {
+      "word": "Knee",
+      "ipa": "/niː/",
+      "pos": "n",
+      "vi": "đầu gối",
+      "example_en": "He fell and hurt his knee.",
+      "example_vi": "Cậu ấy ngã và bị đau đầu gối.",
+      "emoji": ""
+    },
+    {
+      "word": "Foot",
+      "ipa": "/fʊt/",
+      "pos": "n",
+      "vi": "bàn chân",
+      "example_en": "I hurt my foot while running.",
+      "example_vi": "Tôi bị đau chân khi chạy.",
+      "emoji": "🦶"
+    },
+    {
+      "word": "Toe",
+      "ipa": "/təʊ/",
+      "pos": "n",
+      "vi": "ngón chân",
+      "example_en": "I have five toes on each foot.",
+      "example_vi": "Mỗi bàn chân của tôi có năm ngón.",
+      "emoji": ""
+    },
+    {
+      "word": "Heart",
+      "ipa": "/hɑːt/",
+      "pos": "n",
+      "vi": "tim",
+      "example_en": "My heart beats fast when I run.",
+      "example_vi": "Tim của tôi đập nhanh khi tôi chạy.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "Brain",
+      "ipa": "/breɪn/",
+      "pos": "n",
+      "vi": "não",
+      "example_en": "The brain helps us think.",
+      "example_vi": "Não giúp chúng ta suy nghĩ.",
+      "emoji": "🧠"
+    },
+    {
+      "word": "Bone",
+      "ipa": "/bəʊn/",
+      "pos": "n",
+      "vi": "xương",
+      "example_en": "Milk is good for your bones.",
+      "example_vi": "Sữa tốt cho xương của bạn.",
+      "emoji": "🦴"
+    },
+    {
+      "word": "Skin",
+      "ipa": "/skɪn/",
+      "pos": "n",
+      "vi": "da",
+      "example_en": "The sun can hurt your skin.",
+      "example_vi": "Ánh nắng có thể làm hại da của bạn.",
+      "emoji": ""
+    },
+    {
+      "word": "Blood",
+      "ipa": "/blʌd/",
+      "pos": "n",
+      "vi": "máu",
+      "example_en": "The nurse took some of my blood.",
+      "example_vi": "Y tá lấy một ít máu của tôi.",
+      "emoji": "🩸"
+    },
+    {
+      "word": "Chin",
+      "ipa": "/tʃɪn/",
+      "pos": "n",
+      "vi": "cằm",
+      "example_en": "He has a small scar on his chin.",
+      "example_vi": "Anh ấy có một vết sẹo nhỏ trên cằm.",
+      "emoji": ""
+    },
+    {
+      "word": "Cheek",
+      "ipa": "/tʃiːk/",
+      "pos": "n",
+      "vi": "má",
+      "example_en": "The baby has soft, pink cheeks.",
+      "example_vi": "Em bé có đôi má hồng mềm mại.",
+      "emoji": ""
+    },
+    {
+      "word": "Forehead",
+      "ipa": "/ˈfɔːhed/",
+      "pos": "n",
+      "vi": "trán",
+      "example_en": "She put her hand on my forehead.",
+      "example_vi": "Cô ấy đặt tay lên trán tôi.",
+      "emoji": ""
+    },
+    {
+      "word": "Wrist",
+      "ipa": "/rɪst/",
+      "pos": "n",
+      "vi": "cổ tay",
+      "example_en": "I wear a watch on my wrist.",
+      "example_vi": "Tôi đeo đồng hồ ở cổ tay.",
+      "emoji": "⌚"
+    },
+    {
+      "word": "Ankle",
+      "ipa": "/ˈæŋkl/",
+      "pos": "n",
+      "vi": "mắt cá chân",
+      "example_en": "She hurt her ankle while dancing.",
+      "example_vi": "Cô ấy bị đau mắt cá chân khi nhảy.",
+      "emoji": ""
+    },
+    {
+      "word": "Nail",
+      "ipa": "/neɪl/",
+      "pos": "n",
+      "vi": "móng",
+      "example_en": "Please cut your nails.",
+      "example_vi": "Hãy cắt móng tay của bạn.",
+      "emoji": "💅"
+    },
+    {
+      "word": "Lung",
+      "ipa": "/lʌŋ/",
+      "pos": "n",
+      "vi": "phổi",
+      "example_en": "We breathe with our lungs.",
+      "example_vi": "Chúng ta thở bằng phổi.",
+      "emoji": "🫁"
+    },
+    {
+      "word": "Waist",
+      "ipa": "/weɪst/",
+      "pos": "n",
+      "vi": "eo",
+      "example_en": "The belt goes around your waist.",
+      "example_vi": "Chiếc thắt lưng quàng quanh eo của bạn.",
+      "emoji": ""
+    }
+  ]
+}

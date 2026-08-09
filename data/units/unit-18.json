@@ -1,0 +1,351 @@
+{
+  "id": 18,
+  "slug": "weather",
+  "title_en": "Weather",
+  "title_vi": "Thời tiết",
+  "emoji": "⛅",
+  "words": [
+    {
+      "word": "Weather",
+      "ipa": "/ˈweðə(r)/",
+      "pos": "n",
+      "vi": "thời tiết",
+      "example_en": "The weather is nice today.",
+      "example_vi": "Thời tiết hôm nay đẹp.",
+      "emoji": "⛅"
+    },
+    {
+      "word": "Sun",
+      "ipa": "/sʌn/",
+      "pos": "n",
+      "vi": "mặt trời",
+      "example_en": "The sun is bright this morning.",
+      "example_vi": "Sáng nay mặt trời rất sáng.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "Sunny",
+      "ipa": "/ˈsʌni/",
+      "pos": "adj",
+      "vi": "có nắng, nắng",
+      "example_en": "It is a sunny day, so let's go out.",
+      "example_vi": "Hôm nay là một ngày nắng, nên hãy ra ngoài.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "Rain",
+      "ipa": "/reɪn/",
+      "pos": "n",
+      "vi": "mưa",
+      "example_en": "We need the rain for the rice fields.",
+      "example_vi": "Chúng ta cần mưa cho những cánh đồng lúa.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "Rainy",
+      "ipa": "/ˈreɪni/",
+      "pos": "adj",
+      "vi": "có mưa, mưa",
+      "example_en": "I stay home on rainy days.",
+      "example_vi": "Tôi ở nhà vào những ngày mưa.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "Wind",
+      "ipa": "/wɪnd/",
+      "pos": "n",
+      "vi": "gió",
+      "example_en": "The wind is strong near the sea.",
+      "example_vi": "Gió rất mạnh gần biển.",
+      "emoji": "💨"
+    },
+    {
+      "word": "Windy",
+      "ipa": "/ˈwɪndi/",
+      "pos": "adj",
+      "vi": "có gió, nhiều gió",
+      "example_en": "It is windy, so hold your hat.",
+      "example_vi": "Trời nhiều gió, nên hãy giữ chặt mũ của bạn.",
+      "emoji": "🌬️"
+    },
+    {
+      "word": "Cloud",
+      "ipa": "/klaʊd/",
+      "pos": "n",
+      "vi": "mây",
+      "example_en": "There is one white cloud in the sky.",
+      "example_vi": "Có một đám mây trắng trên bầu trời.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "Cloudy",
+      "ipa": "/ˈklaʊdi/",
+      "pos": "adj",
+      "vi": "nhiều mây, u ám",
+      "example_en": "The sky is cloudy this afternoon.",
+      "example_vi": "Bầu trời chiều nay nhiều mây.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "Snow",
+      "ipa": "/snəʊ/",
+      "pos": "n",
+      "vi": "tuyết",
+      "example_en": "The children play in the snow.",
+      "example_vi": "Bọn trẻ chơi trong tuyết.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "Snowy",
+      "ipa": "/ˈsnəʊi/",
+      "pos": "adj",
+      "vi": "có tuyết, đầy tuyết",
+      "example_en": "It is a cold and snowy morning.",
+      "example_vi": "Đó là một buổi sáng lạnh và đầy tuyết.",
+      "emoji": "☃️"
+    },
+    {
+      "word": "Hot",
+      "ipa": "/hɒt/",
+      "pos": "adj",
+      "vi": "nóng",
+      "example_en": "Summer in Hanoi is very hot.",
+      "example_vi": "Mùa hè ở Hà Nội rất nóng.",
+      "emoji": "🥵"
+    },
+    {
+      "word": "Cold",
+      "ipa": "/kəʊld/",
+      "pos": "adj",
+      "vi": "lạnh",
+      "example_en": "It is cold, so wear a warm coat.",
+      "example_vi": "Trời lạnh, nên hãy mặc áo khoác ấm.",
+      "emoji": "🥶"
+    },
+    {
+      "word": "Warm",
+      "ipa": "/wɔːm/",
+      "pos": "adj",
+      "vi": "ấm áp",
+      "example_en": "The spring weather is warm and gentle.",
+      "example_vi": "Thời tiết mùa xuân ấm áp và dịu nhẹ.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Cool",
+      "ipa": "/kuːl/",
+      "pos": "adj",
+      "vi": "mát mẻ",
+      "example_en": "The evening air is cool and fresh.",
+      "example_vi": "Không khí buổi tối mát mẻ và trong lành.",
+      "emoji": "🍃"
+    },
+    {
+      "word": "Wet",
+      "ipa": "/wet/",
+      "pos": "adj",
+      "vi": "ướt",
+      "example_en": "My shoes are wet from the rain.",
+      "example_vi": "Giày của tôi ướt vì mưa.",
+      "emoji": "💧"
+    },
+    {
+      "word": "Dry",
+      "ipa": "/draɪ/",
+      "pos": "adj",
+      "vi": "khô",
+      "example_en": "The land is dry in this season.",
+      "example_vi": "Đất đai khô cằn vào mùa này.",
+      "emoji": "🏜️"
+    },
+    {
+      "word": "Storm",
+      "ipa": "/stɔːm/",
+      "pos": "n",
+      "vi": "cơn bão",
+      "example_en": "A big storm is coming tonight.",
+      "example_vi": "Một cơn bão lớn sắp đến tối nay.",
+      "emoji": "⛈️"
+    },
+    {
+      "word": "Fog",
+      "ipa": "/fɒɡ/",
+      "pos": "n",
+      "vi": "sương mù",
+      "example_en": "There is thick fog on the mountain.",
+      "example_vi": "Có sương mù dày trên núi.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "Foggy",
+      "ipa": "/ˈfɒɡi/",
+      "pos": "adj",
+      "vi": "có sương mù",
+      "example_en": "Drive slowly when it is foggy.",
+      "example_vi": "Hãy lái xe chậm khi trời có sương mù.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "Ice",
+      "ipa": "/aɪs/",
+      "pos": "n",
+      "vi": "băng, đá",
+      "example_en": "The road is covered with ice.",
+      "example_vi": "Con đường bị phủ đầy băng.",
+      "emoji": "🧊"
+    },
+    {
+      "word": "Sky",
+      "ipa": "/skaɪ/",
+      "pos": "n",
+      "vi": "bầu trời",
+      "example_en": "The sky is blue and clear.",
+      "example_vi": "Bầu trời xanh và quang đãng.",
+      "emoji": "🌤️"
+    },
+    {
+      "word": "Temperature",
+      "ipa": "/ˈtemprətʃə(r)/",
+      "pos": "n",
+      "vi": "nhiệt độ",
+      "example_en": "The temperature drops at night.",
+      "example_vi": "Nhiệt độ giảm xuống vào ban đêm.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Degree",
+      "ipa": "/dɪˈɡriː/",
+      "pos": "n",
+      "vi": "độ (nhiệt độ)",
+      "example_en": "It is thirty degrees today.",
+      "example_vi": "Hôm nay là ba mươi độ.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Thunder",
+      "ipa": "/ˈθʌndə(r)/",
+      "pos": "n",
+      "vi": "sấm",
+      "example_en": "The thunder is very loud tonight.",
+      "example_vi": "Tiếng sấm rất to tối nay.",
+      "emoji": "🌩️"
+    },
+    {
+      "word": "Lightning",
+      "ipa": "/ˈlaɪtnɪŋ/",
+      "pos": "n",
+      "vi": "sét, tia chớp",
+      "example_en": "I saw lightning in the dark sky.",
+      "example_vi": "Tôi thấy tia chớp trên bầu trời tối.",
+      "emoji": "⚡"
+    },
+    {
+      "word": "Rainbow",
+      "ipa": "/ˈreɪnbəʊ/",
+      "pos": "n",
+      "vi": "cầu vồng",
+      "example_en": "A rainbow appears after the rain.",
+      "example_vi": "Một chiếc cầu vồng xuất hiện sau cơn mưa.",
+      "emoji": "🌈"
+    },
+    {
+      "word": "Umbrella",
+      "ipa": "/ʌmˈbrelə/",
+      "pos": "n",
+      "vi": "cái ô, cái dù",
+      "example_en": "Take an umbrella because it may rain.",
+      "example_vi": "Hãy mang theo ô vì trời có thể mưa.",
+      "emoji": "☂️"
+    },
+    {
+      "word": "Season",
+      "ipa": "/ˈsiːzn/",
+      "pos": "n",
+      "vi": "mùa",
+      "example_en": "Autumn is my favourite season.",
+      "example_vi": "Mùa thu là mùa tôi thích nhất.",
+      "emoji": "🍂"
+    },
+    {
+      "word": "Spring",
+      "ipa": "/sprɪŋ/",
+      "pos": "n",
+      "vi": "mùa xuân",
+      "example_en": "Flowers bloom in spring.",
+      "example_vi": "Hoa nở vào mùa xuân.",
+      "emoji": "🌸"
+    },
+    {
+      "word": "Summer",
+      "ipa": "/ˈsʌmə(r)/",
+      "pos": "n",
+      "vi": "mùa hè",
+      "example_en": "We swim in the sea every summer.",
+      "example_vi": "Chúng tôi bơi ở biển mỗi mùa hè.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "Autumn",
+      "ipa": "/ˈɔːtəm/",
+      "pos": "n",
+      "vi": "mùa thu",
+      "example_en": "The leaves turn yellow in autumn.",
+      "example_vi": "Lá cây chuyển vàng vào mùa thu.",
+      "emoji": "🍂"
+    },
+    {
+      "word": "Winter",
+      "ipa": "/ˈwɪntə(r)/",
+      "pos": "n",
+      "vi": "mùa đông",
+      "example_en": "It snows in winter in some countries.",
+      "example_vi": "Ở một số nước, tuyết rơi vào mùa đông.",
+      "emoji": "❄️"
+    },
+    {
+      "word": "Forecast",
+      "ipa": "/ˈfɔːkɑːst/",
+      "pos": "n",
+      "vi": "dự báo (thời tiết)",
+      "example_en": "The forecast says it will rain tomorrow.",
+      "example_vi": "Dự báo nói rằng ngày mai trời sẽ mưa.",
+      "emoji": "📺"
+    },
+    {
+      "word": "Freezing",
+      "ipa": "/ˈfriːzɪŋ/",
+      "pos": "adj",
+      "vi": "lạnh cóng, rất lạnh",
+      "example_en": "It is freezing outside this morning.",
+      "example_vi": "Sáng nay bên ngoài lạnh cóng.",
+      "emoji": "🥶"
+    },
+    {
+      "word": "Shower",
+      "ipa": "/ˈʃaʊə(r)/",
+      "pos": "n",
+      "vi": "cơn mưa rào",
+      "example_en": "There was a short shower after lunch.",
+      "example_vi": "Có một cơn mưa rào ngắn sau bữa trưa.",
+      "emoji": "🌦️"
+    },
+    {
+      "word": "Breeze",
+      "ipa": "/briːz/",
+      "pos": "n",
+      "vi": "làn gió nhẹ",
+      "example_en": "A cool breeze blows from the river.",
+      "example_vi": "Một làn gió mát thổi từ dòng sông.",
+      "emoji": "🍃"
+    },
+    {
+      "word": "Frost",
+      "ipa": "/frɒst/",
+      "pos": "n",
+      "vi": "sương giá",
+      "example_en": "White frost covers the grass in winter.",
+      "example_vi": "Sương giá trắng phủ lên cỏ vào mùa đông.",
+      "emoji": "🧊"
+    }
+  ]
+}

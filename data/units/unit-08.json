@@ -1,0 +1,333 @@
+{
+  "id": 8,
+  "slug": "sports",
+  "title_en": "Sports",
+  "title_vi": "Thể thao",
+  "emoji": "⚽",
+  "words": [
+    {
+      "word": "Sport",
+      "ipa": "/spɔːt/",
+      "pos": "n",
+      "vi": "thể thao, môn thể thao",
+      "example_en": "My favourite sport is football.",
+      "example_vi": "Môn thể thao yêu thích của tôi là bóng đá.",
+      "emoji": "🏅"
+    },
+    {
+      "word": "Football",
+      "ipa": "/ˈfʊtbɔːl/",
+      "pos": "n",
+      "vi": "bóng đá",
+      "example_en": "We play football in the park on Sundays.",
+      "example_vi": "Chúng tôi chơi bóng đá trong công viên vào Chủ nhật.",
+      "emoji": "⚽"
+    },
+    {
+      "word": "Basketball",
+      "ipa": "/ˈbɑːskɪtbɔːl/",
+      "pos": "n",
+      "vi": "bóng rổ",
+      "example_en": "He is very tall, so he plays basketball.",
+      "example_vi": "Anh ấy rất cao nên chơi bóng rổ.",
+      "emoji": "🏀"
+    },
+    {
+      "word": "Tennis",
+      "ipa": "/ˈtenɪs/",
+      "pos": "n",
+      "vi": "quần vợt",
+      "example_en": "She plays tennis with her sister.",
+      "example_vi": "Cô ấy chơi quần vợt với chị gái.",
+      "emoji": "🎾"
+    },
+    {
+      "word": "Swimming",
+      "ipa": "/ˈswɪmɪŋ/",
+      "pos": "n",
+      "vi": "bơi lội",
+      "example_en": "Swimming is good for your health.",
+      "example_vi": "Bơi lội tốt cho sức khỏe của bạn.",
+      "emoji": "🏊"
+    },
+    {
+      "word": "Running",
+      "ipa": "/ˈrʌnɪŋ/",
+      "pos": "n",
+      "vi": "chạy bộ",
+      "example_en": "Running every morning makes me strong.",
+      "example_vi": "Chạy bộ mỗi sáng làm tôi khỏe mạnh.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Ball",
+      "ipa": "/bɔːl/",
+      "pos": "n",
+      "vi": "quả bóng",
+      "example_en": "The children kick the ball together.",
+      "example_vi": "Bọn trẻ cùng nhau đá quả bóng.",
+      "emoji": "🏐"
+    },
+    {
+      "word": "Team",
+      "ipa": "/tiːm/",
+      "pos": "n",
+      "vi": "đội",
+      "example_en": "Our team won the game yesterday.",
+      "example_vi": "Đội của chúng tôi đã thắng trận hôm qua.",
+      "emoji": "👥"
+    },
+    {
+      "word": "Player",
+      "ipa": "/ˈpleɪə(r)/",
+      "pos": "n",
+      "vi": "cầu thủ, người chơi",
+      "example_en": "He is the best player on the team.",
+      "example_vi": "Anh ấy là cầu thủ giỏi nhất trong đội.",
+      "emoji": "🏃‍♂️"
+    },
+    {
+      "word": "Coach",
+      "ipa": "/kəʊtʃ/",
+      "pos": "n",
+      "vi": "huấn luyện viên",
+      "example_en": "The coach teaches us new skills.",
+      "example_vi": "Huấn luyện viên dạy chúng tôi những kỹ năng mới.",
+      "emoji": "📣"
+    },
+    {
+      "word": "Game",
+      "ipa": "/ɡeɪm/",
+      "pos": "n",
+      "vi": "trận đấu, trò chơi",
+      "example_en": "The game starts at three o'clock.",
+      "example_vi": "Trận đấu bắt đầu lúc ba giờ.",
+      "emoji": "🎮"
+    },
+    {
+      "word": "Match",
+      "ipa": "/mætʃ/",
+      "pos": "n",
+      "vi": "trận đấu",
+      "example_en": "We watched an exciting football match.",
+      "example_vi": "Chúng tôi đã xem một trận bóng đá gay cấn.",
+      "emoji": "🆚"
+    },
+    {
+      "word": "Win",
+      "ipa": "/wɪn/",
+      "pos": "v",
+      "vi": "thắng, giành chiến thắng",
+      "example_en": "I hope our team will win today.",
+      "example_vi": "Tôi hy vọng đội chúng ta sẽ thắng hôm nay.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "Lose",
+      "ipa": "/luːz/",
+      "pos": "v",
+      "vi": "thua",
+      "example_en": "Nobody likes to lose a game.",
+      "example_vi": "Không ai thích thua một trận đấu.",
+      "emoji": "😞"
+    },
+    {
+      "word": "Score",
+      "ipa": "/skɔː(r)/",
+      "pos": "v",
+      "vi": "ghi bàn, ghi điểm",
+      "example_en": "He scored two goals in the match.",
+      "example_vi": "Anh ấy ghi hai bàn trong trận đấu.",
+      "emoji": "🥅"
+    },
+    {
+      "word": "Goal",
+      "ipa": "/ɡəʊl/",
+      "pos": "n",
+      "vi": "bàn thắng, khung thành",
+      "example_en": "The last goal was amazing.",
+      "example_vi": "Bàn thắng cuối cùng thật tuyệt vời.",
+      "emoji": "🥅"
+    },
+    {
+      "word": "Play",
+      "ipa": "/pleɪ/",
+      "pos": "v",
+      "vi": "chơi",
+      "example_en": "Let's play badminton after school.",
+      "example_vi": "Chúng ta hãy chơi cầu lông sau giờ học.",
+      "emoji": "🏸"
+    },
+    {
+      "word": "Run",
+      "ipa": "/rʌn/",
+      "pos": "v",
+      "vi": "chạy",
+      "example_en": "He can run very fast.",
+      "example_vi": "Anh ấy có thể chạy rất nhanh.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Jump",
+      "ipa": "/dʒʌmp/",
+      "pos": "v",
+      "vi": "nhảy",
+      "example_en": "She can jump over the high bar.",
+      "example_vi": "Cô ấy có thể nhảy qua thanh xà cao.",
+      "emoji": "🤸"
+    },
+    {
+      "word": "Throw",
+      "ipa": "/θrəʊ/",
+      "pos": "v",
+      "vi": "ném",
+      "example_en": "Please throw the ball to me.",
+      "example_vi": "Hãy ném quả bóng cho tôi.",
+      "emoji": "🤾"
+    },
+    {
+      "word": "Catch",
+      "ipa": "/kætʃ/",
+      "pos": "v",
+      "vi": "bắt, chụp",
+      "example_en": "Can you catch the ball with one hand?",
+      "example_vi": "Bạn có thể bắt bóng bằng một tay không?",
+      "emoji": "🧤"
+    },
+    {
+      "word": "Kick",
+      "ipa": "/kɪk/",
+      "pos": "v",
+      "vi": "đá",
+      "example_en": "He kicked the ball into the net.",
+      "example_vi": "Anh ấy đá quả bóng vào lưới.",
+      "emoji": "🦵"
+    },
+    {
+      "word": "Swim",
+      "ipa": "/swɪm/",
+      "pos": "v",
+      "vi": "bơi",
+      "example_en": "I learned to swim last summer.",
+      "example_vi": "Tôi đã học bơi vào mùa hè năm ngoái.",
+      "emoji": "🏊‍♀️"
+    },
+    {
+      "word": "Cycling",
+      "ipa": "/ˈsaɪklɪŋ/",
+      "pos": "n",
+      "vi": "đạp xe",
+      "example_en": "Cycling to work keeps me fit.",
+      "example_vi": "Đạp xe đi làm giúp tôi giữ dáng.",
+      "emoji": "🚴"
+    },
+    {
+      "word": "Volleyball",
+      "ipa": "/ˈvɒlibɔːl/",
+      "pos": "n",
+      "vi": "bóng chuyền",
+      "example_en": "We play volleyball on the beach.",
+      "example_vi": "Chúng tôi chơi bóng chuyền trên bãi biển.",
+      "emoji": "🏐"
+    },
+    {
+      "word": "Badminton",
+      "ipa": "/ˈbædmɪntən/",
+      "pos": "n",
+      "vi": "cầu lông",
+      "example_en": "Badminton is popular in my country.",
+      "example_vi": "Cầu lông rất phổ biến ở nước tôi.",
+      "emoji": "🏸"
+    },
+    {
+      "word": "Gym",
+      "ipa": "/dʒɪm/",
+      "pos": "n",
+      "vi": "phòng tập thể dục",
+      "example_en": "I go to the gym three times a week.",
+      "example_vi": "Tôi đến phòng tập ba lần một tuần.",
+      "emoji": "🏋️"
+    },
+    {
+      "word": "Exercise",
+      "ipa": "/ˈeksəsaɪz/",
+      "pos": "n",
+      "vi": "bài tập, việc tập luyện",
+      "example_en": "Daily exercise is good for you.",
+      "example_vi": "Tập luyện hằng ngày tốt cho bạn.",
+      "emoji": "💪"
+    },
+    {
+      "word": "Stadium",
+      "ipa": "/ˈsteɪdiəm/",
+      "pos": "n",
+      "vi": "sân vận động",
+      "example_en": "The stadium was full of fans.",
+      "example_vi": "Sân vận động chật kín người hâm mộ.",
+      "emoji": "🏟️"
+    },
+    {
+      "word": "Field",
+      "ipa": "/fiːld/",
+      "pos": "n",
+      "vi": "sân (bóng)",
+      "example_en": "The players ran onto the field.",
+      "example_vi": "Các cầu thủ chạy ra sân.",
+      "emoji": "🌱"
+    },
+    {
+      "word": "Race",
+      "ipa": "/reɪs/",
+      "pos": "n",
+      "vi": "cuộc đua",
+      "example_en": "She won the running race.",
+      "example_vi": "Cô ấy đã thắng cuộc đua chạy.",
+      "emoji": "🏁"
+    },
+    {
+      "word": "Medal",
+      "ipa": "/ˈmedl/",
+      "pos": "n",
+      "vi": "huy chương",
+      "example_en": "He won a gold medal at the games.",
+      "example_vi": "Anh ấy đã giành huy chương vàng tại đại hội.",
+      "emoji": "🥇"
+    },
+    {
+      "word": "Champion",
+      "ipa": "/ˈtʃæmpiən/",
+      "pos": "n",
+      "vi": "nhà vô địch",
+      "example_en": "Our school team became the champion.",
+      "example_vi": "Đội trường tôi đã trở thành nhà vô địch.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "Fast",
+      "ipa": "/fɑːst/",
+      "pos": "adj",
+      "vi": "nhanh",
+      "example_en": "That runner is very fast.",
+      "example_vi": "Vận động viên đó chạy rất nhanh.",
+      "emoji": "💨"
+    },
+    {
+      "word": "Strong",
+      "ipa": "/strɒŋ/",
+      "pos": "adj",
+      "vi": "khỏe, mạnh",
+      "example_en": "You need strong legs to cycle uphill.",
+      "example_vi": "Bạn cần đôi chân khỏe để đạp xe lên dốc.",
+      "emoji": "💪"
+    },
+    {
+      "word": "Win a prize",
+      "ipa": "/wɪn ə praɪz/",
+      "pos": "phr",
+      "vi": "giành giải thưởng",
+      "example_en": "She hopes to win a prize this year.",
+      "example_vi": "Cô ấy hy vọng giành giải thưởng năm nay.",
+      "emoji": "🎖️"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": 2,
+  "slug": "health",
+  "title_en": "Health",
+  "title_vi": "Sức khỏe",
+  "emoji": "🏥",
+  "words": [
+    {
+      "word": "Health",
+      "ipa": "/helθ/",
+      "pos": "n",
+      "vi": "sức khỏe",
+      "example_en": "Good food is important for your health.",
+      "example_vi": "Thức ăn tốt rất quan trọng cho sức khỏe của bạn.",
+      "emoji": "💚"
+    },
+    {
+      "word": "Healthy",
+      "ipa": "/ˈhelθi/",
+      "pos": "adj",
+      "vi": "khỏe mạnh",
+      "example_en": "She is very healthy and strong.",
+      "example_vi": "Cô ấy rất khỏe mạnh và cường tráng.",
+      "emoji": "💪"
+    },
+    {
+      "word": "Sick",
+      "ipa": "/sɪk/",
+      "pos": "adj",
+      "vi": "ốm, bệnh",
+      "example_en": "I feel sick, so I will stay home.",
+      "example_vi": "Tôi cảm thấy mệt nên tôi sẽ ở nhà.",
+      "emoji": "🤒"
+    },
+    {
+      "word": "Ill",
+      "ipa": "/ɪl/",
+      "pos": "adj",
+      "vi": "ốm, bệnh",
+      "example_en": "He is ill and cannot go to work.",
+      "example_vi": "Anh ấy bị ốm và không thể đi làm.",
+      "emoji": "🤕"
+    },
+    {
+      "word": "Pain",
+      "ipa": "/peɪn/",
+      "pos": "n",
+      "vi": "cơn đau",
+      "example_en": "I have a pain in my back.",
+      "example_vi": "Tôi bị đau ở lưng.",
+      "emoji": "😣"
+    },
+    {
+      "word": "Doctor",
+      "ipa": "/ˈdɒktə(r)/",
+      "pos": "n",
+      "vi": "bác sĩ",
+      "example_en": "The doctor will see you now.",
+      "example_vi": "Bác sĩ sẽ khám cho bạn bây giờ.",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "word": "Nurse",
+      "ipa": "/nɜːs/",
+      "pos": "n",
+      "vi": "y tá",
+      "example_en": "The nurse is very kind to patients.",
+      "example_vi": "Y tá rất tốt với bệnh nhân.",
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "word": "Hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "pos": "n",
+      "vi": "bệnh viện",
+      "example_en": "My sister works at a hospital.",
+      "example_vi": "Chị gái tôi làm việc ở bệnh viện.",
+      "emoji": "🏥"
+    },
+    {
+      "word": "Medicine",
+      "ipa": "/ˈmedsn/",
+      "pos": "n",
+      "vi": "thuốc",
+      "example_en": "Take this medicine after dinner.",
+      "example_vi": "Hãy uống thuốc này sau bữa tối.",
+      "emoji": "💊"
+    },
+    {
+      "word": "Pill",
+      "ipa": "/pɪl/",
+      "pos": "n",
+      "vi": "viên thuốc",
+      "example_en": "She takes one pill every morning.",
+      "example_vi": "Cô ấy uống một viên thuốc mỗi sáng.",
+      "emoji": ""
+    },
+    {
+      "word": "Fever",
+      "ipa": "/ˈfiːvə(r)/",
+      "pos": "n",
+      "vi": "sốt",
+      "example_en": "The child has a high fever.",
+      "example_vi": "Đứa trẻ bị sốt cao.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Cough",
+      "ipa": "/kɒf/",
+      "pos": "v",
+      "vi": "ho",
+      "example_en": "I have a bad cough today.",
+      "example_vi": "Hôm nay tôi bị ho nặng.",
+      "emoji": "😷"
+    },
+    {
+      "word": "Cold",
+      "ipa": "/kəʊld/",
+      "pos": "n",
+      "vi": "cảm lạnh",
+      "example_en": "He caught a cold in the rain.",
+      "example_vi": "Anh ấy bị cảm lạnh dưới mưa.",
+      "emoji": "🤧"
+    },
+    {
+      "word": "Flu",
+      "ipa": "/fluː/",
+      "pos": "n",
+      "vi": "cúm",
+      "example_en": "Many people get the flu in winter.",
+      "example_vi": "Nhiều người bị cúm vào mùa đông.",
+      "emoji": ""
+    },
+    {
+      "word": "Headache",
+      "ipa": "/ˈhedeɪk/",
+      "pos": "n",
+      "vi": "đau đầu",
+      "example_en": "I have a headache from the noise.",
+      "example_vi": "Tôi bị đau đầu vì tiếng ồn.",
+      "emoji": ""
+    },
+    {
+      "word": "Stomachache",
+      "ipa": "/ˈstʌməkeɪk/",
+      "pos": "n",
+      "vi": "đau bụng",
+      "example_en": "Too much candy gave me a stomachache.",
+      "example_vi": "Ăn quá nhiều kẹo làm tôi đau bụng.",
+      "emoji": ""
+    },
+    {
+      "word": "Toothache",
+      "ipa": "/ˈtuːθeɪk/",
+      "pos": "n",
+      "vi": "đau răng",
+      "example_en": "She went to the dentist for her toothache.",
+      "example_vi": "Cô ấy đến nha sĩ vì bị đau răng.",
+      "emoji": "🦷"
+    },
+    {
+      "word": "Sore throat",
+      "ipa": "/ˌsɔː ˈθrəʊt/",
+      "pos": "n",
+      "vi": "đau họng",
+      "example_en": "I have a sore throat and cannot sing.",
+      "example_vi": "Tôi bị đau họng và không thể hát.",
+      "emoji": ""
+    },
+    {
+      "word": "Cut",
+      "ipa": "/kʌt/",
+      "pos": "n",
+      "vi": "vết cắt",
+      "example_en": "He has a small cut on his finger.",
+      "example_vi": "Anh ấy có một vết cắt nhỏ trên ngón tay.",
+      "emoji": "🩹"
+    },
+    {
+      "word": "Wound",
+      "ipa": "/wuːnd/",
+      "pos": "n",
+      "vi": "vết thương",
+      "example_en": "The nurse cleaned the wound carefully.",
+      "example_vi": "Y tá lau rửa vết thương cẩn thận.",
+      "emoji": ""
+    },
+    {
+      "word": "Injury",
+      "ipa": "/ˈɪndʒəri/",
+      "pos": "n",
+      "vi": "chấn thương",
+      "example_en": "The player has a leg injury.",
+      "example_vi": "Cầu thủ bị chấn thương ở chân.",
+      "emoji": ""
+    },
+    {
+      "word": "Hurt",
+      "ipa": "/hɜːt/",
+      "pos": "v",
+      "vi": "làm đau, bị đau",
+      "example_en": "My eyes hurt after reading all day.",
+      "example_vi": "Mắt của tôi đau sau khi đọc cả ngày.",
+      "emoji": "😖"
+    },
+    {
+      "word": "Rest",
+      "ipa": "/rest/",
+      "pos": "v",
+      "vi": "nghỉ ngơi",
+      "example_en": "You need to rest when you are sick.",
+      "example_vi": "Bạn cần nghỉ ngơi khi bị ốm.",
+      "emoji": "😴"
+    },
+    {
+      "word": "Sleep",
+      "ipa": "/sliːp/",
+      "pos": "v",
+      "vi": "ngủ",
+      "example_en": "Children need a lot of sleep.",
+      "example_vi": "Trẻ em cần ngủ nhiều.",
+      "emoji": "🛌"
+    },
+    {
+      "word": "Exercise",
+      "ipa": "/ˈeksəsaɪz/",
+      "pos": "v",
+      "vi": "tập thể dục",
+      "example_en": "I exercise for thirty minutes every day.",
+      "example_vi": "Tôi tập thể dục ba mươi phút mỗi ngày.",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Diet",
+      "ipa": "/ˈdaɪət/",
+      "pos": "n",
+      "vi": "chế độ ăn",
+      "example_en": "A good diet has many vegetables.",
+      "example_vi": "Một chế độ ăn tốt có nhiều rau.",
+      "emoji": "🥗"
+    },
+    {
+      "word": "Weight",
+      "ipa": "/weɪt/",
+      "pos": "n",
+      "vi": "cân nặng",
+      "example_en": "The doctor checked my weight.",
+      "example_vi": "Bác sĩ kiểm tra cân nặng của tôi.",
+      "emoji": "⚖️"
+    },
+    {
+      "word": "Ambulance",
+      "ipa": "/ˈæmbjələns/",
+      "pos": "n",
+      "vi": "xe cứu thương",
+      "example_en": "Call an ambulance, it is an emergency!",
+      "example_vi": "Hãy gọi xe cứu thương, đây là trường hợp khẩn cấp!",
+      "emoji": "🚑"
+    },
+    {
+      "word": "Appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "pos": "n",
+      "vi": "cuộc hẹn",
+      "example_en": "I have a doctor's appointment at three.",
+      "example_vi": "Tôi có cuộc hẹn với bác sĩ lúc ba giờ.",
+      "emoji": "📅"
+    },
+    {
+      "word": "Patient",
+      "ipa": "/ˈpeɪʃnt/",
+      "pos": "n",
+      "vi": "bệnh nhân",
+      "example_en": "The patient is feeling much better now.",
+      "example_vi": "Bệnh nhân giờ đã cảm thấy khá hơn nhiều.",
+      "emoji": "🛏️"
+    },
+    {
+      "word": "Dentist",
+      "ipa": "/ˈdentɪst/",
+      "pos": "n",
+      "vi": "nha sĩ",
+      "example_en": "The dentist checked all my teeth.",
+      "example_vi": "Nha sĩ kiểm tra tất cả răng của tôi.",
+      "emoji": "🪥"
+    },
+    {
+      "word": "Prescription",
+      "ipa": "/prɪˈskrɪpʃn/",
+      "pos": "n",
+      "vi": "đơn thuốc",
+      "example_en": "The doctor wrote a prescription for me.",
+      "example_vi": "Bác sĩ viết cho tôi một đơn thuốc.",
+      "emoji": "📝"
+    },
+    {
+      "word": "Bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "pos": "n",
+      "vi": "băng gạc",
+      "example_en": "She put a bandage on the cut.",
+      "example_vi": "Cô ấy dán băng lên vết cắt.",
+      "emoji": "🩹"
+    },
+    {
+      "word": "Temperature",
+      "ipa": "/ˈtemprətʃə(r)/",
+      "pos": "n",
+      "vi": "nhiệt độ",
+      "example_en": "The nurse took my temperature.",
+      "example_vi": "Y tá đo nhiệt độ cho tôi.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "Vaccine",
+      "ipa": "/ˈvæksiːn/",
+      "pos": "n",
+      "vi": "vắc xin",
+      "example_en": "The vaccine keeps us safe from the flu.",
+      "example_vi": "Vắc xin giúp chúng ta an toàn khỏi bệnh cúm.",
+      "emoji": "💉"
+    },
+    {
+      "word": "Recover",
+      "ipa": "/rɪˈkʌvə(r)/",
+      "pos": "v",
+      "vi": "hồi phục",
+      "example_en": "He will recover in a few days.",
+      "example_vi": "Anh ấy sẽ hồi phục trong vài ngày.",
+      "emoji": ""
+    },
+    {
+      "word": "Emergency",
+      "ipa": "/iˈmɜːdʒənsi/",
+      "pos": "n",
+      "vi": "trường hợp khẩn cấp",
+      "example_en": "In an emergency, call for help quickly.",
+      "example_vi": "Trong trường hợp khẩn cấp, hãy nhanh chóng gọi trợ giúp.",
+      "emoji": "🚨"
+    },
+    {
+      "word": "Blood pressure",
+      "ipa": "/ˈblʌd preʃə(r)/",
+      "pos": "n",
+      "vi": "huyết áp",
+      "example_en": "The doctor checked my blood pressure.",
+      "example_vi": "Bác sĩ kiểm tra huyết áp của tôi.",
+      "emoji": "🩺"
+    }
+  ]
+}

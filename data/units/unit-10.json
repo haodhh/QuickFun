@@ -1,0 +1,333 @@
+{
+  "id": 10,
+  "slug": "transport",
+  "title_en": "Transport",
+  "title_vi": "Giao thông",
+  "emoji": "🚗",
+  "words": [
+    {
+      "word": "Car",
+      "ipa": "/kɑː(r)/",
+      "pos": "n",
+      "vi": "ô tô",
+      "example_en": "My father drives a red car.",
+      "example_vi": "Bố tôi lái một chiếc ô tô màu đỏ.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "Bus",
+      "ipa": "/bʌs/",
+      "pos": "n",
+      "vi": "xe buýt",
+      "example_en": "I go to school by bus.",
+      "example_vi": "Tôi đi học bằng xe buýt.",
+      "emoji": "🚌"
+    },
+    {
+      "word": "Train",
+      "ipa": "/treɪn/",
+      "pos": "n",
+      "vi": "tàu hỏa",
+      "example_en": "The train leaves at eight o'clock.",
+      "example_vi": "Tàu hỏa khởi hành lúc tám giờ.",
+      "emoji": "🚆"
+    },
+    {
+      "word": "Bicycle",
+      "ipa": "/ˈbaɪsɪkl/",
+      "pos": "n",
+      "vi": "xe đạp",
+      "example_en": "She rides her bicycle to work.",
+      "example_vi": "Cô ấy đạp xe đạp đi làm.",
+      "emoji": "🚲"
+    },
+    {
+      "word": "Motorbike",
+      "ipa": "/ˈməʊtəbaɪk/",
+      "pos": "n",
+      "vi": "xe máy",
+      "example_en": "Many people ride motorbikes in Vietnam.",
+      "example_vi": "Nhiều người đi xe máy ở Việt Nam.",
+      "emoji": "🏍️"
+    },
+    {
+      "word": "Plane",
+      "ipa": "/pleɪn/",
+      "pos": "n",
+      "vi": "máy bay",
+      "example_en": "We flew to Hanoi by plane.",
+      "example_vi": "Chúng tôi bay đến Hà Nội bằng máy bay.",
+      "emoji": "✈️"
+    },
+    {
+      "word": "Boat",
+      "ipa": "/bəʊt/",
+      "pos": "n",
+      "vi": "thuyền",
+      "example_en": "The small boat is on the river.",
+      "example_vi": "Chiếc thuyền nhỏ ở trên sông.",
+      "emoji": "⛵"
+    },
+    {
+      "word": "Ship",
+      "ipa": "/ʃɪp/",
+      "pos": "n",
+      "vi": "tàu thủy",
+      "example_en": "The big ship carries many goods.",
+      "example_vi": "Chiếc tàu lớn chở nhiều hàng hóa.",
+      "emoji": "🚢"
+    },
+    {
+      "word": "Taxi",
+      "ipa": "/ˈtæksi/",
+      "pos": "n",
+      "vi": "xe taxi",
+      "example_en": "We took a taxi to the airport.",
+      "example_vi": "Chúng tôi đi taxi ra sân bay.",
+      "emoji": "🚕"
+    },
+    {
+      "word": "Truck",
+      "ipa": "/trʌk/",
+      "pos": "n",
+      "vi": "xe tải",
+      "example_en": "The truck is full of boxes.",
+      "example_vi": "Chiếc xe tải đầy thùng hàng.",
+      "emoji": "🚚"
+    },
+    {
+      "word": "Subway",
+      "ipa": "/ˈsʌbweɪ/",
+      "pos": "n",
+      "vi": "tàu điện ngầm",
+      "example_en": "The subway is fast and cheap.",
+      "example_vi": "Tàu điện ngầm nhanh và rẻ.",
+      "emoji": "🚇"
+    },
+    {
+      "word": "Helicopter",
+      "ipa": "/ˈhelɪkɒptə(r)/",
+      "pos": "n",
+      "vi": "trực thăng",
+      "example_en": "A helicopter is flying over the city.",
+      "example_vi": "Một chiếc trực thăng đang bay trên thành phố.",
+      "emoji": "🚁"
+    },
+    {
+      "word": "Airport",
+      "ipa": "/ˈeəpɔːt/",
+      "pos": "n",
+      "vi": "sân bay",
+      "example_en": "The airport is far from my house.",
+      "example_vi": "Sân bay cách nhà tôi rất xa.",
+      "emoji": "🛫"
+    },
+    {
+      "word": "Station",
+      "ipa": "/ˈsteɪʃn/",
+      "pos": "n",
+      "vi": "nhà ga, trạm",
+      "example_en": "We waited at the train station.",
+      "example_vi": "Chúng tôi đợi ở nhà ga xe lửa.",
+      "emoji": "🚉"
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "pos": "n",
+      "vi": "vé",
+      "example_en": "I bought two bus tickets.",
+      "example_vi": "Tôi mua hai vé xe buýt.",
+      "emoji": "🎫"
+    },
+    {
+      "word": "Driver",
+      "ipa": "/ˈdraɪvə(r)/",
+      "pos": "n",
+      "vi": "tài xế",
+      "example_en": "The bus driver is very friendly.",
+      "example_vi": "Bác tài xế xe buýt rất thân thiện.",
+      "emoji": "🧑‍✈️"
+    },
+    {
+      "word": "Passenger",
+      "ipa": "/ˈpæsɪndʒə(r)/",
+      "pos": "n",
+      "vi": "hành khách",
+      "example_en": "Every passenger has a seat.",
+      "example_vi": "Mỗi hành khách đều có một chỗ ngồi.",
+      "emoji": "🧳"
+    },
+    {
+      "word": "Wheel",
+      "ipa": "/wiːl/",
+      "pos": "n",
+      "vi": "bánh xe",
+      "example_en": "A car has four wheels.",
+      "example_vi": "Một chiếc ô tô có bốn bánh xe.",
+      "emoji": "🛞"
+    },
+    {
+      "word": "Traffic light",
+      "ipa": "/ˈtræfɪk laɪt/",
+      "pos": "n",
+      "vi": "đèn giao thông",
+      "example_en": "Stop when the traffic light is red.",
+      "example_vi": "Dừng lại khi đèn giao thông màu đỏ.",
+      "emoji": "🚦"
+    },
+    {
+      "word": "Petrol",
+      "ipa": "/ˈpetrəl/",
+      "pos": "n",
+      "vi": "xăng",
+      "example_en": "The car needs more petrol.",
+      "example_vi": "Chiếc xe cần thêm xăng.",
+      "emoji": "⛽"
+    },
+    {
+      "word": "Helmet",
+      "ipa": "/ˈhelmɪt/",
+      "pos": "n",
+      "vi": "mũ bảo hiểm",
+      "example_en": "Always wear a helmet on a motorbike.",
+      "example_vi": "Luôn đội mũ bảo hiểm khi đi xe máy.",
+      "emoji": "🪖"
+    },
+    {
+      "word": "Drive",
+      "ipa": "/draɪv/",
+      "pos": "v",
+      "vi": "lái xe",
+      "example_en": "He can drive a car very well.",
+      "example_vi": "Anh ấy lái ô tô rất giỏi.",
+      "emoji": "🚗"
+    },
+    {
+      "word": "Ride",
+      "ipa": "/raɪd/",
+      "pos": "v",
+      "vi": "đi (xe đạp, xe máy)",
+      "example_en": "I ride my bike every morning.",
+      "example_vi": "Tôi đạp xe mỗi buổi sáng.",
+      "emoji": "🚲"
+    },
+    {
+      "word": "Fly",
+      "ipa": "/flaɪ/",
+      "pos": "v",
+      "vi": "bay",
+      "example_en": "We will fly to London next week.",
+      "example_vi": "Chúng tôi sẽ bay đến London tuần sau.",
+      "emoji": "🛩️"
+    },
+    {
+      "word": "Walk",
+      "ipa": "/wɔːk/",
+      "pos": "v",
+      "vi": "đi bộ",
+      "example_en": "I walk to school every day.",
+      "example_vi": "Tôi đi bộ đến trường mỗi ngày.",
+      "emoji": "🚶"
+    },
+    {
+      "word": "Catch",
+      "ipa": "/kætʃ/",
+      "pos": "v",
+      "vi": "bắt (xe, tàu)",
+      "example_en": "Hurry, or we will miss the bus. Let's catch it!",
+      "example_vi": "Nhanh lên, không thì lỡ xe buýt. Bắt kịp nào!",
+      "emoji": "🏃"
+    },
+    {
+      "word": "Miss",
+      "ipa": "/mɪs/",
+      "pos": "v",
+      "vi": "lỡ (chuyến)",
+      "example_en": "We were late and missed the train.",
+      "example_vi": "Chúng tôi đến muộn và lỡ chuyến tàu.",
+      "emoji": "⏰"
+    },
+    {
+      "word": "Arrive",
+      "ipa": "/əˈraɪv/",
+      "pos": "v",
+      "vi": "đến nơi",
+      "example_en": "The plane will arrive at noon.",
+      "example_vi": "Máy bay sẽ đến vào buổi trưa.",
+      "emoji": "🛬"
+    },
+    {
+      "word": "Leave",
+      "ipa": "/liːv/",
+      "pos": "v",
+      "vi": "rời đi, khởi hành",
+      "example_en": "The bus leaves in five minutes.",
+      "example_vi": "Xe buýt khởi hành sau năm phút.",
+      "emoji": "👋"
+    },
+    {
+      "word": "Stop",
+      "ipa": "/stɒp/",
+      "pos": "v",
+      "vi": "dừng lại",
+      "example_en": "The bus stops in front of my house.",
+      "example_vi": "Xe buýt dừng trước nhà tôi.",
+      "emoji": "🛑"
+    },
+    {
+      "word": "Fast",
+      "ipa": "/fɑːst/",
+      "pos": "adj",
+      "vi": "nhanh",
+      "example_en": "The train is very fast.",
+      "example_vi": "Tàu hỏa chạy rất nhanh.",
+      "emoji": "💨"
+    },
+    {
+      "word": "Slow",
+      "ipa": "/sləʊ/",
+      "pos": "adj",
+      "vi": "chậm",
+      "example_en": "The old bus is quite slow.",
+      "example_vi": "Chiếc xe buýt cũ khá chậm.",
+      "emoji": "🐢"
+    },
+    {
+      "word": "Get on",
+      "ipa": "/ɡet ɒn/",
+      "pos": "phr",
+      "vi": "lên (xe buýt, tàu)",
+      "example_en": "We get on the bus at the corner.",
+      "example_vi": "Chúng tôi lên xe buýt ở góc phố.",
+      "emoji": "🚏"
+    },
+    {
+      "word": "Get off",
+      "ipa": "/ɡet ɒf/",
+      "pos": "phr",
+      "vi": "xuống (xe buýt, tàu)",
+      "example_en": "I get off the train at the next stop.",
+      "example_vi": "Tôi xuống tàu ở ga tiếp theo.",
+      "emoji": "🚉"
+    },
+    {
+      "word": "Take off",
+      "ipa": "/teɪk ɒf/",
+      "pos": "phr",
+      "vi": "cất cánh",
+      "example_en": "The plane will take off soon.",
+      "example_vi": "Máy bay sẽ cất cánh sớm.",
+      "emoji": "🛫"
+    },
+    {
+      "word": "By car",
+      "ipa": "/baɪ kɑː(r)/",
+      "pos": "phr",
+      "vi": "bằng ô tô",
+      "example_en": "We travel to the beach by car.",
+      "example_vi": "Chúng tôi đi biển bằng ô tô.",
+      "emoji": "🚗"
+    }
+  ]
+}
